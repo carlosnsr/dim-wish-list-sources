@@ -4,5 +4,5 @@ description: My personally-desired list of Destiny weapons and "god" rolls.  Che
 
 // Gnawing Hunger
 //notes: Tap the Trigger + Kill Clip as recommended by PattyCakes.  MW: range, reload, stability, handling
-dimwishlist:item=821154603&perks=202670084,3142289711,1890422124,1015611457 #notes: PvP. max-range
-dimwishlist:item=821154603&perks=1467527085,106909392,1890422124,1015611457 #notes: PvP
+dimwishlist:item=821154603&perks=202670084,3142289711,1890422124,1015611457  PvP. max-range
+dimwishlist:item=821154603&perks=1467527085,106909392,1890422124,1015611457  PvP
