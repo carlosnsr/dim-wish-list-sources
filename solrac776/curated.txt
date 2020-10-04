@@ -343,23 +343,6 @@ dimwishlist:item=2138599001&perks=4090651448,3142289711,1168162263,3513791699  P
 dimwishlist:item=2138599001&perks=4090651448,3230963543,1168162263,3513791699  PvE. But there are better hand cannons for PvE.  Maybe Mulligan for Nightfall Champions. MW: range,reload
 dimwishlist:item=2138599001&perks=4090651448,106909392,1168162263,3513791699  PvE. But there are better hand cannons for PvE.  Maybe Mulligan for Nightfall Champions. MW: range,reload
 dimwishlist:item=2138599001&perks=4090651448,1087426260,1168162263,3513791699  PvE. But there are better hand cannons for PvE.  Maybe Mulligan for Nightfall Champions. MW: range,reload
-// Outlaw, Opening Shot
-dimwishlist:item=2138599001&perks=202670084,3142289711,1168162263,47981717  PvE. But there are better hand cannons for PvE.  Maybe Mulligan for Nightfall Champions. MW: range,reload
-dimwishlist:item=2138599001&perks=202670084,3230963543,1168162263,47981717  PvE. But there are better hand cannons for PvE.  Maybe Mulligan for Nightfall Champions. MW: range,reload
-dimwishlist:item=2138599001&perks=202670084,106909392,1168162263,47981717  PvE. But there are better hand cannons for PvE.  Maybe Mulligan for Nightfall Champions. MW: range,reload
-dimwishlist:item=2138599001&perks=202670084,1087426260,1168162263,47981717  PvE. But there are better hand cannons for PvE.  Maybe Mulligan for Nightfall Champions. MW: range,reload
-dimwishlist:item=2138599001&perks=3250034553,3142289711,1168162263,47981717  PvE. But there are better hand cannons for PvE.  Maybe Mulligan for Nightfall Champions. MW: range,reload
-dimwishlist:item=2138599001&perks=3250034553,3230963543,1168162263,47981717  PvE. But there are better hand cannons for PvE.  Maybe Mulligan for Nightfall Champions. MW: range,reload
-dimwishlist:item=2138599001&perks=3250034553,106909392,1168162263,47981717  PvE. But there are better hand cannons for PvE.  Maybe Mulligan for Nightfall Champions. MW: range,reload
-dimwishlist:item=2138599001&perks=3250034553,1087426260,1168162263,47981717  PvE. But there are better hand cannons for PvE.  Maybe Mulligan for Nightfall Champions. MW: range,reload
-dimwishlist:item=2138599001&perks=1467527085,3142289711,1168162263,47981717  PvE. But there are better hand cannons for PvE.  Maybe Mulligan for Nightfall Champions. MW: range,reload
-dimwishlist:item=2138599001&perks=1467527085,3230963543,1168162263,47981717  PvE. But there are better hand cannons for PvE.  Maybe Mulligan for Nightfall Champions. MW: range,reload
-dimwishlist:item=2138599001&perks=1467527085,106909392,1168162263,47981717  PvE. But there are better hand cannons for PvE.  Maybe Mulligan for Nightfall Champions. MW: range,reload
-dimwishlist:item=2138599001&perks=1467527085,1087426260,1168162263,47981717  PvE. But there are better hand cannons for PvE.  Maybe Mulligan for Nightfall Champions. MW: range,reload
-dimwishlist:item=2138599001&perks=4090651448,3142289711,1168162263,47981717  PvE. But there are better hand cannons for PvE.  Maybe Mulligan for Nightfall Champions. MW: range,reload
-dimwishlist:item=2138599001&perks=4090651448,3230963543,1168162263,47981717  PvE. But there are better hand cannons for PvE.  Maybe Mulligan for Nightfall Champions. MW: range,reload
-dimwishlist:item=2138599001&perks=4090651448,106909392,1168162263,47981717  PvE. But there are better hand cannons for PvE.  Maybe Mulligan for Nightfall Champions. MW: range,reload
-dimwishlist:item=2138599001&perks=4090651448,1087426260,1168162263,47981717  PvE. But there are better hand cannons for PvE.  Maybe Mulligan for Nightfall Champions. MW: range,reload
 // Under Pressure, Kill Clip
 dimwishlist:item=2138599001&perks=202670084,3142289711,1645158859,1015611457  PvE. But there are better hand cannons for PvE.  Maybe Mulligan for Nightfall Champions. MW: range,reload
 dimwishlist:item=2138599001&perks=202670084,3230963543,1645158859,1015611457  PvE. But there are better hand cannons for PvE.  Maybe Mulligan for Nightfall Champions. MW: range,reload
@@ -411,23 +394,6 @@ dimwishlist:item=2138599001&perks=4090651448,3142289711,1645158859,3513791699  P
 dimwishlist:item=2138599001&perks=4090651448,3230963543,1645158859,3513791699  PvE. But there are better hand cannons for PvE.  Maybe Mulligan for Nightfall Champions. MW: range,reload
 dimwishlist:item=2138599001&perks=4090651448,106909392,1645158859,3513791699  PvE. But there are better hand cannons for PvE.  Maybe Mulligan for Nightfall Champions. MW: range,reload
 dimwishlist:item=2138599001&perks=4090651448,1087426260,1645158859,3513791699  PvE. But there are better hand cannons for PvE.  Maybe Mulligan for Nightfall Champions. MW: range,reload
-// Under Pressure, Opening Shot
-dimwishlist:item=2138599001&perks=202670084,3142289711,1645158859,47981717  PvE. But there are better hand cannons for PvE.  Maybe Mulligan for Nightfall Champions. MW: range,reload
-dimwishlist:item=2138599001&perks=202670084,3230963543,1645158859,47981717  PvE. But there are better hand cannons for PvE.  Maybe Mulligan for Nightfall Champions. MW: range,reload
-dimwishlist:item=2138599001&perks=202670084,106909392,1645158859,47981717  PvE. But there are better hand cannons for PvE.  Maybe Mulligan for Nightfall Champions. MW: range,reload
-dimwishlist:item=2138599001&perks=202670084,1087426260,1645158859,47981717  PvE. But there are better hand cannons for PvE.  Maybe Mulligan for Nightfall Champions. MW: range,reload
-dimwishlist:item=2138599001&perks=3250034553,3142289711,1645158859,47981717  PvE. But there are better hand cannons for PvE.  Maybe Mulligan for Nightfall Champions. MW: range,reload
-dimwishlist:item=2138599001&perks=3250034553,3230963543,1645158859,47981717  PvE. But there are better hand cannons for PvE.  Maybe Mulligan for Nightfall Champions. MW: range,reload
-dimwishlist:item=2138599001&perks=3250034553,106909392,1645158859,47981717  PvE. But there are better hand cannons for PvE.  Maybe Mulligan for Nightfall Champions. MW: range,reload
-dimwishlist:item=2138599001&perks=3250034553,1087426260,1645158859,47981717  PvE. But there are better hand cannons for PvE.  Maybe Mulligan for Nightfall Champions. MW: range,reload
-dimwishlist:item=2138599001&perks=1467527085,3142289711,1645158859,47981717  PvE. But there are better hand cannons for PvE.  Maybe Mulligan for Nightfall Champions. MW: range,reload
-dimwishlist:item=2138599001&perks=1467527085,3230963543,1645158859,47981717  PvE. But there are better hand cannons for PvE.  Maybe Mulligan for Nightfall Champions. MW: range,reload
-dimwishlist:item=2138599001&perks=1467527085,106909392,1645158859,47981717  PvE. But there are better hand cannons for PvE.  Maybe Mulligan for Nightfall Champions. MW: range,reload
-dimwishlist:item=2138599001&perks=1467527085,1087426260,1645158859,47981717  PvE. But there are better hand cannons for PvE.  Maybe Mulligan for Nightfall Champions. MW: range,reload
-dimwishlist:item=2138599001&perks=4090651448,3142289711,1645158859,47981717  PvE. But there are better hand cannons for PvE.  Maybe Mulligan for Nightfall Champions. MW: range,reload
-dimwishlist:item=2138599001&perks=4090651448,3230963543,1645158859,47981717  PvE. But there are better hand cannons for PvE.  Maybe Mulligan for Nightfall Champions. MW: range,reload
-dimwishlist:item=2138599001&perks=4090651448,106909392,1645158859,47981717  PvE. But there are better hand cannons for PvE.  Maybe Mulligan for Nightfall Champions. MW: range,reload
-dimwishlist:item=2138599001&perks=4090651448,1087426260,1645158859,47981717  PvE. But there are better hand cannons for PvE.  Maybe Mulligan for Nightfall Champions. MW: range,reload
 
 
 // Medley 45
