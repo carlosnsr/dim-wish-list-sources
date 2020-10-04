@@ -189,72 +189,136 @@ dimwishlist:item=3504336176&perks=4090651448,1087426260,1168162263,3038247973  P
 
 
 // Gnawing Hunger
-//notes: Tap the Trigger + Kill Clip as recommended by PattyCakes.  MW: range, reload, stability, handling
 // Tap The Trigger, Kill Clip
-dimwishlist:item=821154603&perks=202670084,3142289711,1890422124,1015611457  PvP. MW: range
-dimwishlist:item=821154603&perks=202670084,3230963543,1890422124,1015611457  PvP. MW: range
-dimwishlist:item=821154603&perks=202670084,106909392,1890422124,1015611457  PvP. MW: range
-dimwishlist:item=821154603&perks=3250034553,3142289711,1890422124,1015611457  PvP. MW: range
-dimwishlist:item=821154603&perks=3250034553,3230963543,1890422124,1015611457  PvP. MW: range
-dimwishlist:item=821154603&perks=3250034553,106909392,1890422124,1015611457  PvP. MW: range
-dimwishlist:item=821154603&perks=1467527085,3142289711,1890422124,1015611457  PvP. MW: range
-dimwishlist:item=821154603&perks=1467527085,3230963543,1890422124,1015611457  PvP. MW: range
-dimwishlist:item=821154603&perks=1467527085,106909392,1890422124,1015611457  PvP. MW: range
-dimwishlist:item=821154603&perks=4090651448,3142289711,1890422124,1015611457  PvP. MW: range
-dimwishlist:item=821154603&perks=4090651448,3230963543,1890422124,1015611457  PvP. MW: range
-dimwishlist:item=821154603&perks=4090651448,106909392,1890422124,1015611457  PvP. MW: range
+dimwishlist:item=821154603&perks=202670084,3142289711,1890422124,1015611457  PvP.  Tap the Trigger + Kill Clip as recommended by PattyCakes. MW: range,reload
+dimwishlist:item=821154603&perks=202670084,3230963543,1890422124,1015611457  PvP.  Tap the Trigger + Kill Clip as recommended by PattyCakes. MW: range,reload
+dimwishlist:item=821154603&perks=202670084,106909392,1890422124,1015611457  PvP.  Tap the Trigger + Kill Clip as recommended by PattyCakes. MW: range,reload
+dimwishlist:item=821154603&perks=3250034553,3142289711,1890422124,1015611457  PvP.  Tap the Trigger + Kill Clip as recommended by PattyCakes. MW: range,reload
+dimwishlist:item=821154603&perks=3250034553,3230963543,1890422124,1015611457  PvP.  Tap the Trigger + Kill Clip as recommended by PattyCakes. MW: range,reload
+dimwishlist:item=821154603&perks=3250034553,106909392,1890422124,1015611457  PvP.  Tap the Trigger + Kill Clip as recommended by PattyCakes. MW: range,reload
+dimwishlist:item=821154603&perks=1467527085,3142289711,1890422124,1015611457  PvP.  Tap the Trigger + Kill Clip as recommended by PattyCakes. MW: range,reload
+dimwishlist:item=821154603&perks=1467527085,3230963543,1890422124,1015611457  PvP.  Tap the Trigger + Kill Clip as recommended by PattyCakes. MW: range,reload
+dimwishlist:item=821154603&perks=1467527085,106909392,1890422124,1015611457  PvP.  Tap the Trigger + Kill Clip as recommended by PattyCakes. MW: range,reload
+dimwishlist:item=821154603&perks=4090651448,3142289711,1890422124,1015611457  PvP.  Tap the Trigger + Kill Clip as recommended by PattyCakes. MW: range,reload
+dimwishlist:item=821154603&perks=4090651448,3230963543,1890422124,1015611457  PvP.  Tap the Trigger + Kill Clip as recommended by PattyCakes. MW: range,reload
+dimwishlist:item=821154603&perks=4090651448,106909392,1890422124,1015611457  PvP.  Tap the Trigger + Kill Clip as recommended by PattyCakes. MW: range,reload
 // Tap The Trigger, Multikill Clip
-dimwishlist:item=821154603&perks=202670084,3142289711,1890422124,2458213969  PvP. MW: range
-dimwishlist:item=821154603&perks=202670084,3230963543,1890422124,2458213969  PvP. MW: range
-dimwishlist:item=821154603&perks=202670084,106909392,1890422124,2458213969  PvP. MW: range
-dimwishlist:item=821154603&perks=3250034553,3142289711,1890422124,2458213969  PvP. MW: range
-dimwishlist:item=821154603&perks=3250034553,3230963543,1890422124,2458213969  PvP. MW: range
-dimwishlist:item=821154603&perks=3250034553,106909392,1890422124,2458213969  PvP. MW: range
-dimwishlist:item=821154603&perks=1467527085,3142289711,1890422124,2458213969  PvP. MW: range
-dimwishlist:item=821154603&perks=1467527085,3230963543,1890422124,2458213969  PvP. MW: range
-dimwishlist:item=821154603&perks=1467527085,106909392,1890422124,2458213969  PvP. MW: range
-dimwishlist:item=821154603&perks=4090651448,3142289711,1890422124,2458213969  PvP. MW: range
-dimwishlist:item=821154603&perks=4090651448,3230963543,1890422124,2458213969  PvP. MW: range
-dimwishlist:item=821154603&perks=4090651448,106909392,1890422124,2458213969  PvP. MW: range
+dimwishlist:item=821154603&perks=202670084,3142289711,1890422124,2458213969  PvP.  Tap the Trigger + Kill Clip as recommended by PattyCakes. MW: range,reload
+dimwishlist:item=821154603&perks=202670084,3230963543,1890422124,2458213969  PvP.  Tap the Trigger + Kill Clip as recommended by PattyCakes. MW: range,reload
+dimwishlist:item=821154603&perks=202670084,106909392,1890422124,2458213969  PvP.  Tap the Trigger + Kill Clip as recommended by PattyCakes. MW: range,reload
+dimwishlist:item=821154603&perks=3250034553,3142289711,1890422124,2458213969  PvP.  Tap the Trigger + Kill Clip as recommended by PattyCakes. MW: range,reload
+dimwishlist:item=821154603&perks=3250034553,3230963543,1890422124,2458213969  PvP.  Tap the Trigger + Kill Clip as recommended by PattyCakes. MW: range,reload
+dimwishlist:item=821154603&perks=3250034553,106909392,1890422124,2458213969  PvP.  Tap the Trigger + Kill Clip as recommended by PattyCakes. MW: range,reload
+dimwishlist:item=821154603&perks=1467527085,3142289711,1890422124,2458213969  PvP.  Tap the Trigger + Kill Clip as recommended by PattyCakes. MW: range,reload
+dimwishlist:item=821154603&perks=1467527085,3230963543,1890422124,2458213969  PvP.  Tap the Trigger + Kill Clip as recommended by PattyCakes. MW: range,reload
+dimwishlist:item=821154603&perks=1467527085,106909392,1890422124,2458213969  PvP.  Tap the Trigger + Kill Clip as recommended by PattyCakes. MW: range,reload
+dimwishlist:item=821154603&perks=4090651448,3142289711,1890422124,2458213969  PvP.  Tap the Trigger + Kill Clip as recommended by PattyCakes. MW: range,reload
+dimwishlist:item=821154603&perks=4090651448,3230963543,1890422124,2458213969  PvP.  Tap the Trigger + Kill Clip as recommended by PattyCakes. MW: range,reload
+dimwishlist:item=821154603&perks=4090651448,106909392,1890422124,2458213969  PvP.  Tap the Trigger + Kill Clip as recommended by PattyCakes. MW: range,reload
+// Tap The Trigger, Rampage
+dimwishlist:item=821154603&perks=202670084,3142289711,1890422124,3425386926  PvE.. MW: range,reload
+dimwishlist:item=821154603&perks=202670084,3230963543,1890422124,3425386926  PvE.. MW: range,reload
+dimwishlist:item=821154603&perks=202670084,106909392,1890422124,3425386926  PvE.. MW: range,reload
+dimwishlist:item=821154603&perks=3250034553,3142289711,1890422124,3425386926  PvE.. MW: range,reload
+dimwishlist:item=821154603&perks=3250034553,3230963543,1890422124,3425386926  PvE.. MW: range,reload
+dimwishlist:item=821154603&perks=3250034553,106909392,1890422124,3425386926  PvE.. MW: range,reload
+dimwishlist:item=821154603&perks=1467527085,3142289711,1890422124,3425386926  PvE.. MW: range,reload
+dimwishlist:item=821154603&perks=1467527085,3230963543,1890422124,3425386926  PvE.. MW: range,reload
+dimwishlist:item=821154603&perks=1467527085,106909392,1890422124,3425386926  PvE.. MW: range,reload
+dimwishlist:item=821154603&perks=4090651448,3142289711,1890422124,3425386926  PvE.. MW: range,reload
+dimwishlist:item=821154603&perks=4090651448,3230963543,1890422124,3425386926  PvE.. MW: range,reload
+dimwishlist:item=821154603&perks=4090651448,106909392,1890422124,3425386926  PvE.. MW: range,reload
+// Tap The Trigger, Swashbuckler
+dimwishlist:item=821154603&perks=202670084,3142289711,1890422124,4082225868  PvE.. MW: range,reload
+dimwishlist:item=821154603&perks=202670084,3230963543,1890422124,4082225868  PvE.. MW: range,reload
+dimwishlist:item=821154603&perks=202670084,106909392,1890422124,4082225868  PvE.. MW: range,reload
+dimwishlist:item=821154603&perks=3250034553,3142289711,1890422124,4082225868  PvE.. MW: range,reload
+dimwishlist:item=821154603&perks=3250034553,3230963543,1890422124,4082225868  PvE.. MW: range,reload
+dimwishlist:item=821154603&perks=3250034553,106909392,1890422124,4082225868  PvE.. MW: range,reload
+dimwishlist:item=821154603&perks=1467527085,3142289711,1890422124,4082225868  PvE.. MW: range,reload
+dimwishlist:item=821154603&perks=1467527085,3230963543,1890422124,4082225868  PvE.. MW: range,reload
+dimwishlist:item=821154603&perks=1467527085,106909392,1890422124,4082225868  PvE.. MW: range,reload
+dimwishlist:item=821154603&perks=4090651448,3142289711,1890422124,4082225868  PvE.. MW: range,reload
+dimwishlist:item=821154603&perks=4090651448,3230963543,1890422124,4082225868  PvE.. MW: range,reload
+dimwishlist:item=821154603&perks=4090651448,106909392,1890422124,4082225868  PvE.. MW: range,reload
+// Tap The Trigger, Demolitionist
+dimwishlist:item=821154603&perks=202670084,3142289711,1890422124,3523296417  PvE.. MW: range,reload
+dimwishlist:item=821154603&perks=202670084,3230963543,1890422124,3523296417  PvE.. MW: range,reload
+dimwishlist:item=821154603&perks=202670084,106909392,1890422124,3523296417  PvE.. MW: range,reload
+dimwishlist:item=821154603&perks=3250034553,3142289711,1890422124,3523296417  PvE.. MW: range,reload
+dimwishlist:item=821154603&perks=3250034553,3230963543,1890422124,3523296417  PvE.. MW: range,reload
+dimwishlist:item=821154603&perks=3250034553,106909392,1890422124,3523296417  PvE.. MW: range,reload
+dimwishlist:item=821154603&perks=1467527085,3142289711,1890422124,3523296417  PvE.. MW: range,reload
+dimwishlist:item=821154603&perks=1467527085,3230963543,1890422124,3523296417  PvE.. MW: range,reload
+dimwishlist:item=821154603&perks=1467527085,106909392,1890422124,3523296417  PvE.. MW: range,reload
+dimwishlist:item=821154603&perks=4090651448,3142289711,1890422124,3523296417  PvE.. MW: range,reload
+dimwishlist:item=821154603&perks=4090651448,3230963543,1890422124,3523296417  PvE.. MW: range,reload
+dimwishlist:item=821154603&perks=4090651448,106909392,1890422124,3523296417  PvE.. MW: range,reload
 // Subsistence, Rampage
-dimwishlist:item=821154603&perks=202670084,3142289711,1820235745,3425386926  PvE. MW: range
-dimwishlist:item=821154603&perks=202670084,3230963543,1820235745,3425386926  PvE. MW: range
-dimwishlist:item=821154603&perks=202670084,106909392,1820235745,3425386926  PvE. MW: range
-dimwishlist:item=821154603&perks=3250034553,3142289711,1820235745,3425386926  PvE. MW: range
-dimwishlist:item=821154603&perks=3250034553,3230963543,1820235745,3425386926  PvE. MW: range
-dimwishlist:item=821154603&perks=3250034553,106909392,1820235745,3425386926  PvE. MW: range
-dimwishlist:item=821154603&perks=1467527085,3142289711,1820235745,3425386926  PvE. MW: range
-dimwishlist:item=821154603&perks=1467527085,3230963543,1820235745,3425386926  PvE. MW: range
-dimwishlist:item=821154603&perks=1467527085,106909392,1820235745,3425386926  PvE. MW: range
-dimwishlist:item=821154603&perks=4090651448,3142289711,1820235745,3425386926  PvE. MW: range
-dimwishlist:item=821154603&perks=4090651448,3230963543,1820235745,3425386926  PvE. MW: range
-dimwishlist:item=821154603&perks=4090651448,106909392,1820235745,3425386926  PvE. MW: range
+dimwishlist:item=821154603&perks=202670084,3142289711,1820235745,3425386926  PvE. MW: range,reload
+dimwishlist:item=821154603&perks=202670084,3230963543,1820235745,3425386926  PvE. MW: range,reload
+dimwishlist:item=821154603&perks=202670084,106909392,1820235745,3425386926  PvE. MW: range,reload
+dimwishlist:item=821154603&perks=3250034553,3142289711,1820235745,3425386926  PvE. MW: range,reload
+dimwishlist:item=821154603&perks=3250034553,3230963543,1820235745,3425386926  PvE. MW: range,reload
+dimwishlist:item=821154603&perks=3250034553,106909392,1820235745,3425386926  PvE. MW: range,reload
+dimwishlist:item=821154603&perks=1467527085,3142289711,1820235745,3425386926  PvE. MW: range,reload
+dimwishlist:item=821154603&perks=1467527085,3230963543,1820235745,3425386926  PvE. MW: range,reload
+dimwishlist:item=821154603&perks=1467527085,106909392,1820235745,3425386926  PvE. MW: range,reload
+dimwishlist:item=821154603&perks=4090651448,3142289711,1820235745,3425386926  PvE. MW: range,reload
+dimwishlist:item=821154603&perks=4090651448,3230963543,1820235745,3425386926  PvE. MW: range,reload
+dimwishlist:item=821154603&perks=4090651448,106909392,1820235745,3425386926  PvE. MW: range,reload
 // Subsistence, Swashbuckler
-dimwishlist:item=821154603&perks=202670084,3142289711,1820235745,4082225868  PvE. MW: range
-dimwishlist:item=821154603&perks=202670084,3230963543,1820235745,4082225868  PvE. MW: range
-dimwishlist:item=821154603&perks=202670084,106909392,1820235745,4082225868  PvE. MW: range
-dimwishlist:item=821154603&perks=3250034553,3142289711,1820235745,4082225868  PvE. MW: range
-dimwishlist:item=821154603&perks=3250034553,3230963543,1820235745,4082225868  PvE. MW: range
-dimwishlist:item=821154603&perks=3250034553,106909392,1820235745,4082225868  PvE. MW: range
-dimwishlist:item=821154603&perks=1467527085,3142289711,1820235745,4082225868  PvE. MW: range
-dimwishlist:item=821154603&perks=1467527085,3230963543,1820235745,4082225868  PvE. MW: range
-dimwishlist:item=821154603&perks=1467527085,106909392,1820235745,4082225868  PvE. MW: range
-dimwishlist:item=821154603&perks=4090651448,3142289711,1820235745,4082225868  PvE. MW: range
-dimwishlist:item=821154603&perks=4090651448,3230963543,1820235745,4082225868  PvE. MW: range
-dimwishlist:item=821154603&perks=4090651448,106909392,1820235745,4082225868  PvE. MW: range
+dimwishlist:item=821154603&perks=202670084,3142289711,1820235745,4082225868  PvE. MW: range,reload
+dimwishlist:item=821154603&perks=202670084,3230963543,1820235745,4082225868  PvE. MW: range,reload
+dimwishlist:item=821154603&perks=202670084,106909392,1820235745,4082225868  PvE. MW: range,reload
+dimwishlist:item=821154603&perks=3250034553,3142289711,1820235745,4082225868  PvE. MW: range,reload
+dimwishlist:item=821154603&perks=3250034553,3230963543,1820235745,4082225868  PvE. MW: range,reload
+dimwishlist:item=821154603&perks=3250034553,106909392,1820235745,4082225868  PvE. MW: range,reload
+dimwishlist:item=821154603&perks=1467527085,3142289711,1820235745,4082225868  PvE. MW: range,reload
+dimwishlist:item=821154603&perks=1467527085,3230963543,1820235745,4082225868  PvE. MW: range,reload
+dimwishlist:item=821154603&perks=1467527085,106909392,1820235745,4082225868  PvE. MW: range,reload
+dimwishlist:item=821154603&perks=4090651448,3142289711,1820235745,4082225868  PvE. MW: range,reload
+dimwishlist:item=821154603&perks=4090651448,3230963543,1820235745,4082225868  PvE. MW: range,reload
+dimwishlist:item=821154603&perks=4090651448,106909392,1820235745,4082225868  PvE. MW: range,reload
 // Subsistence, Demolitionist
-dimwishlist:item=821154603&perks=202670084,3142289711,1820235745,3523296417  PvE. MW: range
-dimwishlist:item=821154603&perks=202670084,3230963543,1820235745,3523296417  PvE. MW: range
-dimwishlist:item=821154603&perks=202670084,106909392,1820235745,3523296417  PvE. MW: range
-dimwishlist:item=821154603&perks=3250034553,3142289711,1820235745,3523296417  PvE. MW: range
-dimwishlist:item=821154603&perks=3250034553,3230963543,1820235745,3523296417  PvE. MW: range
-dimwishlist:item=821154603&perks=3250034553,106909392,1820235745,3523296417  PvE. MW: range
-dimwishlist:item=821154603&perks=1467527085,3142289711,1820235745,3523296417  PvE. MW: range
-dimwishlist:item=821154603&perks=1467527085,3230963543,1820235745,3523296417  PvE. MW: range
-dimwishlist:item=821154603&perks=1467527085,106909392,1820235745,3523296417  PvE. MW: range
-dimwishlist:item=821154603&perks=4090651448,3142289711,1820235745,3523296417  PvE. MW: range
-dimwishlist:item=821154603&perks=4090651448,3230963543,1820235745,3523296417  PvE. MW: range
-dimwishlist:item=821154603&perks=4090651448,106909392,1820235745,3523296417  PvE. MW: range
+dimwishlist:item=821154603&perks=202670084,3142289711,1820235745,3523296417  PvE. MW: range,reload
+dimwishlist:item=821154603&perks=202670084,3230963543,1820235745,3523296417  PvE. MW: range,reload
+dimwishlist:item=821154603&perks=202670084,106909392,1820235745,3523296417  PvE. MW: range,reload
+dimwishlist:item=821154603&perks=3250034553,3142289711,1820235745,3523296417  PvE. MW: range,reload
+dimwishlist:item=821154603&perks=3250034553,3230963543,1820235745,3523296417  PvE. MW: range,reload
+dimwishlist:item=821154603&perks=3250034553,106909392,1820235745,3523296417  PvE. MW: range,reload
+dimwishlist:item=821154603&perks=1467527085,3142289711,1820235745,3523296417  PvE. MW: range,reload
+dimwishlist:item=821154603&perks=1467527085,3230963543,1820235745,3523296417  PvE. MW: range,reload
+dimwishlist:item=821154603&perks=1467527085,106909392,1820235745,3523296417  PvE. MW: range,reload
+dimwishlist:item=821154603&perks=4090651448,3142289711,1820235745,3523296417  PvE. MW: range,reload
+dimwishlist:item=821154603&perks=4090651448,3230963543,1820235745,3523296417  PvE. MW: range,reload
+dimwishlist:item=821154603&perks=4090651448,106909392,1820235745,3523296417  PvE. MW: range,reload
+// Subsistence, Multikill Clip
+dimwishlist:item=821154603&perks=202670084,3142289711,1820235745,2458213969  PvE. MW: range,reload
+dimwishlist:item=821154603&perks=202670084,3230963543,1820235745,2458213969  PvE. MW: range,reload
+dimwishlist:item=821154603&perks=202670084,106909392,1820235745,2458213969  PvE. MW: range,reload
+dimwishlist:item=821154603&perks=3250034553,3142289711,1820235745,2458213969  PvE. MW: range,reload
+dimwishlist:item=821154603&perks=3250034553,3230963543,1820235745,2458213969  PvE. MW: range,reload
+dimwishlist:item=821154603&perks=3250034553,106909392,1820235745,2458213969  PvE. MW: range,reload
+dimwishlist:item=821154603&perks=1467527085,3142289711,1820235745,2458213969  PvE. MW: range,reload
+dimwishlist:item=821154603&perks=1467527085,3230963543,1820235745,2458213969  PvE. MW: range,reload
+dimwishlist:item=821154603&perks=1467527085,106909392,1820235745,2458213969  PvE. MW: range,reload
+dimwishlist:item=821154603&perks=4090651448,3142289711,1820235745,2458213969  PvE. MW: range,reload
+dimwishlist:item=821154603&perks=4090651448,3230963543,1820235745,2458213969  PvE. MW: range,reload
+dimwishlist:item=821154603&perks=4090651448,106909392,1820235745,2458213969  PvE. MW: range,reload
+// Subsistence, Kill Clip
+dimwishlist:item=821154603&perks=202670084,3142289711,1820235745,1015611457  PvE. MW: range,reload
+dimwishlist:item=821154603&perks=202670084,3230963543,1820235745,1015611457  PvE. MW: range,reload
+dimwishlist:item=821154603&perks=202670084,106909392,1820235745,1015611457  PvE. MW: range,reload
+dimwishlist:item=821154603&perks=3250034553,3142289711,1820235745,1015611457  PvE. MW: range,reload
+dimwishlist:item=821154603&perks=3250034553,3230963543,1820235745,1015611457  PvE. MW: range,reload
+dimwishlist:item=821154603&perks=3250034553,106909392,1820235745,1015611457  PvE. MW: range,reload
+dimwishlist:item=821154603&perks=1467527085,3142289711,1820235745,1015611457  PvE. MW: range,reload
+dimwishlist:item=821154603&perks=1467527085,3230963543,1820235745,1015611457  PvE. MW: range,reload
+dimwishlist:item=821154603&perks=1467527085,106909392,1820235745,1015611457  PvE. MW: range,reload
+dimwishlist:item=821154603&perks=4090651448,3142289711,1820235745,1015611457  PvE. MW: range,reload
+dimwishlist:item=821154603&perks=4090651448,3230963543,1820235745,1015611457  PvE. MW: range,reload
+dimwishlist:item=821154603&perks=4090651448,106909392,1820235745,1015611457  PvE. MW: range,reload
 
 
 // Medley 45
