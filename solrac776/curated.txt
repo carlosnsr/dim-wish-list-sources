@@ -78,6 +78,67 @@ dimwishlist:item=3920811074&perks=3151536503,3230963543,280464955  PvP MW: range
 dimwishlist:item=3920811074&perks=360593483,3230963543,280464955  PvP MW: range
 
 
+// Interference Vi
+// Clown Cartridge, Full Court
+dimwishlist:item=2257180473&perks=1478423395,3301904089,2284787283,2888557110  PvE. Boss DPS. KackisHD recommendation (https://www.youtube.com/watch?v=VmMMx9-CnT8) MW: velocity,blast_radius,reload
+dimwishlist:item=2257180473&perks=1844523823,3301904089,2284787283,2888557110  PvE. Boss DPS. KackisHD recommendation (https://www.youtube.com/watch?v=VmMMx9-CnT8) MW: velocity,blast_radius,reload
+dimwishlist:item=2257180473&perks=981914802,3301904089,2284787283,2888557110  PvE. Boss DPS. KackisHD recommendation (https://www.youtube.com/watch?v=VmMMx9-CnT8) MW: velocity,blast_radius,reload
+// Clown Cartridge, Demolitionist
+dimwishlist:item=2257180473&perks=1478423395,3301904089,2284787283,3523296417  PvE. Boss DPS. KackisHD recommendation (https://www.youtube.com/watch?v=VmMMx9-CnT8) MW: velocity,blast_radius,reload
+dimwishlist:item=2257180473&perks=1844523823,3301904089,2284787283,3523296417  PvE. Boss DPS. KackisHD recommendation (https://www.youtube.com/watch?v=VmMMx9-CnT8) MW: velocity,blast_radius,reload
+dimwishlist:item=2257180473&perks=981914802,3301904089,2284787283,3523296417  PvE. Boss DPS. KackisHD recommendation (https://www.youtube.com/watch?v=VmMMx9-CnT8) MW: velocity,blast_radius,reload
+// Clown Cartridge, Swashbuckler
+dimwishlist:item=2257180473&perks=1478423395,3301904089,2284787283,4082225868  PvE. Boss DPS. KackisHD recommendation (https://www.youtube.com/watch?v=VmMMx9-CnT8) MW: velocity,blast_radius,reload
+dimwishlist:item=2257180473&perks=1844523823,3301904089,2284787283,4082225868  PvE. Boss DPS. KackisHD recommendation (https://www.youtube.com/watch?v=VmMMx9-CnT8) MW: velocity,blast_radius,reload
+dimwishlist:item=2257180473&perks=981914802,3301904089,2284787283,4082225868  PvE. Boss DPS. KackisHD recommendation (https://www.youtube.com/watch?v=VmMMx9-CnT8) MW: velocity,blast_radius,reload
+// Auto Loading Holster, Full Court
+dimwishlist:item=2257180473&perks=1478423395,3301904089,3300816228,2888557110  PvE. Boss DPS. KackisHD recommendation (https://www.youtube.com/watch?v=VmMMx9-CnT8) MW: velocity,blast_radius,reload
+dimwishlist:item=2257180473&perks=1844523823,3301904089,3300816228,2888557110  PvE. Boss DPS. KackisHD recommendation (https://www.youtube.com/watch?v=VmMMx9-CnT8) MW: velocity,blast_radius,reload
+dimwishlist:item=2257180473&perks=981914802,3301904089,3300816228,2888557110  PvE. Boss DPS. KackisHD recommendation (https://www.youtube.com/watch?v=VmMMx9-CnT8) MW: velocity,blast_radius,reload
+// Auto Loading Holster, Demolitionist
+dimwishlist:item=2257180473&perks=1478423395,3301904089,3300816228,3523296417  PvE. Boss DPS. KackisHD recommendation (https://www.youtube.com/watch?v=VmMMx9-CnT8) MW: velocity,blast_radius,reload
+dimwishlist:item=2257180473&perks=1844523823,3301904089,3300816228,3523296417  PvE. Boss DPS. KackisHD recommendation (https://www.youtube.com/watch?v=VmMMx9-CnT8) MW: velocity,blast_radius,reload
+dimwishlist:item=2257180473&perks=981914802,3301904089,3300816228,3523296417  PvE. Boss DPS. KackisHD recommendation (https://www.youtube.com/watch?v=VmMMx9-CnT8) MW: velocity,blast_radius,reload
+// Auto Loading Holster, Swashbuckler
+dimwishlist:item=2257180473&perks=1478423395,3301904089,3300816228,4082225868  PvE. Boss DPS. KackisHD recommendation (https://www.youtube.com/watch?v=VmMMx9-CnT8) MW: velocity,blast_radius,reload
+dimwishlist:item=2257180473&perks=1844523823,3301904089,3300816228,4082225868  PvE. Boss DPS. KackisHD recommendation (https://www.youtube.com/watch?v=VmMMx9-CnT8) MW: velocity,blast_radius,reload
+dimwishlist:item=2257180473&perks=981914802,3301904089,3300816228,4082225868  PvE. Boss DPS. KackisHD recommendation (https://www.youtube.com/watch?v=VmMMx9-CnT8) MW: velocity,blast_radius,reload
+// Auto Loading Holster, Full Court
+dimwishlist:item=2257180473&perks=1478423395,3301904089,3300816228,2888557110  PvE. MW: velocity,blast_radius,reload
+dimwishlist:item=2257180473&perks=1844523823,3301904089,3300816228,2888557110  PvE. MW: velocity,blast_radius,reload
+dimwishlist:item=2257180473&perks=981914802,3301904089,3300816228,2888557110  PvE. MW: velocity,blast_radius,reload
+// Auto Loading Holster, Demolitionist
+dimwishlist:item=2257180473&perks=1478423395,3301904089,3300816228,3523296417  PvE. MW: velocity,blast_radius,reload
+dimwishlist:item=2257180473&perks=1844523823,3301904089,3300816228,3523296417  PvE. MW: velocity,blast_radius,reload
+dimwishlist:item=2257180473&perks=981914802,3301904089,3300816228,3523296417  PvE. MW: velocity,blast_radius,reload
+// Auto Loading Holster, Swashbuckler
+dimwishlist:item=2257180473&perks=1478423395,3301904089,3300816228,4082225868  PvE. MW: velocity,blast_radius,reload
+dimwishlist:item=2257180473&perks=1844523823,3301904089,3300816228,4082225868  PvE. MW: velocity,blast_radius,reload
+dimwishlist:item=2257180473&perks=981914802,3301904089,3300816228,4082225868  PvE. MW: velocity,blast_radius,reload
+// Interference Vi
+// Auto Loading Holster, Demolitionist
+dimwishlist:item=2257180473&perks=1844523823,409831596,3300816228,3523296417  PvP (2.4). MW: velocity,blast_radius,reload
+dimwishlist:item=2257180473&perks=1844523823,2822142346,3300816228,3523296417  PvP (2.4). MW: velocity,blast_radius,reload
+dimwishlist:item=2257180473&perks=3525010810,409831596,3300816228,3523296417  PvP (2.4). MW: velocity,blast_radius,reload
+dimwishlist:item=2257180473&perks=3525010810,2822142346,3300816228,3523296417  PvP (2.4). MW: velocity,blast_radius,reload
+dimwishlist:item=2257180473&perks=1441682018,409831596,3300816228,3523296417  PvP (2.4). MW: velocity,blast_radius,reload
+dimwishlist:item=2257180473&perks=1441682018,2822142346,3300816228,3523296417  PvP (2.4). MW: velocity,blast_radius,reload
+// Auto Loading Holster, Swashbuckler
+dimwishlist:item=2257180473&perks=1844523823,409831596,3300816228,4082225868  PvP (2.4). MW: velocity,blast_radius,reload
+dimwishlist:item=2257180473&perks=1844523823,2822142346,3300816228,4082225868  PvP (2.4). MW: velocity,blast_radius,reload
+dimwishlist:item=2257180473&perks=3525010810,409831596,3300816228,4082225868  PvP (2.4). MW: velocity,blast_radius,reload
+dimwishlist:item=2257180473&perks=3525010810,2822142346,3300816228,4082225868  PvP (2.4). MW: velocity,blast_radius,reload
+dimwishlist:item=2257180473&perks=1441682018,409831596,3300816228,4082225868  PvP (2.4). MW: velocity,blast_radius,reload
+dimwishlist:item=2257180473&perks=1441682018,2822142346,3300816228,4082225868  PvP (2.4). MW: velocity,blast_radius,reload
+// Auto Loading Holster, Threat Detector
+dimwishlist:item=2257180473&perks=1844523823,409831596,3300816228,4071163871  PvP (2.4). MW: velocity,blast_radius,reload
+dimwishlist:item=2257180473&perks=1844523823,2822142346,3300816228,4071163871  PvP (2.4). MW: velocity,blast_radius,reload
+dimwishlist:item=2257180473&perks=3525010810,409831596,3300816228,4071163871  PvP (2.4). MW: velocity,blast_radius,reload
+dimwishlist:item=2257180473&perks=3525010810,2822142346,3300816228,4071163871  PvP (2.4). MW: velocity,blast_radius,reload
+dimwishlist:item=2257180473&perks=1441682018,409831596,3300816228,4071163871  PvP (2.4). MW: velocity,blast_radius,reload
+dimwishlist:item=2257180473&perks=1441682018,2822142346,3300816228,4071163871  PvP (2.4). MW: velocity,blast_radius,reload
+
+
 // Truthteller
 // Auto Loading Holster, Disruption Break
 dimwishlist:item=1946491241&perks=3525010810,409831596,3300816228,1683379515  PvP. Break shields with Disruption Break and then clean-up with kinetic weapon.  CoolGuy recommendation (https://www.youtube.com/watch?v=7XNBjZOggpc) MW: velocity,blast_radius,reload
