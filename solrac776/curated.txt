@@ -810,6 +810,52 @@ dimwishlist:item=614426548&perks=2827049491,3625355092,2590710093,1546637391  Pv
 dimwishlist:item=614426548&perks=2827049491,2349202967,2590710093,1546637391  PvE.  MW: impact
 
 
+// Steel Sybil Z 14
+//notes: Not for use in PvP.  Overshadowed by Falling Guillotine in PvE
+// Relentless Strikes, Whirlwind Blade
+dimwishlist:item=4230993599&perks=3666208348,269888150,1749209109,3913600130  PvE. Max boss DPS.  Relentless Strikes is a great buff when taking down bosses and minnows.  Whirlwind Blade for buff build-up against anyone.  Pair with Lucent Blade for extra sword damage MW: impact
+dimwishlist:item=4230993599&perks=3666208348,3625355092,1749209109,3913600130  PvE. Max boss DPS.  Relentless Strikes is a great buff when taking down bosses and minnows.  Whirlwind Blade for buff build-up against anyone.  Pair with Lucent Blade for extra sword damage MW: impact
+dimwishlist:item=4230993599&perks=3666208348,2349202967,1749209109,3913600130  PvE. Max boss DPS.  Relentless Strikes is a great buff when taking down bosses and minnows.  Whirlwind Blade for buff build-up against anyone.  Pair with Lucent Blade for extra sword damage MW: impact
+dimwishlist:item=4230993599&perks=2827049491,269888150,1749209109,3913600130  PvE. Max boss DPS.  Relentless Strikes is a great buff when taking down bosses and minnows.  Whirlwind Blade for buff build-up against anyone.  Pair with Lucent Blade for extra sword damage MW: impact
+dimwishlist:item=4230993599&perks=2827049491,3625355092,1749209109,3913600130  PvE. Max boss DPS.  Relentless Strikes is a great buff when taking down bosses and minnows.  Whirlwind Blade for buff build-up against anyone.  Pair with Lucent Blade for extra sword damage MW: impact
+dimwishlist:item=4230993599&perks=2827049491,2349202967,1749209109,3913600130  PvE. Max boss DPS.  Relentless Strikes is a great buff when taking down bosses and minnows.  Whirlwind Blade for buff build-up against anyone.  Pair with Lucent Blade for extra sword damage MW: impact
+// Tireless Blade, Whirlwind Blade
+dimwishlist:item=4230993599&perks=3666208348,269888150,2590710093,3913600130  PvE. Great adds clearing.  Tireless Blade will give you ammo.  Whirlwind Blade for damage buff. MW: impact
+dimwishlist:item=4230993599&perks=3666208348,3625355092,2590710093,3913600130  PvE. Great adds clearing.  Tireless Blade will give you ammo.  Whirlwind Blade for damage buff. MW: impact
+dimwishlist:item=4230993599&perks=3666208348,2349202967,2590710093,3913600130  PvE. Great adds clearing.  Tireless Blade will give you ammo.  Whirlwind Blade for damage buff. MW: impact
+dimwishlist:item=4230993599&perks=2827049491,269888150,2590710093,3913600130  PvE. Great adds clearing.  Tireless Blade will give you ammo.  Whirlwind Blade for damage buff. MW: impact
+dimwishlist:item=4230993599&perks=2827049491,3625355092,2590710093,3913600130  PvE. Great adds clearing.  Tireless Blade will give you ammo.  Whirlwind Blade for damage buff. MW: impact
+dimwishlist:item=4230993599&perks=2827049491,2349202967,2590710093,3913600130  PvE. Great adds clearing.  Tireless Blade will give you ammo.  Whirlwind Blade for damage buff. MW: impact
+// Tireless Blade, Whirlwind Blade
+dimwishlist:item=4230993599&perks=3666208348,269888150,2590710093,3913600130  PvE. Tireless Blade will give you ammo.  Assassins Blade for memes MW: impact
+dimwishlist:item=4230993599&perks=3666208348,3625355092,2590710093,3913600130  PvE. Tireless Blade will give you ammo.  Assassins Blade for memes MW: impact
+dimwishlist:item=4230993599&perks=3666208348,2349202967,2590710093,3913600130  PvE. Tireless Blade will give you ammo.  Assassins Blade for memes MW: impact
+dimwishlist:item=4230993599&perks=2827049491,269888150,2590710093,3913600130  PvE. Tireless Blade will give you ammo.  Assassins Blade for memes MW: impact
+dimwishlist:item=4230993599&perks=2827049491,3625355092,2590710093,3913600130  PvE. Tireless Blade will give you ammo.  Assassins Blade for memes MW: impact
+dimwishlist:item=4230993599&perks=2827049491,2349202967,2590710093,3913600130  PvE. Tireless Blade will give you ammo.  Assassins Blade for memes MW: impact
+// Tireless Blade, Assassins Blade
+dimwishlist:item=4230993599&perks=3666208348,269888150,2590710093,354401740  PvE. Tireless Blade will give you ammo.  Assassins Blade for memes MW: impact
+dimwishlist:item=4230993599&perks=3666208348,3625355092,2590710093,354401740  PvE. Tireless Blade will give you ammo.  Assassins Blade for memes MW: impact
+dimwishlist:item=4230993599&perks=3666208348,2349202967,2590710093,354401740  PvE. Tireless Blade will give you ammo.  Assassins Blade for memes MW: impact
+dimwishlist:item=4230993599&perks=2827049491,269888150,2590710093,354401740  PvE. Tireless Blade will give you ammo.  Assassins Blade for memes MW: impact
+dimwishlist:item=4230993599&perks=2827049491,3625355092,2590710093,354401740  PvE. Tireless Blade will give you ammo.  Assassins Blade for memes MW: impact
+dimwishlist:item=4230993599&perks=2827049491,2349202967,2590710093,354401740  PvE. Tireless Blade will give you ammo.  Assassins Blade for memes MW: impact
+// Relentless Strikes, Whirlwind Blade
+dimwishlist:item=4230993599&perks=3666208348,269888150,1749209109,3913600130  PvE. Tireless Blade will give you ammo.  Assassins Blade for memes MW: impact
+dimwishlist:item=4230993599&perks=3666208348,3625355092,1749209109,3913600130  PvE. Tireless Blade will give you ammo.  Assassins Blade for memes MW: impact
+dimwishlist:item=4230993599&perks=3666208348,2349202967,1749209109,3913600130  PvE. Tireless Blade will give you ammo.  Assassins Blade for memes MW: impact
+dimwishlist:item=4230993599&perks=2827049491,269888150,1749209109,3913600130  PvE. Tireless Blade will give you ammo.  Assassins Blade for memes MW: impact
+dimwishlist:item=4230993599&perks=2827049491,3625355092,1749209109,3913600130  PvE. Tireless Blade will give you ammo.  Assassins Blade for memes MW: impact
+dimwishlist:item=4230993599&perks=2827049491,2349202967,1749209109,3913600130  PvE. Tireless Blade will give you ammo.  Assassins Blade for memes MW: impact
+// Relentless Strikes, Assassins Blade
+dimwishlist:item=4230993599&perks=3666208348,269888150,1749209109,354401740  PvE. Tireless Blade will give you ammo.  Assassins Blade for memes MW: impact
+dimwishlist:item=4230993599&perks=3666208348,3625355092,1749209109,354401740  PvE. Tireless Blade will give you ammo.  Assassins Blade for memes MW: impact
+dimwishlist:item=4230993599&perks=3666208348,2349202967,1749209109,354401740  PvE. Tireless Blade will give you ammo.  Assassins Blade for memes MW: impact
+dimwishlist:item=4230993599&perks=2827049491,269888150,1749209109,354401740  PvE. Tireless Blade will give you ammo.  Assassins Blade for memes MW: impact
+dimwishlist:item=4230993599&perks=2827049491,3625355092,1749209109,354401740  PvE. Tireless Blade will give you ammo.  Assassins Blade for memes MW: impact
+dimwishlist:item=4230993599&perks=2827049491,2349202967,1749209109,354401740  PvE. Tireless Blade will give you ammo.  Assassins Blade for memes MW: impact
+
+
 // Temptations Hook
 // Tireless Blade, Vorpal Weapon
 dimwishlist:item=35794111&perks=3666208348,269888150,2590710093,1546637391  PvP. Can use for fun. Tireless Blade will give you ammo on each Guardian kill. Vorpal is good against supers. MW: impact
