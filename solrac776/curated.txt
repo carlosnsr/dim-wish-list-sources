@@ -237,330 +237,277 @@ dimwishlist:item=1946491241&perks=981914802,2822142346,1631667848,4082225868  Pv
 
 // Crimils Dagger
 //notes: Innate high-calibre rounds (i.e. induces flinch).  Still 110RPM hand cannon with 1.07s TTK, so a poor choice but maybe it will get buffed?  Aztecross recommendation (vid: https://www.youtube.com/watch?v=vPSCwqYm2DY)
-// Snapshot Sights, Explosive Payload
-dimwishlist:item=4292849692&perks=1926090091,3142289711,957782887,3038247973  PvP.  Snapshot Sights for quick ADS'ing.  Explosive Rounds for no-fall-off damage. MW: range,reload
-dimwishlist:item=4292849692&perks=1926090091,3230963543,957782887,3038247973  PvP.  Snapshot Sights for quick ADS'ing.  Explosive Rounds for no-fall-off damage. MW: range,reload
-dimwishlist:item=4292849692&perks=1926090091,106909392,957782887,3038247973  PvP.  Snapshot Sights for quick ADS'ing.  Explosive Rounds for no-fall-off damage. MW: range,reload
-dimwishlist:item=4292849692&perks=1926090090,3142289711,957782887,3038247973  PvP.  Snapshot Sights for quick ADS'ing.  Explosive Rounds for no-fall-off damage. MW: range,reload
-dimwishlist:item=4292849692&perks=1926090090,3230963543,957782887,3038247973  PvP.  Snapshot Sights for quick ADS'ing.  Explosive Rounds for no-fall-off damage. MW: range,reload
-dimwishlist:item=4292849692&perks=1926090090,106909392,957782887,3038247973  PvP.  Snapshot Sights for quick ADS'ing.  Explosive Rounds for no-fall-off damage. MW: range,reload
-dimwishlist:item=4292849692&perks=1926090093,3142289711,957782887,3038247973  PvP.  Snapshot Sights for quick ADS'ing.  Explosive Rounds for no-fall-off damage. MW: range,reload
-dimwishlist:item=4292849692&perks=1926090093,3230963543,957782887,3038247973  PvP.  Snapshot Sights for quick ADS'ing.  Explosive Rounds for no-fall-off damage. MW: range,reload
-dimwishlist:item=4292849692&perks=1926090093,106909392,957782887,3038247973  PvP.  Snapshot Sights for quick ADS'ing.  Explosive Rounds for no-fall-off damage. MW: range,reload
-dimwishlist:item=4292849692&perks=1926090092,3142289711,957782887,3038247973  PvP.  Snapshot Sights for quick ADS'ing.  Explosive Rounds for no-fall-off damage. MW: range,reload
-dimwishlist:item=4292849692&perks=1926090092,3230963543,957782887,3038247973  PvP.  Snapshot Sights for quick ADS'ing.  Explosive Rounds for no-fall-off damage. MW: range,reload
-dimwishlist:item=4292849692&perks=1926090092,106909392,957782887,3038247973  PvP.  Snapshot Sights for quick ADS'ing.  Explosive Rounds for no-fall-off damage. MW: range,reload
-// Rangefinder, Opening Shot
-dimwishlist:item=4292849692&perks=1926090091,3142289711,2846385770,47981717  PvP. MW: range,reload
-dimwishlist:item=4292849692&perks=1926090091,3230963543,2846385770,47981717  PvP. MW: range,reload
-dimwishlist:item=4292849692&perks=1926090091,106909392,2846385770,47981717  PvP. MW: range,reload
-dimwishlist:item=4292849692&perks=1926090090,3142289711,2846385770,47981717  PvP. MW: range,reload
-dimwishlist:item=4292849692&perks=1926090090,3230963543,2846385770,47981717  PvP. MW: range,reload
-dimwishlist:item=4292849692&perks=1926090090,106909392,2846385770,47981717  PvP. MW: range,reload
-dimwishlist:item=4292849692&perks=1926090093,3142289711,2846385770,47981717  PvP. MW: range,reload
-dimwishlist:item=4292849692&perks=1926090093,3230963543,2846385770,47981717  PvP. MW: range,reload
-dimwishlist:item=4292849692&perks=1926090093,106909392,2846385770,47981717  PvP. MW: range,reload
-dimwishlist:item=4292849692&perks=1926090092,3142289711,2846385770,47981717  PvP. MW: range,reload
-dimwishlist:item=4292849692&perks=1926090092,3230963543,2846385770,47981717  PvP. MW: range,reload
-dimwishlist:item=4292849692&perks=1926090092,106909392,2846385770,47981717  PvP. MW: range,reload
 // Rangefinder, Kill Clip
-dimwishlist:item=4292849692&perks=1926090091,3142289711,2846385770,1015611457  PvP. MW: range,reload
-dimwishlist:item=4292849692&perks=1926090091,3230963543,2846385770,1015611457  PvP. MW: range,reload
-dimwishlist:item=4292849692&perks=1926090091,106909392,2846385770,1015611457  PvP. MW: range,reload
-dimwishlist:item=4292849692&perks=1926090090,3142289711,2846385770,1015611457  PvP. MW: range,reload
-dimwishlist:item=4292849692&perks=1926090090,3230963543,2846385770,1015611457  PvP. MW: range,reload
-dimwishlist:item=4292849692&perks=1926090090,106909392,2846385770,1015611457  PvP. MW: range,reload
-dimwishlist:item=4292849692&perks=1926090093,3142289711,2846385770,1015611457  PvP. MW: range,reload
-dimwishlist:item=4292849692&perks=1926090093,3230963543,2846385770,1015611457  PvP. MW: range,reload
-dimwishlist:item=4292849692&perks=1926090093,106909392,2846385770,1015611457  PvP. MW: range,reload
-dimwishlist:item=4292849692&perks=1926090092,3142289711,2846385770,1015611457  PvP. MW: range,reload
-dimwishlist:item=4292849692&perks=1926090092,3230963543,2846385770,1015611457  PvP. MW: range,reload
-dimwishlist:item=4292849692&perks=1926090092,106909392,2846385770,1015611457  PvP. MW: range,reload
-// Moving Target, Opening Shot
-dimwishlist:item=4292849692&perks=1926090091,3142289711,588594999,47981717  PvP. MW: range,reload
-dimwishlist:item=4292849692&perks=1926090091,3230963543,588594999,47981717  PvP. MW: range,reload
-dimwishlist:item=4292849692&perks=1926090091,106909392,588594999,47981717  PvP. MW: range,reload
-dimwishlist:item=4292849692&perks=1926090090,3142289711,588594999,47981717  PvP. MW: range,reload
-dimwishlist:item=4292849692&perks=1926090090,3230963543,588594999,47981717  PvP. MW: range,reload
-dimwishlist:item=4292849692&perks=1926090090,106909392,588594999,47981717  PvP. MW: range,reload
-dimwishlist:item=4292849692&perks=1926090093,3142289711,588594999,47981717  PvP. MW: range,reload
-dimwishlist:item=4292849692&perks=1926090093,3230963543,588594999,47981717  PvP. MW: range,reload
-dimwishlist:item=4292849692&perks=1926090093,106909392,588594999,47981717  PvP. MW: range,reload
-dimwishlist:item=4292849692&perks=1926090092,3142289711,588594999,47981717  PvP. MW: range,reload
-dimwishlist:item=4292849692&perks=1926090092,3230963543,588594999,47981717  PvP. MW: range,reload
-dimwishlist:item=4292849692&perks=1926090092,106909392,588594999,47981717  PvP. MW: range,reload
+dimwishlist:item=4292849692&perks=1926090091,3142289711,2846385770,1015611457  PvP.(4.0) MW: range,handling,reload
+dimwishlist:item=4292849692&perks=1926090090,3142289711,2846385770,1015611457  PvP.(4.0) MW: range,handling,reload
+dimwishlist:item=4292849692&perks=1926090093,3142289711,2846385770,1015611457  PvP.(4.0) MW: range,handling,reload
+// Rangefinder, Opening Shot
+dimwishlist:item=4292849692&perks=1926090091,3142289711,2846385770,47981717  PvP.(4.0) MW: range,handling,reload
+dimwishlist:item=4292849692&perks=1926090090,3142289711,2846385770,47981717  PvP.(4.0) MW: range,handling,reload
+dimwishlist:item=4292849692&perks=1926090093,3142289711,2846385770,47981717  PvP.(4.0) MW: range,handling,reload
+// Rangefinder, Explosive Payload
+dimwishlist:item=4292849692&perks=1926090091,3142289711,2846385770,3038247973  PvP.(4.0) MW: range,handling,reload
+dimwishlist:item=4292849692&perks=1926090090,3142289711,2846385770,3038247973  PvP.(4.0) MW: range,handling,reload
+dimwishlist:item=4292849692&perks=1926090093,3142289711,2846385770,3038247973  PvP.(4.0) MW: range,handling,reload
+// Rangefinder, Kill Clip
+dimwishlist:item=4292849692&perks=1926090091,3142289711,2846385770,1015611457  PvP. MW: range,handling,reload
+dimwishlist:item=4292849692&perks=1926090090,3142289711,2846385770,1015611457  PvP. MW: range,handling,reload
+dimwishlist:item=4292849692&perks=1926090093,3142289711,2846385770,1015611457  PvP. MW: range,handling,reload
+// Rangefinder, Opening Shot
+dimwishlist:item=4292849692&perks=1926090091,3142289711,2846385770,47981717  PvP. MW: range,handling,reload
+dimwishlist:item=4292849692&perks=1926090090,3142289711,2846385770,47981717  PvP. MW: range,handling,reload
+dimwishlist:item=4292849692&perks=1926090093,3142289711,2846385770,47981717  PvP. MW: range,handling,reload
+// Rangefinder, Explosive Payload
+dimwishlist:item=4292849692&perks=1926090091,3142289711,2846385770,3038247973  PvP. MW: range,handling,reload
+dimwishlist:item=4292849692&perks=1926090090,3142289711,2846385770,3038247973  PvP. MW: range,handling,reload
+dimwishlist:item=4292849692&perks=1926090093,3142289711,2846385770,3038247973  PvP. MW: range,handling,reload
 // Moving Target, Kill Clip
-dimwishlist:item=4292849692&perks=1926090091,3142289711,588594999,1015611457  PvP. MW: range,reload
-dimwishlist:item=4292849692&perks=1926090091,3230963543,588594999,1015611457  PvP. MW: range,reload
-dimwishlist:item=4292849692&perks=1926090091,106909392,588594999,1015611457  PvP. MW: range,reload
-dimwishlist:item=4292849692&perks=1926090090,3142289711,588594999,1015611457  PvP. MW: range,reload
-dimwishlist:item=4292849692&perks=1926090090,3230963543,588594999,1015611457  PvP. MW: range,reload
-dimwishlist:item=4292849692&perks=1926090090,106909392,588594999,1015611457  PvP. MW: range,reload
-dimwishlist:item=4292849692&perks=1926090093,3142289711,588594999,1015611457  PvP. MW: range,reload
-dimwishlist:item=4292849692&perks=1926090093,3230963543,588594999,1015611457  PvP. MW: range,reload
-dimwishlist:item=4292849692&perks=1926090093,106909392,588594999,1015611457  PvP. MW: range,reload
-dimwishlist:item=4292849692&perks=1926090092,3142289711,588594999,1015611457  PvP. MW: range,reload
-dimwishlist:item=4292849692&perks=1926090092,3230963543,588594999,1015611457  PvP. MW: range,reload
-dimwishlist:item=4292849692&perks=1926090092,106909392,588594999,1015611457  PvP. MW: range,reload
+dimwishlist:item=4292849692&perks=1926090091,3142289711,588594999,1015611457  PvP. MW: range,handling,reload
+dimwishlist:item=4292849692&perks=1926090090,3142289711,588594999,1015611457  PvP. MW: range,handling,reload
+dimwishlist:item=4292849692&perks=1926090093,3142289711,588594999,1015611457  PvP. MW: range,handling,reload
+// Moving Target, Opening Shot
+dimwishlist:item=4292849692&perks=1926090091,3142289711,588594999,47981717  PvP. MW: range,handling,reload
+dimwishlist:item=4292849692&perks=1926090090,3142289711,588594999,47981717  PvP. MW: range,handling,reload
+dimwishlist:item=4292849692&perks=1926090093,3142289711,588594999,47981717  PvP. MW: range,handling,reload
+// Moving Target, Explosive Payload
+dimwishlist:item=4292849692&perks=1926090091,3142289711,588594999,3038247973  PvP. MW: range,handling,reload
+dimwishlist:item=4292849692&perks=1926090090,3142289711,588594999,3038247973  PvP. MW: range,handling,reload
+dimwishlist:item=4292849692&perks=1926090093,3142289711,588594999,3038247973  PvP. MW: range,handling,reload
+// Snapshot Sights, Kill Clip
+dimwishlist:item=4292849692&perks=1926090091,3142289711,957782887,1015611457  PvP. MW: range,handling,reload
+dimwishlist:item=4292849692&perks=1926090090,3142289711,957782887,1015611457  PvP. MW: range,handling,reload
+dimwishlist:item=4292849692&perks=1926090093,3142289711,957782887,1015611457  PvP. MW: range,handling,reload
+// Snapshot Sights, Opening Shot
+dimwishlist:item=4292849692&perks=1926090091,3142289711,957782887,47981717  PvP. MW: range,handling,reload
+dimwishlist:item=4292849692&perks=1926090090,3142289711,957782887,47981717  PvP. MW: range,handling,reload
+dimwishlist:item=4292849692&perks=1926090093,3142289711,957782887,47981717  PvP. MW: range,handling,reload
+// Snapshot Sights, Explosive Payload
+dimwishlist:item=4292849692&perks=1926090091,3142289711,957782887,3038247973  PvP. MW: range,handling,reload
+dimwishlist:item=4292849692&perks=1926090090,3142289711,957782887,3038247973  PvP. MW: range,handling,reload
+dimwishlist:item=4292849692&perks=1926090093,3142289711,957782887,3038247973  PvP. MW: range,handling,reload
+// Crimils Dagger
 // Outlaw, Kill Clip
-dimwishlist:item=4292849692&perks=1926090091,3142289711,1168162263,1015611457  PvU. MW: range,reload
-dimwishlist:item=4292849692&perks=1926090091,3230963543,1168162263,1015611457  PvU. MW: range,reload
-dimwishlist:item=4292849692&perks=1926090091,106909392,1168162263,1015611457  PvU. MW: range,reload
-dimwishlist:item=4292849692&perks=1926090090,3142289711,1168162263,1015611457  PvU. MW: range,reload
-dimwishlist:item=4292849692&perks=1926090090,3230963543,1168162263,1015611457  PvU. MW: range,reload
-dimwishlist:item=4292849692&perks=1926090090,106909392,1168162263,1015611457  PvU. MW: range,reload
-dimwishlist:item=4292849692&perks=1926090093,3142289711,1168162263,1015611457  PvU. MW: range,reload
-dimwishlist:item=4292849692&perks=1926090093,3230963543,1168162263,1015611457  PvU. MW: range,reload
-dimwishlist:item=4292849692&perks=1926090093,106909392,1168162263,1015611457  PvU. MW: range,reload
-dimwishlist:item=4292849692&perks=1926090092,3142289711,1168162263,1015611457  PvU. MW: range,reload
-dimwishlist:item=4292849692&perks=1926090092,3230963543,1168162263,1015611457  PvU. MW: range,reload
-dimwishlist:item=4292849692&perks=1926090092,106909392,1168162263,1015611457  PvU. MW: range,reload
+dimwishlist:item=4292849692&perks=1926090091,3142289711,1168162263,1015611457  PvE. MW: range,handling,reload
+dimwishlist:item=4292849692&perks=1926090091,3230963543,1168162263,1015611457  PvE. MW: range,handling,reload
+dimwishlist:item=4292849692&perks=1926090091,106909392,1168162263,1015611457  PvE. MW: range,handling,reload
+dimwishlist:item=4292849692&perks=1926090090,3142289711,1168162263,1015611457  PvE. MW: range,handling,reload
+dimwishlist:item=4292849692&perks=1926090090,3230963543,1168162263,1015611457  PvE. MW: range,handling,reload
+dimwishlist:item=4292849692&perks=1926090090,106909392,1168162263,1015611457  PvE. MW: range,handling,reload
+dimwishlist:item=4292849692&perks=1926090093,3142289711,1168162263,1015611457  PvE. MW: range,handling,reload
+dimwishlist:item=4292849692&perks=1926090093,3230963543,1168162263,1015611457  PvE. MW: range,handling,reload
+dimwishlist:item=4292849692&perks=1926090093,106909392,1168162263,1015611457  PvE. MW: range,handling,reload
+dimwishlist:item=4292849692&perks=1926090092,3142289711,1168162263,1015611457  PvE. MW: range,handling,reload
+dimwishlist:item=4292849692&perks=1926090092,3230963543,1168162263,1015611457  PvE. MW: range,handling,reload
+dimwishlist:item=4292849692&perks=1926090092,106909392,1168162263,1015611457  PvE. MW: range,handling,reload
 // Outlaw, Explosive Payload
-dimwishlist:item=4292849692&perks=1926090091,3142289711,1168162263,3038247973  PvU. MW: range,reload
-dimwishlist:item=4292849692&perks=1926090091,3230963543,1168162263,3038247973  PvU. MW: range,reload
-dimwishlist:item=4292849692&perks=1926090091,106909392,1168162263,3038247973  PvU. MW: range,reload
-dimwishlist:item=4292849692&perks=1926090090,3142289711,1168162263,3038247973  PvU. MW: range,reload
-dimwishlist:item=4292849692&perks=1926090090,3230963543,1168162263,3038247973  PvU. MW: range,reload
-dimwishlist:item=4292849692&perks=1926090090,106909392,1168162263,3038247973  PvU. MW: range,reload
-dimwishlist:item=4292849692&perks=1926090093,3142289711,1168162263,3038247973  PvU. MW: range,reload
-dimwishlist:item=4292849692&perks=1926090093,3230963543,1168162263,3038247973  PvU. MW: range,reload
-dimwishlist:item=4292849692&perks=1926090093,106909392,1168162263,3038247973  PvU. MW: range,reload
-dimwishlist:item=4292849692&perks=1926090092,3142289711,1168162263,3038247973  PvU. MW: range,reload
-dimwishlist:item=4292849692&perks=1926090092,3230963543,1168162263,3038247973  PvU. MW: range,reload
-dimwishlist:item=4292849692&perks=1926090092,106909392,1168162263,3038247973  PvU. MW: range,reload
+dimwishlist:item=4292849692&perks=1926090091,3142289711,1168162263,3038247973  PvE. MW: range,handling,reload
+dimwishlist:item=4292849692&perks=1926090091,3230963543,1168162263,3038247973  PvE. MW: range,handling,reload
+dimwishlist:item=4292849692&perks=1926090091,106909392,1168162263,3038247973  PvE. MW: range,handling,reload
+dimwishlist:item=4292849692&perks=1926090090,3142289711,1168162263,3038247973  PvE. MW: range,handling,reload
+dimwishlist:item=4292849692&perks=1926090090,3230963543,1168162263,3038247973  PvE. MW: range,handling,reload
+dimwishlist:item=4292849692&perks=1926090090,106909392,1168162263,3038247973  PvE. MW: range,handling,reload
+dimwishlist:item=4292849692&perks=1926090093,3142289711,1168162263,3038247973  PvE. MW: range,handling,reload
+dimwishlist:item=4292849692&perks=1926090093,3230963543,1168162263,3038247973  PvE. MW: range,handling,reload
+dimwishlist:item=4292849692&perks=1926090093,106909392,1168162263,3038247973  PvE. MW: range,handling,reload
+dimwishlist:item=4292849692&perks=1926090092,3142289711,1168162263,3038247973  PvE. MW: range,handling,reload
+dimwishlist:item=4292849692&perks=1926090092,3230963543,1168162263,3038247973  PvE. MW: range,handling,reload
+dimwishlist:item=4292849692&perks=1926090092,106909392,1168162263,3038247973  PvE. MW: range,handling,reload
 
 
 // Optative
 // Rapid Hit, Kill Clip
-dimwishlist:item=2138599001&perks=202670084,3142289711,247725512,1015611457  PvP.  Rapid Hit & Kill Clip as recommended by PAID2BFAMOUS (https://www.youtube.com/watch?v=2HYO--w6614) and Aztecross (https://www.youtube.com/watch?v=Ut79oJlG4kk) MW: range,reload
-dimwishlist:item=2138599001&perks=202670084,3230963543,247725512,1015611457  PvP.  Rapid Hit & Kill Clip as recommended by PAID2BFAMOUS (https://www.youtube.com/watch?v=2HYO--w6614) and Aztecross (https://www.youtube.com/watch?v=Ut79oJlG4kk) MW: range,reload
-dimwishlist:item=2138599001&perks=202670084,106909392,247725512,1015611457  PvP.  Rapid Hit & Kill Clip as recommended by PAID2BFAMOUS (https://www.youtube.com/watch?v=2HYO--w6614) and Aztecross (https://www.youtube.com/watch?v=Ut79oJlG4kk) MW: range,reload
-dimwishlist:item=2138599001&perks=202670084,1087426260,247725512,1015611457  PvP.  Rapid Hit & Kill Clip as recommended by PAID2BFAMOUS (https://www.youtube.com/watch?v=2HYO--w6614) and Aztecross (https://www.youtube.com/watch?v=Ut79oJlG4kk) MW: range,reload
-dimwishlist:item=2138599001&perks=3250034553,3142289711,247725512,1015611457  PvP.  Rapid Hit & Kill Clip as recommended by PAID2BFAMOUS (https://www.youtube.com/watch?v=2HYO--w6614) and Aztecross (https://www.youtube.com/watch?v=Ut79oJlG4kk) MW: range,reload
-dimwishlist:item=2138599001&perks=3250034553,3230963543,247725512,1015611457  PvP.  Rapid Hit & Kill Clip as recommended by PAID2BFAMOUS (https://www.youtube.com/watch?v=2HYO--w6614) and Aztecross (https://www.youtube.com/watch?v=Ut79oJlG4kk) MW: range,reload
-dimwishlist:item=2138599001&perks=3250034553,106909392,247725512,1015611457  PvP.  Rapid Hit & Kill Clip as recommended by PAID2BFAMOUS (https://www.youtube.com/watch?v=2HYO--w6614) and Aztecross (https://www.youtube.com/watch?v=Ut79oJlG4kk) MW: range,reload
-dimwishlist:item=2138599001&perks=3250034553,1087426260,247725512,1015611457  PvP.  Rapid Hit & Kill Clip as recommended by PAID2BFAMOUS (https://www.youtube.com/watch?v=2HYO--w6614) and Aztecross (https://www.youtube.com/watch?v=Ut79oJlG4kk) MW: range,reload
-dimwishlist:item=2138599001&perks=1467527085,3142289711,247725512,1015611457  PvP.  Rapid Hit & Kill Clip as recommended by PAID2BFAMOUS (https://www.youtube.com/watch?v=2HYO--w6614) and Aztecross (https://www.youtube.com/watch?v=Ut79oJlG4kk) MW: range,reload
-dimwishlist:item=2138599001&perks=1467527085,3230963543,247725512,1015611457  PvP.  Rapid Hit & Kill Clip as recommended by PAID2BFAMOUS (https://www.youtube.com/watch?v=2HYO--w6614) and Aztecross (https://www.youtube.com/watch?v=Ut79oJlG4kk) MW: range,reload
-dimwishlist:item=2138599001&perks=1467527085,106909392,247725512,1015611457  PvP.  Rapid Hit & Kill Clip as recommended by PAID2BFAMOUS (https://www.youtube.com/watch?v=2HYO--w6614) and Aztecross (https://www.youtube.com/watch?v=Ut79oJlG4kk) MW: range,reload
-dimwishlist:item=2138599001&perks=1467527085,1087426260,247725512,1015611457  PvP.  Rapid Hit & Kill Clip as recommended by PAID2BFAMOUS (https://www.youtube.com/watch?v=2HYO--w6614) and Aztecross (https://www.youtube.com/watch?v=Ut79oJlG4kk) MW: range,reload
-dimwishlist:item=2138599001&perks=4090651448,3142289711,247725512,1015611457  PvP.  Rapid Hit & Kill Clip as recommended by PAID2BFAMOUS (https://www.youtube.com/watch?v=2HYO--w6614) and Aztecross (https://www.youtube.com/watch?v=Ut79oJlG4kk) MW: range,reload
-dimwishlist:item=2138599001&perks=4090651448,3230963543,247725512,1015611457  PvP.  Rapid Hit & Kill Clip as recommended by PAID2BFAMOUS (https://www.youtube.com/watch?v=2HYO--w6614) and Aztecross (https://www.youtube.com/watch?v=Ut79oJlG4kk) MW: range,reload
-dimwishlist:item=2138599001&perks=4090651448,106909392,247725512,1015611457  PvP.  Rapid Hit & Kill Clip as recommended by PAID2BFAMOUS (https://www.youtube.com/watch?v=2HYO--w6614) and Aztecross (https://www.youtube.com/watch?v=Ut79oJlG4kk) MW: range,reload
-dimwishlist:item=2138599001&perks=4090651448,1087426260,247725512,1015611457  PvP.  Rapid Hit & Kill Clip as recommended by PAID2BFAMOUS (https://www.youtube.com/watch?v=2HYO--w6614) and Aztecross (https://www.youtube.com/watch?v=Ut79oJlG4kk) MW: range,reload
+dimwishlist:item=2138599001&perks=3250034553,3142289711,247725512,1015611457  PvP (5.0) MW: range,handling,reload
+dimwishlist:item=2138599001&perks=1467527085,3142289711,247725512,1015611457  PvP (5.0) MW: range,handling,reload
+dimwishlist:item=2138599001&perks=202670084,3142289711,247725512,1015611457  PvP (5.0) MW: range,handling,reload
+dimwishlist:item=2138599001&perks=4090651448,3142289711,247725512,1015611457  PvP (5.0) MW: range,handling,reload
 // Rapid Hit, Opening Shot
-dimwishlist:item=2138599001&perks=202670084,3142289711,247725512,47981717  PvP.  Rapid Hit & Kill Clip as recommended by PAID2BFAMOUS (https://www.youtube.com/watch?v=2HYO--w6614) and Aztecross (https://www.youtube.com/watch?v=Ut79oJlG4kk) MW: range,reload
-dimwishlist:item=2138599001&perks=202670084,3230963543,247725512,47981717  PvP.  Rapid Hit & Kill Clip as recommended by PAID2BFAMOUS (https://www.youtube.com/watch?v=2HYO--w6614) and Aztecross (https://www.youtube.com/watch?v=Ut79oJlG4kk) MW: range,reload
-dimwishlist:item=2138599001&perks=202670084,106909392,247725512,47981717  PvP.  Rapid Hit & Kill Clip as recommended by PAID2BFAMOUS (https://www.youtube.com/watch?v=2HYO--w6614) and Aztecross (https://www.youtube.com/watch?v=Ut79oJlG4kk) MW: range,reload
-dimwishlist:item=2138599001&perks=202670084,1087426260,247725512,47981717  PvP.  Rapid Hit & Kill Clip as recommended by PAID2BFAMOUS (https://www.youtube.com/watch?v=2HYO--w6614) and Aztecross (https://www.youtube.com/watch?v=Ut79oJlG4kk) MW: range,reload
-dimwishlist:item=2138599001&perks=3250034553,3142289711,247725512,47981717  PvP.  Rapid Hit & Kill Clip as recommended by PAID2BFAMOUS (https://www.youtube.com/watch?v=2HYO--w6614) and Aztecross (https://www.youtube.com/watch?v=Ut79oJlG4kk) MW: range,reload
-dimwishlist:item=2138599001&perks=3250034553,3230963543,247725512,47981717  PvP.  Rapid Hit & Kill Clip as recommended by PAID2BFAMOUS (https://www.youtube.com/watch?v=2HYO--w6614) and Aztecross (https://www.youtube.com/watch?v=Ut79oJlG4kk) MW: range,reload
-dimwishlist:item=2138599001&perks=3250034553,106909392,247725512,47981717  PvP.  Rapid Hit & Kill Clip as recommended by PAID2BFAMOUS (https://www.youtube.com/watch?v=2HYO--w6614) and Aztecross (https://www.youtube.com/watch?v=Ut79oJlG4kk) MW: range,reload
-dimwishlist:item=2138599001&perks=3250034553,1087426260,247725512,47981717  PvP.  Rapid Hit & Kill Clip as recommended by PAID2BFAMOUS (https://www.youtube.com/watch?v=2HYO--w6614) and Aztecross (https://www.youtube.com/watch?v=Ut79oJlG4kk) MW: range,reload
-dimwishlist:item=2138599001&perks=1467527085,3142289711,247725512,47981717  PvP.  Rapid Hit & Kill Clip as recommended by PAID2BFAMOUS (https://www.youtube.com/watch?v=2HYO--w6614) and Aztecross (https://www.youtube.com/watch?v=Ut79oJlG4kk) MW: range,reload
-dimwishlist:item=2138599001&perks=1467527085,3230963543,247725512,47981717  PvP.  Rapid Hit & Kill Clip as recommended by PAID2BFAMOUS (https://www.youtube.com/watch?v=2HYO--w6614) and Aztecross (https://www.youtube.com/watch?v=Ut79oJlG4kk) MW: range,reload
-dimwishlist:item=2138599001&perks=1467527085,106909392,247725512,47981717  PvP.  Rapid Hit & Kill Clip as recommended by PAID2BFAMOUS (https://www.youtube.com/watch?v=2HYO--w6614) and Aztecross (https://www.youtube.com/watch?v=Ut79oJlG4kk) MW: range,reload
-dimwishlist:item=2138599001&perks=1467527085,1087426260,247725512,47981717  PvP.  Rapid Hit & Kill Clip as recommended by PAID2BFAMOUS (https://www.youtube.com/watch?v=2HYO--w6614) and Aztecross (https://www.youtube.com/watch?v=Ut79oJlG4kk) MW: range,reload
-dimwishlist:item=2138599001&perks=4090651448,3142289711,247725512,47981717  PvP.  Rapid Hit & Kill Clip as recommended by PAID2BFAMOUS (https://www.youtube.com/watch?v=2HYO--w6614) and Aztecross (https://www.youtube.com/watch?v=Ut79oJlG4kk) MW: range,reload
-dimwishlist:item=2138599001&perks=4090651448,3230963543,247725512,47981717  PvP.  Rapid Hit & Kill Clip as recommended by PAID2BFAMOUS (https://www.youtube.com/watch?v=2HYO--w6614) and Aztecross (https://www.youtube.com/watch?v=Ut79oJlG4kk) MW: range,reload
-dimwishlist:item=2138599001&perks=4090651448,106909392,247725512,47981717  PvP.  Rapid Hit & Kill Clip as recommended by PAID2BFAMOUS (https://www.youtube.com/watch?v=2HYO--w6614) and Aztecross (https://www.youtube.com/watch?v=Ut79oJlG4kk) MW: range,reload
-dimwishlist:item=2138599001&perks=4090651448,1087426260,247725512,47981717  PvP.  Rapid Hit & Kill Clip as recommended by PAID2BFAMOUS (https://www.youtube.com/watch?v=2HYO--w6614) and Aztecross (https://www.youtube.com/watch?v=Ut79oJlG4kk) MW: range,reload
+dimwishlist:item=2138599001&perks=3250034553,3142289711,247725512,47981717  PvP (5.0) MW: range,handling,reload
+dimwishlist:item=2138599001&perks=1467527085,3142289711,247725512,47981717  PvP (5.0) MW: range,handling,reload
+dimwishlist:item=2138599001&perks=202670084,3142289711,247725512,47981717  PvP (5.0) MW: range,handling,reload
+dimwishlist:item=2138599001&perks=4090651448,3142289711,247725512,47981717  PvP (5.0) MW: range,handling,reload
 // Outlaw, Kill Clip
-dimwishlist:item=2138599001&perks=202670084,3142289711,1168162263,1015611457  PvE. But there are better hand cannons for PvE.  Maybe Mulligan for Nightfall Champions MW: range,reload
-dimwishlist:item=2138599001&perks=202670084,3230963543,1168162263,1015611457  PvE. But there are better hand cannons for PvE.  Maybe Mulligan for Nightfall Champions MW: range,reload
-dimwishlist:item=2138599001&perks=202670084,106909392,1168162263,1015611457  PvE. But there are better hand cannons for PvE.  Maybe Mulligan for Nightfall Champions MW: range,reload
-dimwishlist:item=2138599001&perks=202670084,1087426260,1168162263,1015611457  PvE. But there are better hand cannons for PvE.  Maybe Mulligan for Nightfall Champions MW: range,reload
-dimwishlist:item=2138599001&perks=3250034553,3142289711,1168162263,1015611457  PvE. But there are better hand cannons for PvE.  Maybe Mulligan for Nightfall Champions MW: range,reload
-dimwishlist:item=2138599001&perks=3250034553,3230963543,1168162263,1015611457  PvE. But there are better hand cannons for PvE.  Maybe Mulligan for Nightfall Champions MW: range,reload
-dimwishlist:item=2138599001&perks=3250034553,106909392,1168162263,1015611457  PvE. But there are better hand cannons for PvE.  Maybe Mulligan for Nightfall Champions MW: range,reload
-dimwishlist:item=2138599001&perks=3250034553,1087426260,1168162263,1015611457  PvE. But there are better hand cannons for PvE.  Maybe Mulligan for Nightfall Champions MW: range,reload
-dimwishlist:item=2138599001&perks=1467527085,3142289711,1168162263,1015611457  PvE. But there are better hand cannons for PvE.  Maybe Mulligan for Nightfall Champions MW: range,reload
-dimwishlist:item=2138599001&perks=1467527085,3230963543,1168162263,1015611457  PvE. But there are better hand cannons for PvE.  Maybe Mulligan for Nightfall Champions MW: range,reload
-dimwishlist:item=2138599001&perks=1467527085,106909392,1168162263,1015611457  PvE. But there are better hand cannons for PvE.  Maybe Mulligan for Nightfall Champions MW: range,reload
-dimwishlist:item=2138599001&perks=1467527085,1087426260,1168162263,1015611457  PvE. But there are better hand cannons for PvE.  Maybe Mulligan for Nightfall Champions MW: range,reload
-dimwishlist:item=2138599001&perks=4090651448,3142289711,1168162263,1015611457  PvE. But there are better hand cannons for PvE.  Maybe Mulligan for Nightfall Champions MW: range,reload
-dimwishlist:item=2138599001&perks=4090651448,3230963543,1168162263,1015611457  PvE. But there are better hand cannons for PvE.  Maybe Mulligan for Nightfall Champions MW: range,reload
-dimwishlist:item=2138599001&perks=4090651448,106909392,1168162263,1015611457  PvE. But there are better hand cannons for PvE.  Maybe Mulligan for Nightfall Champions MW: range,reload
-dimwishlist:item=2138599001&perks=4090651448,1087426260,1168162263,1015611457  PvE. But there are better hand cannons for PvE.  Maybe Mulligan for Nightfall Champions MW: range,reload
-// Outlaw, Demolitionist
-dimwishlist:item=2138599001&perks=202670084,3142289711,1168162263,3523296417  PvE. But there are better hand cannons for PvE.  Maybe Mulligan for Nightfall Champions MW: range,reload
-dimwishlist:item=2138599001&perks=202670084,3230963543,1168162263,3523296417  PvE. But there are better hand cannons for PvE.  Maybe Mulligan for Nightfall Champions MW: range,reload
-dimwishlist:item=2138599001&perks=202670084,106909392,1168162263,3523296417  PvE. But there are better hand cannons for PvE.  Maybe Mulligan for Nightfall Champions MW: range,reload
-dimwishlist:item=2138599001&perks=202670084,1087426260,1168162263,3523296417  PvE. But there are better hand cannons for PvE.  Maybe Mulligan for Nightfall Champions MW: range,reload
-dimwishlist:item=2138599001&perks=3250034553,3142289711,1168162263,3523296417  PvE. But there are better hand cannons for PvE.  Maybe Mulligan for Nightfall Champions MW: range,reload
-dimwishlist:item=2138599001&perks=3250034553,3230963543,1168162263,3523296417  PvE. But there are better hand cannons for PvE.  Maybe Mulligan for Nightfall Champions MW: range,reload
-dimwishlist:item=2138599001&perks=3250034553,106909392,1168162263,3523296417  PvE. But there are better hand cannons for PvE.  Maybe Mulligan for Nightfall Champions MW: range,reload
-dimwishlist:item=2138599001&perks=3250034553,1087426260,1168162263,3523296417  PvE. But there are better hand cannons for PvE.  Maybe Mulligan for Nightfall Champions MW: range,reload
-dimwishlist:item=2138599001&perks=1467527085,3142289711,1168162263,3523296417  PvE. But there are better hand cannons for PvE.  Maybe Mulligan for Nightfall Champions MW: range,reload
-dimwishlist:item=2138599001&perks=1467527085,3230963543,1168162263,3523296417  PvE. But there are better hand cannons for PvE.  Maybe Mulligan for Nightfall Champions MW: range,reload
-dimwishlist:item=2138599001&perks=1467527085,106909392,1168162263,3523296417  PvE. But there are better hand cannons for PvE.  Maybe Mulligan for Nightfall Champions MW: range,reload
-dimwishlist:item=2138599001&perks=1467527085,1087426260,1168162263,3523296417  PvE. But there are better hand cannons for PvE.  Maybe Mulligan for Nightfall Champions MW: range,reload
-dimwishlist:item=2138599001&perks=4090651448,3142289711,1168162263,3523296417  PvE. But there are better hand cannons for PvE.  Maybe Mulligan for Nightfall Champions MW: range,reload
-dimwishlist:item=2138599001&perks=4090651448,3230963543,1168162263,3523296417  PvE. But there are better hand cannons for PvE.  Maybe Mulligan for Nightfall Champions MW: range,reload
-dimwishlist:item=2138599001&perks=4090651448,106909392,1168162263,3523296417  PvE. But there are better hand cannons for PvE.  Maybe Mulligan for Nightfall Champions MW: range,reload
-dimwishlist:item=2138599001&perks=4090651448,1087426260,1168162263,3523296417  PvE. But there are better hand cannons for PvE.  Maybe Mulligan for Nightfall Champions MW: range,reload
-// Outlaw, Mulligan
-dimwishlist:item=2138599001&perks=202670084,3142289711,1168162263,3513791699  PvE. But there are better hand cannons for PvE.  Maybe Mulligan for Nightfall Champions MW: range,reload
-dimwishlist:item=2138599001&perks=202670084,3230963543,1168162263,3513791699  PvE. But there are better hand cannons for PvE.  Maybe Mulligan for Nightfall Champions MW: range,reload
-dimwishlist:item=2138599001&perks=202670084,106909392,1168162263,3513791699  PvE. But there are better hand cannons for PvE.  Maybe Mulligan for Nightfall Champions MW: range,reload
-dimwishlist:item=2138599001&perks=202670084,1087426260,1168162263,3513791699  PvE. But there are better hand cannons for PvE.  Maybe Mulligan for Nightfall Champions MW: range,reload
-dimwishlist:item=2138599001&perks=3250034553,3142289711,1168162263,3513791699  PvE. But there are better hand cannons for PvE.  Maybe Mulligan for Nightfall Champions MW: range,reload
-dimwishlist:item=2138599001&perks=3250034553,3230963543,1168162263,3513791699  PvE. But there are better hand cannons for PvE.  Maybe Mulligan for Nightfall Champions MW: range,reload
-dimwishlist:item=2138599001&perks=3250034553,106909392,1168162263,3513791699  PvE. But there are better hand cannons for PvE.  Maybe Mulligan for Nightfall Champions MW: range,reload
-dimwishlist:item=2138599001&perks=3250034553,1087426260,1168162263,3513791699  PvE. But there are better hand cannons for PvE.  Maybe Mulligan for Nightfall Champions MW: range,reload
-dimwishlist:item=2138599001&perks=1467527085,3142289711,1168162263,3513791699  PvE. But there are better hand cannons for PvE.  Maybe Mulligan for Nightfall Champions MW: range,reload
-dimwishlist:item=2138599001&perks=1467527085,3230963543,1168162263,3513791699  PvE. But there are better hand cannons for PvE.  Maybe Mulligan for Nightfall Champions MW: range,reload
-dimwishlist:item=2138599001&perks=1467527085,106909392,1168162263,3513791699  PvE. But there are better hand cannons for PvE.  Maybe Mulligan for Nightfall Champions MW: range,reload
-dimwishlist:item=2138599001&perks=1467527085,1087426260,1168162263,3513791699  PvE. But there are better hand cannons for PvE.  Maybe Mulligan for Nightfall Champions MW: range,reload
-dimwishlist:item=2138599001&perks=4090651448,3142289711,1168162263,3513791699  PvE. But there are better hand cannons for PvE.  Maybe Mulligan for Nightfall Champions MW: range,reload
-dimwishlist:item=2138599001&perks=4090651448,3230963543,1168162263,3513791699  PvE. But there are better hand cannons for PvE.  Maybe Mulligan for Nightfall Champions MW: range,reload
-dimwishlist:item=2138599001&perks=4090651448,106909392,1168162263,3513791699  PvE. But there are better hand cannons for PvE.  Maybe Mulligan for Nightfall Champions MW: range,reload
-dimwishlist:item=2138599001&perks=4090651448,1087426260,1168162263,3513791699  PvE. But there are better hand cannons for PvE.  Maybe Mulligan for Nightfall Champions MW: range,reload
+dimwishlist:item=2138599001&perks=3250034553,3142289711,1168162263,1015611457  PvP (5.0) MW: range,handling,reload
+dimwishlist:item=2138599001&perks=1467527085,3142289711,1168162263,1015611457  PvP (5.0) MW: range,handling,reload
+dimwishlist:item=2138599001&perks=202670084,3142289711,1168162263,1015611457  PvP (5.0) MW: range,handling,reload
+dimwishlist:item=2138599001&perks=4090651448,3142289711,1168162263,1015611457  PvP (5.0) MW: range,handling,reload
+// Outlaw, Opening Shot
+dimwishlist:item=2138599001&perks=3250034553,3142289711,1168162263,47981717  PvP (5.0) MW: range,handling,reload
+dimwishlist:item=2138599001&perks=1467527085,3142289711,1168162263,47981717  PvP (5.0) MW: range,handling,reload
+dimwishlist:item=2138599001&perks=202670084,3142289711,1168162263,47981717  PvP (5.0) MW: range,handling,reload
+dimwishlist:item=2138599001&perks=4090651448,3142289711,1168162263,47981717  PvP (5.0) MW: range,handling,reload
 // Under Pressure, Kill Clip
-dimwishlist:item=2138599001&perks=202670084,3142289711,1645158859,1015611457  PvE. But there are better hand cannons for PvE.  Maybe Mulligan for Nightfall Champions MW: range,reload
-dimwishlist:item=2138599001&perks=202670084,3230963543,1645158859,1015611457  PvE. But there are better hand cannons for PvE.  Maybe Mulligan for Nightfall Champions MW: range,reload
-dimwishlist:item=2138599001&perks=202670084,106909392,1645158859,1015611457  PvE. But there are better hand cannons for PvE.  Maybe Mulligan for Nightfall Champions MW: range,reload
-dimwishlist:item=2138599001&perks=202670084,1087426260,1645158859,1015611457  PvE. But there are better hand cannons for PvE.  Maybe Mulligan for Nightfall Champions MW: range,reload
-dimwishlist:item=2138599001&perks=3250034553,3142289711,1645158859,1015611457  PvE. But there are better hand cannons for PvE.  Maybe Mulligan for Nightfall Champions MW: range,reload
-dimwishlist:item=2138599001&perks=3250034553,3230963543,1645158859,1015611457  PvE. But there are better hand cannons for PvE.  Maybe Mulligan for Nightfall Champions MW: range,reload
-dimwishlist:item=2138599001&perks=3250034553,106909392,1645158859,1015611457  PvE. But there are better hand cannons for PvE.  Maybe Mulligan for Nightfall Champions MW: range,reload
-dimwishlist:item=2138599001&perks=3250034553,1087426260,1645158859,1015611457  PvE. But there are better hand cannons for PvE.  Maybe Mulligan for Nightfall Champions MW: range,reload
-dimwishlist:item=2138599001&perks=1467527085,3142289711,1645158859,1015611457  PvE. But there are better hand cannons for PvE.  Maybe Mulligan for Nightfall Champions MW: range,reload
-dimwishlist:item=2138599001&perks=1467527085,3230963543,1645158859,1015611457  PvE. But there are better hand cannons for PvE.  Maybe Mulligan for Nightfall Champions MW: range,reload
-dimwishlist:item=2138599001&perks=1467527085,106909392,1645158859,1015611457  PvE. But there are better hand cannons for PvE.  Maybe Mulligan for Nightfall Champions MW: range,reload
-dimwishlist:item=2138599001&perks=1467527085,1087426260,1645158859,1015611457  PvE. But there are better hand cannons for PvE.  Maybe Mulligan for Nightfall Champions MW: range,reload
-dimwishlist:item=2138599001&perks=4090651448,3142289711,1645158859,1015611457  PvE. But there are better hand cannons for PvE.  Maybe Mulligan for Nightfall Champions MW: range,reload
-dimwishlist:item=2138599001&perks=4090651448,3230963543,1645158859,1015611457  PvE. But there are better hand cannons for PvE.  Maybe Mulligan for Nightfall Champions MW: range,reload
-dimwishlist:item=2138599001&perks=4090651448,106909392,1645158859,1015611457  PvE. But there are better hand cannons for PvE.  Maybe Mulligan for Nightfall Champions MW: range,reload
-dimwishlist:item=2138599001&perks=4090651448,1087426260,1645158859,1015611457  PvE. But there are better hand cannons for PvE.  Maybe Mulligan for Nightfall Champions MW: range,reload
-// Under Pressure, Demolitionist
-dimwishlist:item=2138599001&perks=202670084,3142289711,1645158859,3523296417  PvE. But there are better hand cannons for PvE.  Maybe Mulligan for Nightfall Champions MW: range,reload
-dimwishlist:item=2138599001&perks=202670084,3230963543,1645158859,3523296417  PvE. But there are better hand cannons for PvE.  Maybe Mulligan for Nightfall Champions MW: range,reload
-dimwishlist:item=2138599001&perks=202670084,106909392,1645158859,3523296417  PvE. But there are better hand cannons for PvE.  Maybe Mulligan for Nightfall Champions MW: range,reload
-dimwishlist:item=2138599001&perks=202670084,1087426260,1645158859,3523296417  PvE. But there are better hand cannons for PvE.  Maybe Mulligan for Nightfall Champions MW: range,reload
-dimwishlist:item=2138599001&perks=3250034553,3142289711,1645158859,3523296417  PvE. But there are better hand cannons for PvE.  Maybe Mulligan for Nightfall Champions MW: range,reload
-dimwishlist:item=2138599001&perks=3250034553,3230963543,1645158859,3523296417  PvE. But there are better hand cannons for PvE.  Maybe Mulligan for Nightfall Champions MW: range,reload
-dimwishlist:item=2138599001&perks=3250034553,106909392,1645158859,3523296417  PvE. But there are better hand cannons for PvE.  Maybe Mulligan for Nightfall Champions MW: range,reload
-dimwishlist:item=2138599001&perks=3250034553,1087426260,1645158859,3523296417  PvE. But there are better hand cannons for PvE.  Maybe Mulligan for Nightfall Champions MW: range,reload
-dimwishlist:item=2138599001&perks=1467527085,3142289711,1645158859,3523296417  PvE. But there are better hand cannons for PvE.  Maybe Mulligan for Nightfall Champions MW: range,reload
-dimwishlist:item=2138599001&perks=1467527085,3230963543,1645158859,3523296417  PvE. But there are better hand cannons for PvE.  Maybe Mulligan for Nightfall Champions MW: range,reload
-dimwishlist:item=2138599001&perks=1467527085,106909392,1645158859,3523296417  PvE. But there are better hand cannons for PvE.  Maybe Mulligan for Nightfall Champions MW: range,reload
-dimwishlist:item=2138599001&perks=1467527085,1087426260,1645158859,3523296417  PvE. But there are better hand cannons for PvE.  Maybe Mulligan for Nightfall Champions MW: range,reload
-dimwishlist:item=2138599001&perks=4090651448,3142289711,1645158859,3523296417  PvE. But there are better hand cannons for PvE.  Maybe Mulligan for Nightfall Champions MW: range,reload
-dimwishlist:item=2138599001&perks=4090651448,3230963543,1645158859,3523296417  PvE. But there are better hand cannons for PvE.  Maybe Mulligan for Nightfall Champions MW: range,reload
-dimwishlist:item=2138599001&perks=4090651448,106909392,1645158859,3523296417  PvE. But there are better hand cannons for PvE.  Maybe Mulligan for Nightfall Champions MW: range,reload
-dimwishlist:item=2138599001&perks=4090651448,1087426260,1645158859,3523296417  PvE. But there are better hand cannons for PvE.  Maybe Mulligan for Nightfall Champions MW: range,reload
-// Under Pressure, Mulligan
-dimwishlist:item=2138599001&perks=202670084,3142289711,1645158859,3513791699  PvE. But there are better hand cannons for PvE.  Maybe Mulligan for Nightfall Champions MW: range,reload
-dimwishlist:item=2138599001&perks=202670084,3230963543,1645158859,3513791699  PvE. But there are better hand cannons for PvE.  Maybe Mulligan for Nightfall Champions MW: range,reload
-dimwishlist:item=2138599001&perks=202670084,106909392,1645158859,3513791699  PvE. But there are better hand cannons for PvE.  Maybe Mulligan for Nightfall Champions MW: range,reload
-dimwishlist:item=2138599001&perks=202670084,1087426260,1645158859,3513791699  PvE. But there are better hand cannons for PvE.  Maybe Mulligan for Nightfall Champions MW: range,reload
-dimwishlist:item=2138599001&perks=3250034553,3142289711,1645158859,3513791699  PvE. But there are better hand cannons for PvE.  Maybe Mulligan for Nightfall Champions MW: range,reload
-dimwishlist:item=2138599001&perks=3250034553,3230963543,1645158859,3513791699  PvE. But there are better hand cannons for PvE.  Maybe Mulligan for Nightfall Champions MW: range,reload
-dimwishlist:item=2138599001&perks=3250034553,106909392,1645158859,3513791699  PvE. But there are better hand cannons for PvE.  Maybe Mulligan for Nightfall Champions MW: range,reload
-dimwishlist:item=2138599001&perks=3250034553,1087426260,1645158859,3513791699  PvE. But there are better hand cannons for PvE.  Maybe Mulligan for Nightfall Champions MW: range,reload
-dimwishlist:item=2138599001&perks=1467527085,3142289711,1645158859,3513791699  PvE. But there are better hand cannons for PvE.  Maybe Mulligan for Nightfall Champions MW: range,reload
-dimwishlist:item=2138599001&perks=1467527085,3230963543,1645158859,3513791699  PvE. But there are better hand cannons for PvE.  Maybe Mulligan for Nightfall Champions MW: range,reload
-dimwishlist:item=2138599001&perks=1467527085,106909392,1645158859,3513791699  PvE. But there are better hand cannons for PvE.  Maybe Mulligan for Nightfall Champions MW: range,reload
-dimwishlist:item=2138599001&perks=1467527085,1087426260,1645158859,3513791699  PvE. But there are better hand cannons for PvE.  Maybe Mulligan for Nightfall Champions MW: range,reload
-dimwishlist:item=2138599001&perks=4090651448,3142289711,1645158859,3513791699  PvE. But there are better hand cannons for PvE.  Maybe Mulligan for Nightfall Champions MW: range,reload
-dimwishlist:item=2138599001&perks=4090651448,3230963543,1645158859,3513791699  PvE. But there are better hand cannons for PvE.  Maybe Mulligan for Nightfall Champions MW: range,reload
-dimwishlist:item=2138599001&perks=4090651448,106909392,1645158859,3513791699  PvE. But there are better hand cannons for PvE.  Maybe Mulligan for Nightfall Champions MW: range,reload
-dimwishlist:item=2138599001&perks=4090651448,1087426260,1645158859,3513791699  PvE. But there are better hand cannons for PvE.  Maybe Mulligan for Nightfall Champions MW: range,reload
+dimwishlist:item=2138599001&perks=3250034553,3142289711,1645158859,1015611457  PvP (5.0) MW: range,handling,reload
+dimwishlist:item=2138599001&perks=1467527085,3142289711,1645158859,1015611457  PvP (5.0) MW: range,handling,reload
+dimwishlist:item=2138599001&perks=202670084,3142289711,1645158859,1015611457  PvP (5.0) MW: range,handling,reload
+dimwishlist:item=2138599001&perks=4090651448,3142289711,1645158859,1015611457  PvP (5.0) MW: range,handling,reload
+// Under Pressure, Opening Shot
+dimwishlist:item=2138599001&perks=3250034553,3142289711,1645158859,47981717  PvP (5.0) MW: range,handling,reload
+dimwishlist:item=2138599001&perks=1467527085,3142289711,1645158859,47981717  PvP (5.0) MW: range,handling,reload
+dimwishlist:item=2138599001&perks=202670084,3142289711,1645158859,47981717  PvP (5.0) MW: range,handling,reload
+dimwishlist:item=2138599001&perks=4090651448,3142289711,1645158859,47981717  PvP (5.0) MW: range,handling,reload
+// Optative
+// Outlaw, Kill Clip
+dimwishlist:item=2138599001&perks=202670084,1087426260,1168162263,1015611457  PvE. But there are better hand cannons for PvE.  Maybe Mulligan for Nightfall Champions MW: range,handling,reload
+dimwishlist:item=2138599001&perks=202670084,106909392,1168162263,1015611457  PvE. But there are better hand cannons for PvE.  Maybe Mulligan for Nightfall Champions MW: range,handling,reload
+dimwishlist:item=2138599001&perks=202670084,2420895100,1168162263,1015611457  PvE. But there are better hand cannons for PvE.  Maybe Mulligan for Nightfall Champions MW: range,handling,reload
+dimwishlist:item=2138599001&perks=3250034553,1087426260,1168162263,1015611457  PvE. But there are better hand cannons for PvE.  Maybe Mulligan for Nightfall Champions MW: range,handling,reload
+dimwishlist:item=2138599001&perks=3250034553,106909392,1168162263,1015611457  PvE. But there are better hand cannons for PvE.  Maybe Mulligan for Nightfall Champions MW: range,handling,reload
+dimwishlist:item=2138599001&perks=3250034553,2420895100,1168162263,1015611457  PvE. But there are better hand cannons for PvE.  Maybe Mulligan for Nightfall Champions MW: range,handling,reload
+dimwishlist:item=2138599001&perks=1467527085,1087426260,1168162263,1015611457  PvE. But there are better hand cannons for PvE.  Maybe Mulligan for Nightfall Champions MW: range,handling,reload
+dimwishlist:item=2138599001&perks=1467527085,106909392,1168162263,1015611457  PvE. But there are better hand cannons for PvE.  Maybe Mulligan for Nightfall Champions MW: range,handling,reload
+dimwishlist:item=2138599001&perks=1467527085,2420895100,1168162263,1015611457  PvE. But there are better hand cannons for PvE.  Maybe Mulligan for Nightfall Champions MW: range,handling,reload
+dimwishlist:item=2138599001&perks=4090651448,1087426260,1168162263,1015611457  PvE. But there are better hand cannons for PvE.  Maybe Mulligan for Nightfall Champions MW: range,handling,reload
+dimwishlist:item=2138599001&perks=4090651448,106909392,1168162263,1015611457  PvE. But there are better hand cannons for PvE.  Maybe Mulligan for Nightfall Champions MW: range,handling,reload
+dimwishlist:item=2138599001&perks=4090651448,2420895100,1168162263,1015611457  PvE. But there are better hand cannons for PvE.  Maybe Mulligan for Nightfall Champions MW: range,handling,reload
+// Outlaw, Demolitionist
+dimwishlist:item=2138599001&perks=202670084,1087426260,1168162263,3523296417  PvE. But there are better hand cannons for PvE.  Maybe Mulligan for Nightfall Champions MW: range,handling,reload
+dimwishlist:item=2138599001&perks=202670084,106909392,1168162263,3523296417  PvE. But there are better hand cannons for PvE.  Maybe Mulligan for Nightfall Champions MW: range,handling,reload
+dimwishlist:item=2138599001&perks=202670084,2420895100,1168162263,3523296417  PvE. But there are better hand cannons for PvE.  Maybe Mulligan for Nightfall Champions MW: range,handling,reload
+dimwishlist:item=2138599001&perks=3250034553,1087426260,1168162263,3523296417  PvE. But there are better hand cannons for PvE.  Maybe Mulligan for Nightfall Champions MW: range,handling,reload
+dimwishlist:item=2138599001&perks=3250034553,106909392,1168162263,3523296417  PvE. But there are better hand cannons for PvE.  Maybe Mulligan for Nightfall Champions MW: range,handling,reload
+dimwishlist:item=2138599001&perks=3250034553,2420895100,1168162263,3523296417  PvE. But there are better hand cannons for PvE.  Maybe Mulligan for Nightfall Champions MW: range,handling,reload
+dimwishlist:item=2138599001&perks=1467527085,1087426260,1168162263,3523296417  PvE. But there are better hand cannons for PvE.  Maybe Mulligan for Nightfall Champions MW: range,handling,reload
+dimwishlist:item=2138599001&perks=1467527085,106909392,1168162263,3523296417  PvE. But there are better hand cannons for PvE.  Maybe Mulligan for Nightfall Champions MW: range,handling,reload
+dimwishlist:item=2138599001&perks=1467527085,2420895100,1168162263,3523296417  PvE. But there are better hand cannons for PvE.  Maybe Mulligan for Nightfall Champions MW: range,handling,reload
+dimwishlist:item=2138599001&perks=4090651448,1087426260,1168162263,3523296417  PvE. But there are better hand cannons for PvE.  Maybe Mulligan for Nightfall Champions MW: range,handling,reload
+dimwishlist:item=2138599001&perks=4090651448,106909392,1168162263,3523296417  PvE. But there are better hand cannons for PvE.  Maybe Mulligan for Nightfall Champions MW: range,handling,reload
+dimwishlist:item=2138599001&perks=4090651448,2420895100,1168162263,3523296417  PvE. But there are better hand cannons for PvE.  Maybe Mulligan for Nightfall Champions MW: range,handling,reload
+// Outlaw, Mulligan
+dimwishlist:item=2138599001&perks=202670084,1087426260,1168162263,3513791699  PvE. But there are better hand cannons for PvE.  Maybe Mulligan for Nightfall Champions MW: range,handling,reload
+dimwishlist:item=2138599001&perks=202670084,106909392,1168162263,3513791699  PvE. But there are better hand cannons for PvE.  Maybe Mulligan for Nightfall Champions MW: range,handling,reload
+dimwishlist:item=2138599001&perks=202670084,2420895100,1168162263,3513791699  PvE. But there are better hand cannons for PvE.  Maybe Mulligan for Nightfall Champions MW: range,handling,reload
+dimwishlist:item=2138599001&perks=3250034553,1087426260,1168162263,3513791699  PvE. But there are better hand cannons for PvE.  Maybe Mulligan for Nightfall Champions MW: range,handling,reload
+dimwishlist:item=2138599001&perks=3250034553,106909392,1168162263,3513791699  PvE. But there are better hand cannons for PvE.  Maybe Mulligan for Nightfall Champions MW: range,handling,reload
+dimwishlist:item=2138599001&perks=3250034553,2420895100,1168162263,3513791699  PvE. But there are better hand cannons for PvE.  Maybe Mulligan for Nightfall Champions MW: range,handling,reload
+dimwishlist:item=2138599001&perks=1467527085,1087426260,1168162263,3513791699  PvE. But there are better hand cannons for PvE.  Maybe Mulligan for Nightfall Champions MW: range,handling,reload
+dimwishlist:item=2138599001&perks=1467527085,106909392,1168162263,3513791699  PvE. But there are better hand cannons for PvE.  Maybe Mulligan for Nightfall Champions MW: range,handling,reload
+dimwishlist:item=2138599001&perks=1467527085,2420895100,1168162263,3513791699  PvE. But there are better hand cannons for PvE.  Maybe Mulligan for Nightfall Champions MW: range,handling,reload
+dimwishlist:item=2138599001&perks=4090651448,1087426260,1168162263,3513791699  PvE. But there are better hand cannons for PvE.  Maybe Mulligan for Nightfall Champions MW: range,handling,reload
+dimwishlist:item=2138599001&perks=4090651448,106909392,1168162263,3513791699  PvE. But there are better hand cannons for PvE.  Maybe Mulligan for Nightfall Champions MW: range,handling,reload
+dimwishlist:item=2138599001&perks=4090651448,2420895100,1168162263,3513791699  PvE. But there are better hand cannons for PvE.  Maybe Mulligan for Nightfall Champions MW: range,handling,reload
 
 
 // Service Revolver
 // Rangefinder, Kill Clip
-dimwishlist:item=834081972&perks=1926090091,3142289711,2846385770,1015611457  PvP.  Rangefinder & Kill Clip as recommended by Aztecross (https://www.youtube.com/watch?v=Ut79oJlG4kk). MW: range,reload
-dimwishlist:item=834081972&perks=1926090091,3230963543,2846385770,1015611457  PvP.  Rangefinder & Kill Clip as recommended by Aztecross (https://www.youtube.com/watch?v=Ut79oJlG4kk). MW: range,reload
-dimwishlist:item=834081972&perks=1926090091,106909392,2846385770,1015611457  PvP.  Rangefinder & Kill Clip as recommended by Aztecross (https://www.youtube.com/watch?v=Ut79oJlG4kk). MW: range,reload
-dimwishlist:item=834081972&perks=1926090090,3142289711,2846385770,1015611457  PvP.  Rangefinder & Kill Clip as recommended by Aztecross (https://www.youtube.com/watch?v=Ut79oJlG4kk). MW: range,reload
-dimwishlist:item=834081972&perks=1926090090,3230963543,2846385770,1015611457  PvP.  Rangefinder & Kill Clip as recommended by Aztecross (https://www.youtube.com/watch?v=Ut79oJlG4kk). MW: range,reload
-dimwishlist:item=834081972&perks=1926090090,106909392,2846385770,1015611457  PvP.  Rangefinder & Kill Clip as recommended by Aztecross (https://www.youtube.com/watch?v=Ut79oJlG4kk). MW: range,reload
-dimwishlist:item=834081972&perks=1926090093,3142289711,2846385770,1015611457  PvP.  Rangefinder & Kill Clip as recommended by Aztecross (https://www.youtube.com/watch?v=Ut79oJlG4kk). MW: range,reload
-dimwishlist:item=834081972&perks=1926090093,3230963543,2846385770,1015611457  PvP.  Rangefinder & Kill Clip as recommended by Aztecross (https://www.youtube.com/watch?v=Ut79oJlG4kk). MW: range,reload
-dimwishlist:item=834081972&perks=1926090093,106909392,2846385770,1015611457  PvP.  Rangefinder & Kill Clip as recommended by Aztecross (https://www.youtube.com/watch?v=Ut79oJlG4kk). MW: range,reload
-dimwishlist:item=834081972&perks=1926090092,3142289711,2846385770,1015611457  PvP.  Rangefinder & Kill Clip as recommended by Aztecross (https://www.youtube.com/watch?v=Ut79oJlG4kk). MW: range,reload
-dimwishlist:item=834081972&perks=1926090092,3230963543,2846385770,1015611457  PvP.  Rangefinder & Kill Clip as recommended by Aztecross (https://www.youtube.com/watch?v=Ut79oJlG4kk). MW: range,reload
-dimwishlist:item=834081972&perks=1926090092,106909392,2846385770,1015611457  PvP.  Rangefinder & Kill Clip as recommended by Aztecross (https://www.youtube.com/watch?v=Ut79oJlG4kk). MW: range,reload
-// Rapid Hit, Kill Clip
-dimwishlist:item=834081972&perks=1926090091,3142289711,247725512,1015611457  PvP. MW: range,reload
-dimwishlist:item=834081972&perks=1926090091,3230963543,247725512,1015611457  PvP. MW: range,reload
-dimwishlist:item=834081972&perks=1926090091,106909392,247725512,1015611457  PvP. MW: range,reload
-dimwishlist:item=834081972&perks=1926090090,3142289711,247725512,1015611457  PvP. MW: range,reload
-dimwishlist:item=834081972&perks=1926090090,3230963543,247725512,1015611457  PvP. MW: range,reload
-dimwishlist:item=834081972&perks=1926090090,106909392,247725512,1015611457  PvP. MW: range,reload
-dimwishlist:item=834081972&perks=1926090093,3142289711,247725512,1015611457  PvP. MW: range,reload
-dimwishlist:item=834081972&perks=1926090093,3230963543,247725512,1015611457  PvP. MW: range,reload
-dimwishlist:item=834081972&perks=1926090093,106909392,247725512,1015611457  PvP. MW: range,reload
-dimwishlist:item=834081972&perks=1926090092,3142289711,247725512,1015611457  PvP. MW: range,reload
-dimwishlist:item=834081972&perks=1926090092,3230963543,247725512,1015611457  PvP. MW: range,reload
-dimwishlist:item=834081972&perks=1926090092,106909392,247725512,1015611457  PvP. MW: range,reload
-// Rapid Hit, Opening Shot
-dimwishlist:item=834081972&perks=1926090091,3142289711,247725512,47981717  PvP. MW: range,reload
-dimwishlist:item=834081972&perks=1926090091,3230963543,247725512,47981717  PvP. MW: range,reload
-dimwishlist:item=834081972&perks=1926090091,106909392,247725512,47981717  PvP. MW: range,reload
-dimwishlist:item=834081972&perks=1926090090,3142289711,247725512,47981717  PvP. MW: range,reload
-dimwishlist:item=834081972&perks=1926090090,3230963543,247725512,47981717  PvP. MW: range,reload
-dimwishlist:item=834081972&perks=1926090090,106909392,247725512,47981717  PvP. MW: range,reload
-dimwishlist:item=834081972&perks=1926090093,3142289711,247725512,47981717  PvP. MW: range,reload
-dimwishlist:item=834081972&perks=1926090093,3230963543,247725512,47981717  PvP. MW: range,reload
-dimwishlist:item=834081972&perks=1926090093,106909392,247725512,47981717  PvP. MW: range,reload
-dimwishlist:item=834081972&perks=1926090092,3142289711,247725512,47981717  PvP. MW: range,reload
-dimwishlist:item=834081972&perks=1926090092,3230963543,247725512,47981717  PvP. MW: range,reload
-dimwishlist:item=834081972&perks=1926090092,106909392,247725512,47981717  PvP. MW: range,reload
+dimwishlist:item=834081972&perks=1926090090,3142289711,2846385770,1015611457  PvP.  Rangefinder & Kill Clip as recommended by Aztecross (https://www.youtube.com/watch?v=Ut79oJlG4kk). MW: range,handling,reload
+dimwishlist:item=834081972&perks=1926090090,1885400500,2846385770,1015611457  PvP.  Rangefinder & Kill Clip as recommended by Aztecross (https://www.youtube.com/watch?v=Ut79oJlG4kk). MW: range,handling,reload
+dimwishlist:item=834081972&perks=1926090090,1561002382,2846385770,1015611457  PvP.  Rangefinder & Kill Clip as recommended by Aztecross (https://www.youtube.com/watch?v=Ut79oJlG4kk). MW: range,handling,reload
+dimwishlist:item=834081972&perks=1926090091,3142289711,2846385770,1015611457  PvP.  Rangefinder & Kill Clip as recommended by Aztecross (https://www.youtube.com/watch?v=Ut79oJlG4kk). MW: range,handling,reload
+dimwishlist:item=834081972&perks=1926090091,1885400500,2846385770,1015611457  PvP.  Rangefinder & Kill Clip as recommended by Aztecross (https://www.youtube.com/watch?v=Ut79oJlG4kk). MW: range,handling,reload
+dimwishlist:item=834081972&perks=1926090091,1561002382,2846385770,1015611457  PvP.  Rangefinder & Kill Clip as recommended by Aztecross (https://www.youtube.com/watch?v=Ut79oJlG4kk). MW: range,handling,reload
 // Moving Target, Kill Clip
-dimwishlist:item=834081972&perks=1926090091,3142289711,588594999,1015611457  PvP. MW: range,reload
-dimwishlist:item=834081972&perks=1926090091,3230963543,588594999,1015611457  PvP. MW: range,reload
-dimwishlist:item=834081972&perks=1926090091,106909392,588594999,1015611457  PvP. MW: range,reload
-dimwishlist:item=834081972&perks=1926090090,3142289711,588594999,1015611457  PvP. MW: range,reload
-dimwishlist:item=834081972&perks=1926090090,3230963543,588594999,1015611457  PvP. MW: range,reload
-dimwishlist:item=834081972&perks=1926090090,106909392,588594999,1015611457  PvP. MW: range,reload
-dimwishlist:item=834081972&perks=1926090093,3142289711,588594999,1015611457  PvP. MW: range,reload
-dimwishlist:item=834081972&perks=1926090093,3230963543,588594999,1015611457  PvP. MW: range,reload
-dimwishlist:item=834081972&perks=1926090093,106909392,588594999,1015611457  PvP. MW: range,reload
-dimwishlist:item=834081972&perks=1926090092,3142289711,588594999,1015611457  PvP. MW: range,reload
-dimwishlist:item=834081972&perks=1926090092,3230963543,588594999,1015611457  PvP. MW: range,reload
-dimwishlist:item=834081972&perks=1926090092,106909392,588594999,1015611457  PvP. MW: range,reload
+dimwishlist:item=834081972&perks=1926090090,3142289711,588594999,1015611457  PvP (4.8). MW: range,handling,reload
+dimwishlist:item=834081972&perks=1926090090,1885400500,588594999,1015611457  PvP (4.8). MW: range,handling,reload
+dimwishlist:item=834081972&perks=1926090090,1561002382,588594999,1015611457  PvP (4.8). MW: range,handling,reload
+dimwishlist:item=834081972&perks=1926090091,3142289711,588594999,1015611457  PvP (4.8). MW: range,handling,reload
+dimwishlist:item=834081972&perks=1926090091,1885400500,588594999,1015611457  PvP (4.8). MW: range,handling,reload
+dimwishlist:item=834081972&perks=1926090091,1561002382,588594999,1015611457  PvP (4.8). MW: range,handling,reload
 // Moving Target, Opening Shot
-dimwishlist:item=834081972&perks=1926090091,3142289711,588594999,47981717  PvP. MW: range,reload
-dimwishlist:item=834081972&perks=1926090091,3230963543,588594999,47981717  PvP. MW: range,reload
-dimwishlist:item=834081972&perks=1926090091,106909392,588594999,47981717  PvP. MW: range,reload
-dimwishlist:item=834081972&perks=1926090090,3142289711,588594999,47981717  PvP. MW: range,reload
-dimwishlist:item=834081972&perks=1926090090,3230963543,588594999,47981717  PvP. MW: range,reload
-dimwishlist:item=834081972&perks=1926090090,106909392,588594999,47981717  PvP. MW: range,reload
-dimwishlist:item=834081972&perks=1926090093,3142289711,588594999,47981717  PvP. MW: range,reload
-dimwishlist:item=834081972&perks=1926090093,3230963543,588594999,47981717  PvP. MW: range,reload
-dimwishlist:item=834081972&perks=1926090093,106909392,588594999,47981717  PvP. MW: range,reload
-dimwishlist:item=834081972&perks=1926090092,3142289711,588594999,47981717  PvP. MW: range,reload
-dimwishlist:item=834081972&perks=1926090092,3230963543,588594999,47981717  PvP. MW: range,reload
-dimwishlist:item=834081972&perks=1926090092,106909392,588594999,47981717  PvP. MW: range,reload
+dimwishlist:item=834081972&perks=1926090090,3142289711,588594999,47981717  PvP (4.8). MW: range,handling,reload
+dimwishlist:item=834081972&perks=1926090090,1885400500,588594999,47981717  PvP (4.8). MW: range,handling,reload
+dimwishlist:item=834081972&perks=1926090090,1561002382,588594999,47981717  PvP (4.8). MW: range,handling,reload
+dimwishlist:item=834081972&perks=1926090091,3142289711,588594999,47981717  PvP (4.8). MW: range,handling,reload
+dimwishlist:item=834081972&perks=1926090091,1885400500,588594999,47981717  PvP (4.8). MW: range,handling,reload
+dimwishlist:item=834081972&perks=1926090091,1561002382,588594999,47981717  PvP (4.8). MW: range,handling,reload
+// Rapid Hit, Kill Clip
+dimwishlist:item=834081972&perks=1926090090,3142289711,247725512,1015611457  PvP (4.8). MW: range,handling,reload
+dimwishlist:item=834081972&perks=1926090090,1885400500,247725512,1015611457  PvP (4.8). MW: range,handling,reload
+dimwishlist:item=834081972&perks=1926090090,1561002382,247725512,1015611457  PvP (4.8). MW: range,handling,reload
+dimwishlist:item=834081972&perks=1926090091,3142289711,247725512,1015611457  PvP (4.8). MW: range,handling,reload
+dimwishlist:item=834081972&perks=1926090091,1885400500,247725512,1015611457  PvP (4.8). MW: range,handling,reload
+dimwishlist:item=834081972&perks=1926090091,1561002382,247725512,1015611457  PvP (4.8). MW: range,handling,reload
+// Rapid Hit, Opening Shot
+dimwishlist:item=834081972&perks=1926090090,3142289711,247725512,47981717  PvP (4.8). MW: range,handling,reload
+dimwishlist:item=834081972&perks=1926090090,1885400500,247725512,47981717  PvP (4.8). MW: range,handling,reload
+dimwishlist:item=834081972&perks=1926090090,1561002382,247725512,47981717  PvP (4.8). MW: range,handling,reload
+dimwishlist:item=834081972&perks=1926090091,3142289711,247725512,47981717  PvP (4.8). MW: range,handling,reload
+dimwishlist:item=834081972&perks=1926090091,1885400500,247725512,47981717  PvP (4.8). MW: range,handling,reload
+dimwishlist:item=834081972&perks=1926090091,1561002382,247725512,47981717  PvP (4.8). MW: range,handling,reload
+// Service Revolver
 // Outlaw, Rampage
-dimwishlist:item=834081972&perks=1926090091,3142289711,1168162263,3425386926  PvE. MW: range,reload
+dimwishlist:item=834081972&perks=1926090091,2420895100,1168162263,3425386926  PvE. MW: range,reload
+dimwishlist:item=834081972&perks=1926090091,1087426260,1168162263,3425386926  PvE. MW: range,reload
+dimwishlist:item=834081972&perks=1926090091,1561002382,1168162263,3425386926  PvE. MW: range,reload
+dimwishlist:item=834081972&perks=1926090091,679225683,1168162263,3425386926  PvE. MW: range,reload
 dimwishlist:item=834081972&perks=1926090091,3230963543,1168162263,3425386926  PvE. MW: range,reload
-dimwishlist:item=834081972&perks=1926090091,106909392,1168162263,3425386926  PvE. MW: range,reload
-dimwishlist:item=834081972&perks=1926090090,3142289711,1168162263,3425386926  PvE. MW: range,reload
+dimwishlist:item=834081972&perks=1926090090,2420895100,1168162263,3425386926  PvE. MW: range,reload
+dimwishlist:item=834081972&perks=1926090090,1087426260,1168162263,3425386926  PvE. MW: range,reload
+dimwishlist:item=834081972&perks=1926090090,1561002382,1168162263,3425386926  PvE. MW: range,reload
+dimwishlist:item=834081972&perks=1926090090,679225683,1168162263,3425386926  PvE. MW: range,reload
 dimwishlist:item=834081972&perks=1926090090,3230963543,1168162263,3425386926  PvE. MW: range,reload
-dimwishlist:item=834081972&perks=1926090090,106909392,1168162263,3425386926  PvE. MW: range,reload
-dimwishlist:item=834081972&perks=1926090093,3142289711,1168162263,3425386926  PvE. MW: range,reload
+dimwishlist:item=834081972&perks=1926090093,2420895100,1168162263,3425386926  PvE. MW: range,reload
+dimwishlist:item=834081972&perks=1926090093,1087426260,1168162263,3425386926  PvE. MW: range,reload
+dimwishlist:item=834081972&perks=1926090093,1561002382,1168162263,3425386926  PvE. MW: range,reload
+dimwishlist:item=834081972&perks=1926090093,679225683,1168162263,3425386926  PvE. MW: range,reload
 dimwishlist:item=834081972&perks=1926090093,3230963543,1168162263,3425386926  PvE. MW: range,reload
-dimwishlist:item=834081972&perks=1926090093,106909392,1168162263,3425386926  PvE. MW: range,reload
-dimwishlist:item=834081972&perks=1926090092,3142289711,1168162263,3425386926  PvE. MW: range,reload
+dimwishlist:item=834081972&perks=1926090092,2420895100,1168162263,3425386926  PvE. MW: range,reload
+dimwishlist:item=834081972&perks=1926090092,1087426260,1168162263,3425386926  PvE. MW: range,reload
+dimwishlist:item=834081972&perks=1926090092,1561002382,1168162263,3425386926  PvE. MW: range,reload
+dimwishlist:item=834081972&perks=1926090092,679225683,1168162263,3425386926  PvE. MW: range,reload
 dimwishlist:item=834081972&perks=1926090092,3230963543,1168162263,3425386926  PvE. MW: range,reload
-dimwishlist:item=834081972&perks=1926090092,106909392,1168162263,3425386926  PvE. MW: range,reload
 // Outlaw, Kill Clip
-dimwishlist:item=834081972&perks=1926090091,3142289711,1168162263,1015611457  PvE. MW: range,reload
+dimwishlist:item=834081972&perks=1926090091,2420895100,1168162263,1015611457  PvE. MW: range,reload
+dimwishlist:item=834081972&perks=1926090091,1087426260,1168162263,1015611457  PvE. MW: range,reload
+dimwishlist:item=834081972&perks=1926090091,1561002382,1168162263,1015611457  PvE. MW: range,reload
+dimwishlist:item=834081972&perks=1926090091,679225683,1168162263,1015611457  PvE. MW: range,reload
 dimwishlist:item=834081972&perks=1926090091,3230963543,1168162263,1015611457  PvE. MW: range,reload
-dimwishlist:item=834081972&perks=1926090091,106909392,1168162263,1015611457  PvE. MW: range,reload
-dimwishlist:item=834081972&perks=1926090090,3142289711,1168162263,1015611457  PvE. MW: range,reload
+dimwishlist:item=834081972&perks=1926090090,2420895100,1168162263,1015611457  PvE. MW: range,reload
+dimwishlist:item=834081972&perks=1926090090,1087426260,1168162263,1015611457  PvE. MW: range,reload
+dimwishlist:item=834081972&perks=1926090090,1561002382,1168162263,1015611457  PvE. MW: range,reload
+dimwishlist:item=834081972&perks=1926090090,679225683,1168162263,1015611457  PvE. MW: range,reload
 dimwishlist:item=834081972&perks=1926090090,3230963543,1168162263,1015611457  PvE. MW: range,reload
-dimwishlist:item=834081972&perks=1926090090,106909392,1168162263,1015611457  PvE. MW: range,reload
-dimwishlist:item=834081972&perks=1926090093,3142289711,1168162263,1015611457  PvE. MW: range,reload
+dimwishlist:item=834081972&perks=1926090093,2420895100,1168162263,1015611457  PvE. MW: range,reload
+dimwishlist:item=834081972&perks=1926090093,1087426260,1168162263,1015611457  PvE. MW: range,reload
+dimwishlist:item=834081972&perks=1926090093,1561002382,1168162263,1015611457  PvE. MW: range,reload
+dimwishlist:item=834081972&perks=1926090093,679225683,1168162263,1015611457  PvE. MW: range,reload
 dimwishlist:item=834081972&perks=1926090093,3230963543,1168162263,1015611457  PvE. MW: range,reload
-dimwishlist:item=834081972&perks=1926090093,106909392,1168162263,1015611457  PvE. MW: range,reload
-dimwishlist:item=834081972&perks=1926090092,3142289711,1168162263,1015611457  PvE. MW: range,reload
+dimwishlist:item=834081972&perks=1926090092,2420895100,1168162263,1015611457  PvE. MW: range,reload
+dimwishlist:item=834081972&perks=1926090092,1087426260,1168162263,1015611457  PvE. MW: range,reload
+dimwishlist:item=834081972&perks=1926090092,1561002382,1168162263,1015611457  PvE. MW: range,reload
+dimwishlist:item=834081972&perks=1926090092,679225683,1168162263,1015611457  PvE. MW: range,reload
 dimwishlist:item=834081972&perks=1926090092,3230963543,1168162263,1015611457  PvE. MW: range,reload
-dimwishlist:item=834081972&perks=1926090092,106909392,1168162263,1015611457  PvE. MW: range,reload
+// Triple Tap, Rampage
+dimwishlist:item=834081972&perks=1926090091,2420895100,3400784728,3425386926  PvE. MW: range,reload
+dimwishlist:item=834081972&perks=1926090091,1087426260,3400784728,3425386926  PvE. MW: range,reload
+dimwishlist:item=834081972&perks=1926090091,1561002382,3400784728,3425386926  PvE. MW: range,reload
+dimwishlist:item=834081972&perks=1926090091,679225683,3400784728,3425386926  PvE. MW: range,reload
+dimwishlist:item=834081972&perks=1926090091,3230963543,3400784728,3425386926  PvE. MW: range,reload
+dimwishlist:item=834081972&perks=1926090090,2420895100,3400784728,3425386926  PvE. MW: range,reload
+dimwishlist:item=834081972&perks=1926090090,1087426260,3400784728,3425386926  PvE. MW: range,reload
+dimwishlist:item=834081972&perks=1926090090,1561002382,3400784728,3425386926  PvE. MW: range,reload
+dimwishlist:item=834081972&perks=1926090090,679225683,3400784728,3425386926  PvE. MW: range,reload
+dimwishlist:item=834081972&perks=1926090090,3230963543,3400784728,3425386926  PvE. MW: range,reload
+dimwishlist:item=834081972&perks=1926090093,2420895100,3400784728,3425386926  PvE. MW: range,reload
+dimwishlist:item=834081972&perks=1926090093,1087426260,3400784728,3425386926  PvE. MW: range,reload
+dimwishlist:item=834081972&perks=1926090093,1561002382,3400784728,3425386926  PvE. MW: range,reload
+dimwishlist:item=834081972&perks=1926090093,679225683,3400784728,3425386926  PvE. MW: range,reload
+dimwishlist:item=834081972&perks=1926090093,3230963543,3400784728,3425386926  PvE. MW: range,reload
+dimwishlist:item=834081972&perks=1926090092,2420895100,3400784728,3425386926  PvE. MW: range,reload
+dimwishlist:item=834081972&perks=1926090092,1087426260,3400784728,3425386926  PvE. MW: range,reload
+dimwishlist:item=834081972&perks=1926090092,1561002382,3400784728,3425386926  PvE. MW: range,reload
+dimwishlist:item=834081972&perks=1926090092,679225683,3400784728,3425386926  PvE. MW: range,reload
+dimwishlist:item=834081972&perks=1926090092,3230963543,3400784728,3425386926  PvE. MW: range,reload
+// Triple Tap, Kill Clip
+dimwishlist:item=834081972&perks=1926090091,2420895100,3400784728,1015611457  PvE. MW: range,reload
+dimwishlist:item=834081972&perks=1926090091,1087426260,3400784728,1015611457  PvE. MW: range,reload
+dimwishlist:item=834081972&perks=1926090091,1561002382,3400784728,1015611457  PvE. MW: range,reload
+dimwishlist:item=834081972&perks=1926090091,679225683,3400784728,1015611457  PvE. MW: range,reload
+dimwishlist:item=834081972&perks=1926090091,3230963543,3400784728,1015611457  PvE. MW: range,reload
+dimwishlist:item=834081972&perks=1926090090,2420895100,3400784728,1015611457  PvE. MW: range,reload
+dimwishlist:item=834081972&perks=1926090090,1087426260,3400784728,1015611457  PvE. MW: range,reload
+dimwishlist:item=834081972&perks=1926090090,1561002382,3400784728,1015611457  PvE. MW: range,reload
+dimwishlist:item=834081972&perks=1926090090,679225683,3400784728,1015611457  PvE. MW: range,reload
+dimwishlist:item=834081972&perks=1926090090,3230963543,3400784728,1015611457  PvE. MW: range,reload
+dimwishlist:item=834081972&perks=1926090093,2420895100,3400784728,1015611457  PvE. MW: range,reload
+dimwishlist:item=834081972&perks=1926090093,1087426260,3400784728,1015611457  PvE. MW: range,reload
+dimwishlist:item=834081972&perks=1926090093,1561002382,3400784728,1015611457  PvE. MW: range,reload
+dimwishlist:item=834081972&perks=1926090093,679225683,3400784728,1015611457  PvE. MW: range,reload
+dimwishlist:item=834081972&perks=1926090093,3230963543,3400784728,1015611457  PvE. MW: range,reload
+dimwishlist:item=834081972&perks=1926090092,2420895100,3400784728,1015611457  PvE. MW: range,reload
+dimwishlist:item=834081972&perks=1926090092,1087426260,3400784728,1015611457  PvE. MW: range,reload
+dimwishlist:item=834081972&perks=1926090092,1561002382,3400784728,1015611457  PvE. MW: range,reload
+dimwishlist:item=834081972&perks=1926090092,679225683,3400784728,1015611457  PvE. MW: range,reload
+dimwishlist:item=834081972&perks=1926090092,3230963543,3400784728,1015611457  PvE. MW: range,reload
 
 
 // Temporal Clause
