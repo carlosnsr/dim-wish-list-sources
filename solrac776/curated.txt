@@ -688,164 +688,206 @@ dimwishlist:item=991314988&perks=1478423395,3796465595,3977735242,1275731761  Pv
 // Bad Omens
 //notes: Max Boss DPS.  Implosion Rounds concentrates the blast (and cluster bombs) to do the most damage on bosses
 // Field Prep, Cluster Bomb
-dimwishlist:item=991314988&perks=981914802,3492396210,2869569095,1275731761  PvE.  Field Prep for the extra ammo reserves and faster reload when crouching.  Fallout Plays recommended {https://www.youtube.com/watch?v=KGECTCBY_Zg) MW: velocity, handling, reload
-// Bad Omens
-// Tracking Module, Cluster Bomb
-dimwishlist:item=991314988&perks=1478423395,3796465595,3977735242,1275731761  PvE.  Received from resetting one's Gambit rank twice. Great roll. MW: blast_radius, velocity, reload
-// Bad Omens
-// Tracking Module, Cluster Bomb
-dimwishlist:item=991314988&perks=1478423395,2985827016,3977735242,1275731761  PvE (4.9) or PvP (2.9). MW: blast_radius, velocity, reload
-dimwishlist:item=991314988&perks=1478423395,1996142143,3977735242,1275731761  PvE (4.9) or PvP (2.9). MW: blast_radius, velocity, reload
-dimwishlist:item=991314988&perks=1478423395,2822142346,3977735242,1275731761  PvE (4.9) or PvP (2.9). MW: blast_radius, velocity, reload
-dimwishlist:item=991314988&perks=1478423395,3492396210,3977735242,1275731761  PvE (4.9) or PvP (2.9). MW: blast_radius, velocity, reload
-dimwishlist:item=991314988&perks=1441682018,2985827016,3977735242,1275731761  PvE (4.9) or PvP (2.9). MW: blast_radius, velocity, reload
-dimwishlist:item=991314988&perks=1441682018,1996142143,3977735242,1275731761  PvE (4.9) or PvP (2.9). MW: blast_radius, velocity, reload
-dimwishlist:item=991314988&perks=1441682018,2822142346,3977735242,1275731761  PvE (4.9) or PvP (2.9). MW: blast_radius, velocity, reload
-dimwishlist:item=991314988&perks=1441682018,3492396210,3977735242,1275731761  PvE (4.9) or PvP (2.9). MW: blast_radius, velocity, reload
-dimwishlist:item=991314988&perks=981914802,2985827016,3977735242,1275731761  PvE (4.9) or PvP (2.9). MW: blast_radius, velocity, reload
-dimwishlist:item=991314988&perks=981914802,1996142143,3977735242,1275731761  PvE (4.9) or PvP (2.9). MW: blast_radius, velocity, reload
-dimwishlist:item=991314988&perks=981914802,2822142346,3977735242,1275731761  PvE (4.9) or PvP (2.9). MW: blast_radius, velocity, reload
-dimwishlist:item=991314988&perks=981914802,3492396210,3977735242,1275731761  PvE (4.9) or PvP (2.9). MW: blast_radius, velocity, reload
-dimwishlist:item=991314988&perks=3798852852,2985827016,3977735242,1275731761  PvE (4.9) or PvP (2.9). MW: blast_radius, velocity, reload
-dimwishlist:item=991314988&perks=3798852852,1996142143,3977735242,1275731761  PvE (4.9) or PvP (2.9). MW: blast_radius, velocity, reload
-dimwishlist:item=991314988&perks=3798852852,2822142346,3977735242,1275731761  PvE (4.9) or PvP (2.9). MW: blast_radius, velocity, reload
-dimwishlist:item=991314988&perks=3798852852,3492396210,3977735242,1275731761  PvE (4.9) or PvP (2.9). MW: blast_radius, velocity, reload
+dimwishlist:item=991314988&perks=981914802,3492396210,2869569095,1275731761  PvE.  Max Boss DPS.  Field Prep for the extra ammo reserves and faster reload when crouching.  Fallout Plays recommended {https://www.youtube.com/watch?v=KGECTCBY_Zg) MW: velocity, handling, reload
 // Auto Loading Holster, Cluster Bomb
-dimwishlist:item=991314988&perks=1478423395,2985827016,3300816228,1275731761  PvE (4.9) or PvP (2.9). MW: blast_radius, velocity, reload
-dimwishlist:item=991314988&perks=1478423395,1996142143,3300816228,1275731761  PvE (4.9) or PvP (2.9). MW: blast_radius, velocity, reload
-dimwishlist:item=991314988&perks=1478423395,2822142346,3300816228,1275731761  PvE (4.9) or PvP (2.9). MW: blast_radius, velocity, reload
-dimwishlist:item=991314988&perks=1478423395,3492396210,3300816228,1275731761  PvE (4.9) or PvP (2.9). MW: blast_radius, velocity, reload
-dimwishlist:item=991314988&perks=1441682018,2985827016,3300816228,1275731761  PvE (4.9) or PvP (2.9). MW: blast_radius, velocity, reload
-dimwishlist:item=991314988&perks=1441682018,1996142143,3300816228,1275731761  PvE (4.9) or PvP (2.9). MW: blast_radius, velocity, reload
-dimwishlist:item=991314988&perks=1441682018,2822142346,3300816228,1275731761  PvE (4.9) or PvP (2.9). MW: blast_radius, velocity, reload
-dimwishlist:item=991314988&perks=1441682018,3492396210,3300816228,1275731761  PvE (4.9) or PvP (2.9). MW: blast_radius, velocity, reload
-dimwishlist:item=991314988&perks=981914802,2985827016,3300816228,1275731761  PvE (4.9) or PvP (2.9). MW: blast_radius, velocity, reload
-dimwishlist:item=991314988&perks=981914802,1996142143,3300816228,1275731761  PvE (4.9) or PvP (2.9). MW: blast_radius, velocity, reload
-dimwishlist:item=991314988&perks=981914802,2822142346,3300816228,1275731761  PvE (4.9) or PvP (2.9). MW: blast_radius, velocity, reload
-dimwishlist:item=991314988&perks=981914802,3492396210,3300816228,1275731761  PvE (4.9) or PvP (2.9). MW: blast_radius, velocity, reload
-dimwishlist:item=991314988&perks=3798852852,2985827016,3300816228,1275731761  PvE (4.9) or PvP (2.9). MW: blast_radius, velocity, reload
-dimwishlist:item=991314988&perks=3798852852,1996142143,3300816228,1275731761  PvE (4.9) or PvP (2.9). MW: blast_radius, velocity, reload
-dimwishlist:item=991314988&perks=3798852852,2822142346,3300816228,1275731761  PvE (4.9) or PvP (2.9). MW: blast_radius, velocity, reload
-dimwishlist:item=991314988&perks=3798852852,3492396210,3300816228,1275731761  PvE (4.9) or PvP (2.9). MW: blast_radius, velocity, reload
+dimwishlist:item=991314988&perks=981914802,3492396210,3300816228,1275731761  PvE.  Boss DPS MW: velocity, handling, reload
+// Tracking Module, Cluster Bomb
+dimwishlist:item=991314988&perks=981914802,3492396210,3977735242,1275731761  PvE.  Boss DPS MW: velocity, handling, reload
+// Bad Omens
+//notes: Max Blast Radius.  Black Powder for largest Blast Radius, or High Velocity Rounds to speed up the rockets
+// Tracking Module, Cluster Bomb
+dimwishlist:item=991314988&perks=1478423395,1996142143,3977735242,1275731761  PvE (4.9) PvP (2.9) MW: blast_radius, velocity, reload
+dimwishlist:item=991314988&perks=1478423395,2822142346,3977735242,1275731761  PvE (4.9) PvP (2.9) MW: blast_radius, velocity, reload
+dimwishlist:item=991314988&perks=1844523823,1996142143,3977735242,1275731761  PvE (4.9) PvP (2.9) MW: blast_radius, velocity, reload
+dimwishlist:item=991314988&perks=1844523823,2822142346,3977735242,1275731761  PvE (4.9) PvP (2.9) MW: blast_radius, velocity, reload
+dimwishlist:item=991314988&perks=1441682018,1996142143,3977735242,1275731761  PvE (4.9) PvP (2.9) MW: blast_radius, velocity, reload
+dimwishlist:item=991314988&perks=1441682018,2822142346,3977735242,1275731761  PvE (4.9) PvP (2.9) MW: blast_radius, velocity, reload
+// Auto Loading Holster, Cluster Bomb
+dimwishlist:item=991314988&perks=1478423395,1996142143,3300816228,1275731761  PvE (4.9) PvP (2.9) MW: blast_radius, velocity, reload
+dimwishlist:item=991314988&perks=1478423395,2822142346,3300816228,1275731761  PvE (4.9) PvP (2.9) MW: blast_radius, velocity, reload
+dimwishlist:item=991314988&perks=1844523823,1996142143,3300816228,1275731761  PvE (4.9) PvP (2.9) MW: blast_radius, velocity, reload
+dimwishlist:item=991314988&perks=1844523823,2822142346,3300816228,1275731761  PvE (4.9) PvP (2.9) MW: blast_radius, velocity, reload
+dimwishlist:item=991314988&perks=1441682018,1996142143,3300816228,1275731761  PvE (4.9) PvP (2.9) MW: blast_radius, velocity, reload
+dimwishlist:item=991314988&perks=1441682018,2822142346,3300816228,1275731761  PvE (4.9) PvP (2.9) MW: blast_radius, velocity, reload
+// Tracking Module, Cluster Bomb
+dimwishlist:item=991314988&perks=1478423395,1996142143,3977735242,1275731761  PvP (2.9). MW: blast_radius, velocity, reload
+dimwishlist:item=991314988&perks=1478423395,2822142346,3977735242,1275731761  PvP (2.9). MW: blast_radius, velocity, reload
+dimwishlist:item=991314988&perks=1844523823,1996142143,3977735242,1275731761  PvP (2.9). MW: blast_radius, velocity, reload
+dimwishlist:item=991314988&perks=1844523823,2822142346,3977735242,1275731761  PvP (2.9). MW: blast_radius, velocity, reload
+dimwishlist:item=991314988&perks=1441682018,1996142143,3977735242,1275731761  PvP (2.9). MW: blast_radius, velocity, reload
+dimwishlist:item=991314988&perks=1441682018,2822142346,3977735242,1275731761  PvP (2.9). MW: blast_radius, velocity, reload
 // Tracking Module, Quickdraw
-dimwishlist:item=991314988&perks=1478423395,2985827016,3977735242,706527188  PvP (2.9). MW: blast_radius, velocity, reload
 dimwishlist:item=991314988&perks=1478423395,1996142143,3977735242,706527188  PvP (2.9). MW: blast_radius, velocity, reload
 dimwishlist:item=991314988&perks=1478423395,2822142346,3977735242,706527188  PvP (2.9). MW: blast_radius, velocity, reload
-dimwishlist:item=991314988&perks=1478423395,3492396210,3977735242,706527188  PvP (2.9). MW: blast_radius, velocity, reload
-dimwishlist:item=991314988&perks=1441682018,2985827016,3977735242,706527188  PvP (2.9). MW: blast_radius, velocity, reload
+dimwishlist:item=991314988&perks=1844523823,1996142143,3977735242,706527188  PvP (2.9). MW: blast_radius, velocity, reload
+dimwishlist:item=991314988&perks=1844523823,2822142346,3977735242,706527188  PvP (2.9). MW: blast_radius, velocity, reload
 dimwishlist:item=991314988&perks=1441682018,1996142143,3977735242,706527188  PvP (2.9). MW: blast_radius, velocity, reload
 dimwishlist:item=991314988&perks=1441682018,2822142346,3977735242,706527188  PvP (2.9). MW: blast_radius, velocity, reload
-dimwishlist:item=991314988&perks=1441682018,3492396210,3977735242,706527188  PvP (2.9). MW: blast_radius, velocity, reload
-dimwishlist:item=991314988&perks=981914802,2985827016,3977735242,706527188  PvP (2.9). MW: blast_radius, velocity, reload
-dimwishlist:item=991314988&perks=981914802,1996142143,3977735242,706527188  PvP (2.9). MW: blast_radius, velocity, reload
-dimwishlist:item=991314988&perks=981914802,2822142346,3977735242,706527188  PvP (2.9). MW: blast_radius, velocity, reload
-dimwishlist:item=991314988&perks=981914802,3492396210,3977735242,706527188  PvP (2.9). MW: blast_radius, velocity, reload
-dimwishlist:item=991314988&perks=3798852852,2985827016,3977735242,706527188  PvP (2.9). MW: blast_radius, velocity, reload
-dimwishlist:item=991314988&perks=3798852852,1996142143,3977735242,706527188  PvP (2.9). MW: blast_radius, velocity, reload
-dimwishlist:item=991314988&perks=3798852852,2822142346,3977735242,706527188  PvP (2.9). MW: blast_radius, velocity, reload
-dimwishlist:item=991314988&perks=3798852852,3492396210,3977735242,706527188  PvP (2.9). MW: blast_radius, velocity, reload
+// Auto Loading Holster, Cluster Bomb
+dimwishlist:item=991314988&perks=1478423395,1996142143,3300816228,1275731761  PvP (2.9). MW: blast_radius, velocity, reload
+dimwishlist:item=991314988&perks=1478423395,2822142346,3300816228,1275731761  PvP (2.9). MW: blast_radius, velocity, reload
+dimwishlist:item=991314988&perks=1844523823,1996142143,3300816228,1275731761  PvP (2.9). MW: blast_radius, velocity, reload
+dimwishlist:item=991314988&perks=1844523823,2822142346,3300816228,1275731761  PvP (2.9). MW: blast_radius, velocity, reload
+dimwishlist:item=991314988&perks=1441682018,1996142143,3300816228,1275731761  PvP (2.9). MW: blast_radius, velocity, reload
+dimwishlist:item=991314988&perks=1441682018,2822142346,3300816228,1275731761  PvP (2.9). MW: blast_radius, velocity, reload
 // Auto Loading Holster, Quickdraw
-dimwishlist:item=991314988&perks=1478423395,2985827016,3300816228,706527188  PvP (2.9). MW: blast_radius, velocity, reload
 dimwishlist:item=991314988&perks=1478423395,1996142143,3300816228,706527188  PvP (2.9). MW: blast_radius, velocity, reload
 dimwishlist:item=991314988&perks=1478423395,2822142346,3300816228,706527188  PvP (2.9). MW: blast_radius, velocity, reload
-dimwishlist:item=991314988&perks=1478423395,3492396210,3300816228,706527188  PvP (2.9). MW: blast_radius, velocity, reload
-dimwishlist:item=991314988&perks=1441682018,2985827016,3300816228,706527188  PvP (2.9). MW: blast_radius, velocity, reload
+dimwishlist:item=991314988&perks=1844523823,1996142143,3300816228,706527188  PvP (2.9). MW: blast_radius, velocity, reload
+dimwishlist:item=991314988&perks=1844523823,2822142346,3300816228,706527188  PvP (2.9). MW: blast_radius, velocity, reload
 dimwishlist:item=991314988&perks=1441682018,1996142143,3300816228,706527188  PvP (2.9). MW: blast_radius, velocity, reload
 dimwishlist:item=991314988&perks=1441682018,2822142346,3300816228,706527188  PvP (2.9). MW: blast_radius, velocity, reload
-dimwishlist:item=991314988&perks=1441682018,3492396210,3300816228,706527188  PvP (2.9). MW: blast_radius, velocity, reload
-dimwishlist:item=991314988&perks=981914802,2985827016,3300816228,706527188  PvP (2.9). MW: blast_radius, velocity, reload
-dimwishlist:item=991314988&perks=981914802,1996142143,3300816228,706527188  PvP (2.9). MW: blast_radius, velocity, reload
-dimwishlist:item=991314988&perks=981914802,2822142346,3300816228,706527188  PvP (2.9). MW: blast_radius, velocity, reload
-dimwishlist:item=991314988&perks=981914802,3492396210,3300816228,706527188  PvP (2.9). MW: blast_radius, velocity, reload
-dimwishlist:item=991314988&perks=3798852852,2985827016,3300816228,706527188  PvP (2.9). MW: blast_radius, velocity, reload
-dimwishlist:item=991314988&perks=3798852852,1996142143,3300816228,706527188  PvP (2.9). MW: blast_radius, velocity, reload
-dimwishlist:item=991314988&perks=3798852852,2822142346,3300816228,706527188  PvP (2.9). MW: blast_radius, velocity, reload
-dimwishlist:item=991314988&perks=3798852852,3492396210,3300816228,706527188  PvP (2.9). MW: blast_radius, velocity, reload
+// Snapshot Sights, Cluster Bomb
+dimwishlist:item=991314988&perks=1478423395,1996142143,957782887,1275731761  PvP (2.9). MW: blast_radius, velocity, reload
+dimwishlist:item=991314988&perks=1478423395,2822142346,957782887,1275731761  PvP (2.9). MW: blast_radius, velocity, reload
+dimwishlist:item=991314988&perks=1844523823,1996142143,957782887,1275731761  PvP (2.9). MW: blast_radius, velocity, reload
+dimwishlist:item=991314988&perks=1844523823,2822142346,957782887,1275731761  PvP (2.9). MW: blast_radius, velocity, reload
+dimwishlist:item=991314988&perks=1441682018,1996142143,957782887,1275731761  PvP (2.9). MW: blast_radius, velocity, reload
+dimwishlist:item=991314988&perks=1441682018,2822142346,957782887,1275731761  PvP (2.9). MW: blast_radius, velocity, reload
 // Snapshot Sights, Quickdraw
-dimwishlist:item=991314988&perks=1478423395,2985827016,957782887,706527188  PvP (2.9). MW: blast_radius, velocity, reload
 dimwishlist:item=991314988&perks=1478423395,1996142143,957782887,706527188  PvP (2.9). MW: blast_radius, velocity, reload
 dimwishlist:item=991314988&perks=1478423395,2822142346,957782887,706527188  PvP (2.9). MW: blast_radius, velocity, reload
-dimwishlist:item=991314988&perks=1478423395,3492396210,957782887,706527188  PvP (2.9). MW: blast_radius, velocity, reload
-dimwishlist:item=991314988&perks=1441682018,2985827016,957782887,706527188  PvP (2.9). MW: blast_radius, velocity, reload
+dimwishlist:item=991314988&perks=1844523823,1996142143,957782887,706527188  PvP (2.9). MW: blast_radius, velocity, reload
+dimwishlist:item=991314988&perks=1844523823,2822142346,957782887,706527188  PvP (2.9). MW: blast_radius, velocity, reload
 dimwishlist:item=991314988&perks=1441682018,1996142143,957782887,706527188  PvP (2.9). MW: blast_radius, velocity, reload
 dimwishlist:item=991314988&perks=1441682018,2822142346,957782887,706527188  PvP (2.9). MW: blast_radius, velocity, reload
-dimwishlist:item=991314988&perks=1441682018,3492396210,957782887,706527188  PvP (2.9). MW: blast_radius, velocity, reload
-dimwishlist:item=991314988&perks=981914802,2985827016,957782887,706527188  PvP (2.9). MW: blast_radius, velocity, reload
-dimwishlist:item=991314988&perks=981914802,1996142143,957782887,706527188  PvP (2.9). MW: blast_radius, velocity, reload
-dimwishlist:item=991314988&perks=981914802,2822142346,957782887,706527188  PvP (2.9). MW: blast_radius, velocity, reload
-dimwishlist:item=991314988&perks=981914802,3492396210,957782887,706527188  PvP (2.9). MW: blast_radius, velocity, reload
-dimwishlist:item=991314988&perks=3798852852,2985827016,957782887,706527188  PvP (2.9). MW: blast_radius, velocity, reload
-dimwishlist:item=991314988&perks=3798852852,1996142143,957782887,706527188  PvP (2.9). MW: blast_radius, velocity, reload
-dimwishlist:item=991314988&perks=3798852852,2822142346,957782887,706527188  PvP (2.9). MW: blast_radius, velocity, reload
-dimwishlist:item=991314988&perks=3798852852,3492396210,957782887,706527188  PvP (2.9). MW: blast_radius, velocity, reload
-// Tracking Module, Kill Clip
-dimwishlist:item=991314988&perks=1478423395,2985827016,3977735242,1015611457  PvE (4.9). MW: blast_radius, velocity, reload
-dimwishlist:item=991314988&perks=1478423395,1996142143,3977735242,1015611457  PvE (4.9). MW: blast_radius, velocity, reload
-dimwishlist:item=991314988&perks=1478423395,2822142346,3977735242,1015611457  PvE (4.9). MW: blast_radius, velocity, reload
-dimwishlist:item=991314988&perks=1478423395,3492396210,3977735242,1015611457  PvE (4.9). MW: blast_radius, velocity, reload
-dimwishlist:item=991314988&perks=1441682018,2985827016,3977735242,1015611457  PvE (4.9). MW: blast_radius, velocity, reload
-dimwishlist:item=991314988&perks=1441682018,1996142143,3977735242,1015611457  PvE (4.9). MW: blast_radius, velocity, reload
-dimwishlist:item=991314988&perks=1441682018,2822142346,3977735242,1015611457  PvE (4.9). MW: blast_radius, velocity, reload
-dimwishlist:item=991314988&perks=1441682018,3492396210,3977735242,1015611457  PvE (4.9). MW: blast_radius, velocity, reload
-dimwishlist:item=991314988&perks=981914802,2985827016,3977735242,1015611457  PvE (4.9). MW: blast_radius, velocity, reload
-dimwishlist:item=991314988&perks=981914802,1996142143,3977735242,1015611457  PvE (4.9). MW: blast_radius, velocity, reload
-dimwishlist:item=991314988&perks=981914802,2822142346,3977735242,1015611457  PvE (4.9). MW: blast_radius, velocity, reload
-dimwishlist:item=991314988&perks=981914802,3492396210,3977735242,1015611457  PvE (4.9). MW: blast_radius, velocity, reload
-dimwishlist:item=991314988&perks=3798852852,2985827016,3977735242,1015611457  PvE (4.9). MW: blast_radius, velocity, reload
-dimwishlist:item=991314988&perks=3798852852,1996142143,3977735242,1015611457  PvE (4.9). MW: blast_radius, velocity, reload
-dimwishlist:item=991314988&perks=3798852852,2822142346,3977735242,1015611457  PvE (4.9). MW: blast_radius, velocity, reload
-dimwishlist:item=991314988&perks=3798852852,3492396210,3977735242,1015611457  PvE (4.9). MW: blast_radius, velocity, reload
 // Tracking Module, Genesis
-dimwishlist:item=991314988&perks=1478423395,2985827016,3977735242,3096702027  PvE (4.9). MW: blast_radius, velocity, reload
 dimwishlist:item=991314988&perks=1478423395,1996142143,3977735242,3096702027  PvE (4.9). MW: blast_radius, velocity, reload
 dimwishlist:item=991314988&perks=1478423395,2822142346,3977735242,3096702027  PvE (4.9). MW: blast_radius, velocity, reload
-dimwishlist:item=991314988&perks=1478423395,3492396210,3977735242,3096702027  PvE (4.9). MW: blast_radius, velocity, reload
-dimwishlist:item=991314988&perks=1441682018,2985827016,3977735242,3096702027  PvE (4.9). MW: blast_radius, velocity, reload
+dimwishlist:item=991314988&perks=1844523823,1996142143,3977735242,3096702027  PvE (4.9). MW: blast_radius, velocity, reload
+dimwishlist:item=991314988&perks=1844523823,2822142346,3977735242,3096702027  PvE (4.9). MW: blast_radius, velocity, reload
 dimwishlist:item=991314988&perks=1441682018,1996142143,3977735242,3096702027  PvE (4.9). MW: blast_radius, velocity, reload
 dimwishlist:item=991314988&perks=1441682018,2822142346,3977735242,3096702027  PvE (4.9). MW: blast_radius, velocity, reload
-dimwishlist:item=991314988&perks=1441682018,3492396210,3977735242,3096702027  PvE (4.9). MW: blast_radius, velocity, reload
-dimwishlist:item=991314988&perks=981914802,2985827016,3977735242,3096702027  PvE (4.9). MW: blast_radius, velocity, reload
-dimwishlist:item=991314988&perks=981914802,1996142143,3977735242,3096702027  PvE (4.9). MW: blast_radius, velocity, reload
-dimwishlist:item=991314988&perks=981914802,2822142346,3977735242,3096702027  PvE (4.9). MW: blast_radius, velocity, reload
-dimwishlist:item=991314988&perks=981914802,3492396210,3977735242,3096702027  PvE (4.9). MW: blast_radius, velocity, reload
-dimwishlist:item=991314988&perks=3798852852,2985827016,3977735242,3096702027  PvE (4.9). MW: blast_radius, velocity, reload
-dimwishlist:item=991314988&perks=3798852852,1996142143,3977735242,3096702027  PvE (4.9). MW: blast_radius, velocity, reload
-dimwishlist:item=991314988&perks=3798852852,2822142346,3977735242,3096702027  PvE (4.9). MW: blast_radius, velocity, reload
-dimwishlist:item=991314988&perks=3798852852,3492396210,3977735242,3096702027  PvE (4.9). MW: blast_radius, velocity, reload
-// Auto Loading Holster, Kill Clip
-dimwishlist:item=991314988&perks=1478423395,2985827016,3300816228,1015611457  PvE (4.9). MW: blast_radius, velocity, reload
-dimwishlist:item=991314988&perks=1478423395,1996142143,3300816228,1015611457  PvE (4.9). MW: blast_radius, velocity, reload
-dimwishlist:item=991314988&perks=1478423395,2822142346,3300816228,1015611457  PvE (4.9). MW: blast_radius, velocity, reload
-dimwishlist:item=991314988&perks=1478423395,3492396210,3300816228,1015611457  PvE (4.9). MW: blast_radius, velocity, reload
-dimwishlist:item=991314988&perks=1441682018,2985827016,3300816228,1015611457  PvE (4.9). MW: blast_radius, velocity, reload
-dimwishlist:item=991314988&perks=1441682018,1996142143,3300816228,1015611457  PvE (4.9). MW: blast_radius, velocity, reload
-dimwishlist:item=991314988&perks=1441682018,2822142346,3300816228,1015611457  PvE (4.9). MW: blast_radius, velocity, reload
-dimwishlist:item=991314988&perks=1441682018,3492396210,3300816228,1015611457  PvE (4.9). MW: blast_radius, velocity, reload
-dimwishlist:item=991314988&perks=981914802,2985827016,3300816228,1015611457  PvE (4.9). MW: blast_radius, velocity, reload
-dimwishlist:item=991314988&perks=981914802,1996142143,3300816228,1015611457  PvE (4.9). MW: blast_radius, velocity, reload
-dimwishlist:item=991314988&perks=981914802,2822142346,3300816228,1015611457  PvE (4.9). MW: blast_radius, velocity, reload
-dimwishlist:item=991314988&perks=981914802,3492396210,3300816228,1015611457  PvE (4.9). MW: blast_radius, velocity, reload
-dimwishlist:item=991314988&perks=3798852852,2985827016,3300816228,1015611457  PvE (4.9). MW: blast_radius, velocity, reload
-dimwishlist:item=991314988&perks=3798852852,1996142143,3300816228,1015611457  PvE (4.9). MW: blast_radius, velocity, reload
-dimwishlist:item=991314988&perks=3798852852,2822142346,3300816228,1015611457  PvE (4.9). MW: blast_radius, velocity, reload
-dimwishlist:item=991314988&perks=3798852852,3492396210,3300816228,1015611457  PvE (4.9). MW: blast_radius, velocity, reload
 // Auto Loading Holster, Genesis
-dimwishlist:item=991314988&perks=1478423395,2985827016,3300816228,3096702027  PvE (4.9). MW: blast_radius, velocity, reload
 dimwishlist:item=991314988&perks=1478423395,1996142143,3300816228,3096702027  PvE (4.9). MW: blast_radius, velocity, reload
 dimwishlist:item=991314988&perks=1478423395,2822142346,3300816228,3096702027  PvE (4.9). MW: blast_radius, velocity, reload
-dimwishlist:item=991314988&perks=1478423395,3492396210,3300816228,3096702027  PvE (4.9). MW: blast_radius, velocity, reload
-dimwishlist:item=991314988&perks=1441682018,2985827016,3300816228,3096702027  PvE (4.9). MW: blast_radius, velocity, reload
+dimwishlist:item=991314988&perks=1844523823,1996142143,3300816228,3096702027  PvE (4.9). MW: blast_radius, velocity, reload
+dimwishlist:item=991314988&perks=1844523823,2822142346,3300816228,3096702027  PvE (4.9). MW: blast_radius, velocity, reload
 dimwishlist:item=991314988&perks=1441682018,1996142143,3300816228,3096702027  PvE (4.9). MW: blast_radius, velocity, reload
 dimwishlist:item=991314988&perks=1441682018,2822142346,3300816228,3096702027  PvE (4.9). MW: blast_radius, velocity, reload
-dimwishlist:item=991314988&perks=1441682018,3492396210,3300816228,3096702027  PvE (4.9). MW: blast_radius, velocity, reload
+// Bad Omens
+//notes: Max velocity rockets
+// Tracking Module, Cluster Bomb
+dimwishlist:item=991314988&perks=981914802,2822142346,3977735242,1275731761  PvP (2.9).  Fastest velocity rockets MW: velocity, blast_radius, reload
+dimwishlist:item=991314988&perks=981914802,3492396210,3977735242,1275731761  PvP (2.9).  Fastest velocity rockets MW: velocity, blast_radius, reload
+dimwishlist:item=991314988&perks=3525010810,2822142346,3977735242,1275731761  PvP (2.9).  Fastest velocity rockets MW: velocity, blast_radius, reload
+dimwishlist:item=991314988&perks=3525010810,3492396210,3977735242,1275731761  PvP (2.9).  Fastest velocity rockets MW: velocity, blast_radius, reload
+dimwishlist:item=991314988&perks=3798852852,2822142346,3977735242,1275731761  PvP (2.9).  Fastest velocity rockets MW: velocity, blast_radius, reload
+dimwishlist:item=991314988&perks=3798852852,3492396210,3977735242,1275731761  PvP (2.9).  Fastest velocity rockets MW: velocity, blast_radius, reload
+// Tracking Module, Quickdraw
+dimwishlist:item=991314988&perks=981914802,2822142346,3977735242,706527188  PvP (2.9).  Fastest velocity rockets MW: velocity, blast_radius, reload
+dimwishlist:item=991314988&perks=981914802,3492396210,3977735242,706527188  PvP (2.9).  Fastest velocity rockets MW: velocity, blast_radius, reload
+dimwishlist:item=991314988&perks=3525010810,2822142346,3977735242,706527188  PvP (2.9).  Fastest velocity rockets MW: velocity, blast_radius, reload
+dimwishlist:item=991314988&perks=3525010810,3492396210,3977735242,706527188  PvP (2.9).  Fastest velocity rockets MW: velocity, blast_radius, reload
+dimwishlist:item=991314988&perks=3798852852,2822142346,3977735242,706527188  PvP (2.9).  Fastest velocity rockets MW: velocity, blast_radius, reload
+dimwishlist:item=991314988&perks=3798852852,3492396210,3977735242,706527188  PvP (2.9).  Fastest velocity rockets MW: velocity, blast_radius, reload
+// Auto Loading Holster, Cluster Bomb
+dimwishlist:item=991314988&perks=981914802,2822142346,3300816228,1275731761  PvP (2.9).  Fastest velocity rockets MW: velocity, blast_radius, reload
+dimwishlist:item=991314988&perks=981914802,3492396210,3300816228,1275731761  PvP (2.9).  Fastest velocity rockets MW: velocity, blast_radius, reload
+dimwishlist:item=991314988&perks=3525010810,2822142346,3300816228,1275731761  PvP (2.9).  Fastest velocity rockets MW: velocity, blast_radius, reload
+dimwishlist:item=991314988&perks=3525010810,3492396210,3300816228,1275731761  PvP (2.9).  Fastest velocity rockets MW: velocity, blast_radius, reload
+dimwishlist:item=991314988&perks=3798852852,2822142346,3300816228,1275731761  PvP (2.9).  Fastest velocity rockets MW: velocity, blast_radius, reload
+dimwishlist:item=991314988&perks=3798852852,3492396210,3300816228,1275731761  PvP (2.9).  Fastest velocity rockets MW: velocity, blast_radius, reload
+// Auto Loading Holster, Quickdraw
+dimwishlist:item=991314988&perks=981914802,2822142346,3300816228,706527188  PvP (2.9).  Fastest velocity rockets MW: velocity, blast_radius, reload
+dimwishlist:item=991314988&perks=981914802,3492396210,3300816228,706527188  PvP (2.9).  Fastest velocity rockets MW: velocity, blast_radius, reload
+dimwishlist:item=991314988&perks=3525010810,2822142346,3300816228,706527188  PvP (2.9).  Fastest velocity rockets MW: velocity, blast_radius, reload
+dimwishlist:item=991314988&perks=3525010810,3492396210,3300816228,706527188  PvP (2.9).  Fastest velocity rockets MW: velocity, blast_radius, reload
+dimwishlist:item=991314988&perks=3798852852,2822142346,3300816228,706527188  PvP (2.9).  Fastest velocity rockets MW: velocity, blast_radius, reload
+dimwishlist:item=991314988&perks=3798852852,3492396210,3300816228,706527188  PvP (2.9).  Fastest velocity rockets MW: velocity, blast_radius, reload
+// Snapshot Sights, Cluster Bomb
+dimwishlist:item=991314988&perks=981914802,2822142346,957782887,1275731761  PvP (2.9).  Fastest velocity rockets MW: velocity, blast_radius, reload
+dimwishlist:item=991314988&perks=981914802,3492396210,957782887,1275731761  PvP (2.9).  Fastest velocity rockets MW: velocity, blast_radius, reload
+dimwishlist:item=991314988&perks=3525010810,2822142346,957782887,1275731761  PvP (2.9).  Fastest velocity rockets MW: velocity, blast_radius, reload
+dimwishlist:item=991314988&perks=3525010810,3492396210,957782887,1275731761  PvP (2.9).  Fastest velocity rockets MW: velocity, blast_radius, reload
+dimwishlist:item=991314988&perks=3798852852,2822142346,957782887,1275731761  PvP (2.9).  Fastest velocity rockets MW: velocity, blast_radius, reload
+dimwishlist:item=991314988&perks=3798852852,3492396210,957782887,1275731761  PvP (2.9).  Fastest velocity rockets MW: velocity, blast_radius, reload
+// Snapshot Sights, Quickdraw
+dimwishlist:item=991314988&perks=981914802,2822142346,957782887,706527188  PvP (2.9).  Fastest velocity rockets MW: velocity, blast_radius, reload
+dimwishlist:item=991314988&perks=981914802,3492396210,957782887,706527188  PvP (2.9).  Fastest velocity rockets MW: velocity, blast_radius, reload
+dimwishlist:item=991314988&perks=3525010810,2822142346,957782887,706527188  PvP (2.9).  Fastest velocity rockets MW: velocity, blast_radius, reload
+dimwishlist:item=991314988&perks=3525010810,3492396210,957782887,706527188  PvP (2.9).  Fastest velocity rockets MW: velocity, blast_radius, reload
+dimwishlist:item=991314988&perks=3798852852,2822142346,957782887,706527188  PvP (2.9).  Fastest velocity rockets MW: velocity, blast_radius, reload
+dimwishlist:item=991314988&perks=3798852852,3492396210,957782887,706527188  PvP (2.9).  Fastest velocity rockets MW: velocity, blast_radius, reload
+// Bad Omens
+//notes: Fastest Reload
+// Tracking Module, Cluster Bomb
+dimwishlist:item=991314988&perks=1478423395,2985827016,3977735242,1275731761  PvE (4.9) PvP (2.9). MW: blast_radius, velocity, reload
+dimwishlist:item=991314988&perks=1478423395,2822142346,3977735242,1275731761  PvE (4.9) PvP (2.9). MW: blast_radius, velocity, reload
+dimwishlist:item=991314988&perks=1441682018,2985827016,3977735242,1275731761  PvE (4.9) PvP (2.9). MW: blast_radius, velocity, reload
+dimwishlist:item=991314988&perks=1441682018,2822142346,3977735242,1275731761  PvE (4.9) PvP (2.9). MW: blast_radius, velocity, reload
+dimwishlist:item=991314988&perks=981914802,2985827016,3977735242,1275731761  PvE (4.9) PvP (2.9). MW: blast_radius, velocity, reload
+dimwishlist:item=991314988&perks=981914802,2822142346,3977735242,1275731761  PvE (4.9) PvP (2.9). MW: blast_radius, velocity, reload
+dimwishlist:item=991314988&perks=3525010810,2985827016,3977735242,1275731761  PvE (4.9) PvP (2.9). MW: blast_radius, velocity, reload
+dimwishlist:item=991314988&perks=3525010810,2822142346,3977735242,1275731761  PvE (4.9) PvP (2.9). MW: blast_radius, velocity, reload
+dimwishlist:item=991314988&perks=3798852852,2985827016,3977735242,1275731761  PvE (4.9) PvP (2.9). MW: blast_radius, velocity, reload
+dimwishlist:item=991314988&perks=3798852852,2822142346,3977735242,1275731761  PvE (4.9) PvP (2.9). MW: blast_radius, velocity, reload
+// Auto Loading Holster, Cluster Bomb
+dimwishlist:item=991314988&perks=1478423395,2985827016,3300816228,1275731761  PvE (4.9) PvP (2.9). MW: blast_radius, velocity, reload
+dimwishlist:item=991314988&perks=1478423395,2822142346,3300816228,1275731761  PvE (4.9) PvP (2.9). MW: blast_radius, velocity, reload
+dimwishlist:item=991314988&perks=1441682018,2985827016,3300816228,1275731761  PvE (4.9) PvP (2.9). MW: blast_radius, velocity, reload
+dimwishlist:item=991314988&perks=1441682018,2822142346,3300816228,1275731761  PvE (4.9) PvP (2.9). MW: blast_radius, velocity, reload
+dimwishlist:item=991314988&perks=981914802,2985827016,3300816228,1275731761  PvE (4.9) PvP (2.9). MW: blast_radius, velocity, reload
+dimwishlist:item=991314988&perks=981914802,2822142346,3300816228,1275731761  PvE (4.9) PvP (2.9). MW: blast_radius, velocity, reload
+dimwishlist:item=991314988&perks=3525010810,2985827016,3300816228,1275731761  PvE (4.9) PvP (2.9). MW: blast_radius, velocity, reload
+dimwishlist:item=991314988&perks=3525010810,2822142346,3300816228,1275731761  PvE (4.9) PvP (2.9). MW: blast_radius, velocity, reload
+dimwishlist:item=991314988&perks=3798852852,2985827016,3300816228,1275731761  PvE (4.9) PvP (2.9). MW: blast_radius, velocity, reload
+dimwishlist:item=991314988&perks=3798852852,2822142346,3300816228,1275731761  PvE (4.9) PvP (2.9). MW: blast_radius, velocity, reload
+// Tracking Module, Quickdraw
+dimwishlist:item=991314988&perks=1478423395,2985827016,3977735242,706527188  PvP (2.9). MW: blast_radius, velocity, reload
+dimwishlist:item=991314988&perks=1478423395,2822142346,3977735242,706527188  PvP (2.9). MW: blast_radius, velocity, reload
+dimwishlist:item=991314988&perks=1441682018,2985827016,3977735242,706527188  PvP (2.9). MW: blast_radius, velocity, reload
+dimwishlist:item=991314988&perks=1441682018,2822142346,3977735242,706527188  PvP (2.9). MW: blast_radius, velocity, reload
+dimwishlist:item=991314988&perks=981914802,2985827016,3977735242,706527188  PvP (2.9). MW: blast_radius, velocity, reload
+dimwishlist:item=991314988&perks=981914802,2822142346,3977735242,706527188  PvP (2.9). MW: blast_radius, velocity, reload
+dimwishlist:item=991314988&perks=3525010810,2985827016,3977735242,706527188  PvP (2.9). MW: blast_radius, velocity, reload
+dimwishlist:item=991314988&perks=3525010810,2822142346,3977735242,706527188  PvP (2.9). MW: blast_radius, velocity, reload
+dimwishlist:item=991314988&perks=3798852852,2985827016,3977735242,706527188  PvP (2.9). MW: blast_radius, velocity, reload
+dimwishlist:item=991314988&perks=3798852852,2822142346,3977735242,706527188  PvP (2.9). MW: blast_radius, velocity, reload
+// Auto Loading Holster, Quickdraw
+dimwishlist:item=991314988&perks=1478423395,2985827016,3300816228,706527188  PvP (2.9). MW: blast_radius, velocity, reload
+dimwishlist:item=991314988&perks=1478423395,2822142346,3300816228,706527188  PvP (2.9). MW: blast_radius, velocity, reload
+dimwishlist:item=991314988&perks=1441682018,2985827016,3300816228,706527188  PvP (2.9). MW: blast_radius, velocity, reload
+dimwishlist:item=991314988&perks=1441682018,2822142346,3300816228,706527188  PvP (2.9). MW: blast_radius, velocity, reload
+dimwishlist:item=991314988&perks=981914802,2985827016,3300816228,706527188  PvP (2.9). MW: blast_radius, velocity, reload
+dimwishlist:item=991314988&perks=981914802,2822142346,3300816228,706527188  PvP (2.9). MW: blast_radius, velocity, reload
+dimwishlist:item=991314988&perks=3525010810,2985827016,3300816228,706527188  PvP (2.9). MW: blast_radius, velocity, reload
+dimwishlist:item=991314988&perks=3525010810,2822142346,3300816228,706527188  PvP (2.9). MW: blast_radius, velocity, reload
+dimwishlist:item=991314988&perks=3798852852,2985827016,3300816228,706527188  PvP (2.9). MW: blast_radius, velocity, reload
+dimwishlist:item=991314988&perks=3798852852,2822142346,3300816228,706527188  PvP (2.9). MW: blast_radius, velocity, reload
+// Snapshot Sights, Quickdraw
+dimwishlist:item=991314988&perks=1478423395,2985827016,957782887,706527188  PvP (2.9). MW: blast_radius, velocity, reload
+dimwishlist:item=991314988&perks=1478423395,2822142346,957782887,706527188  PvP (2.9). MW: blast_radius, velocity, reload
+dimwishlist:item=991314988&perks=1441682018,2985827016,957782887,706527188  PvP (2.9). MW: blast_radius, velocity, reload
+dimwishlist:item=991314988&perks=1441682018,2822142346,957782887,706527188  PvP (2.9). MW: blast_radius, velocity, reload
+dimwishlist:item=991314988&perks=981914802,2985827016,957782887,706527188  PvP (2.9). MW: blast_radius, velocity, reload
+dimwishlist:item=991314988&perks=981914802,2822142346,957782887,706527188  PvP (2.9). MW: blast_radius, velocity, reload
+dimwishlist:item=991314988&perks=3525010810,2985827016,957782887,706527188  PvP (2.9). MW: blast_radius, velocity, reload
+dimwishlist:item=991314988&perks=3525010810,2822142346,957782887,706527188  PvP (2.9). MW: blast_radius, velocity, reload
+dimwishlist:item=991314988&perks=3798852852,2985827016,957782887,706527188  PvP (2.9). MW: blast_radius, velocity, reload
+dimwishlist:item=991314988&perks=3798852852,2822142346,957782887,706527188  PvP (2.9). MW: blast_radius, velocity, reload
+// Tracking Module, Genesis
+dimwishlist:item=991314988&perks=1478423395,2985827016,3977735242,3096702027  PvE (4.9). MW: blast_radius, velocity, reload
+dimwishlist:item=991314988&perks=1478423395,2822142346,3977735242,3096702027  PvE (4.9). MW: blast_radius, velocity, reload
+dimwishlist:item=991314988&perks=1441682018,2985827016,3977735242,3096702027  PvE (4.9). MW: blast_radius, velocity, reload
+dimwishlist:item=991314988&perks=1441682018,2822142346,3977735242,3096702027  PvE (4.9). MW: blast_radius, velocity, reload
+dimwishlist:item=991314988&perks=981914802,2985827016,3977735242,3096702027  PvE (4.9). MW: blast_radius, velocity, reload
+dimwishlist:item=991314988&perks=981914802,2822142346,3977735242,3096702027  PvE (4.9). MW: blast_radius, velocity, reload
+dimwishlist:item=991314988&perks=3525010810,2985827016,3977735242,3096702027  PvE (4.9). MW: blast_radius, velocity, reload
+dimwishlist:item=991314988&perks=3525010810,2822142346,3977735242,3096702027  PvE (4.9). MW: blast_radius, velocity, reload
+dimwishlist:item=991314988&perks=3798852852,2985827016,3977735242,3096702027  PvE (4.9). MW: blast_radius, velocity, reload
+dimwishlist:item=991314988&perks=3798852852,2822142346,3977735242,3096702027  PvE (4.9). MW: blast_radius, velocity, reload
+// Auto Loading Holster, Genesis
+dimwishlist:item=991314988&perks=1478423395,2985827016,3300816228,3096702027  PvE (4.9). MW: blast_radius, velocity, reload
+dimwishlist:item=991314988&perks=1478423395,2822142346,3300816228,3096702027  PvE (4.9). MW: blast_radius, velocity, reload
+dimwishlist:item=991314988&perks=1441682018,2985827016,3300816228,3096702027  PvE (4.9). MW: blast_radius, velocity, reload
+dimwishlist:item=991314988&perks=1441682018,2822142346,3300816228,3096702027  PvE (4.9). MW: blast_radius, velocity, reload
 dimwishlist:item=991314988&perks=981914802,2985827016,3300816228,3096702027  PvE (4.9). MW: blast_radius, velocity, reload
-dimwishlist:item=991314988&perks=981914802,1996142143,3300816228,3096702027  PvE (4.9). MW: blast_radius, velocity, reload
 dimwishlist:item=991314988&perks=981914802,2822142346,3300816228,3096702027  PvE (4.9). MW: blast_radius, velocity, reload
-dimwishlist:item=991314988&perks=981914802,3492396210,3300816228,3096702027  PvE (4.9). MW: blast_radius, velocity, reload
+dimwishlist:item=991314988&perks=3525010810,2985827016,3300816228,3096702027  PvE (4.9). MW: blast_radius, velocity, reload
+dimwishlist:item=991314988&perks=3525010810,2822142346,3300816228,3096702027  PvE (4.9). MW: blast_radius, velocity, reload
 dimwishlist:item=991314988&perks=3798852852,2985827016,3300816228,3096702027  PvE (4.9). MW: blast_radius, velocity, reload
-dimwishlist:item=991314988&perks=3798852852,1996142143,3300816228,3096702027  PvE (4.9). MW: blast_radius, velocity, reload
 dimwishlist:item=991314988&perks=3798852852,2822142346,3300816228,3096702027  PvE (4.9). MW: blast_radius, velocity, reload
-dimwishlist:item=991314988&perks=3798852852,3492396210,3300816228,3096702027  PvE (4.9). MW: blast_radius, velocity, reload
 
 
 // Night Watch
