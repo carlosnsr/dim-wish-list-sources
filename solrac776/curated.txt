@@ -80,709 +80,772 @@ dimwishlist:item=3920811074&perks=360593483,3230963543,280464955  PvP MW: range
 
 // Interference Vi
 // Clown Cartridge, Full Court
-dimwishlist:item=2257180473&perks=1478423395,3301904089,2284787283,2888557110  PvE. Boss DPS. KackisHD recommendation (https://www.youtube.com/watch?v=VmMMx9-CnT8) MW: velocity,blast_radius,reload
-dimwishlist:item=2257180473&perks=1844523823,3301904089,2284787283,2888557110  PvE. Boss DPS. KackisHD recommendation (https://www.youtube.com/watch?v=VmMMx9-CnT8) MW: velocity,blast_radius,reload
-dimwishlist:item=2257180473&perks=981914802,3301904089,2284787283,2888557110  PvE. Boss DPS. KackisHD recommendation (https://www.youtube.com/watch?v=VmMMx9-CnT8) MW: velocity,blast_radius,reload
+dimwishlist:item=2257180473&perks=1478423395,3301904089,2284787283,2888557110  PvE. Boss DPS. KackisHD recommendation (https://www.youtube.com/watch?v=VmMMx9-CnT8) MW: velocity, blast_radius, reload
+dimwishlist:item=2257180473&perks=1844523823,3301904089,2284787283,2888557110  PvE. Boss DPS. KackisHD recommendation (https://www.youtube.com/watch?v=VmMMx9-CnT8) MW: velocity, blast_radius, reload
+dimwishlist:item=2257180473&perks=981914802,3301904089,2284787283,2888557110  PvE. Boss DPS. KackisHD recommendation (https://www.youtube.com/watch?v=VmMMx9-CnT8) MW: velocity, blast_radius, reload
 // Clown Cartridge, Demolitionist
-dimwishlist:item=2257180473&perks=1478423395,3301904089,2284787283,3523296417  PvE. Boss DPS. KackisHD recommendation (https://www.youtube.com/watch?v=VmMMx9-CnT8) MW: velocity,blast_radius,reload
-dimwishlist:item=2257180473&perks=1844523823,3301904089,2284787283,3523296417  PvE. Boss DPS. KackisHD recommendation (https://www.youtube.com/watch?v=VmMMx9-CnT8) MW: velocity,blast_radius,reload
-dimwishlist:item=2257180473&perks=981914802,3301904089,2284787283,3523296417  PvE. Boss DPS. KackisHD recommendation (https://www.youtube.com/watch?v=VmMMx9-CnT8) MW: velocity,blast_radius,reload
+dimwishlist:item=2257180473&perks=1478423395,3301904089,2284787283,3523296417  PvE. Boss DPS. KackisHD recommendation (https://www.youtube.com/watch?v=VmMMx9-CnT8) MW: velocity, blast_radius, reload
+dimwishlist:item=2257180473&perks=1844523823,3301904089,2284787283,3523296417  PvE. Boss DPS. KackisHD recommendation (https://www.youtube.com/watch?v=VmMMx9-CnT8) MW: velocity, blast_radius, reload
+dimwishlist:item=2257180473&perks=981914802,3301904089,2284787283,3523296417  PvE. Boss DPS. KackisHD recommendation (https://www.youtube.com/watch?v=VmMMx9-CnT8) MW: velocity, blast_radius, reload
 // Clown Cartridge, Swashbuckler
-dimwishlist:item=2257180473&perks=1478423395,3301904089,2284787283,4082225868  PvE. Boss DPS. KackisHD recommendation (https://www.youtube.com/watch?v=VmMMx9-CnT8) MW: velocity,blast_radius,reload
-dimwishlist:item=2257180473&perks=1844523823,3301904089,2284787283,4082225868  PvE. Boss DPS. KackisHD recommendation (https://www.youtube.com/watch?v=VmMMx9-CnT8) MW: velocity,blast_radius,reload
-dimwishlist:item=2257180473&perks=981914802,3301904089,2284787283,4082225868  PvE. Boss DPS. KackisHD recommendation (https://www.youtube.com/watch?v=VmMMx9-CnT8) MW: velocity,blast_radius,reload
+dimwishlist:item=2257180473&perks=1478423395,3301904089,2284787283,4082225868  PvE. Boss DPS. KackisHD recommendation (https://www.youtube.com/watch?v=VmMMx9-CnT8) MW: velocity, blast_radius, reload
+dimwishlist:item=2257180473&perks=1844523823,3301904089,2284787283,4082225868  PvE. Boss DPS. KackisHD recommendation (https://www.youtube.com/watch?v=VmMMx9-CnT8) MW: velocity, blast_radius, reload
+dimwishlist:item=2257180473&perks=981914802,3301904089,2284787283,4082225868  PvE. Boss DPS. KackisHD recommendation (https://www.youtube.com/watch?v=VmMMx9-CnT8) MW: velocity, blast_radius, reload
 // Auto Loading Holster, Full Court
-dimwishlist:item=2257180473&perks=1478423395,3301904089,3300816228,2888557110  PvE. Boss DPS. KackisHD recommendation (https://www.youtube.com/watch?v=VmMMx9-CnT8) MW: velocity,blast_radius,reload
-dimwishlist:item=2257180473&perks=1844523823,3301904089,3300816228,2888557110  PvE. Boss DPS. KackisHD recommendation (https://www.youtube.com/watch?v=VmMMx9-CnT8) MW: velocity,blast_radius,reload
-dimwishlist:item=2257180473&perks=981914802,3301904089,3300816228,2888557110  PvE. Boss DPS. KackisHD recommendation (https://www.youtube.com/watch?v=VmMMx9-CnT8) MW: velocity,blast_radius,reload
+dimwishlist:item=2257180473&perks=1478423395,3301904089,3300816228,2888557110  PvE. Boss DPS. KackisHD recommendation (https://www.youtube.com/watch?v=VmMMx9-CnT8) MW: velocity, blast_radius, reload
+dimwishlist:item=2257180473&perks=1844523823,3301904089,3300816228,2888557110  PvE. Boss DPS. KackisHD recommendation (https://www.youtube.com/watch?v=VmMMx9-CnT8) MW: velocity, blast_radius, reload
+dimwishlist:item=2257180473&perks=981914802,3301904089,3300816228,2888557110  PvE. Boss DPS. KackisHD recommendation (https://www.youtube.com/watch?v=VmMMx9-CnT8) MW: velocity, blast_radius, reload
 // Auto Loading Holster, Demolitionist
-dimwishlist:item=2257180473&perks=1478423395,3301904089,3300816228,3523296417  PvE. Boss DPS. KackisHD recommendation (https://www.youtube.com/watch?v=VmMMx9-CnT8) MW: velocity,blast_radius,reload
-dimwishlist:item=2257180473&perks=1844523823,3301904089,3300816228,3523296417  PvE. Boss DPS. KackisHD recommendation (https://www.youtube.com/watch?v=VmMMx9-CnT8) MW: velocity,blast_radius,reload
-dimwishlist:item=2257180473&perks=981914802,3301904089,3300816228,3523296417  PvE. Boss DPS. KackisHD recommendation (https://www.youtube.com/watch?v=VmMMx9-CnT8) MW: velocity,blast_radius,reload
+dimwishlist:item=2257180473&perks=1478423395,3301904089,3300816228,3523296417  PvE. Boss DPS. KackisHD recommendation (https://www.youtube.com/watch?v=VmMMx9-CnT8) MW: velocity, blast_radius, reload
+dimwishlist:item=2257180473&perks=1844523823,3301904089,3300816228,3523296417  PvE. Boss DPS. KackisHD recommendation (https://www.youtube.com/watch?v=VmMMx9-CnT8) MW: velocity, blast_radius, reload
+dimwishlist:item=2257180473&perks=981914802,3301904089,3300816228,3523296417  PvE. Boss DPS. KackisHD recommendation (https://www.youtube.com/watch?v=VmMMx9-CnT8) MW: velocity, blast_radius, reload
 // Auto Loading Holster, Swashbuckler
-dimwishlist:item=2257180473&perks=1478423395,3301904089,3300816228,4082225868  PvE. Boss DPS. KackisHD recommendation (https://www.youtube.com/watch?v=VmMMx9-CnT8) MW: velocity,blast_radius,reload
-dimwishlist:item=2257180473&perks=1844523823,3301904089,3300816228,4082225868  PvE. Boss DPS. KackisHD recommendation (https://www.youtube.com/watch?v=VmMMx9-CnT8) MW: velocity,blast_radius,reload
-dimwishlist:item=2257180473&perks=981914802,3301904089,3300816228,4082225868  PvE. Boss DPS. KackisHD recommendation (https://www.youtube.com/watch?v=VmMMx9-CnT8) MW: velocity,blast_radius,reload
+dimwishlist:item=2257180473&perks=1478423395,3301904089,3300816228,4082225868  PvE. Boss DPS. KackisHD recommendation (https://www.youtube.com/watch?v=VmMMx9-CnT8) MW: velocity, blast_radius, reload
+dimwishlist:item=2257180473&perks=1844523823,3301904089,3300816228,4082225868  PvE. Boss DPS. KackisHD recommendation (https://www.youtube.com/watch?v=VmMMx9-CnT8) MW: velocity, blast_radius, reload
+dimwishlist:item=2257180473&perks=981914802,3301904089,3300816228,4082225868  PvE. Boss DPS. KackisHD recommendation (https://www.youtube.com/watch?v=VmMMx9-CnT8) MW: velocity, blast_radius, reload
 // Auto Loading Holster, Full Court
-dimwishlist:item=2257180473&perks=1478423395,3301904089,3300816228,2888557110  PvE. MW: velocity,blast_radius,reload
-dimwishlist:item=2257180473&perks=1844523823,3301904089,3300816228,2888557110  PvE. MW: velocity,blast_radius,reload
-dimwishlist:item=2257180473&perks=981914802,3301904089,3300816228,2888557110  PvE. MW: velocity,blast_radius,reload
+dimwishlist:item=2257180473&perks=1478423395,3301904089,3300816228,2888557110  PvE. MW: velocity, blast_radius, reload
+dimwishlist:item=2257180473&perks=1844523823,3301904089,3300816228,2888557110  PvE. MW: velocity, blast_radius, reload
+dimwishlist:item=2257180473&perks=981914802,3301904089,3300816228,2888557110  PvE. MW: velocity, blast_radius, reload
 // Auto Loading Holster, Demolitionist
-dimwishlist:item=2257180473&perks=1478423395,3301904089,3300816228,3523296417  PvE. MW: velocity,blast_radius,reload
-dimwishlist:item=2257180473&perks=1844523823,3301904089,3300816228,3523296417  PvE. MW: velocity,blast_radius,reload
-dimwishlist:item=2257180473&perks=981914802,3301904089,3300816228,3523296417  PvE. MW: velocity,blast_radius,reload
+dimwishlist:item=2257180473&perks=1478423395,3301904089,3300816228,3523296417  PvE. MW: velocity, blast_radius, reload
+dimwishlist:item=2257180473&perks=1844523823,3301904089,3300816228,3523296417  PvE. MW: velocity, blast_radius, reload
+dimwishlist:item=2257180473&perks=981914802,3301904089,3300816228,3523296417  PvE. MW: velocity, blast_radius, reload
 // Auto Loading Holster, Swashbuckler
-dimwishlist:item=2257180473&perks=1478423395,3301904089,3300816228,4082225868  PvE. MW: velocity,blast_radius,reload
-dimwishlist:item=2257180473&perks=1844523823,3301904089,3300816228,4082225868  PvE. MW: velocity,blast_radius,reload
-dimwishlist:item=2257180473&perks=981914802,3301904089,3300816228,4082225868  PvE. MW: velocity,blast_radius,reload
+dimwishlist:item=2257180473&perks=1478423395,3301904089,3300816228,4082225868  PvE. MW: velocity, blast_radius, reload
+dimwishlist:item=2257180473&perks=1844523823,3301904089,3300816228,4082225868  PvE. MW: velocity, blast_radius, reload
+dimwishlist:item=2257180473&perks=981914802,3301904089,3300816228,4082225868  PvE. MW: velocity, blast_radius, reload
 // Interference Vi
 // Auto Loading Holster, Demolitionist
-dimwishlist:item=2257180473&perks=1844523823,409831596,3300816228,3523296417  PvP (2.4). MW: velocity,blast_radius,reload
-dimwishlist:item=2257180473&perks=1844523823,2822142346,3300816228,3523296417  PvP (2.4). MW: velocity,blast_radius,reload
-dimwishlist:item=2257180473&perks=3525010810,409831596,3300816228,3523296417  PvP (2.4). MW: velocity,blast_radius,reload
-dimwishlist:item=2257180473&perks=3525010810,2822142346,3300816228,3523296417  PvP (2.4). MW: velocity,blast_radius,reload
-dimwishlist:item=2257180473&perks=1441682018,409831596,3300816228,3523296417  PvP (2.4). MW: velocity,blast_radius,reload
-dimwishlist:item=2257180473&perks=1441682018,2822142346,3300816228,3523296417  PvP (2.4). MW: velocity,blast_radius,reload
+dimwishlist:item=2257180473&perks=1844523823,409831596,3300816228,3523296417  PvP (2.4). MW: velocity, blast_radius, reload
+dimwishlist:item=2257180473&perks=1844523823,2822142346,3300816228,3523296417  PvP (2.4). MW: velocity, blast_radius, reload
+dimwishlist:item=2257180473&perks=3525010810,409831596,3300816228,3523296417  PvP (2.4). MW: velocity, blast_radius, reload
+dimwishlist:item=2257180473&perks=3525010810,2822142346,3300816228,3523296417  PvP (2.4). MW: velocity, blast_radius, reload
+dimwishlist:item=2257180473&perks=1441682018,409831596,3300816228,3523296417  PvP (2.4). MW: velocity, blast_radius, reload
+dimwishlist:item=2257180473&perks=1441682018,2822142346,3300816228,3523296417  PvP (2.4). MW: velocity, blast_radius, reload
 // Auto Loading Holster, Swashbuckler
-dimwishlist:item=2257180473&perks=1844523823,409831596,3300816228,4082225868  PvP (2.4). MW: velocity,blast_radius,reload
-dimwishlist:item=2257180473&perks=1844523823,2822142346,3300816228,4082225868  PvP (2.4). MW: velocity,blast_radius,reload
-dimwishlist:item=2257180473&perks=3525010810,409831596,3300816228,4082225868  PvP (2.4). MW: velocity,blast_radius,reload
-dimwishlist:item=2257180473&perks=3525010810,2822142346,3300816228,4082225868  PvP (2.4). MW: velocity,blast_radius,reload
-dimwishlist:item=2257180473&perks=1441682018,409831596,3300816228,4082225868  PvP (2.4). MW: velocity,blast_radius,reload
-dimwishlist:item=2257180473&perks=1441682018,2822142346,3300816228,4082225868  PvP (2.4). MW: velocity,blast_radius,reload
+dimwishlist:item=2257180473&perks=1844523823,409831596,3300816228,4082225868  PvP (2.4). MW: velocity, blast_radius, reload
+dimwishlist:item=2257180473&perks=1844523823,2822142346,3300816228,4082225868  PvP (2.4). MW: velocity, blast_radius, reload
+dimwishlist:item=2257180473&perks=3525010810,409831596,3300816228,4082225868  PvP (2.4). MW: velocity, blast_radius, reload
+dimwishlist:item=2257180473&perks=3525010810,2822142346,3300816228,4082225868  PvP (2.4). MW: velocity, blast_radius, reload
+dimwishlist:item=2257180473&perks=1441682018,409831596,3300816228,4082225868  PvP (2.4). MW: velocity, blast_radius, reload
+dimwishlist:item=2257180473&perks=1441682018,2822142346,3300816228,4082225868  PvP (2.4). MW: velocity, blast_radius, reload
 // Auto Loading Holster, Threat Detector
-dimwishlist:item=2257180473&perks=1844523823,409831596,3300816228,4071163871  PvP (2.4). MW: velocity,blast_radius,reload
-dimwishlist:item=2257180473&perks=1844523823,2822142346,3300816228,4071163871  PvP (2.4). MW: velocity,blast_radius,reload
-dimwishlist:item=2257180473&perks=3525010810,409831596,3300816228,4071163871  PvP (2.4). MW: velocity,blast_radius,reload
-dimwishlist:item=2257180473&perks=3525010810,2822142346,3300816228,4071163871  PvP (2.4). MW: velocity,blast_radius,reload
-dimwishlist:item=2257180473&perks=1441682018,409831596,3300816228,4071163871  PvP (2.4). MW: velocity,blast_radius,reload
-dimwishlist:item=2257180473&perks=1441682018,2822142346,3300816228,4071163871  PvP (2.4). MW: velocity,blast_radius,reload
+dimwishlist:item=2257180473&perks=1844523823,409831596,3300816228,4071163871  PvP (2.4). MW: velocity, blast_radius, reload
+dimwishlist:item=2257180473&perks=1844523823,2822142346,3300816228,4071163871  PvP (2.4). MW: velocity, blast_radius, reload
+dimwishlist:item=2257180473&perks=3525010810,409831596,3300816228,4071163871  PvP (2.4). MW: velocity, blast_radius, reload
+dimwishlist:item=2257180473&perks=3525010810,2822142346,3300816228,4071163871  PvP (2.4). MW: velocity, blast_radius, reload
+dimwishlist:item=2257180473&perks=1441682018,409831596,3300816228,4071163871  PvP (2.4). MW: velocity, blast_radius, reload
+dimwishlist:item=2257180473&perks=1441682018,2822142346,3300816228,4071163871  PvP (2.4). MW: velocity, blast_radius, reload
 
 
 // Truthteller
 // Auto Loading Holster, Disruption Break
-dimwishlist:item=1946491241&perks=3525010810,409831596,3300816228,1683379515  PvP. Break shields with Disruption Break and then clean-up with kinetic weapon.  CoolGuy recommendation (https://www.youtube.com/watch?v=7XNBjZOggpc) MW: velocity,blast_radius,reload
-dimwishlist:item=1946491241&perks=3525010810,2822142346,3300816228,1683379515  PvP. Break shields with Disruption Break and then clean-up with kinetic weapon.  CoolGuy recommendation (https://www.youtube.com/watch?v=7XNBjZOggpc) MW: velocity,blast_radius,reload
-dimwishlist:item=1946491241&perks=1441682018,409831596,3300816228,1683379515  PvP. Break shields with Disruption Break and then clean-up with kinetic weapon.  CoolGuy recommendation (https://www.youtube.com/watch?v=7XNBjZOggpc) MW: velocity,blast_radius,reload
-dimwishlist:item=1946491241&perks=1441682018,2822142346,3300816228,1683379515  PvP. Break shields with Disruption Break and then clean-up with kinetic weapon.  CoolGuy recommendation (https://www.youtube.com/watch?v=7XNBjZOggpc) MW: velocity,blast_radius,reload
-dimwishlist:item=1946491241&perks=3798852852,409831596,3300816228,1683379515  PvP. Break shields with Disruption Break and then clean-up with kinetic weapon.  CoolGuy recommendation (https://www.youtube.com/watch?v=7XNBjZOggpc) MW: velocity,blast_radius,reload
-dimwishlist:item=1946491241&perks=3798852852,2822142346,3300816228,1683379515  PvP. Break shields with Disruption Break and then clean-up with kinetic weapon.  CoolGuy recommendation (https://www.youtube.com/watch?v=7XNBjZOggpc) MW: velocity,blast_radius,reload
-dimwishlist:item=1946491241&perks=981914802,409831596,3300816228,1683379515  PvP. Break shields with Disruption Break and then clean-up with kinetic weapon.  CoolGuy recommendation (https://www.youtube.com/watch?v=7XNBjZOggpc) MW: velocity,blast_radius,reload
-dimwishlist:item=1946491241&perks=981914802,2822142346,3300816228,1683379515  PvP. Break shields with Disruption Break and then clean-up with kinetic weapon.  CoolGuy recommendation (https://www.youtube.com/watch?v=7XNBjZOggpc) MW: velocity,blast_radius,reload
+dimwishlist:item=1946491241&perks=3525010810,409831596,3300816228,1683379515  PvP. Break shields with Disruption Break and then clean-up with kinetic weapon.  CoolGuy recommendation (https://www.youtube.com/watch?v=7XNBjZOggpc) MW: velocity, blast_radius, reload
+dimwishlist:item=1946491241&perks=3525010810,2822142346,3300816228,1683379515  PvP. Break shields with Disruption Break and then clean-up with kinetic weapon.  CoolGuy recommendation (https://www.youtube.com/watch?v=7XNBjZOggpc) MW: velocity, blast_radius, reload
+dimwishlist:item=1946491241&perks=1441682018,409831596,3300816228,1683379515  PvP. Break shields with Disruption Break and then clean-up with kinetic weapon.  CoolGuy recommendation (https://www.youtube.com/watch?v=7XNBjZOggpc) MW: velocity, blast_radius, reload
+dimwishlist:item=1946491241&perks=1441682018,2822142346,3300816228,1683379515  PvP. Break shields with Disruption Break and then clean-up with kinetic weapon.  CoolGuy recommendation (https://www.youtube.com/watch?v=7XNBjZOggpc) MW: velocity, blast_radius, reload
+dimwishlist:item=1946491241&perks=3798852852,409831596,3300816228,1683379515  PvP. Break shields with Disruption Break and then clean-up with kinetic weapon.  CoolGuy recommendation (https://www.youtube.com/watch?v=7XNBjZOggpc) MW: velocity, blast_radius, reload
+dimwishlist:item=1946491241&perks=3798852852,2822142346,3300816228,1683379515  PvP. Break shields with Disruption Break and then clean-up with kinetic weapon.  CoolGuy recommendation (https://www.youtube.com/watch?v=7XNBjZOggpc) MW: velocity, blast_radius, reload
+dimwishlist:item=1946491241&perks=981914802,409831596,3300816228,1683379515  PvP. Break shields with Disruption Break and then clean-up with kinetic weapon.  CoolGuy recommendation (https://www.youtube.com/watch?v=7XNBjZOggpc) MW: velocity, blast_radius, reload
+dimwishlist:item=1946491241&perks=981914802,2822142346,3300816228,1683379515  PvP. Break shields with Disruption Break and then clean-up with kinetic weapon.  CoolGuy recommendation (https://www.youtube.com/watch?v=7XNBjZOggpc) MW: velocity, blast_radius, reload
 // Field Prep, Disruption Break
-dimwishlist:item=1946491241&perks=3525010810,409831596,2869569095,1683379515  PvP. Break shields with Disruption Break and then clean-up with kinetic weapon.  CoolGuy recommendation (https://www.youtube.com/watch?v=7XNBjZOggpc) MW: velocity,blast_radius,reload
-dimwishlist:item=1946491241&perks=3525010810,2822142346,2869569095,1683379515  PvP. Break shields with Disruption Break and then clean-up with kinetic weapon.  CoolGuy recommendation (https://www.youtube.com/watch?v=7XNBjZOggpc) MW: velocity,blast_radius,reload
-dimwishlist:item=1946491241&perks=1441682018,409831596,2869569095,1683379515  PvP. Break shields with Disruption Break and then clean-up with kinetic weapon.  CoolGuy recommendation (https://www.youtube.com/watch?v=7XNBjZOggpc) MW: velocity,blast_radius,reload
-dimwishlist:item=1946491241&perks=1441682018,2822142346,2869569095,1683379515  PvP. Break shields with Disruption Break and then clean-up with kinetic weapon.  CoolGuy recommendation (https://www.youtube.com/watch?v=7XNBjZOggpc) MW: velocity,blast_radius,reload
-dimwishlist:item=1946491241&perks=3798852852,409831596,2869569095,1683379515  PvP. Break shields with Disruption Break and then clean-up with kinetic weapon.  CoolGuy recommendation (https://www.youtube.com/watch?v=7XNBjZOggpc) MW: velocity,blast_radius,reload
-dimwishlist:item=1946491241&perks=3798852852,2822142346,2869569095,1683379515  PvP. Break shields with Disruption Break and then clean-up with kinetic weapon.  CoolGuy recommendation (https://www.youtube.com/watch?v=7XNBjZOggpc) MW: velocity,blast_radius,reload
-dimwishlist:item=1946491241&perks=981914802,409831596,2869569095,1683379515  PvP. Break shields with Disruption Break and then clean-up with kinetic weapon.  CoolGuy recommendation (https://www.youtube.com/watch?v=7XNBjZOggpc) MW: velocity,blast_radius,reload
-dimwishlist:item=1946491241&perks=981914802,2822142346,2869569095,1683379515  PvP. Break shields with Disruption Break and then clean-up with kinetic weapon.  CoolGuy recommendation (https://www.youtube.com/watch?v=7XNBjZOggpc) MW: velocity,blast_radius,reload
+dimwishlist:item=1946491241&perks=3525010810,409831596,2869569095,1683379515  PvP. Break shields with Disruption Break and then clean-up with kinetic weapon.  CoolGuy recommendation (https://www.youtube.com/watch?v=7XNBjZOggpc) MW: velocity, blast_radius, reload
+dimwishlist:item=1946491241&perks=3525010810,2822142346,2869569095,1683379515  PvP. Break shields with Disruption Break and then clean-up with kinetic weapon.  CoolGuy recommendation (https://www.youtube.com/watch?v=7XNBjZOggpc) MW: velocity, blast_radius, reload
+dimwishlist:item=1946491241&perks=1441682018,409831596,2869569095,1683379515  PvP. Break shields with Disruption Break and then clean-up with kinetic weapon.  CoolGuy recommendation (https://www.youtube.com/watch?v=7XNBjZOggpc) MW: velocity, blast_radius, reload
+dimwishlist:item=1946491241&perks=1441682018,2822142346,2869569095,1683379515  PvP. Break shields with Disruption Break and then clean-up with kinetic weapon.  CoolGuy recommendation (https://www.youtube.com/watch?v=7XNBjZOggpc) MW: velocity, blast_radius, reload
+dimwishlist:item=1946491241&perks=3798852852,409831596,2869569095,1683379515  PvP. Break shields with Disruption Break and then clean-up with kinetic weapon.  CoolGuy recommendation (https://www.youtube.com/watch?v=7XNBjZOggpc) MW: velocity, blast_radius, reload
+dimwishlist:item=1946491241&perks=3798852852,2822142346,2869569095,1683379515  PvP. Break shields with Disruption Break and then clean-up with kinetic weapon.  CoolGuy recommendation (https://www.youtube.com/watch?v=7XNBjZOggpc) MW: velocity, blast_radius, reload
+dimwishlist:item=1946491241&perks=981914802,409831596,2869569095,1683379515  PvP. Break shields with Disruption Break and then clean-up with kinetic weapon.  CoolGuy recommendation (https://www.youtube.com/watch?v=7XNBjZOggpc) MW: velocity, blast_radius, reload
+dimwishlist:item=1946491241&perks=981914802,2822142346,2869569095,1683379515  PvP. Break shields with Disruption Break and then clean-up with kinetic weapon.  CoolGuy recommendation (https://www.youtube.com/watch?v=7XNBjZOggpc) MW: velocity, blast_radius, reload
 // Underdog, Disruption Break
-dimwishlist:item=1946491241&perks=3525010810,409831596,205890336,1683379515  PvP. Break shields with Disruption Break and then clean-up with kinetic weapon.  CoolGuy recommendation (https://www.youtube.com/watch?v=7XNBjZOggpc) MW: velocity,blast_radius,reload
-dimwishlist:item=1946491241&perks=3525010810,2822142346,205890336,1683379515  PvP. Break shields with Disruption Break and then clean-up with kinetic weapon.  CoolGuy recommendation (https://www.youtube.com/watch?v=7XNBjZOggpc) MW: velocity,blast_radius,reload
-dimwishlist:item=1946491241&perks=1441682018,409831596,205890336,1683379515  PvP. Break shields with Disruption Break and then clean-up with kinetic weapon.  CoolGuy recommendation (https://www.youtube.com/watch?v=7XNBjZOggpc) MW: velocity,blast_radius,reload
-dimwishlist:item=1946491241&perks=1441682018,2822142346,205890336,1683379515  PvP. Break shields with Disruption Break and then clean-up with kinetic weapon.  CoolGuy recommendation (https://www.youtube.com/watch?v=7XNBjZOggpc) MW: velocity,blast_radius,reload
-dimwishlist:item=1946491241&perks=3798852852,409831596,205890336,1683379515  PvP. Break shields with Disruption Break and then clean-up with kinetic weapon.  CoolGuy recommendation (https://www.youtube.com/watch?v=7XNBjZOggpc) MW: velocity,blast_radius,reload
-dimwishlist:item=1946491241&perks=3798852852,2822142346,205890336,1683379515  PvP. Break shields with Disruption Break and then clean-up with kinetic weapon.  CoolGuy recommendation (https://www.youtube.com/watch?v=7XNBjZOggpc) MW: velocity,blast_radius,reload
-dimwishlist:item=1946491241&perks=981914802,409831596,205890336,1683379515  PvP. Break shields with Disruption Break and then clean-up with kinetic weapon.  CoolGuy recommendation (https://www.youtube.com/watch?v=7XNBjZOggpc) MW: velocity,blast_radius,reload
-dimwishlist:item=1946491241&perks=981914802,2822142346,205890336,1683379515  PvP. Break shields with Disruption Break and then clean-up with kinetic weapon.  CoolGuy recommendation (https://www.youtube.com/watch?v=7XNBjZOggpc) MW: velocity,blast_radius,reload
+dimwishlist:item=1946491241&perks=3525010810,409831596,205890336,1683379515  PvP. Break shields with Disruption Break and then clean-up with kinetic weapon.  CoolGuy recommendation (https://www.youtube.com/watch?v=7XNBjZOggpc) MW: velocity, blast_radius, reload
+dimwishlist:item=1946491241&perks=3525010810,2822142346,205890336,1683379515  PvP. Break shields with Disruption Break and then clean-up with kinetic weapon.  CoolGuy recommendation (https://www.youtube.com/watch?v=7XNBjZOggpc) MW: velocity, blast_radius, reload
+dimwishlist:item=1946491241&perks=1441682018,409831596,205890336,1683379515  PvP. Break shields with Disruption Break and then clean-up with kinetic weapon.  CoolGuy recommendation (https://www.youtube.com/watch?v=7XNBjZOggpc) MW: velocity, blast_radius, reload
+dimwishlist:item=1946491241&perks=1441682018,2822142346,205890336,1683379515  PvP. Break shields with Disruption Break and then clean-up with kinetic weapon.  CoolGuy recommendation (https://www.youtube.com/watch?v=7XNBjZOggpc) MW: velocity, blast_radius, reload
+dimwishlist:item=1946491241&perks=3798852852,409831596,205890336,1683379515  PvP. Break shields with Disruption Break and then clean-up with kinetic weapon.  CoolGuy recommendation (https://www.youtube.com/watch?v=7XNBjZOggpc) MW: velocity, blast_radius, reload
+dimwishlist:item=1946491241&perks=3798852852,2822142346,205890336,1683379515  PvP. Break shields with Disruption Break and then clean-up with kinetic weapon.  CoolGuy recommendation (https://www.youtube.com/watch?v=7XNBjZOggpc) MW: velocity, blast_radius, reload
+dimwishlist:item=1946491241&perks=981914802,409831596,205890336,1683379515  PvP. Break shields with Disruption Break and then clean-up with kinetic weapon.  CoolGuy recommendation (https://www.youtube.com/watch?v=7XNBjZOggpc) MW: velocity, blast_radius, reload
+dimwishlist:item=1946491241&perks=981914802,2822142346,205890336,1683379515  PvP. Break shields with Disruption Break and then clean-up with kinetic weapon.  CoolGuy recommendation (https://www.youtube.com/watch?v=7XNBjZOggpc) MW: velocity, blast_radius, reload
 // Truthteller
 // Auto Loading Holster, Multikill Clip
-dimwishlist:item=1946491241&perks=3525010810,3301904089,3300816228,2458213969  PvP.  Direct hits with spike or concussion grenades will one-hit kill a Guardian.  CoolGuy recommendation (https://www.youtube.com/watch?v=7XNBjZOggpc) MW: velocity,blast_radius,reload
-dimwishlist:item=1946491241&perks=3525010810,1716000303,3300816228,2458213969  PvP.  Direct hits with spike or concussion grenades will one-hit kill a Guardian.  CoolGuy recommendation (https://www.youtube.com/watch?v=7XNBjZOggpc) MW: velocity,blast_radius,reload
-dimwishlist:item=1946491241&perks=3525010810,2822142346,3300816228,2458213969  PvP.  Direct hits with spike or concussion grenades will one-hit kill a Guardian.  CoolGuy recommendation (https://www.youtube.com/watch?v=7XNBjZOggpc) MW: velocity,blast_radius,reload
-dimwishlist:item=1946491241&perks=1441682018,3301904089,3300816228,2458213969  PvP.  Direct hits with spike or concussion grenades will one-hit kill a Guardian.  CoolGuy recommendation (https://www.youtube.com/watch?v=7XNBjZOggpc) MW: velocity,blast_radius,reload
-dimwishlist:item=1946491241&perks=1441682018,1716000303,3300816228,2458213969  PvP.  Direct hits with spike or concussion grenades will one-hit kill a Guardian.  CoolGuy recommendation (https://www.youtube.com/watch?v=7XNBjZOggpc) MW: velocity,blast_radius,reload
-dimwishlist:item=1946491241&perks=1441682018,2822142346,3300816228,2458213969  PvP.  Direct hits with spike or concussion grenades will one-hit kill a Guardian.  CoolGuy recommendation (https://www.youtube.com/watch?v=7XNBjZOggpc) MW: velocity,blast_radius,reload
-dimwishlist:item=1946491241&perks=3798852852,3301904089,3300816228,2458213969  PvP.  Direct hits with spike or concussion grenades will one-hit kill a Guardian.  CoolGuy recommendation (https://www.youtube.com/watch?v=7XNBjZOggpc) MW: velocity,blast_radius,reload
-dimwishlist:item=1946491241&perks=3798852852,1716000303,3300816228,2458213969  PvP.  Direct hits with spike or concussion grenades will one-hit kill a Guardian.  CoolGuy recommendation (https://www.youtube.com/watch?v=7XNBjZOggpc) MW: velocity,blast_radius,reload
-dimwishlist:item=1946491241&perks=3798852852,2822142346,3300816228,2458213969  PvP.  Direct hits with spike or concussion grenades will one-hit kill a Guardian.  CoolGuy recommendation (https://www.youtube.com/watch?v=7XNBjZOggpc) MW: velocity,blast_radius,reload
-dimwishlist:item=1946491241&perks=981914802,3301904089,3300816228,2458213969  PvP.  Direct hits with spike or concussion grenades will one-hit kill a Guardian.  CoolGuy recommendation (https://www.youtube.com/watch?v=7XNBjZOggpc) MW: velocity,blast_radius,reload
-dimwishlist:item=1946491241&perks=981914802,1716000303,3300816228,2458213969  PvP.  Direct hits with spike or concussion grenades will one-hit kill a Guardian.  CoolGuy recommendation (https://www.youtube.com/watch?v=7XNBjZOggpc) MW: velocity,blast_radius,reload
-dimwishlist:item=1946491241&perks=981914802,2822142346,3300816228,2458213969  PvP.  Direct hits with spike or concussion grenades will one-hit kill a Guardian.  CoolGuy recommendation (https://www.youtube.com/watch?v=7XNBjZOggpc) MW: velocity,blast_radius,reload
+dimwishlist:item=1946491241&perks=3525010810,3301904089,3300816228,2458213969  PvP.  Direct hits with spike or concussion grenades will one-hit kill a Guardian.  CoolGuy recommendation (https://www.youtube.com/watch?v=7XNBjZOggpc) MW: velocity, blast_radius, reload
+dimwishlist:item=1946491241&perks=3525010810,1716000303,3300816228,2458213969  PvP.  Direct hits with spike or concussion grenades will one-hit kill a Guardian.  CoolGuy recommendation (https://www.youtube.com/watch?v=7XNBjZOggpc) MW: velocity, blast_radius, reload
+dimwishlist:item=1946491241&perks=3525010810,2822142346,3300816228,2458213969  PvP.  Direct hits with spike or concussion grenades will one-hit kill a Guardian.  CoolGuy recommendation (https://www.youtube.com/watch?v=7XNBjZOggpc) MW: velocity, blast_radius, reload
+dimwishlist:item=1946491241&perks=1441682018,3301904089,3300816228,2458213969  PvP.  Direct hits with spike or concussion grenades will one-hit kill a Guardian.  CoolGuy recommendation (https://www.youtube.com/watch?v=7XNBjZOggpc) MW: velocity, blast_radius, reload
+dimwishlist:item=1946491241&perks=1441682018,1716000303,3300816228,2458213969  PvP.  Direct hits with spike or concussion grenades will one-hit kill a Guardian.  CoolGuy recommendation (https://www.youtube.com/watch?v=7XNBjZOggpc) MW: velocity, blast_radius, reload
+dimwishlist:item=1946491241&perks=1441682018,2822142346,3300816228,2458213969  PvP.  Direct hits with spike or concussion grenades will one-hit kill a Guardian.  CoolGuy recommendation (https://www.youtube.com/watch?v=7XNBjZOggpc) MW: velocity, blast_radius, reload
+dimwishlist:item=1946491241&perks=3798852852,3301904089,3300816228,2458213969  PvP.  Direct hits with spike or concussion grenades will one-hit kill a Guardian.  CoolGuy recommendation (https://www.youtube.com/watch?v=7XNBjZOggpc) MW: velocity, blast_radius, reload
+dimwishlist:item=1946491241&perks=3798852852,1716000303,3300816228,2458213969  PvP.  Direct hits with spike or concussion grenades will one-hit kill a Guardian.  CoolGuy recommendation (https://www.youtube.com/watch?v=7XNBjZOggpc) MW: velocity, blast_radius, reload
+dimwishlist:item=1946491241&perks=3798852852,2822142346,3300816228,2458213969  PvP.  Direct hits with spike or concussion grenades will one-hit kill a Guardian.  CoolGuy recommendation (https://www.youtube.com/watch?v=7XNBjZOggpc) MW: velocity, blast_radius, reload
+dimwishlist:item=1946491241&perks=981914802,3301904089,3300816228,2458213969  PvP.  Direct hits with spike or concussion grenades will one-hit kill a Guardian.  CoolGuy recommendation (https://www.youtube.com/watch?v=7XNBjZOggpc) MW: velocity, blast_radius, reload
+dimwishlist:item=1946491241&perks=981914802,1716000303,3300816228,2458213969  PvP.  Direct hits with spike or concussion grenades will one-hit kill a Guardian.  CoolGuy recommendation (https://www.youtube.com/watch?v=7XNBjZOggpc) MW: velocity, blast_radius, reload
+dimwishlist:item=1946491241&perks=981914802,2822142346,3300816228,2458213969  PvP.  Direct hits with spike or concussion grenades will one-hit kill a Guardian.  CoolGuy recommendation (https://www.youtube.com/watch?v=7XNBjZOggpc) MW: velocity, blast_radius, reload
 // Field Prep, Multikill Clip
-dimwishlist:item=1946491241&perks=3525010810,3301904089,2869569095,2458213969  PvP.  Direct hits with spike or concussion grenades will one-hit kill a Guardian.  CoolGuy recommendation (https://www.youtube.com/watch?v=7XNBjZOggpc) MW: velocity,blast_radius,reload
-dimwishlist:item=1946491241&perks=3525010810,1716000303,2869569095,2458213969  PvP.  Direct hits with spike or concussion grenades will one-hit kill a Guardian.  CoolGuy recommendation (https://www.youtube.com/watch?v=7XNBjZOggpc) MW: velocity,blast_radius,reload
-dimwishlist:item=1946491241&perks=3525010810,2822142346,2869569095,2458213969  PvP.  Direct hits with spike or concussion grenades will one-hit kill a Guardian.  CoolGuy recommendation (https://www.youtube.com/watch?v=7XNBjZOggpc) MW: velocity,blast_radius,reload
-dimwishlist:item=1946491241&perks=1441682018,3301904089,2869569095,2458213969  PvP.  Direct hits with spike or concussion grenades will one-hit kill a Guardian.  CoolGuy recommendation (https://www.youtube.com/watch?v=7XNBjZOggpc) MW: velocity,blast_radius,reload
-dimwishlist:item=1946491241&perks=1441682018,1716000303,2869569095,2458213969  PvP.  Direct hits with spike or concussion grenades will one-hit kill a Guardian.  CoolGuy recommendation (https://www.youtube.com/watch?v=7XNBjZOggpc) MW: velocity,blast_radius,reload
-dimwishlist:item=1946491241&perks=1441682018,2822142346,2869569095,2458213969  PvP.  Direct hits with spike or concussion grenades will one-hit kill a Guardian.  CoolGuy recommendation (https://www.youtube.com/watch?v=7XNBjZOggpc) MW: velocity,blast_radius,reload
-dimwishlist:item=1946491241&perks=3798852852,3301904089,2869569095,2458213969  PvP.  Direct hits with spike or concussion grenades will one-hit kill a Guardian.  CoolGuy recommendation (https://www.youtube.com/watch?v=7XNBjZOggpc) MW: velocity,blast_radius,reload
-dimwishlist:item=1946491241&perks=3798852852,1716000303,2869569095,2458213969  PvP.  Direct hits with spike or concussion grenades will one-hit kill a Guardian.  CoolGuy recommendation (https://www.youtube.com/watch?v=7XNBjZOggpc) MW: velocity,blast_radius,reload
-dimwishlist:item=1946491241&perks=3798852852,2822142346,2869569095,2458213969  PvP.  Direct hits with spike or concussion grenades will one-hit kill a Guardian.  CoolGuy recommendation (https://www.youtube.com/watch?v=7XNBjZOggpc) MW: velocity,blast_radius,reload
-dimwishlist:item=1946491241&perks=981914802,3301904089,2869569095,2458213969  PvP.  Direct hits with spike or concussion grenades will one-hit kill a Guardian.  CoolGuy recommendation (https://www.youtube.com/watch?v=7XNBjZOggpc) MW: velocity,blast_radius,reload
-dimwishlist:item=1946491241&perks=981914802,1716000303,2869569095,2458213969  PvP.  Direct hits with spike or concussion grenades will one-hit kill a Guardian.  CoolGuy recommendation (https://www.youtube.com/watch?v=7XNBjZOggpc) MW: velocity,blast_radius,reload
-dimwishlist:item=1946491241&perks=981914802,2822142346,2869569095,2458213969  PvP.  Direct hits with spike or concussion grenades will one-hit kill a Guardian.  CoolGuy recommendation (https://www.youtube.com/watch?v=7XNBjZOggpc) MW: velocity,blast_radius,reload
+dimwishlist:item=1946491241&perks=3525010810,3301904089,2869569095,2458213969  PvP.  Direct hits with spike or concussion grenades will one-hit kill a Guardian.  CoolGuy recommendation (https://www.youtube.com/watch?v=7XNBjZOggpc) MW: velocity, blast_radius, reload
+dimwishlist:item=1946491241&perks=3525010810,1716000303,2869569095,2458213969  PvP.  Direct hits with spike or concussion grenades will one-hit kill a Guardian.  CoolGuy recommendation (https://www.youtube.com/watch?v=7XNBjZOggpc) MW: velocity, blast_radius, reload
+dimwishlist:item=1946491241&perks=3525010810,2822142346,2869569095,2458213969  PvP.  Direct hits with spike or concussion grenades will one-hit kill a Guardian.  CoolGuy recommendation (https://www.youtube.com/watch?v=7XNBjZOggpc) MW: velocity, blast_radius, reload
+dimwishlist:item=1946491241&perks=1441682018,3301904089,2869569095,2458213969  PvP.  Direct hits with spike or concussion grenades will one-hit kill a Guardian.  CoolGuy recommendation (https://www.youtube.com/watch?v=7XNBjZOggpc) MW: velocity, blast_radius, reload
+dimwishlist:item=1946491241&perks=1441682018,1716000303,2869569095,2458213969  PvP.  Direct hits with spike or concussion grenades will one-hit kill a Guardian.  CoolGuy recommendation (https://www.youtube.com/watch?v=7XNBjZOggpc) MW: velocity, blast_radius, reload
+dimwishlist:item=1946491241&perks=1441682018,2822142346,2869569095,2458213969  PvP.  Direct hits with spike or concussion grenades will one-hit kill a Guardian.  CoolGuy recommendation (https://www.youtube.com/watch?v=7XNBjZOggpc) MW: velocity, blast_radius, reload
+dimwishlist:item=1946491241&perks=3798852852,3301904089,2869569095,2458213969  PvP.  Direct hits with spike or concussion grenades will one-hit kill a Guardian.  CoolGuy recommendation (https://www.youtube.com/watch?v=7XNBjZOggpc) MW: velocity, blast_radius, reload
+dimwishlist:item=1946491241&perks=3798852852,1716000303,2869569095,2458213969  PvP.  Direct hits with spike or concussion grenades will one-hit kill a Guardian.  CoolGuy recommendation (https://www.youtube.com/watch?v=7XNBjZOggpc) MW: velocity, blast_radius, reload
+dimwishlist:item=1946491241&perks=3798852852,2822142346,2869569095,2458213969  PvP.  Direct hits with spike or concussion grenades will one-hit kill a Guardian.  CoolGuy recommendation (https://www.youtube.com/watch?v=7XNBjZOggpc) MW: velocity, blast_radius, reload
+dimwishlist:item=1946491241&perks=981914802,3301904089,2869569095,2458213969  PvP.  Direct hits with spike or concussion grenades will one-hit kill a Guardian.  CoolGuy recommendation (https://www.youtube.com/watch?v=7XNBjZOggpc) MW: velocity, blast_radius, reload
+dimwishlist:item=1946491241&perks=981914802,1716000303,2869569095,2458213969  PvP.  Direct hits with spike or concussion grenades will one-hit kill a Guardian.  CoolGuy recommendation (https://www.youtube.com/watch?v=7XNBjZOggpc) MW: velocity, blast_radius, reload
+dimwishlist:item=1946491241&perks=981914802,2822142346,2869569095,2458213969  PvP.  Direct hits with spike or concussion grenades will one-hit kill a Guardian.  CoolGuy recommendation (https://www.youtube.com/watch?v=7XNBjZOggpc) MW: velocity, blast_radius, reload
 // Underdog, Multikill Clip
-dimwishlist:item=1946491241&perks=3525010810,3301904089,205890336,2458213969  PvP.  Direct hits with spike or concussion grenades will one-hit kill a Guardian.  CoolGuy recommendation (https://www.youtube.com/watch?v=7XNBjZOggpc) MW: velocity,blast_radius,reload
-dimwishlist:item=1946491241&perks=3525010810,1716000303,205890336,2458213969  PvP.  Direct hits with spike or concussion grenades will one-hit kill a Guardian.  CoolGuy recommendation (https://www.youtube.com/watch?v=7XNBjZOggpc) MW: velocity,blast_radius,reload
-dimwishlist:item=1946491241&perks=3525010810,2822142346,205890336,2458213969  PvP.  Direct hits with spike or concussion grenades will one-hit kill a Guardian.  CoolGuy recommendation (https://www.youtube.com/watch?v=7XNBjZOggpc) MW: velocity,blast_radius,reload
-dimwishlist:item=1946491241&perks=1441682018,3301904089,205890336,2458213969  PvP.  Direct hits with spike or concussion grenades will one-hit kill a Guardian.  CoolGuy recommendation (https://www.youtube.com/watch?v=7XNBjZOggpc) MW: velocity,blast_radius,reload
-dimwishlist:item=1946491241&perks=1441682018,1716000303,205890336,2458213969  PvP.  Direct hits with spike or concussion grenades will one-hit kill a Guardian.  CoolGuy recommendation (https://www.youtube.com/watch?v=7XNBjZOggpc) MW: velocity,blast_radius,reload
-dimwishlist:item=1946491241&perks=1441682018,2822142346,205890336,2458213969  PvP.  Direct hits with spike or concussion grenades will one-hit kill a Guardian.  CoolGuy recommendation (https://www.youtube.com/watch?v=7XNBjZOggpc) MW: velocity,blast_radius,reload
-dimwishlist:item=1946491241&perks=3798852852,3301904089,205890336,2458213969  PvP.  Direct hits with spike or concussion grenades will one-hit kill a Guardian.  CoolGuy recommendation (https://www.youtube.com/watch?v=7XNBjZOggpc) MW: velocity,blast_radius,reload
-dimwishlist:item=1946491241&perks=3798852852,1716000303,205890336,2458213969  PvP.  Direct hits with spike or concussion grenades will one-hit kill a Guardian.  CoolGuy recommendation (https://www.youtube.com/watch?v=7XNBjZOggpc) MW: velocity,blast_radius,reload
-dimwishlist:item=1946491241&perks=3798852852,2822142346,205890336,2458213969  PvP.  Direct hits with spike or concussion grenades will one-hit kill a Guardian.  CoolGuy recommendation (https://www.youtube.com/watch?v=7XNBjZOggpc) MW: velocity,blast_radius,reload
-dimwishlist:item=1946491241&perks=981914802,3301904089,205890336,2458213969  PvP.  Direct hits with spike or concussion grenades will one-hit kill a Guardian.  CoolGuy recommendation (https://www.youtube.com/watch?v=7XNBjZOggpc) MW: velocity,blast_radius,reload
-dimwishlist:item=1946491241&perks=981914802,1716000303,205890336,2458213969  PvP.  Direct hits with spike or concussion grenades will one-hit kill a Guardian.  CoolGuy recommendation (https://www.youtube.com/watch?v=7XNBjZOggpc) MW: velocity,blast_radius,reload
-dimwishlist:item=1946491241&perks=981914802,2822142346,205890336,2458213969  PvP.  Direct hits with spike or concussion grenades will one-hit kill a Guardian.  CoolGuy recommendation (https://www.youtube.com/watch?v=7XNBjZOggpc) MW: velocity,blast_radius,reload
+dimwishlist:item=1946491241&perks=3525010810,3301904089,205890336,2458213969  PvP.  Direct hits with spike or concussion grenades will one-hit kill a Guardian.  CoolGuy recommendation (https://www.youtube.com/watch?v=7XNBjZOggpc) MW: velocity, blast_radius, reload
+dimwishlist:item=1946491241&perks=3525010810,1716000303,205890336,2458213969  PvP.  Direct hits with spike or concussion grenades will one-hit kill a Guardian.  CoolGuy recommendation (https://www.youtube.com/watch?v=7XNBjZOggpc) MW: velocity, blast_radius, reload
+dimwishlist:item=1946491241&perks=3525010810,2822142346,205890336,2458213969  PvP.  Direct hits with spike or concussion grenades will one-hit kill a Guardian.  CoolGuy recommendation (https://www.youtube.com/watch?v=7XNBjZOggpc) MW: velocity, blast_radius, reload
+dimwishlist:item=1946491241&perks=1441682018,3301904089,205890336,2458213969  PvP.  Direct hits with spike or concussion grenades will one-hit kill a Guardian.  CoolGuy recommendation (https://www.youtube.com/watch?v=7XNBjZOggpc) MW: velocity, blast_radius, reload
+dimwishlist:item=1946491241&perks=1441682018,1716000303,205890336,2458213969  PvP.  Direct hits with spike or concussion grenades will one-hit kill a Guardian.  CoolGuy recommendation (https://www.youtube.com/watch?v=7XNBjZOggpc) MW: velocity, blast_radius, reload
+dimwishlist:item=1946491241&perks=1441682018,2822142346,205890336,2458213969  PvP.  Direct hits with spike or concussion grenades will one-hit kill a Guardian.  CoolGuy recommendation (https://www.youtube.com/watch?v=7XNBjZOggpc) MW: velocity, blast_radius, reload
+dimwishlist:item=1946491241&perks=3798852852,3301904089,205890336,2458213969  PvP.  Direct hits with spike or concussion grenades will one-hit kill a Guardian.  CoolGuy recommendation (https://www.youtube.com/watch?v=7XNBjZOggpc) MW: velocity, blast_radius, reload
+dimwishlist:item=1946491241&perks=3798852852,1716000303,205890336,2458213969  PvP.  Direct hits with spike or concussion grenades will one-hit kill a Guardian.  CoolGuy recommendation (https://www.youtube.com/watch?v=7XNBjZOggpc) MW: velocity, blast_radius, reload
+dimwishlist:item=1946491241&perks=3798852852,2822142346,205890336,2458213969  PvP.  Direct hits with spike or concussion grenades will one-hit kill a Guardian.  CoolGuy recommendation (https://www.youtube.com/watch?v=7XNBjZOggpc) MW: velocity, blast_radius, reload
+dimwishlist:item=1946491241&perks=981914802,3301904089,205890336,2458213969  PvP.  Direct hits with spike or concussion grenades will one-hit kill a Guardian.  CoolGuy recommendation (https://www.youtube.com/watch?v=7XNBjZOggpc) MW: velocity, blast_radius, reload
+dimwishlist:item=1946491241&perks=981914802,1716000303,205890336,2458213969  PvP.  Direct hits with spike or concussion grenades will one-hit kill a Guardian.  CoolGuy recommendation (https://www.youtube.com/watch?v=7XNBjZOggpc) MW: velocity, blast_radius, reload
+dimwishlist:item=1946491241&perks=981914802,2822142346,205890336,2458213969  PvP.  Direct hits with spike or concussion grenades will one-hit kill a Guardian.  CoolGuy recommendation (https://www.youtube.com/watch?v=7XNBjZOggpc) MW: velocity, blast_radius, reload
 // Feeding Frenzy, Multikill Clip
-dimwishlist:item=1946491241&perks=3525010810,3301904089,2779035018,2458213969  PvE.  Multikill Clip makes this a Mountaintop replacement for PvE.  KackisHD recommendation (https://www.youtube.com/watch?v=VuNY5t-DS0g) MW: velocity,blast_radius,reload
-dimwishlist:item=1946491241&perks=3525010810,1716000303,2779035018,2458213969  PvE.  Multikill Clip makes this a Mountaintop replacement for PvE.  KackisHD recommendation (https://www.youtube.com/watch?v=VuNY5t-DS0g) MW: velocity,blast_radius,reload
-dimwishlist:item=1946491241&perks=3525010810,2822142346,2779035018,2458213969  PvE.  Multikill Clip makes this a Mountaintop replacement for PvE.  KackisHD recommendation (https://www.youtube.com/watch?v=VuNY5t-DS0g) MW: velocity,blast_radius,reload
-dimwishlist:item=1946491241&perks=1441682018,3301904089,2779035018,2458213969  PvE.  Multikill Clip makes this a Mountaintop replacement for PvE.  KackisHD recommendation (https://www.youtube.com/watch?v=VuNY5t-DS0g) MW: velocity,blast_radius,reload
-dimwishlist:item=1946491241&perks=1441682018,1716000303,2779035018,2458213969  PvE.  Multikill Clip makes this a Mountaintop replacement for PvE.  KackisHD recommendation (https://www.youtube.com/watch?v=VuNY5t-DS0g) MW: velocity,blast_radius,reload
-dimwishlist:item=1946491241&perks=1441682018,2822142346,2779035018,2458213969  PvE.  Multikill Clip makes this a Mountaintop replacement for PvE.  KackisHD recommendation (https://www.youtube.com/watch?v=VuNY5t-DS0g) MW: velocity,blast_radius,reload
-dimwishlist:item=1946491241&perks=3798852852,3301904089,2779035018,2458213969  PvE.  Multikill Clip makes this a Mountaintop replacement for PvE.  KackisHD recommendation (https://www.youtube.com/watch?v=VuNY5t-DS0g) MW: velocity,blast_radius,reload
-dimwishlist:item=1946491241&perks=3798852852,1716000303,2779035018,2458213969  PvE.  Multikill Clip makes this a Mountaintop replacement for PvE.  KackisHD recommendation (https://www.youtube.com/watch?v=VuNY5t-DS0g) MW: velocity,blast_radius,reload
-dimwishlist:item=1946491241&perks=3798852852,2822142346,2779035018,2458213969  PvE.  Multikill Clip makes this a Mountaintop replacement for PvE.  KackisHD recommendation (https://www.youtube.com/watch?v=VuNY5t-DS0g) MW: velocity,blast_radius,reload
-dimwishlist:item=1946491241&perks=981914802,3301904089,2779035018,2458213969  PvE.  Multikill Clip makes this a Mountaintop replacement for PvE.  KackisHD recommendation (https://www.youtube.com/watch?v=VuNY5t-DS0g) MW: velocity,blast_radius,reload
-dimwishlist:item=1946491241&perks=981914802,1716000303,2779035018,2458213969  PvE.  Multikill Clip makes this a Mountaintop replacement for PvE.  KackisHD recommendation (https://www.youtube.com/watch?v=VuNY5t-DS0g) MW: velocity,blast_radius,reload
-dimwishlist:item=1946491241&perks=981914802,2822142346,2779035018,2458213969  PvE.  Multikill Clip makes this a Mountaintop replacement for PvE.  KackisHD recommendation (https://www.youtube.com/watch?v=VuNY5t-DS0g) MW: velocity,blast_radius,reload
+dimwishlist:item=1946491241&perks=3525010810,3301904089,2779035018,2458213969  PvE.  Multikill Clip makes this a Mountaintop replacement for PvE.  KackisHD recommendation (https://www.youtube.com/watch?v=VuNY5t-DS0g) MW: velocity, blast_radius, reload
+dimwishlist:item=1946491241&perks=3525010810,1716000303,2779035018,2458213969  PvE.  Multikill Clip makes this a Mountaintop replacement for PvE.  KackisHD recommendation (https://www.youtube.com/watch?v=VuNY5t-DS0g) MW: velocity, blast_radius, reload
+dimwishlist:item=1946491241&perks=3525010810,2822142346,2779035018,2458213969  PvE.  Multikill Clip makes this a Mountaintop replacement for PvE.  KackisHD recommendation (https://www.youtube.com/watch?v=VuNY5t-DS0g) MW: velocity, blast_radius, reload
+dimwishlist:item=1946491241&perks=1441682018,3301904089,2779035018,2458213969  PvE.  Multikill Clip makes this a Mountaintop replacement for PvE.  KackisHD recommendation (https://www.youtube.com/watch?v=VuNY5t-DS0g) MW: velocity, blast_radius, reload
+dimwishlist:item=1946491241&perks=1441682018,1716000303,2779035018,2458213969  PvE.  Multikill Clip makes this a Mountaintop replacement for PvE.  KackisHD recommendation (https://www.youtube.com/watch?v=VuNY5t-DS0g) MW: velocity, blast_radius, reload
+dimwishlist:item=1946491241&perks=1441682018,2822142346,2779035018,2458213969  PvE.  Multikill Clip makes this a Mountaintop replacement for PvE.  KackisHD recommendation (https://www.youtube.com/watch?v=VuNY5t-DS0g) MW: velocity, blast_radius, reload
+dimwishlist:item=1946491241&perks=3798852852,3301904089,2779035018,2458213969  PvE.  Multikill Clip makes this a Mountaintop replacement for PvE.  KackisHD recommendation (https://www.youtube.com/watch?v=VuNY5t-DS0g) MW: velocity, blast_radius, reload
+dimwishlist:item=1946491241&perks=3798852852,1716000303,2779035018,2458213969  PvE.  Multikill Clip makes this a Mountaintop replacement for PvE.  KackisHD recommendation (https://www.youtube.com/watch?v=VuNY5t-DS0g) MW: velocity, blast_radius, reload
+dimwishlist:item=1946491241&perks=3798852852,2822142346,2779035018,2458213969  PvE.  Multikill Clip makes this a Mountaintop replacement for PvE.  KackisHD recommendation (https://www.youtube.com/watch?v=VuNY5t-DS0g) MW: velocity, blast_radius, reload
+dimwishlist:item=1946491241&perks=981914802,3301904089,2779035018,2458213969  PvE.  Multikill Clip makes this a Mountaintop replacement for PvE.  KackisHD recommendation (https://www.youtube.com/watch?v=VuNY5t-DS0g) MW: velocity, blast_radius, reload
+dimwishlist:item=1946491241&perks=981914802,1716000303,2779035018,2458213969  PvE.  Multikill Clip makes this a Mountaintop replacement for PvE.  KackisHD recommendation (https://www.youtube.com/watch?v=VuNY5t-DS0g) MW: velocity, blast_radius, reload
+dimwishlist:item=1946491241&perks=981914802,2822142346,2779035018,2458213969  PvE.  Multikill Clip makes this a Mountaintop replacement for PvE.  KackisHD recommendation (https://www.youtube.com/watch?v=VuNY5t-DS0g) MW: velocity, blast_radius, reload
 // Grave Robber, Swashbuckler
-dimwishlist:item=1946491241&perks=3525010810,3301904089,1631667848,4082225868  PvE. MW: velocity,blast_radius,reload
-dimwishlist:item=1946491241&perks=3525010810,1716000303,1631667848,4082225868  PvE. MW: velocity,blast_radius,reload
-dimwishlist:item=1946491241&perks=3525010810,2822142346,1631667848,4082225868  PvE. MW: velocity,blast_radius,reload
-dimwishlist:item=1946491241&perks=1441682018,3301904089,1631667848,4082225868  PvE. MW: velocity,blast_radius,reload
-dimwishlist:item=1946491241&perks=1441682018,1716000303,1631667848,4082225868  PvE. MW: velocity,blast_radius,reload
-dimwishlist:item=1946491241&perks=1441682018,2822142346,1631667848,4082225868  PvE. MW: velocity,blast_radius,reload
-dimwishlist:item=1946491241&perks=3798852852,3301904089,1631667848,4082225868  PvE. MW: velocity,blast_radius,reload
-dimwishlist:item=1946491241&perks=3798852852,1716000303,1631667848,4082225868  PvE. MW: velocity,blast_radius,reload
-dimwishlist:item=1946491241&perks=3798852852,2822142346,1631667848,4082225868  PvE. MW: velocity,blast_radius,reload
-dimwishlist:item=1946491241&perks=981914802,3301904089,1631667848,4082225868  PvE. MW: velocity,blast_radius,reload
-dimwishlist:item=1946491241&perks=981914802,1716000303,1631667848,4082225868  PvE. MW: velocity,blast_radius,reload
-dimwishlist:item=1946491241&perks=981914802,2822142346,1631667848,4082225868  PvE. MW: velocity,blast_radius,reload
+dimwishlist:item=1946491241&perks=3525010810,3301904089,1631667848,4082225868  PvE. MW: velocity, blast_radius, reload
+dimwishlist:item=1946491241&perks=3525010810,1716000303,1631667848,4082225868  PvE. MW: velocity, blast_radius, reload
+dimwishlist:item=1946491241&perks=3525010810,2822142346,1631667848,4082225868  PvE. MW: velocity, blast_radius, reload
+dimwishlist:item=1946491241&perks=1441682018,3301904089,1631667848,4082225868  PvE. MW: velocity, blast_radius, reload
+dimwishlist:item=1946491241&perks=1441682018,1716000303,1631667848,4082225868  PvE. MW: velocity, blast_radius, reload
+dimwishlist:item=1946491241&perks=1441682018,2822142346,1631667848,4082225868  PvE. MW: velocity, blast_radius, reload
+dimwishlist:item=1946491241&perks=3798852852,3301904089,1631667848,4082225868  PvE. MW: velocity, blast_radius, reload
+dimwishlist:item=1946491241&perks=3798852852,1716000303,1631667848,4082225868  PvE. MW: velocity, blast_radius, reload
+dimwishlist:item=1946491241&perks=3798852852,2822142346,1631667848,4082225868  PvE. MW: velocity, blast_radius, reload
+dimwishlist:item=1946491241&perks=981914802,3301904089,1631667848,4082225868  PvE. MW: velocity, blast_radius, reload
+dimwishlist:item=1946491241&perks=981914802,1716000303,1631667848,4082225868  PvE. MW: velocity, blast_radius, reload
+dimwishlist:item=1946491241&perks=981914802,2822142346,1631667848,4082225868  PvE. MW: velocity, blast_radius, reload
 
 
 // Crimils Dagger
 //notes: Innate high-calibre rounds (i.e. induces flinch).  Still 110RPM hand cannon with 1.07s TTK, so a poor choice but maybe it will get buffed?  Aztecross recommendation (vid: https://www.youtube.com/watch?v=vPSCwqYm2DY)
 // Rangefinder, Kill Clip
-dimwishlist:item=4292849692&perks=1926090091,3142289711,2846385770,1015611457  PvP.(4.0) MW: range,handling,reload
-dimwishlist:item=4292849692&perks=1926090090,3142289711,2846385770,1015611457  PvP.(4.0) MW: range,handling,reload
-dimwishlist:item=4292849692&perks=1926090093,3142289711,2846385770,1015611457  PvP.(4.0) MW: range,handling,reload
+dimwishlist:item=4292849692&perks=1926090091,3142289711,2846385770,1015611457  PvP.(4.0) MW: range, handling, reload
+dimwishlist:item=4292849692&perks=1926090090,3142289711,2846385770,1015611457  PvP.(4.0) MW: range, handling, reload
+dimwishlist:item=4292849692&perks=1926090093,3142289711,2846385770,1015611457  PvP.(4.0) MW: range, handling, reload
 // Rangefinder, Opening Shot
-dimwishlist:item=4292849692&perks=1926090091,3142289711,2846385770,47981717  PvP.(4.0) MW: range,handling,reload
-dimwishlist:item=4292849692&perks=1926090090,3142289711,2846385770,47981717  PvP.(4.0) MW: range,handling,reload
-dimwishlist:item=4292849692&perks=1926090093,3142289711,2846385770,47981717  PvP.(4.0) MW: range,handling,reload
+dimwishlist:item=4292849692&perks=1926090091,3142289711,2846385770,47981717  PvP.(4.0) MW: range, handling, reload
+dimwishlist:item=4292849692&perks=1926090090,3142289711,2846385770,47981717  PvP.(4.0) MW: range, handling, reload
+dimwishlist:item=4292849692&perks=1926090093,3142289711,2846385770,47981717  PvP.(4.0) MW: range, handling, reload
 // Rangefinder, Explosive Payload
-dimwishlist:item=4292849692&perks=1926090091,3142289711,2846385770,3038247973  PvP.(4.0) MW: range,handling,reload
-dimwishlist:item=4292849692&perks=1926090090,3142289711,2846385770,3038247973  PvP.(4.0) MW: range,handling,reload
-dimwishlist:item=4292849692&perks=1926090093,3142289711,2846385770,3038247973  PvP.(4.0) MW: range,handling,reload
+dimwishlist:item=4292849692&perks=1926090091,3142289711,2846385770,3038247973  PvP.(4.0) MW: range, handling, reload
+dimwishlist:item=4292849692&perks=1926090090,3142289711,2846385770,3038247973  PvP.(4.0) MW: range, handling, reload
+dimwishlist:item=4292849692&perks=1926090093,3142289711,2846385770,3038247973  PvP.(4.0) MW: range, handling, reload
 // Rangefinder, Kill Clip
-dimwishlist:item=4292849692&perks=1926090091,3142289711,2846385770,1015611457  PvP. MW: range,handling,reload
-dimwishlist:item=4292849692&perks=1926090090,3142289711,2846385770,1015611457  PvP. MW: range,handling,reload
-dimwishlist:item=4292849692&perks=1926090093,3142289711,2846385770,1015611457  PvP. MW: range,handling,reload
+dimwishlist:item=4292849692&perks=1926090091,3142289711,2846385770,1015611457  PvP. MW: range, handling, reload
+dimwishlist:item=4292849692&perks=1926090090,3142289711,2846385770,1015611457  PvP. MW: range, handling, reload
+dimwishlist:item=4292849692&perks=1926090093,3142289711,2846385770,1015611457  PvP. MW: range, handling, reload
 // Rangefinder, Opening Shot
-dimwishlist:item=4292849692&perks=1926090091,3142289711,2846385770,47981717  PvP. MW: range,handling,reload
-dimwishlist:item=4292849692&perks=1926090090,3142289711,2846385770,47981717  PvP. MW: range,handling,reload
-dimwishlist:item=4292849692&perks=1926090093,3142289711,2846385770,47981717  PvP. MW: range,handling,reload
+dimwishlist:item=4292849692&perks=1926090091,3142289711,2846385770,47981717  PvP. MW: range, handling, reload
+dimwishlist:item=4292849692&perks=1926090090,3142289711,2846385770,47981717  PvP. MW: range, handling, reload
+dimwishlist:item=4292849692&perks=1926090093,3142289711,2846385770,47981717  PvP. MW: range, handling, reload
 // Rangefinder, Explosive Payload
-dimwishlist:item=4292849692&perks=1926090091,3142289711,2846385770,3038247973  PvP. MW: range,handling,reload
-dimwishlist:item=4292849692&perks=1926090090,3142289711,2846385770,3038247973  PvP. MW: range,handling,reload
-dimwishlist:item=4292849692&perks=1926090093,3142289711,2846385770,3038247973  PvP. MW: range,handling,reload
+dimwishlist:item=4292849692&perks=1926090091,3142289711,2846385770,3038247973  PvP. MW: range, handling, reload
+dimwishlist:item=4292849692&perks=1926090090,3142289711,2846385770,3038247973  PvP. MW: range, handling, reload
+dimwishlist:item=4292849692&perks=1926090093,3142289711,2846385770,3038247973  PvP. MW: range, handling, reload
 // Moving Target, Kill Clip
-dimwishlist:item=4292849692&perks=1926090091,3142289711,588594999,1015611457  PvP. MW: range,handling,reload
-dimwishlist:item=4292849692&perks=1926090090,3142289711,588594999,1015611457  PvP. MW: range,handling,reload
-dimwishlist:item=4292849692&perks=1926090093,3142289711,588594999,1015611457  PvP. MW: range,handling,reload
+dimwishlist:item=4292849692&perks=1926090091,3142289711,588594999,1015611457  PvP. MW: range, handling, reload
+dimwishlist:item=4292849692&perks=1926090090,3142289711,588594999,1015611457  PvP. MW: range, handling, reload
+dimwishlist:item=4292849692&perks=1926090093,3142289711,588594999,1015611457  PvP. MW: range, handling, reload
 // Moving Target, Opening Shot
-dimwishlist:item=4292849692&perks=1926090091,3142289711,588594999,47981717  PvP. MW: range,handling,reload
-dimwishlist:item=4292849692&perks=1926090090,3142289711,588594999,47981717  PvP. MW: range,handling,reload
-dimwishlist:item=4292849692&perks=1926090093,3142289711,588594999,47981717  PvP. MW: range,handling,reload
+dimwishlist:item=4292849692&perks=1926090091,3142289711,588594999,47981717  PvP. MW: range, handling, reload
+dimwishlist:item=4292849692&perks=1926090090,3142289711,588594999,47981717  PvP. MW: range, handling, reload
+dimwishlist:item=4292849692&perks=1926090093,3142289711,588594999,47981717  PvP. MW: range, handling, reload
 // Moving Target, Explosive Payload
-dimwishlist:item=4292849692&perks=1926090091,3142289711,588594999,3038247973  PvP. MW: range,handling,reload
-dimwishlist:item=4292849692&perks=1926090090,3142289711,588594999,3038247973  PvP. MW: range,handling,reload
-dimwishlist:item=4292849692&perks=1926090093,3142289711,588594999,3038247973  PvP. MW: range,handling,reload
+dimwishlist:item=4292849692&perks=1926090091,3142289711,588594999,3038247973  PvP. MW: range, handling, reload
+dimwishlist:item=4292849692&perks=1926090090,3142289711,588594999,3038247973  PvP. MW: range, handling, reload
+dimwishlist:item=4292849692&perks=1926090093,3142289711,588594999,3038247973  PvP. MW: range, handling, reload
 // Snapshot Sights, Kill Clip
-dimwishlist:item=4292849692&perks=1926090091,3142289711,957782887,1015611457  PvP. MW: range,handling,reload
-dimwishlist:item=4292849692&perks=1926090090,3142289711,957782887,1015611457  PvP. MW: range,handling,reload
-dimwishlist:item=4292849692&perks=1926090093,3142289711,957782887,1015611457  PvP. MW: range,handling,reload
+dimwishlist:item=4292849692&perks=1926090091,3142289711,957782887,1015611457  PvP. MW: range, handling, reload
+dimwishlist:item=4292849692&perks=1926090090,3142289711,957782887,1015611457  PvP. MW: range, handling, reload
+dimwishlist:item=4292849692&perks=1926090093,3142289711,957782887,1015611457  PvP. MW: range, handling, reload
 // Snapshot Sights, Opening Shot
-dimwishlist:item=4292849692&perks=1926090091,3142289711,957782887,47981717  PvP. MW: range,handling,reload
-dimwishlist:item=4292849692&perks=1926090090,3142289711,957782887,47981717  PvP. MW: range,handling,reload
-dimwishlist:item=4292849692&perks=1926090093,3142289711,957782887,47981717  PvP. MW: range,handling,reload
+dimwishlist:item=4292849692&perks=1926090091,3142289711,957782887,47981717  PvP. MW: range, handling, reload
+dimwishlist:item=4292849692&perks=1926090090,3142289711,957782887,47981717  PvP. MW: range, handling, reload
+dimwishlist:item=4292849692&perks=1926090093,3142289711,957782887,47981717  PvP. MW: range, handling, reload
 // Snapshot Sights, Explosive Payload
-dimwishlist:item=4292849692&perks=1926090091,3142289711,957782887,3038247973  PvP. MW: range,handling,reload
-dimwishlist:item=4292849692&perks=1926090090,3142289711,957782887,3038247973  PvP. MW: range,handling,reload
-dimwishlist:item=4292849692&perks=1926090093,3142289711,957782887,3038247973  PvP. MW: range,handling,reload
+dimwishlist:item=4292849692&perks=1926090091,3142289711,957782887,3038247973  PvP. MW: range, handling, reload
+dimwishlist:item=4292849692&perks=1926090090,3142289711,957782887,3038247973  PvP. MW: range, handling, reload
+dimwishlist:item=4292849692&perks=1926090093,3142289711,957782887,3038247973  PvP. MW: range, handling, reload
 // Crimils Dagger
 // Outlaw, Kill Clip
-dimwishlist:item=4292849692&perks=1926090091,3142289711,1168162263,1015611457  PvE. MW: range,handling,reload
-dimwishlist:item=4292849692&perks=1926090091,3230963543,1168162263,1015611457  PvE. MW: range,handling,reload
-dimwishlist:item=4292849692&perks=1926090091,106909392,1168162263,1015611457  PvE. MW: range,handling,reload
-dimwishlist:item=4292849692&perks=1926090090,3142289711,1168162263,1015611457  PvE. MW: range,handling,reload
-dimwishlist:item=4292849692&perks=1926090090,3230963543,1168162263,1015611457  PvE. MW: range,handling,reload
-dimwishlist:item=4292849692&perks=1926090090,106909392,1168162263,1015611457  PvE. MW: range,handling,reload
-dimwishlist:item=4292849692&perks=1926090093,3142289711,1168162263,1015611457  PvE. MW: range,handling,reload
-dimwishlist:item=4292849692&perks=1926090093,3230963543,1168162263,1015611457  PvE. MW: range,handling,reload
-dimwishlist:item=4292849692&perks=1926090093,106909392,1168162263,1015611457  PvE. MW: range,handling,reload
-dimwishlist:item=4292849692&perks=1926090092,3142289711,1168162263,1015611457  PvE. MW: range,handling,reload
-dimwishlist:item=4292849692&perks=1926090092,3230963543,1168162263,1015611457  PvE. MW: range,handling,reload
-dimwishlist:item=4292849692&perks=1926090092,106909392,1168162263,1015611457  PvE. MW: range,handling,reload
+dimwishlist:item=4292849692&perks=1926090091,3142289711,1168162263,1015611457  PvE. MW: range, handling, reload
+dimwishlist:item=4292849692&perks=1926090091,3230963543,1168162263,1015611457  PvE. MW: range, handling, reload
+dimwishlist:item=4292849692&perks=1926090091,106909392,1168162263,1015611457  PvE. MW: range, handling, reload
+dimwishlist:item=4292849692&perks=1926090090,3142289711,1168162263,1015611457  PvE. MW: range, handling, reload
+dimwishlist:item=4292849692&perks=1926090090,3230963543,1168162263,1015611457  PvE. MW: range, handling, reload
+dimwishlist:item=4292849692&perks=1926090090,106909392,1168162263,1015611457  PvE. MW: range, handling, reload
+dimwishlist:item=4292849692&perks=1926090093,3142289711,1168162263,1015611457  PvE. MW: range, handling, reload
+dimwishlist:item=4292849692&perks=1926090093,3230963543,1168162263,1015611457  PvE. MW: range, handling, reload
+dimwishlist:item=4292849692&perks=1926090093,106909392,1168162263,1015611457  PvE. MW: range, handling, reload
+dimwishlist:item=4292849692&perks=1926090092,3142289711,1168162263,1015611457  PvE. MW: range, handling, reload
+dimwishlist:item=4292849692&perks=1926090092,3230963543,1168162263,1015611457  PvE. MW: range, handling, reload
+dimwishlist:item=4292849692&perks=1926090092,106909392,1168162263,1015611457  PvE. MW: range, handling, reload
 // Outlaw, Explosive Payload
-dimwishlist:item=4292849692&perks=1926090091,3142289711,1168162263,3038247973  PvE. MW: range,handling,reload
-dimwishlist:item=4292849692&perks=1926090091,3230963543,1168162263,3038247973  PvE. MW: range,handling,reload
-dimwishlist:item=4292849692&perks=1926090091,106909392,1168162263,3038247973  PvE. MW: range,handling,reload
-dimwishlist:item=4292849692&perks=1926090090,3142289711,1168162263,3038247973  PvE. MW: range,handling,reload
-dimwishlist:item=4292849692&perks=1926090090,3230963543,1168162263,3038247973  PvE. MW: range,handling,reload
-dimwishlist:item=4292849692&perks=1926090090,106909392,1168162263,3038247973  PvE. MW: range,handling,reload
-dimwishlist:item=4292849692&perks=1926090093,3142289711,1168162263,3038247973  PvE. MW: range,handling,reload
-dimwishlist:item=4292849692&perks=1926090093,3230963543,1168162263,3038247973  PvE. MW: range,handling,reload
-dimwishlist:item=4292849692&perks=1926090093,106909392,1168162263,3038247973  PvE. MW: range,handling,reload
-dimwishlist:item=4292849692&perks=1926090092,3142289711,1168162263,3038247973  PvE. MW: range,handling,reload
-dimwishlist:item=4292849692&perks=1926090092,3230963543,1168162263,3038247973  PvE. MW: range,handling,reload
-dimwishlist:item=4292849692&perks=1926090092,106909392,1168162263,3038247973  PvE. MW: range,handling,reload
+dimwishlist:item=4292849692&perks=1926090091,3142289711,1168162263,3038247973  PvE. MW: range, handling, reload
+dimwishlist:item=4292849692&perks=1926090091,3230963543,1168162263,3038247973  PvE. MW: range, handling, reload
+dimwishlist:item=4292849692&perks=1926090091,106909392,1168162263,3038247973  PvE. MW: range, handling, reload
+dimwishlist:item=4292849692&perks=1926090090,3142289711,1168162263,3038247973  PvE. MW: range, handling, reload
+dimwishlist:item=4292849692&perks=1926090090,3230963543,1168162263,3038247973  PvE. MW: range, handling, reload
+dimwishlist:item=4292849692&perks=1926090090,106909392,1168162263,3038247973  PvE. MW: range, handling, reload
+dimwishlist:item=4292849692&perks=1926090093,3142289711,1168162263,3038247973  PvE. MW: range, handling, reload
+dimwishlist:item=4292849692&perks=1926090093,3230963543,1168162263,3038247973  PvE. MW: range, handling, reload
+dimwishlist:item=4292849692&perks=1926090093,106909392,1168162263,3038247973  PvE. MW: range, handling, reload
+dimwishlist:item=4292849692&perks=1926090092,3142289711,1168162263,3038247973  PvE. MW: range, handling, reload
+dimwishlist:item=4292849692&perks=1926090092,3230963543,1168162263,3038247973  PvE. MW: range, handling, reload
+dimwishlist:item=4292849692&perks=1926090092,106909392,1168162263,3038247973  PvE. MW: range, handling, reload
 
 
 // Optative
 // Rapid Hit, Kill Clip
-dimwishlist:item=2138599001&perks=3250034553,3142289711,247725512,1015611457  PvP (5.0) MW: range,handling,reload
-dimwishlist:item=2138599001&perks=1467527085,3142289711,247725512,1015611457  PvP (5.0) MW: range,handling,reload
-dimwishlist:item=2138599001&perks=202670084,3142289711,247725512,1015611457  PvP (5.0) MW: range,handling,reload
-dimwishlist:item=2138599001&perks=4090651448,3142289711,247725512,1015611457  PvP (5.0) MW: range,handling,reload
+dimwishlist:item=2138599001&perks=3250034553,3142289711,247725512,1015611457  PvP (5.0) MW: range, handling, reload
+dimwishlist:item=2138599001&perks=1467527085,3142289711,247725512,1015611457  PvP (5.0) MW: range, handling, reload
+dimwishlist:item=2138599001&perks=202670084,3142289711,247725512,1015611457  PvP (5.0) MW: range, handling, reload
+dimwishlist:item=2138599001&perks=4090651448,3142289711,247725512,1015611457  PvP (5.0) MW: range, handling, reload
 // Rapid Hit, Opening Shot
-dimwishlist:item=2138599001&perks=3250034553,3142289711,247725512,47981717  PvP (5.0) MW: range,handling,reload
-dimwishlist:item=2138599001&perks=1467527085,3142289711,247725512,47981717  PvP (5.0) MW: range,handling,reload
-dimwishlist:item=2138599001&perks=202670084,3142289711,247725512,47981717  PvP (5.0) MW: range,handling,reload
-dimwishlist:item=2138599001&perks=4090651448,3142289711,247725512,47981717  PvP (5.0) MW: range,handling,reload
+dimwishlist:item=2138599001&perks=3250034553,3142289711,247725512,47981717  PvP (5.0) MW: range, handling, reload
+dimwishlist:item=2138599001&perks=1467527085,3142289711,247725512,47981717  PvP (5.0) MW: range, handling, reload
+dimwishlist:item=2138599001&perks=202670084,3142289711,247725512,47981717  PvP (5.0) MW: range, handling, reload
+dimwishlist:item=2138599001&perks=4090651448,3142289711,247725512,47981717  PvP (5.0) MW: range, handling, reload
 // Outlaw, Kill Clip
-dimwishlist:item=2138599001&perks=3250034553,3142289711,1168162263,1015611457  PvP (5.0) MW: range,handling,reload
-dimwishlist:item=2138599001&perks=1467527085,3142289711,1168162263,1015611457  PvP (5.0) MW: range,handling,reload
-dimwishlist:item=2138599001&perks=202670084,3142289711,1168162263,1015611457  PvP (5.0) MW: range,handling,reload
-dimwishlist:item=2138599001&perks=4090651448,3142289711,1168162263,1015611457  PvP (5.0) MW: range,handling,reload
+dimwishlist:item=2138599001&perks=3250034553,3142289711,1168162263,1015611457  PvP (5.0) MW: range, handling, reload
+dimwishlist:item=2138599001&perks=1467527085,3142289711,1168162263,1015611457  PvP (5.0) MW: range, handling, reload
+dimwishlist:item=2138599001&perks=202670084,3142289711,1168162263,1015611457  PvP (5.0) MW: range, handling, reload
+dimwishlist:item=2138599001&perks=4090651448,3142289711,1168162263,1015611457  PvP (5.0) MW: range, handling, reload
 // Outlaw, Opening Shot
-dimwishlist:item=2138599001&perks=3250034553,3142289711,1168162263,47981717  PvP (5.0) MW: range,handling,reload
-dimwishlist:item=2138599001&perks=1467527085,3142289711,1168162263,47981717  PvP (5.0) MW: range,handling,reload
-dimwishlist:item=2138599001&perks=202670084,3142289711,1168162263,47981717  PvP (5.0) MW: range,handling,reload
-dimwishlist:item=2138599001&perks=4090651448,3142289711,1168162263,47981717  PvP (5.0) MW: range,handling,reload
+dimwishlist:item=2138599001&perks=3250034553,3142289711,1168162263,47981717  PvP (5.0) MW: range, handling, reload
+dimwishlist:item=2138599001&perks=1467527085,3142289711,1168162263,47981717  PvP (5.0) MW: range, handling, reload
+dimwishlist:item=2138599001&perks=202670084,3142289711,1168162263,47981717  PvP (5.0) MW: range, handling, reload
+dimwishlist:item=2138599001&perks=4090651448,3142289711,1168162263,47981717  PvP (5.0) MW: range, handling, reload
 // Under Pressure, Kill Clip
-dimwishlist:item=2138599001&perks=3250034553,3142289711,1645158859,1015611457  PvP (5.0) MW: range,handling,reload
-dimwishlist:item=2138599001&perks=1467527085,3142289711,1645158859,1015611457  PvP (5.0) MW: range,handling,reload
-dimwishlist:item=2138599001&perks=202670084,3142289711,1645158859,1015611457  PvP (5.0) MW: range,handling,reload
-dimwishlist:item=2138599001&perks=4090651448,3142289711,1645158859,1015611457  PvP (5.0) MW: range,handling,reload
+dimwishlist:item=2138599001&perks=3250034553,3142289711,1645158859,1015611457  PvP (5.0) MW: range, handling, reload
+dimwishlist:item=2138599001&perks=1467527085,3142289711,1645158859,1015611457  PvP (5.0) MW: range, handling, reload
+dimwishlist:item=2138599001&perks=202670084,3142289711,1645158859,1015611457  PvP (5.0) MW: range, handling, reload
+dimwishlist:item=2138599001&perks=4090651448,3142289711,1645158859,1015611457  PvP (5.0) MW: range, handling, reload
 // Under Pressure, Opening Shot
-dimwishlist:item=2138599001&perks=3250034553,3142289711,1645158859,47981717  PvP (5.0) MW: range,handling,reload
-dimwishlist:item=2138599001&perks=1467527085,3142289711,1645158859,47981717  PvP (5.0) MW: range,handling,reload
-dimwishlist:item=2138599001&perks=202670084,3142289711,1645158859,47981717  PvP (5.0) MW: range,handling,reload
-dimwishlist:item=2138599001&perks=4090651448,3142289711,1645158859,47981717  PvP (5.0) MW: range,handling,reload
+dimwishlist:item=2138599001&perks=3250034553,3142289711,1645158859,47981717  PvP (5.0) MW: range, handling, reload
+dimwishlist:item=2138599001&perks=1467527085,3142289711,1645158859,47981717  PvP (5.0) MW: range, handling, reload
+dimwishlist:item=2138599001&perks=202670084,3142289711,1645158859,47981717  PvP (5.0) MW: range, handling, reload
+dimwishlist:item=2138599001&perks=4090651448,3142289711,1645158859,47981717  PvP (5.0) MW: range, handling, reload
 // Optative
 // Outlaw, Kill Clip
-dimwishlist:item=2138599001&perks=202670084,1087426260,1168162263,1015611457  PvE. But there are better hand cannons for PvE.  Maybe Mulligan for Nightfall Champions MW: range,handling,reload
-dimwishlist:item=2138599001&perks=202670084,106909392,1168162263,1015611457  PvE. But there are better hand cannons for PvE.  Maybe Mulligan for Nightfall Champions MW: range,handling,reload
-dimwishlist:item=2138599001&perks=202670084,2420895100,1168162263,1015611457  PvE. But there are better hand cannons for PvE.  Maybe Mulligan for Nightfall Champions MW: range,handling,reload
-dimwishlist:item=2138599001&perks=3250034553,1087426260,1168162263,1015611457  PvE. But there are better hand cannons for PvE.  Maybe Mulligan for Nightfall Champions MW: range,handling,reload
-dimwishlist:item=2138599001&perks=3250034553,106909392,1168162263,1015611457  PvE. But there are better hand cannons for PvE.  Maybe Mulligan for Nightfall Champions MW: range,handling,reload
-dimwishlist:item=2138599001&perks=3250034553,2420895100,1168162263,1015611457  PvE. But there are better hand cannons for PvE.  Maybe Mulligan for Nightfall Champions MW: range,handling,reload
-dimwishlist:item=2138599001&perks=1467527085,1087426260,1168162263,1015611457  PvE. But there are better hand cannons for PvE.  Maybe Mulligan for Nightfall Champions MW: range,handling,reload
-dimwishlist:item=2138599001&perks=1467527085,106909392,1168162263,1015611457  PvE. But there are better hand cannons for PvE.  Maybe Mulligan for Nightfall Champions MW: range,handling,reload
-dimwishlist:item=2138599001&perks=1467527085,2420895100,1168162263,1015611457  PvE. But there are better hand cannons for PvE.  Maybe Mulligan for Nightfall Champions MW: range,handling,reload
-dimwishlist:item=2138599001&perks=4090651448,1087426260,1168162263,1015611457  PvE. But there are better hand cannons for PvE.  Maybe Mulligan for Nightfall Champions MW: range,handling,reload
-dimwishlist:item=2138599001&perks=4090651448,106909392,1168162263,1015611457  PvE. But there are better hand cannons for PvE.  Maybe Mulligan for Nightfall Champions MW: range,handling,reload
-dimwishlist:item=2138599001&perks=4090651448,2420895100,1168162263,1015611457  PvE. But there are better hand cannons for PvE.  Maybe Mulligan for Nightfall Champions MW: range,handling,reload
+dimwishlist:item=2138599001&perks=202670084,1087426260,1168162263,1015611457  PvE. But there are better hand cannons for PvE.  Maybe Mulligan for Nightfall Champions MW: range, handling, reload
+dimwishlist:item=2138599001&perks=202670084,106909392,1168162263,1015611457  PvE. But there are better hand cannons for PvE.  Maybe Mulligan for Nightfall Champions MW: range, handling, reload
+dimwishlist:item=2138599001&perks=202670084,2420895100,1168162263,1015611457  PvE. But there are better hand cannons for PvE.  Maybe Mulligan for Nightfall Champions MW: range, handling, reload
+dimwishlist:item=2138599001&perks=3250034553,1087426260,1168162263,1015611457  PvE. But there are better hand cannons for PvE.  Maybe Mulligan for Nightfall Champions MW: range, handling, reload
+dimwishlist:item=2138599001&perks=3250034553,106909392,1168162263,1015611457  PvE. But there are better hand cannons for PvE.  Maybe Mulligan for Nightfall Champions MW: range, handling, reload
+dimwishlist:item=2138599001&perks=3250034553,2420895100,1168162263,1015611457  PvE. But there are better hand cannons for PvE.  Maybe Mulligan for Nightfall Champions MW: range, handling, reload
+dimwishlist:item=2138599001&perks=1467527085,1087426260,1168162263,1015611457  PvE. But there are better hand cannons for PvE.  Maybe Mulligan for Nightfall Champions MW: range, handling, reload
+dimwishlist:item=2138599001&perks=1467527085,106909392,1168162263,1015611457  PvE. But there are better hand cannons for PvE.  Maybe Mulligan for Nightfall Champions MW: range, handling, reload
+dimwishlist:item=2138599001&perks=1467527085,2420895100,1168162263,1015611457  PvE. But there are better hand cannons for PvE.  Maybe Mulligan for Nightfall Champions MW: range, handling, reload
+dimwishlist:item=2138599001&perks=4090651448,1087426260,1168162263,1015611457  PvE. But there are better hand cannons for PvE.  Maybe Mulligan for Nightfall Champions MW: range, handling, reload
+dimwishlist:item=2138599001&perks=4090651448,106909392,1168162263,1015611457  PvE. But there are better hand cannons for PvE.  Maybe Mulligan for Nightfall Champions MW: range, handling, reload
+dimwishlist:item=2138599001&perks=4090651448,2420895100,1168162263,1015611457  PvE. But there are better hand cannons for PvE.  Maybe Mulligan for Nightfall Champions MW: range, handling, reload
 // Outlaw, Demolitionist
-dimwishlist:item=2138599001&perks=202670084,1087426260,1168162263,3523296417  PvE. But there are better hand cannons for PvE.  Maybe Mulligan for Nightfall Champions MW: range,handling,reload
-dimwishlist:item=2138599001&perks=202670084,106909392,1168162263,3523296417  PvE. But there are better hand cannons for PvE.  Maybe Mulligan for Nightfall Champions MW: range,handling,reload
-dimwishlist:item=2138599001&perks=202670084,2420895100,1168162263,3523296417  PvE. But there are better hand cannons for PvE.  Maybe Mulligan for Nightfall Champions MW: range,handling,reload
-dimwishlist:item=2138599001&perks=3250034553,1087426260,1168162263,3523296417  PvE. But there are better hand cannons for PvE.  Maybe Mulligan for Nightfall Champions MW: range,handling,reload
-dimwishlist:item=2138599001&perks=3250034553,106909392,1168162263,3523296417  PvE. But there are better hand cannons for PvE.  Maybe Mulligan for Nightfall Champions MW: range,handling,reload
-dimwishlist:item=2138599001&perks=3250034553,2420895100,1168162263,3523296417  PvE. But there are better hand cannons for PvE.  Maybe Mulligan for Nightfall Champions MW: range,handling,reload
-dimwishlist:item=2138599001&perks=1467527085,1087426260,1168162263,3523296417  PvE. But there are better hand cannons for PvE.  Maybe Mulligan for Nightfall Champions MW: range,handling,reload
-dimwishlist:item=2138599001&perks=1467527085,106909392,1168162263,3523296417  PvE. But there are better hand cannons for PvE.  Maybe Mulligan for Nightfall Champions MW: range,handling,reload
-dimwishlist:item=2138599001&perks=1467527085,2420895100,1168162263,3523296417  PvE. But there are better hand cannons for PvE.  Maybe Mulligan for Nightfall Champions MW: range,handling,reload
-dimwishlist:item=2138599001&perks=4090651448,1087426260,1168162263,3523296417  PvE. But there are better hand cannons for PvE.  Maybe Mulligan for Nightfall Champions MW: range,handling,reload
-dimwishlist:item=2138599001&perks=4090651448,106909392,1168162263,3523296417  PvE. But there are better hand cannons for PvE.  Maybe Mulligan for Nightfall Champions MW: range,handling,reload
-dimwishlist:item=2138599001&perks=4090651448,2420895100,1168162263,3523296417  PvE. But there are better hand cannons for PvE.  Maybe Mulligan for Nightfall Champions MW: range,handling,reload
+dimwishlist:item=2138599001&perks=202670084,1087426260,1168162263,3523296417  PvE. But there are better hand cannons for PvE.  Maybe Mulligan for Nightfall Champions MW: range, handling, reload
+dimwishlist:item=2138599001&perks=202670084,106909392,1168162263,3523296417  PvE. But there are better hand cannons for PvE.  Maybe Mulligan for Nightfall Champions MW: range, handling, reload
+dimwishlist:item=2138599001&perks=202670084,2420895100,1168162263,3523296417  PvE. But there are better hand cannons for PvE.  Maybe Mulligan for Nightfall Champions MW: range, handling, reload
+dimwishlist:item=2138599001&perks=3250034553,1087426260,1168162263,3523296417  PvE. But there are better hand cannons for PvE.  Maybe Mulligan for Nightfall Champions MW: range, handling, reload
+dimwishlist:item=2138599001&perks=3250034553,106909392,1168162263,3523296417  PvE. But there are better hand cannons for PvE.  Maybe Mulligan for Nightfall Champions MW: range, handling, reload
+dimwishlist:item=2138599001&perks=3250034553,2420895100,1168162263,3523296417  PvE. But there are better hand cannons for PvE.  Maybe Mulligan for Nightfall Champions MW: range, handling, reload
+dimwishlist:item=2138599001&perks=1467527085,1087426260,1168162263,3523296417  PvE. But there are better hand cannons for PvE.  Maybe Mulligan for Nightfall Champions MW: range, handling, reload
+dimwishlist:item=2138599001&perks=1467527085,106909392,1168162263,3523296417  PvE. But there are better hand cannons for PvE.  Maybe Mulligan for Nightfall Champions MW: range, handling, reload
+dimwishlist:item=2138599001&perks=1467527085,2420895100,1168162263,3523296417  PvE. But there are better hand cannons for PvE.  Maybe Mulligan for Nightfall Champions MW: range, handling, reload
+dimwishlist:item=2138599001&perks=4090651448,1087426260,1168162263,3523296417  PvE. But there are better hand cannons for PvE.  Maybe Mulligan for Nightfall Champions MW: range, handling, reload
+dimwishlist:item=2138599001&perks=4090651448,106909392,1168162263,3523296417  PvE. But there are better hand cannons for PvE.  Maybe Mulligan for Nightfall Champions MW: range, handling, reload
+dimwishlist:item=2138599001&perks=4090651448,2420895100,1168162263,3523296417  PvE. But there are better hand cannons for PvE.  Maybe Mulligan for Nightfall Champions MW: range, handling, reload
 // Outlaw, Mulligan
-dimwishlist:item=2138599001&perks=202670084,1087426260,1168162263,3513791699  PvE. But there are better hand cannons for PvE.  Maybe Mulligan for Nightfall Champions MW: range,handling,reload
-dimwishlist:item=2138599001&perks=202670084,106909392,1168162263,3513791699  PvE. But there are better hand cannons for PvE.  Maybe Mulligan for Nightfall Champions MW: range,handling,reload
-dimwishlist:item=2138599001&perks=202670084,2420895100,1168162263,3513791699  PvE. But there are better hand cannons for PvE.  Maybe Mulligan for Nightfall Champions MW: range,handling,reload
-dimwishlist:item=2138599001&perks=3250034553,1087426260,1168162263,3513791699  PvE. But there are better hand cannons for PvE.  Maybe Mulligan for Nightfall Champions MW: range,handling,reload
-dimwishlist:item=2138599001&perks=3250034553,106909392,1168162263,3513791699  PvE. But there are better hand cannons for PvE.  Maybe Mulligan for Nightfall Champions MW: range,handling,reload
-dimwishlist:item=2138599001&perks=3250034553,2420895100,1168162263,3513791699  PvE. But there are better hand cannons for PvE.  Maybe Mulligan for Nightfall Champions MW: range,handling,reload
-dimwishlist:item=2138599001&perks=1467527085,1087426260,1168162263,3513791699  PvE. But there are better hand cannons for PvE.  Maybe Mulligan for Nightfall Champions MW: range,handling,reload
-dimwishlist:item=2138599001&perks=1467527085,106909392,1168162263,3513791699  PvE. But there are better hand cannons for PvE.  Maybe Mulligan for Nightfall Champions MW: range,handling,reload
-dimwishlist:item=2138599001&perks=1467527085,2420895100,1168162263,3513791699  PvE. But there are better hand cannons for PvE.  Maybe Mulligan for Nightfall Champions MW: range,handling,reload
-dimwishlist:item=2138599001&perks=4090651448,1087426260,1168162263,3513791699  PvE. But there are better hand cannons for PvE.  Maybe Mulligan for Nightfall Champions MW: range,handling,reload
-dimwishlist:item=2138599001&perks=4090651448,106909392,1168162263,3513791699  PvE. But there are better hand cannons for PvE.  Maybe Mulligan for Nightfall Champions MW: range,handling,reload
-dimwishlist:item=2138599001&perks=4090651448,2420895100,1168162263,3513791699  PvE. But there are better hand cannons for PvE.  Maybe Mulligan for Nightfall Champions MW: range,handling,reload
+dimwishlist:item=2138599001&perks=202670084,1087426260,1168162263,3513791699  PvE. But there are better hand cannons for PvE.  Maybe Mulligan for Nightfall Champions MW: range, handling, reload
+dimwishlist:item=2138599001&perks=202670084,106909392,1168162263,3513791699  PvE. But there are better hand cannons for PvE.  Maybe Mulligan for Nightfall Champions MW: range, handling, reload
+dimwishlist:item=2138599001&perks=202670084,2420895100,1168162263,3513791699  PvE. But there are better hand cannons for PvE.  Maybe Mulligan for Nightfall Champions MW: range, handling, reload
+dimwishlist:item=2138599001&perks=3250034553,1087426260,1168162263,3513791699  PvE. But there are better hand cannons for PvE.  Maybe Mulligan for Nightfall Champions MW: range, handling, reload
+dimwishlist:item=2138599001&perks=3250034553,106909392,1168162263,3513791699  PvE. But there are better hand cannons for PvE.  Maybe Mulligan for Nightfall Champions MW: range, handling, reload
+dimwishlist:item=2138599001&perks=3250034553,2420895100,1168162263,3513791699  PvE. But there are better hand cannons for PvE.  Maybe Mulligan for Nightfall Champions MW: range, handling, reload
+dimwishlist:item=2138599001&perks=1467527085,1087426260,1168162263,3513791699  PvE. But there are better hand cannons for PvE.  Maybe Mulligan for Nightfall Champions MW: range, handling, reload
+dimwishlist:item=2138599001&perks=1467527085,106909392,1168162263,3513791699  PvE. But there are better hand cannons for PvE.  Maybe Mulligan for Nightfall Champions MW: range, handling, reload
+dimwishlist:item=2138599001&perks=1467527085,2420895100,1168162263,3513791699  PvE. But there are better hand cannons for PvE.  Maybe Mulligan for Nightfall Champions MW: range, handling, reload
+dimwishlist:item=2138599001&perks=4090651448,1087426260,1168162263,3513791699  PvE. But there are better hand cannons for PvE.  Maybe Mulligan for Nightfall Champions MW: range, handling, reload
+dimwishlist:item=2138599001&perks=4090651448,106909392,1168162263,3513791699  PvE. But there are better hand cannons for PvE.  Maybe Mulligan for Nightfall Champions MW: range, handling, reload
+dimwishlist:item=2138599001&perks=4090651448,2420895100,1168162263,3513791699  PvE. But there are better hand cannons for PvE.  Maybe Mulligan for Nightfall Champions MW: range, handling, reload
 
 
 // Service Revolver
 // Rangefinder, Kill Clip
-dimwishlist:item=834081972&perks=1926090090,3142289711,2846385770,1015611457  PvP.  Rangefinder & Kill Clip as recommended by Aztecross (https://www.youtube.com/watch?v=Ut79oJlG4kk). MW: range,handling,reload
-dimwishlist:item=834081972&perks=1926090090,1885400500,2846385770,1015611457  PvP.  Rangefinder & Kill Clip as recommended by Aztecross (https://www.youtube.com/watch?v=Ut79oJlG4kk). MW: range,handling,reload
-dimwishlist:item=834081972&perks=1926090090,1561002382,2846385770,1015611457  PvP.  Rangefinder & Kill Clip as recommended by Aztecross (https://www.youtube.com/watch?v=Ut79oJlG4kk). MW: range,handling,reload
-dimwishlist:item=834081972&perks=1926090091,3142289711,2846385770,1015611457  PvP.  Rangefinder & Kill Clip as recommended by Aztecross (https://www.youtube.com/watch?v=Ut79oJlG4kk). MW: range,handling,reload
-dimwishlist:item=834081972&perks=1926090091,1885400500,2846385770,1015611457  PvP.  Rangefinder & Kill Clip as recommended by Aztecross (https://www.youtube.com/watch?v=Ut79oJlG4kk). MW: range,handling,reload
-dimwishlist:item=834081972&perks=1926090091,1561002382,2846385770,1015611457  PvP.  Rangefinder & Kill Clip as recommended by Aztecross (https://www.youtube.com/watch?v=Ut79oJlG4kk). MW: range,handling,reload
+dimwishlist:item=834081972&perks=1926090090,3142289711,2846385770,1015611457  PvP.  Rangefinder & Kill Clip as recommended by Aztecross (https://www.youtube.com/watch?v=Ut79oJlG4kk). MW: range, handling, reload
+dimwishlist:item=834081972&perks=1926090090,1885400500,2846385770,1015611457  PvP.  Rangefinder & Kill Clip as recommended by Aztecross (https://www.youtube.com/watch?v=Ut79oJlG4kk). MW: range, handling, reload
+dimwishlist:item=834081972&perks=1926090090,1561002382,2846385770,1015611457  PvP.  Rangefinder & Kill Clip as recommended by Aztecross (https://www.youtube.com/watch?v=Ut79oJlG4kk). MW: range, handling, reload
+dimwishlist:item=834081972&perks=1926090091,3142289711,2846385770,1015611457  PvP.  Rangefinder & Kill Clip as recommended by Aztecross (https://www.youtube.com/watch?v=Ut79oJlG4kk). MW: range, handling, reload
+dimwishlist:item=834081972&perks=1926090091,1885400500,2846385770,1015611457  PvP.  Rangefinder & Kill Clip as recommended by Aztecross (https://www.youtube.com/watch?v=Ut79oJlG4kk). MW: range, handling, reload
+dimwishlist:item=834081972&perks=1926090091,1561002382,2846385770,1015611457  PvP.  Rangefinder & Kill Clip as recommended by Aztecross (https://www.youtube.com/watch?v=Ut79oJlG4kk). MW: range, handling, reload
 // Moving Target, Kill Clip
-dimwishlist:item=834081972&perks=1926090090,3142289711,588594999,1015611457  PvP (4.8). MW: range,handling,reload
-dimwishlist:item=834081972&perks=1926090090,1885400500,588594999,1015611457  PvP (4.8). MW: range,handling,reload
-dimwishlist:item=834081972&perks=1926090090,1561002382,588594999,1015611457  PvP (4.8). MW: range,handling,reload
-dimwishlist:item=834081972&perks=1926090091,3142289711,588594999,1015611457  PvP (4.8). MW: range,handling,reload
-dimwishlist:item=834081972&perks=1926090091,1885400500,588594999,1015611457  PvP (4.8). MW: range,handling,reload
-dimwishlist:item=834081972&perks=1926090091,1561002382,588594999,1015611457  PvP (4.8). MW: range,handling,reload
+dimwishlist:item=834081972&perks=1926090090,3142289711,588594999,1015611457  PvP (4.8). MW: range, handling, reload
+dimwishlist:item=834081972&perks=1926090090,1885400500,588594999,1015611457  PvP (4.8). MW: range, handling, reload
+dimwishlist:item=834081972&perks=1926090090,1561002382,588594999,1015611457  PvP (4.8). MW: range, handling, reload
+dimwishlist:item=834081972&perks=1926090091,3142289711,588594999,1015611457  PvP (4.8). MW: range, handling, reload
+dimwishlist:item=834081972&perks=1926090091,1885400500,588594999,1015611457  PvP (4.8). MW: range, handling, reload
+dimwishlist:item=834081972&perks=1926090091,1561002382,588594999,1015611457  PvP (4.8). MW: range, handling, reload
 // Moving Target, Opening Shot
-dimwishlist:item=834081972&perks=1926090090,3142289711,588594999,47981717  PvP (4.8). MW: range,handling,reload
-dimwishlist:item=834081972&perks=1926090090,1885400500,588594999,47981717  PvP (4.8). MW: range,handling,reload
-dimwishlist:item=834081972&perks=1926090090,1561002382,588594999,47981717  PvP (4.8). MW: range,handling,reload
-dimwishlist:item=834081972&perks=1926090091,3142289711,588594999,47981717  PvP (4.8). MW: range,handling,reload
-dimwishlist:item=834081972&perks=1926090091,1885400500,588594999,47981717  PvP (4.8). MW: range,handling,reload
-dimwishlist:item=834081972&perks=1926090091,1561002382,588594999,47981717  PvP (4.8). MW: range,handling,reload
+dimwishlist:item=834081972&perks=1926090090,3142289711,588594999,47981717  PvP (4.8). MW: range, handling, reload
+dimwishlist:item=834081972&perks=1926090090,1885400500,588594999,47981717  PvP (4.8). MW: range, handling, reload
+dimwishlist:item=834081972&perks=1926090090,1561002382,588594999,47981717  PvP (4.8). MW: range, handling, reload
+dimwishlist:item=834081972&perks=1926090091,3142289711,588594999,47981717  PvP (4.8). MW: range, handling, reload
+dimwishlist:item=834081972&perks=1926090091,1885400500,588594999,47981717  PvP (4.8). MW: range, handling, reload
+dimwishlist:item=834081972&perks=1926090091,1561002382,588594999,47981717  PvP (4.8). MW: range, handling, reload
 // Rapid Hit, Kill Clip
-dimwishlist:item=834081972&perks=1926090090,3142289711,247725512,1015611457  PvP (4.8). MW: range,handling,reload
-dimwishlist:item=834081972&perks=1926090090,1885400500,247725512,1015611457  PvP (4.8). MW: range,handling,reload
-dimwishlist:item=834081972&perks=1926090090,1561002382,247725512,1015611457  PvP (4.8). MW: range,handling,reload
-dimwishlist:item=834081972&perks=1926090091,3142289711,247725512,1015611457  PvP (4.8). MW: range,handling,reload
-dimwishlist:item=834081972&perks=1926090091,1885400500,247725512,1015611457  PvP (4.8). MW: range,handling,reload
-dimwishlist:item=834081972&perks=1926090091,1561002382,247725512,1015611457  PvP (4.8). MW: range,handling,reload
+dimwishlist:item=834081972&perks=1926090090,3142289711,247725512,1015611457  PvP (4.8). MW: range, handling, reload
+dimwishlist:item=834081972&perks=1926090090,1885400500,247725512,1015611457  PvP (4.8). MW: range, handling, reload
+dimwishlist:item=834081972&perks=1926090090,1561002382,247725512,1015611457  PvP (4.8). MW: range, handling, reload
+dimwishlist:item=834081972&perks=1926090091,3142289711,247725512,1015611457  PvP (4.8). MW: range, handling, reload
+dimwishlist:item=834081972&perks=1926090091,1885400500,247725512,1015611457  PvP (4.8). MW: range, handling, reload
+dimwishlist:item=834081972&perks=1926090091,1561002382,247725512,1015611457  PvP (4.8). MW: range, handling, reload
 // Rapid Hit, Opening Shot
-dimwishlist:item=834081972&perks=1926090090,3142289711,247725512,47981717  PvP (4.8). MW: range,handling,reload
-dimwishlist:item=834081972&perks=1926090090,1885400500,247725512,47981717  PvP (4.8). MW: range,handling,reload
-dimwishlist:item=834081972&perks=1926090090,1561002382,247725512,47981717  PvP (4.8). MW: range,handling,reload
-dimwishlist:item=834081972&perks=1926090091,3142289711,247725512,47981717  PvP (4.8). MW: range,handling,reload
-dimwishlist:item=834081972&perks=1926090091,1885400500,247725512,47981717  PvP (4.8). MW: range,handling,reload
-dimwishlist:item=834081972&perks=1926090091,1561002382,247725512,47981717  PvP (4.8). MW: range,handling,reload
+dimwishlist:item=834081972&perks=1926090090,3142289711,247725512,47981717  PvP (4.8). MW: range, handling, reload
+dimwishlist:item=834081972&perks=1926090090,1885400500,247725512,47981717  PvP (4.8). MW: range, handling, reload
+dimwishlist:item=834081972&perks=1926090090,1561002382,247725512,47981717  PvP (4.8). MW: range, handling, reload
+dimwishlist:item=834081972&perks=1926090091,3142289711,247725512,47981717  PvP (4.8). MW: range, handling, reload
+dimwishlist:item=834081972&perks=1926090091,1885400500,247725512,47981717  PvP (4.8). MW: range, handling, reload
+dimwishlist:item=834081972&perks=1926090091,1561002382,247725512,47981717  PvP (4.8). MW: range, handling, reload
 // Service Revolver
 // Outlaw, Rampage
-dimwishlist:item=834081972&perks=1926090091,2420895100,1168162263,3425386926  PvE. MW: range,reload
-dimwishlist:item=834081972&perks=1926090091,1087426260,1168162263,3425386926  PvE. MW: range,reload
-dimwishlist:item=834081972&perks=1926090091,1561002382,1168162263,3425386926  PvE. MW: range,reload
-dimwishlist:item=834081972&perks=1926090091,679225683,1168162263,3425386926  PvE. MW: range,reload
-dimwishlist:item=834081972&perks=1926090091,3230963543,1168162263,3425386926  PvE. MW: range,reload
-dimwishlist:item=834081972&perks=1926090090,2420895100,1168162263,3425386926  PvE. MW: range,reload
-dimwishlist:item=834081972&perks=1926090090,1087426260,1168162263,3425386926  PvE. MW: range,reload
-dimwishlist:item=834081972&perks=1926090090,1561002382,1168162263,3425386926  PvE. MW: range,reload
-dimwishlist:item=834081972&perks=1926090090,679225683,1168162263,3425386926  PvE. MW: range,reload
-dimwishlist:item=834081972&perks=1926090090,3230963543,1168162263,3425386926  PvE. MW: range,reload
-dimwishlist:item=834081972&perks=1926090093,2420895100,1168162263,3425386926  PvE. MW: range,reload
-dimwishlist:item=834081972&perks=1926090093,1087426260,1168162263,3425386926  PvE. MW: range,reload
-dimwishlist:item=834081972&perks=1926090093,1561002382,1168162263,3425386926  PvE. MW: range,reload
-dimwishlist:item=834081972&perks=1926090093,679225683,1168162263,3425386926  PvE. MW: range,reload
-dimwishlist:item=834081972&perks=1926090093,3230963543,1168162263,3425386926  PvE. MW: range,reload
-dimwishlist:item=834081972&perks=1926090092,2420895100,1168162263,3425386926  PvE. MW: range,reload
-dimwishlist:item=834081972&perks=1926090092,1087426260,1168162263,3425386926  PvE. MW: range,reload
-dimwishlist:item=834081972&perks=1926090092,1561002382,1168162263,3425386926  PvE. MW: range,reload
-dimwishlist:item=834081972&perks=1926090092,679225683,1168162263,3425386926  PvE. MW: range,reload
-dimwishlist:item=834081972&perks=1926090092,3230963543,1168162263,3425386926  PvE. MW: range,reload
+dimwishlist:item=834081972&perks=1926090091,2420895100,1168162263,3425386926  PvE. MW: range, reload
+dimwishlist:item=834081972&perks=1926090091,1087426260,1168162263,3425386926  PvE. MW: range, reload
+dimwishlist:item=834081972&perks=1926090091,1561002382,1168162263,3425386926  PvE. MW: range, reload
+dimwishlist:item=834081972&perks=1926090091,679225683,1168162263,3425386926  PvE. MW: range, reload
+dimwishlist:item=834081972&perks=1926090091,3230963543,1168162263,3425386926  PvE. MW: range, reload
+dimwishlist:item=834081972&perks=1926090090,2420895100,1168162263,3425386926  PvE. MW: range, reload
+dimwishlist:item=834081972&perks=1926090090,1087426260,1168162263,3425386926  PvE. MW: range, reload
+dimwishlist:item=834081972&perks=1926090090,1561002382,1168162263,3425386926  PvE. MW: range, reload
+dimwishlist:item=834081972&perks=1926090090,679225683,1168162263,3425386926  PvE. MW: range, reload
+dimwishlist:item=834081972&perks=1926090090,3230963543,1168162263,3425386926  PvE. MW: range, reload
+dimwishlist:item=834081972&perks=1926090093,2420895100,1168162263,3425386926  PvE. MW: range, reload
+dimwishlist:item=834081972&perks=1926090093,1087426260,1168162263,3425386926  PvE. MW: range, reload
+dimwishlist:item=834081972&perks=1926090093,1561002382,1168162263,3425386926  PvE. MW: range, reload
+dimwishlist:item=834081972&perks=1926090093,679225683,1168162263,3425386926  PvE. MW: range, reload
+dimwishlist:item=834081972&perks=1926090093,3230963543,1168162263,3425386926  PvE. MW: range, reload
+dimwishlist:item=834081972&perks=1926090092,2420895100,1168162263,3425386926  PvE. MW: range, reload
+dimwishlist:item=834081972&perks=1926090092,1087426260,1168162263,3425386926  PvE. MW: range, reload
+dimwishlist:item=834081972&perks=1926090092,1561002382,1168162263,3425386926  PvE. MW: range, reload
+dimwishlist:item=834081972&perks=1926090092,679225683,1168162263,3425386926  PvE. MW: range, reload
+dimwishlist:item=834081972&perks=1926090092,3230963543,1168162263,3425386926  PvE. MW: range, reload
 // Outlaw, Kill Clip
-dimwishlist:item=834081972&perks=1926090091,2420895100,1168162263,1015611457  PvE. MW: range,reload
-dimwishlist:item=834081972&perks=1926090091,1087426260,1168162263,1015611457  PvE. MW: range,reload
-dimwishlist:item=834081972&perks=1926090091,1561002382,1168162263,1015611457  PvE. MW: range,reload
-dimwishlist:item=834081972&perks=1926090091,679225683,1168162263,1015611457  PvE. MW: range,reload
-dimwishlist:item=834081972&perks=1926090091,3230963543,1168162263,1015611457  PvE. MW: range,reload
-dimwishlist:item=834081972&perks=1926090090,2420895100,1168162263,1015611457  PvE. MW: range,reload
-dimwishlist:item=834081972&perks=1926090090,1087426260,1168162263,1015611457  PvE. MW: range,reload
-dimwishlist:item=834081972&perks=1926090090,1561002382,1168162263,1015611457  PvE. MW: range,reload
-dimwishlist:item=834081972&perks=1926090090,679225683,1168162263,1015611457  PvE. MW: range,reload
-dimwishlist:item=834081972&perks=1926090090,3230963543,1168162263,1015611457  PvE. MW: range,reload
-dimwishlist:item=834081972&perks=1926090093,2420895100,1168162263,1015611457  PvE. MW: range,reload
-dimwishlist:item=834081972&perks=1926090093,1087426260,1168162263,1015611457  PvE. MW: range,reload
-dimwishlist:item=834081972&perks=1926090093,1561002382,1168162263,1015611457  PvE. MW: range,reload
-dimwishlist:item=834081972&perks=1926090093,679225683,1168162263,1015611457  PvE. MW: range,reload
-dimwishlist:item=834081972&perks=1926090093,3230963543,1168162263,1015611457  PvE. MW: range,reload
-dimwishlist:item=834081972&perks=1926090092,2420895100,1168162263,1015611457  PvE. MW: range,reload
-dimwishlist:item=834081972&perks=1926090092,1087426260,1168162263,1015611457  PvE. MW: range,reload
-dimwishlist:item=834081972&perks=1926090092,1561002382,1168162263,1015611457  PvE. MW: range,reload
-dimwishlist:item=834081972&perks=1926090092,679225683,1168162263,1015611457  PvE. MW: range,reload
-dimwishlist:item=834081972&perks=1926090092,3230963543,1168162263,1015611457  PvE. MW: range,reload
+dimwishlist:item=834081972&perks=1926090091,2420895100,1168162263,1015611457  PvE. MW: range, reload
+dimwishlist:item=834081972&perks=1926090091,1087426260,1168162263,1015611457  PvE. MW: range, reload
+dimwishlist:item=834081972&perks=1926090091,1561002382,1168162263,1015611457  PvE. MW: range, reload
+dimwishlist:item=834081972&perks=1926090091,679225683,1168162263,1015611457  PvE. MW: range, reload
+dimwishlist:item=834081972&perks=1926090091,3230963543,1168162263,1015611457  PvE. MW: range, reload
+dimwishlist:item=834081972&perks=1926090090,2420895100,1168162263,1015611457  PvE. MW: range, reload
+dimwishlist:item=834081972&perks=1926090090,1087426260,1168162263,1015611457  PvE. MW: range, reload
+dimwishlist:item=834081972&perks=1926090090,1561002382,1168162263,1015611457  PvE. MW: range, reload
+dimwishlist:item=834081972&perks=1926090090,679225683,1168162263,1015611457  PvE. MW: range, reload
+dimwishlist:item=834081972&perks=1926090090,3230963543,1168162263,1015611457  PvE. MW: range, reload
+dimwishlist:item=834081972&perks=1926090093,2420895100,1168162263,1015611457  PvE. MW: range, reload
+dimwishlist:item=834081972&perks=1926090093,1087426260,1168162263,1015611457  PvE. MW: range, reload
+dimwishlist:item=834081972&perks=1926090093,1561002382,1168162263,1015611457  PvE. MW: range, reload
+dimwishlist:item=834081972&perks=1926090093,679225683,1168162263,1015611457  PvE. MW: range, reload
+dimwishlist:item=834081972&perks=1926090093,3230963543,1168162263,1015611457  PvE. MW: range, reload
+dimwishlist:item=834081972&perks=1926090092,2420895100,1168162263,1015611457  PvE. MW: range, reload
+dimwishlist:item=834081972&perks=1926090092,1087426260,1168162263,1015611457  PvE. MW: range, reload
+dimwishlist:item=834081972&perks=1926090092,1561002382,1168162263,1015611457  PvE. MW: range, reload
+dimwishlist:item=834081972&perks=1926090092,679225683,1168162263,1015611457  PvE. MW: range, reload
+dimwishlist:item=834081972&perks=1926090092,3230963543,1168162263,1015611457  PvE. MW: range, reload
 // Triple Tap, Rampage
-dimwishlist:item=834081972&perks=1926090091,2420895100,3400784728,3425386926  PvE. MW: range,reload
-dimwishlist:item=834081972&perks=1926090091,1087426260,3400784728,3425386926  PvE. MW: range,reload
-dimwishlist:item=834081972&perks=1926090091,1561002382,3400784728,3425386926  PvE. MW: range,reload
-dimwishlist:item=834081972&perks=1926090091,679225683,3400784728,3425386926  PvE. MW: range,reload
-dimwishlist:item=834081972&perks=1926090091,3230963543,3400784728,3425386926  PvE. MW: range,reload
-dimwishlist:item=834081972&perks=1926090090,2420895100,3400784728,3425386926  PvE. MW: range,reload
-dimwishlist:item=834081972&perks=1926090090,1087426260,3400784728,3425386926  PvE. MW: range,reload
-dimwishlist:item=834081972&perks=1926090090,1561002382,3400784728,3425386926  PvE. MW: range,reload
-dimwishlist:item=834081972&perks=1926090090,679225683,3400784728,3425386926  PvE. MW: range,reload
-dimwishlist:item=834081972&perks=1926090090,3230963543,3400784728,3425386926  PvE. MW: range,reload
-dimwishlist:item=834081972&perks=1926090093,2420895100,3400784728,3425386926  PvE. MW: range,reload
-dimwishlist:item=834081972&perks=1926090093,1087426260,3400784728,3425386926  PvE. MW: range,reload
-dimwishlist:item=834081972&perks=1926090093,1561002382,3400784728,3425386926  PvE. MW: range,reload
-dimwishlist:item=834081972&perks=1926090093,679225683,3400784728,3425386926  PvE. MW: range,reload
-dimwishlist:item=834081972&perks=1926090093,3230963543,3400784728,3425386926  PvE. MW: range,reload
-dimwishlist:item=834081972&perks=1926090092,2420895100,3400784728,3425386926  PvE. MW: range,reload
-dimwishlist:item=834081972&perks=1926090092,1087426260,3400784728,3425386926  PvE. MW: range,reload
-dimwishlist:item=834081972&perks=1926090092,1561002382,3400784728,3425386926  PvE. MW: range,reload
-dimwishlist:item=834081972&perks=1926090092,679225683,3400784728,3425386926  PvE. MW: range,reload
-dimwishlist:item=834081972&perks=1926090092,3230963543,3400784728,3425386926  PvE. MW: range,reload
+dimwishlist:item=834081972&perks=1926090091,2420895100,3400784728,3425386926  PvE. MW: range, reload
+dimwishlist:item=834081972&perks=1926090091,1087426260,3400784728,3425386926  PvE. MW: range, reload
+dimwishlist:item=834081972&perks=1926090091,1561002382,3400784728,3425386926  PvE. MW: range, reload
+dimwishlist:item=834081972&perks=1926090091,679225683,3400784728,3425386926  PvE. MW: range, reload
+dimwishlist:item=834081972&perks=1926090091,3230963543,3400784728,3425386926  PvE. MW: range, reload
+dimwishlist:item=834081972&perks=1926090090,2420895100,3400784728,3425386926  PvE. MW: range, reload
+dimwishlist:item=834081972&perks=1926090090,1087426260,3400784728,3425386926  PvE. MW: range, reload
+dimwishlist:item=834081972&perks=1926090090,1561002382,3400784728,3425386926  PvE. MW: range, reload
+dimwishlist:item=834081972&perks=1926090090,679225683,3400784728,3425386926  PvE. MW: range, reload
+dimwishlist:item=834081972&perks=1926090090,3230963543,3400784728,3425386926  PvE. MW: range, reload
+dimwishlist:item=834081972&perks=1926090093,2420895100,3400784728,3425386926  PvE. MW: range, reload
+dimwishlist:item=834081972&perks=1926090093,1087426260,3400784728,3425386926  PvE. MW: range, reload
+dimwishlist:item=834081972&perks=1926090093,1561002382,3400784728,3425386926  PvE. MW: range, reload
+dimwishlist:item=834081972&perks=1926090093,679225683,3400784728,3425386926  PvE. MW: range, reload
+dimwishlist:item=834081972&perks=1926090093,3230963543,3400784728,3425386926  PvE. MW: range, reload
+dimwishlist:item=834081972&perks=1926090092,2420895100,3400784728,3425386926  PvE. MW: range, reload
+dimwishlist:item=834081972&perks=1926090092,1087426260,3400784728,3425386926  PvE. MW: range, reload
+dimwishlist:item=834081972&perks=1926090092,1561002382,3400784728,3425386926  PvE. MW: range, reload
+dimwishlist:item=834081972&perks=1926090092,679225683,3400784728,3425386926  PvE. MW: range, reload
+dimwishlist:item=834081972&perks=1926090092,3230963543,3400784728,3425386926  PvE. MW: range, reload
 // Triple Tap, Kill Clip
-dimwishlist:item=834081972&perks=1926090091,2420895100,3400784728,1015611457  PvE. MW: range,reload
-dimwishlist:item=834081972&perks=1926090091,1087426260,3400784728,1015611457  PvE. MW: range,reload
-dimwishlist:item=834081972&perks=1926090091,1561002382,3400784728,1015611457  PvE. MW: range,reload
-dimwishlist:item=834081972&perks=1926090091,679225683,3400784728,1015611457  PvE. MW: range,reload
-dimwishlist:item=834081972&perks=1926090091,3230963543,3400784728,1015611457  PvE. MW: range,reload
-dimwishlist:item=834081972&perks=1926090090,2420895100,3400784728,1015611457  PvE. MW: range,reload
-dimwishlist:item=834081972&perks=1926090090,1087426260,3400784728,1015611457  PvE. MW: range,reload
-dimwishlist:item=834081972&perks=1926090090,1561002382,3400784728,1015611457  PvE. MW: range,reload
-dimwishlist:item=834081972&perks=1926090090,679225683,3400784728,1015611457  PvE. MW: range,reload
-dimwishlist:item=834081972&perks=1926090090,3230963543,3400784728,1015611457  PvE. MW: range,reload
-dimwishlist:item=834081972&perks=1926090093,2420895100,3400784728,1015611457  PvE. MW: range,reload
-dimwishlist:item=834081972&perks=1926090093,1087426260,3400784728,1015611457  PvE. MW: range,reload
-dimwishlist:item=834081972&perks=1926090093,1561002382,3400784728,1015611457  PvE. MW: range,reload
-dimwishlist:item=834081972&perks=1926090093,679225683,3400784728,1015611457  PvE. MW: range,reload
-dimwishlist:item=834081972&perks=1926090093,3230963543,3400784728,1015611457  PvE. MW: range,reload
-dimwishlist:item=834081972&perks=1926090092,2420895100,3400784728,1015611457  PvE. MW: range,reload
-dimwishlist:item=834081972&perks=1926090092,1087426260,3400784728,1015611457  PvE. MW: range,reload
-dimwishlist:item=834081972&perks=1926090092,1561002382,3400784728,1015611457  PvE. MW: range,reload
-dimwishlist:item=834081972&perks=1926090092,679225683,3400784728,1015611457  PvE. MW: range,reload
-dimwishlist:item=834081972&perks=1926090092,3230963543,3400784728,1015611457  PvE. MW: range,reload
+dimwishlist:item=834081972&perks=1926090091,2420895100,3400784728,1015611457  PvE. MW: range, reload
+dimwishlist:item=834081972&perks=1926090091,1087426260,3400784728,1015611457  PvE. MW: range, reload
+dimwishlist:item=834081972&perks=1926090091,1561002382,3400784728,1015611457  PvE. MW: range, reload
+dimwishlist:item=834081972&perks=1926090091,679225683,3400784728,1015611457  PvE. MW: range, reload
+dimwishlist:item=834081972&perks=1926090091,3230963543,3400784728,1015611457  PvE. MW: range, reload
+dimwishlist:item=834081972&perks=1926090090,2420895100,3400784728,1015611457  PvE. MW: range, reload
+dimwishlist:item=834081972&perks=1926090090,1087426260,3400784728,1015611457  PvE. MW: range, reload
+dimwishlist:item=834081972&perks=1926090090,1561002382,3400784728,1015611457  PvE. MW: range, reload
+dimwishlist:item=834081972&perks=1926090090,679225683,3400784728,1015611457  PvE. MW: range, reload
+dimwishlist:item=834081972&perks=1926090090,3230963543,3400784728,1015611457  PvE. MW: range, reload
+dimwishlist:item=834081972&perks=1926090093,2420895100,3400784728,1015611457  PvE. MW: range, reload
+dimwishlist:item=834081972&perks=1926090093,1087426260,3400784728,1015611457  PvE. MW: range, reload
+dimwishlist:item=834081972&perks=1926090093,1561002382,3400784728,1015611457  PvE. MW: range, reload
+dimwishlist:item=834081972&perks=1926090093,679225683,3400784728,1015611457  PvE. MW: range, reload
+dimwishlist:item=834081972&perks=1926090093,3230963543,3400784728,1015611457  PvE. MW: range, reload
+dimwishlist:item=834081972&perks=1926090092,2420895100,3400784728,1015611457  PvE. MW: range, reload
+dimwishlist:item=834081972&perks=1926090092,1087426260,3400784728,1015611457  PvE. MW: range, reload
+dimwishlist:item=834081972&perks=1926090092,1561002382,3400784728,1015611457  PvE. MW: range, reload
+dimwishlist:item=834081972&perks=1926090092,679225683,3400784728,1015611457  PvE. MW: range, reload
+dimwishlist:item=834081972&perks=1926090092,3230963543,3400784728,1015611457  PvE. MW: range, reload
 
 
 // Temporal Clause
 //notes: Not recommended for PvP (2.0 rating on light.gg)
 // Ambitious Assassin, Rampage
-dimwishlist:item=3369545945&perks=202670084,1561002382,2010801679,3425386926  PvE. MW: range,reload
-dimwishlist:item=3369545945&perks=202670084,1885400500,2010801679,3425386926  PvE. MW: range,reload
-dimwishlist:item=3369545945&perks=202670084,679225683,2010801679,3425386926  PvE. MW: range,reload
-dimwishlist:item=3369545945&perks=202670084,1087426260,2010801679,3425386926  PvE. MW: range,reload
-dimwishlist:item=3369545945&perks=202670084,3230963543,2010801679,3425386926  PvE. MW: range,reload
-dimwishlist:item=3369545945&perks=3250034553,1561002382,2010801679,3425386926  PvE. MW: range,reload
-dimwishlist:item=3369545945&perks=3250034553,1885400500,2010801679,3425386926  PvE. MW: range,reload
-dimwishlist:item=3369545945&perks=3250034553,679225683,2010801679,3425386926  PvE. MW: range,reload
-dimwishlist:item=3369545945&perks=3250034553,1087426260,2010801679,3425386926  PvE. MW: range,reload
-dimwishlist:item=3369545945&perks=3250034553,3230963543,2010801679,3425386926  PvE. MW: range,reload
-dimwishlist:item=3369545945&perks=1467527085,1561002382,2010801679,3425386926  PvE. MW: range,reload
-dimwishlist:item=3369545945&perks=1467527085,1885400500,2010801679,3425386926  PvE. MW: range,reload
-dimwishlist:item=3369545945&perks=1467527085,679225683,2010801679,3425386926  PvE. MW: range,reload
-dimwishlist:item=3369545945&perks=1467527085,1087426260,2010801679,3425386926  PvE. MW: range,reload
-dimwishlist:item=3369545945&perks=1467527085,3230963543,2010801679,3425386926  PvE. MW: range,reload
-dimwishlist:item=3369545945&perks=4090651448,1561002382,2010801679,3425386926  PvE. MW: range,reload
-dimwishlist:item=3369545945&perks=4090651448,1885400500,2010801679,3425386926  PvE. MW: range,reload
-dimwishlist:item=3369545945&perks=4090651448,679225683,2010801679,3425386926  PvE. MW: range,reload
-dimwishlist:item=3369545945&perks=4090651448,1087426260,2010801679,3425386926  PvE. MW: range,reload
-dimwishlist:item=3369545945&perks=4090651448,3230963543,2010801679,3425386926  PvE. MW: range,reload
+dimwishlist:item=3369545945&perks=202670084,1561002382,2010801679,3425386926  PvE. MW: range, reload
+dimwishlist:item=3369545945&perks=202670084,1885400500,2010801679,3425386926  PvE. MW: range, reload
+dimwishlist:item=3369545945&perks=202670084,679225683,2010801679,3425386926  PvE. MW: range, reload
+dimwishlist:item=3369545945&perks=202670084,1087426260,2010801679,3425386926  PvE. MW: range, reload
+dimwishlist:item=3369545945&perks=202670084,3230963543,2010801679,3425386926  PvE. MW: range, reload
+dimwishlist:item=3369545945&perks=3250034553,1561002382,2010801679,3425386926  PvE. MW: range, reload
+dimwishlist:item=3369545945&perks=3250034553,1885400500,2010801679,3425386926  PvE. MW: range, reload
+dimwishlist:item=3369545945&perks=3250034553,679225683,2010801679,3425386926  PvE. MW: range, reload
+dimwishlist:item=3369545945&perks=3250034553,1087426260,2010801679,3425386926  PvE. MW: range, reload
+dimwishlist:item=3369545945&perks=3250034553,3230963543,2010801679,3425386926  PvE. MW: range, reload
+dimwishlist:item=3369545945&perks=1467527085,1561002382,2010801679,3425386926  PvE. MW: range, reload
+dimwishlist:item=3369545945&perks=1467527085,1885400500,2010801679,3425386926  PvE. MW: range, reload
+dimwishlist:item=3369545945&perks=1467527085,679225683,2010801679,3425386926  PvE. MW: range, reload
+dimwishlist:item=3369545945&perks=1467527085,1087426260,2010801679,3425386926  PvE. MW: range, reload
+dimwishlist:item=3369545945&perks=1467527085,3230963543,2010801679,3425386926  PvE. MW: range, reload
+dimwishlist:item=3369545945&perks=4090651448,1561002382,2010801679,3425386926  PvE. MW: range, reload
+dimwishlist:item=3369545945&perks=4090651448,1885400500,2010801679,3425386926  PvE. MW: range, reload
+dimwishlist:item=3369545945&perks=4090651448,679225683,2010801679,3425386926  PvE. MW: range, reload
+dimwishlist:item=3369545945&perks=4090651448,1087426260,2010801679,3425386926  PvE. MW: range, reload
+dimwishlist:item=3369545945&perks=4090651448,3230963543,2010801679,3425386926  PvE. MW: range, reload
 // Ambitious Assassin, Surrounded
-dimwishlist:item=3369545945&perks=202670084,1561002382,2010801679,3708227201  PvE. MW: range,reload
-dimwishlist:item=3369545945&perks=202670084,1885400500,2010801679,3708227201  PvE. MW: range,reload
-dimwishlist:item=3369545945&perks=202670084,679225683,2010801679,3708227201  PvE. MW: range,reload
-dimwishlist:item=3369545945&perks=202670084,1087426260,2010801679,3708227201  PvE. MW: range,reload
-dimwishlist:item=3369545945&perks=202670084,3230963543,2010801679,3708227201  PvE. MW: range,reload
-dimwishlist:item=3369545945&perks=3250034553,1561002382,2010801679,3708227201  PvE. MW: range,reload
-dimwishlist:item=3369545945&perks=3250034553,1885400500,2010801679,3708227201  PvE. MW: range,reload
-dimwishlist:item=3369545945&perks=3250034553,679225683,2010801679,3708227201  PvE. MW: range,reload
-dimwishlist:item=3369545945&perks=3250034553,1087426260,2010801679,3708227201  PvE. MW: range,reload
-dimwishlist:item=3369545945&perks=3250034553,3230963543,2010801679,3708227201  PvE. MW: range,reload
-dimwishlist:item=3369545945&perks=1467527085,1561002382,2010801679,3708227201  PvE. MW: range,reload
-dimwishlist:item=3369545945&perks=1467527085,1885400500,2010801679,3708227201  PvE. MW: range,reload
-dimwishlist:item=3369545945&perks=1467527085,679225683,2010801679,3708227201  PvE. MW: range,reload
-dimwishlist:item=3369545945&perks=1467527085,1087426260,2010801679,3708227201  PvE. MW: range,reload
-dimwishlist:item=3369545945&perks=1467527085,3230963543,2010801679,3708227201  PvE. MW: range,reload
-dimwishlist:item=3369545945&perks=4090651448,1561002382,2010801679,3708227201  PvE. MW: range,reload
-dimwishlist:item=3369545945&perks=4090651448,1885400500,2010801679,3708227201  PvE. MW: range,reload
-dimwishlist:item=3369545945&perks=4090651448,679225683,2010801679,3708227201  PvE. MW: range,reload
-dimwishlist:item=3369545945&perks=4090651448,1087426260,2010801679,3708227201  PvE. MW: range,reload
-dimwishlist:item=3369545945&perks=4090651448,3230963543,2010801679,3708227201  PvE. MW: range,reload
+dimwishlist:item=3369545945&perks=202670084,1561002382,2010801679,3708227201  PvE. MW: range, reload
+dimwishlist:item=3369545945&perks=202670084,1885400500,2010801679,3708227201  PvE. MW: range, reload
+dimwishlist:item=3369545945&perks=202670084,679225683,2010801679,3708227201  PvE. MW: range, reload
+dimwishlist:item=3369545945&perks=202670084,1087426260,2010801679,3708227201  PvE. MW: range, reload
+dimwishlist:item=3369545945&perks=202670084,3230963543,2010801679,3708227201  PvE. MW: range, reload
+dimwishlist:item=3369545945&perks=3250034553,1561002382,2010801679,3708227201  PvE. MW: range, reload
+dimwishlist:item=3369545945&perks=3250034553,1885400500,2010801679,3708227201  PvE. MW: range, reload
+dimwishlist:item=3369545945&perks=3250034553,679225683,2010801679,3708227201  PvE. MW: range, reload
+dimwishlist:item=3369545945&perks=3250034553,1087426260,2010801679,3708227201  PvE. MW: range, reload
+dimwishlist:item=3369545945&perks=3250034553,3230963543,2010801679,3708227201  PvE. MW: range, reload
+dimwishlist:item=3369545945&perks=1467527085,1561002382,2010801679,3708227201  PvE. MW: range, reload
+dimwishlist:item=3369545945&perks=1467527085,1885400500,2010801679,3708227201  PvE. MW: range, reload
+dimwishlist:item=3369545945&perks=1467527085,679225683,2010801679,3708227201  PvE. MW: range, reload
+dimwishlist:item=3369545945&perks=1467527085,1087426260,2010801679,3708227201  PvE. MW: range, reload
+dimwishlist:item=3369545945&perks=1467527085,3230963543,2010801679,3708227201  PvE. MW: range, reload
+dimwishlist:item=3369545945&perks=4090651448,1561002382,2010801679,3708227201  PvE. MW: range, reload
+dimwishlist:item=3369545945&perks=4090651448,1885400500,2010801679,3708227201  PvE. MW: range, reload
+dimwishlist:item=3369545945&perks=4090651448,679225683,2010801679,3708227201  PvE. MW: range, reload
+dimwishlist:item=3369545945&perks=4090651448,1087426260,2010801679,3708227201  PvE. MW: range, reload
+dimwishlist:item=3369545945&perks=4090651448,3230963543,2010801679,3708227201  PvE. MW: range, reload
 // Auto Loading Holster, Rampage
-dimwishlist:item=3369545945&perks=202670084,1561002382,3300816228,3425386926  PvE. MW: range,reload
-dimwishlist:item=3369545945&perks=202670084,1885400500,3300816228,3425386926  PvE. MW: range,reload
-dimwishlist:item=3369545945&perks=202670084,679225683,3300816228,3425386926  PvE. MW: range,reload
-dimwishlist:item=3369545945&perks=202670084,1087426260,3300816228,3425386926  PvE. MW: range,reload
-dimwishlist:item=3369545945&perks=202670084,3230963543,3300816228,3425386926  PvE. MW: range,reload
-dimwishlist:item=3369545945&perks=3250034553,1561002382,3300816228,3425386926  PvE. MW: range,reload
-dimwishlist:item=3369545945&perks=3250034553,1885400500,3300816228,3425386926  PvE. MW: range,reload
-dimwishlist:item=3369545945&perks=3250034553,679225683,3300816228,3425386926  PvE. MW: range,reload
-dimwishlist:item=3369545945&perks=3250034553,1087426260,3300816228,3425386926  PvE. MW: range,reload
-dimwishlist:item=3369545945&perks=3250034553,3230963543,3300816228,3425386926  PvE. MW: range,reload
-dimwishlist:item=3369545945&perks=1467527085,1561002382,3300816228,3425386926  PvE. MW: range,reload
-dimwishlist:item=3369545945&perks=1467527085,1885400500,3300816228,3425386926  PvE. MW: range,reload
-dimwishlist:item=3369545945&perks=1467527085,679225683,3300816228,3425386926  PvE. MW: range,reload
-dimwishlist:item=3369545945&perks=1467527085,1087426260,3300816228,3425386926  PvE. MW: range,reload
-dimwishlist:item=3369545945&perks=1467527085,3230963543,3300816228,3425386926  PvE. MW: range,reload
-dimwishlist:item=3369545945&perks=4090651448,1561002382,3300816228,3425386926  PvE. MW: range,reload
-dimwishlist:item=3369545945&perks=4090651448,1885400500,3300816228,3425386926  PvE. MW: range,reload
-dimwishlist:item=3369545945&perks=4090651448,679225683,3300816228,3425386926  PvE. MW: range,reload
-dimwishlist:item=3369545945&perks=4090651448,1087426260,3300816228,3425386926  PvE. MW: range,reload
-dimwishlist:item=3369545945&perks=4090651448,3230963543,3300816228,3425386926  PvE. MW: range,reload
+dimwishlist:item=3369545945&perks=202670084,1561002382,3300816228,3425386926  PvE. MW: range, reload
+dimwishlist:item=3369545945&perks=202670084,1885400500,3300816228,3425386926  PvE. MW: range, reload
+dimwishlist:item=3369545945&perks=202670084,679225683,3300816228,3425386926  PvE. MW: range, reload
+dimwishlist:item=3369545945&perks=202670084,1087426260,3300816228,3425386926  PvE. MW: range, reload
+dimwishlist:item=3369545945&perks=202670084,3230963543,3300816228,3425386926  PvE. MW: range, reload
+dimwishlist:item=3369545945&perks=3250034553,1561002382,3300816228,3425386926  PvE. MW: range, reload
+dimwishlist:item=3369545945&perks=3250034553,1885400500,3300816228,3425386926  PvE. MW: range, reload
+dimwishlist:item=3369545945&perks=3250034553,679225683,3300816228,3425386926  PvE. MW: range, reload
+dimwishlist:item=3369545945&perks=3250034553,1087426260,3300816228,3425386926  PvE. MW: range, reload
+dimwishlist:item=3369545945&perks=3250034553,3230963543,3300816228,3425386926  PvE. MW: range, reload
+dimwishlist:item=3369545945&perks=1467527085,1561002382,3300816228,3425386926  PvE. MW: range, reload
+dimwishlist:item=3369545945&perks=1467527085,1885400500,3300816228,3425386926  PvE. MW: range, reload
+dimwishlist:item=3369545945&perks=1467527085,679225683,3300816228,3425386926  PvE. MW: range, reload
+dimwishlist:item=3369545945&perks=1467527085,1087426260,3300816228,3425386926  PvE. MW: range, reload
+dimwishlist:item=3369545945&perks=1467527085,3230963543,3300816228,3425386926  PvE. MW: range, reload
+dimwishlist:item=3369545945&perks=4090651448,1561002382,3300816228,3425386926  PvE. MW: range, reload
+dimwishlist:item=3369545945&perks=4090651448,1885400500,3300816228,3425386926  PvE. MW: range, reload
+dimwishlist:item=3369545945&perks=4090651448,679225683,3300816228,3425386926  PvE. MW: range, reload
+dimwishlist:item=3369545945&perks=4090651448,1087426260,3300816228,3425386926  PvE. MW: range, reload
+dimwishlist:item=3369545945&perks=4090651448,3230963543,3300816228,3425386926  PvE. MW: range, reload
 // Auto Loading Holster, Surrounded
-dimwishlist:item=3369545945&perks=202670084,1561002382,3300816228,3708227201  PvE. MW: range,reload
-dimwishlist:item=3369545945&perks=202670084,1885400500,3300816228,3708227201  PvE. MW: range,reload
-dimwishlist:item=3369545945&perks=202670084,679225683,3300816228,3708227201  PvE. MW: range,reload
-dimwishlist:item=3369545945&perks=202670084,1087426260,3300816228,3708227201  PvE. MW: range,reload
-dimwishlist:item=3369545945&perks=202670084,3230963543,3300816228,3708227201  PvE. MW: range,reload
-dimwishlist:item=3369545945&perks=3250034553,1561002382,3300816228,3708227201  PvE. MW: range,reload
-dimwishlist:item=3369545945&perks=3250034553,1885400500,3300816228,3708227201  PvE. MW: range,reload
-dimwishlist:item=3369545945&perks=3250034553,679225683,3300816228,3708227201  PvE. MW: range,reload
-dimwishlist:item=3369545945&perks=3250034553,1087426260,3300816228,3708227201  PvE. MW: range,reload
-dimwishlist:item=3369545945&perks=3250034553,3230963543,3300816228,3708227201  PvE. MW: range,reload
-dimwishlist:item=3369545945&perks=1467527085,1561002382,3300816228,3708227201  PvE. MW: range,reload
-dimwishlist:item=3369545945&perks=1467527085,1885400500,3300816228,3708227201  PvE. MW: range,reload
-dimwishlist:item=3369545945&perks=1467527085,679225683,3300816228,3708227201  PvE. MW: range,reload
-dimwishlist:item=3369545945&perks=1467527085,1087426260,3300816228,3708227201  PvE. MW: range,reload
-dimwishlist:item=3369545945&perks=1467527085,3230963543,3300816228,3708227201  PvE. MW: range,reload
-dimwishlist:item=3369545945&perks=4090651448,1561002382,3300816228,3708227201  PvE. MW: range,reload
-dimwishlist:item=3369545945&perks=4090651448,1885400500,3300816228,3708227201  PvE. MW: range,reload
-dimwishlist:item=3369545945&perks=4090651448,679225683,3300816228,3708227201  PvE. MW: range,reload
-dimwishlist:item=3369545945&perks=4090651448,1087426260,3300816228,3708227201  PvE. MW: range,reload
-dimwishlist:item=3369545945&perks=4090651448,3230963543,3300816228,3708227201  PvE. MW: range,reload
+dimwishlist:item=3369545945&perks=202670084,1561002382,3300816228,3708227201  PvE. MW: range, reload
+dimwishlist:item=3369545945&perks=202670084,1885400500,3300816228,3708227201  PvE. MW: range, reload
+dimwishlist:item=3369545945&perks=202670084,679225683,3300816228,3708227201  PvE. MW: range, reload
+dimwishlist:item=3369545945&perks=202670084,1087426260,3300816228,3708227201  PvE. MW: range, reload
+dimwishlist:item=3369545945&perks=202670084,3230963543,3300816228,3708227201  PvE. MW: range, reload
+dimwishlist:item=3369545945&perks=3250034553,1561002382,3300816228,3708227201  PvE. MW: range, reload
+dimwishlist:item=3369545945&perks=3250034553,1885400500,3300816228,3708227201  PvE. MW: range, reload
+dimwishlist:item=3369545945&perks=3250034553,679225683,3300816228,3708227201  PvE. MW: range, reload
+dimwishlist:item=3369545945&perks=3250034553,1087426260,3300816228,3708227201  PvE. MW: range, reload
+dimwishlist:item=3369545945&perks=3250034553,3230963543,3300816228,3708227201  PvE. MW: range, reload
+dimwishlist:item=3369545945&perks=1467527085,1561002382,3300816228,3708227201  PvE. MW: range, reload
+dimwishlist:item=3369545945&perks=1467527085,1885400500,3300816228,3708227201  PvE. MW: range, reload
+dimwishlist:item=3369545945&perks=1467527085,679225683,3300816228,3708227201  PvE. MW: range, reload
+dimwishlist:item=3369545945&perks=1467527085,1087426260,3300816228,3708227201  PvE. MW: range, reload
+dimwishlist:item=3369545945&perks=1467527085,3230963543,3300816228,3708227201  PvE. MW: range, reload
+dimwishlist:item=3369545945&perks=4090651448,1561002382,3300816228,3708227201  PvE. MW: range, reload
+dimwishlist:item=3369545945&perks=4090651448,1885400500,3300816228,3708227201  PvE. MW: range, reload
+dimwishlist:item=3369545945&perks=4090651448,679225683,3300816228,3708227201  PvE. MW: range, reload
+dimwishlist:item=3369545945&perks=4090651448,1087426260,3300816228,3708227201  PvE. MW: range, reload
+dimwishlist:item=3369545945&perks=4090651448,3230963543,3300816228,3708227201  PvE. MW: range, reload
 // Firmly Planted, Rampage
-dimwishlist:item=3369545945&perks=202670084,1561002382,280464955,3425386926  PvE. MW: range,reload
-dimwishlist:item=3369545945&perks=202670084,1885400500,280464955,3425386926  PvE. MW: range,reload
-dimwishlist:item=3369545945&perks=202670084,679225683,280464955,3425386926  PvE. MW: range,reload
-dimwishlist:item=3369545945&perks=202670084,1087426260,280464955,3425386926  PvE. MW: range,reload
-dimwishlist:item=3369545945&perks=202670084,3230963543,280464955,3425386926  PvE. MW: range,reload
-dimwishlist:item=3369545945&perks=3250034553,1561002382,280464955,3425386926  PvE. MW: range,reload
-dimwishlist:item=3369545945&perks=3250034553,1885400500,280464955,3425386926  PvE. MW: range,reload
-dimwishlist:item=3369545945&perks=3250034553,679225683,280464955,3425386926  PvE. MW: range,reload
-dimwishlist:item=3369545945&perks=3250034553,1087426260,280464955,3425386926  PvE. MW: range,reload
-dimwishlist:item=3369545945&perks=3250034553,3230963543,280464955,3425386926  PvE. MW: range,reload
-dimwishlist:item=3369545945&perks=1467527085,1561002382,280464955,3425386926  PvE. MW: range,reload
-dimwishlist:item=3369545945&perks=1467527085,1885400500,280464955,3425386926  PvE. MW: range,reload
-dimwishlist:item=3369545945&perks=1467527085,679225683,280464955,3425386926  PvE. MW: range,reload
-dimwishlist:item=3369545945&perks=1467527085,1087426260,280464955,3425386926  PvE. MW: range,reload
-dimwishlist:item=3369545945&perks=1467527085,3230963543,280464955,3425386926  PvE. MW: range,reload
-dimwishlist:item=3369545945&perks=4090651448,1561002382,280464955,3425386926  PvE. MW: range,reload
-dimwishlist:item=3369545945&perks=4090651448,1885400500,280464955,3425386926  PvE. MW: range,reload
-dimwishlist:item=3369545945&perks=4090651448,679225683,280464955,3425386926  PvE. MW: range,reload
-dimwishlist:item=3369545945&perks=4090651448,1087426260,280464955,3425386926  PvE. MW: range,reload
-dimwishlist:item=3369545945&perks=4090651448,3230963543,280464955,3425386926  PvE. MW: range,reload
+dimwishlist:item=3369545945&perks=202670084,1561002382,280464955,3425386926  PvE. MW: range, reload
+dimwishlist:item=3369545945&perks=202670084,1885400500,280464955,3425386926  PvE. MW: range, reload
+dimwishlist:item=3369545945&perks=202670084,679225683,280464955,3425386926  PvE. MW: range, reload
+dimwishlist:item=3369545945&perks=202670084,1087426260,280464955,3425386926  PvE. MW: range, reload
+dimwishlist:item=3369545945&perks=202670084,3230963543,280464955,3425386926  PvE. MW: range, reload
+dimwishlist:item=3369545945&perks=3250034553,1561002382,280464955,3425386926  PvE. MW: range, reload
+dimwishlist:item=3369545945&perks=3250034553,1885400500,280464955,3425386926  PvE. MW: range, reload
+dimwishlist:item=3369545945&perks=3250034553,679225683,280464955,3425386926  PvE. MW: range, reload
+dimwishlist:item=3369545945&perks=3250034553,1087426260,280464955,3425386926  PvE. MW: range, reload
+dimwishlist:item=3369545945&perks=3250034553,3230963543,280464955,3425386926  PvE. MW: range, reload
+dimwishlist:item=3369545945&perks=1467527085,1561002382,280464955,3425386926  PvE. MW: range, reload
+dimwishlist:item=3369545945&perks=1467527085,1885400500,280464955,3425386926  PvE. MW: range, reload
+dimwishlist:item=3369545945&perks=1467527085,679225683,280464955,3425386926  PvE. MW: range, reload
+dimwishlist:item=3369545945&perks=1467527085,1087426260,280464955,3425386926  PvE. MW: range, reload
+dimwishlist:item=3369545945&perks=1467527085,3230963543,280464955,3425386926  PvE. MW: range, reload
+dimwishlist:item=3369545945&perks=4090651448,1561002382,280464955,3425386926  PvE. MW: range, reload
+dimwishlist:item=3369545945&perks=4090651448,1885400500,280464955,3425386926  PvE. MW: range, reload
+dimwishlist:item=3369545945&perks=4090651448,679225683,280464955,3425386926  PvE. MW: range, reload
+dimwishlist:item=3369545945&perks=4090651448,1087426260,280464955,3425386926  PvE. MW: range, reload
+dimwishlist:item=3369545945&perks=4090651448,3230963543,280464955,3425386926  PvE. MW: range, reload
 // Firmly Planted, Surrounded
-dimwishlist:item=3369545945&perks=202670084,1561002382,280464955,3708227201  PvE. MW: range,reload
-dimwishlist:item=3369545945&perks=202670084,1885400500,280464955,3708227201  PvE. MW: range,reload
-dimwishlist:item=3369545945&perks=202670084,679225683,280464955,3708227201  PvE. MW: range,reload
-dimwishlist:item=3369545945&perks=202670084,1087426260,280464955,3708227201  PvE. MW: range,reload
-dimwishlist:item=3369545945&perks=202670084,3230963543,280464955,3708227201  PvE. MW: range,reload
-dimwishlist:item=3369545945&perks=3250034553,1561002382,280464955,3708227201  PvE. MW: range,reload
-dimwishlist:item=3369545945&perks=3250034553,1885400500,280464955,3708227201  PvE. MW: range,reload
-dimwishlist:item=3369545945&perks=3250034553,679225683,280464955,3708227201  PvE. MW: range,reload
-dimwishlist:item=3369545945&perks=3250034553,1087426260,280464955,3708227201  PvE. MW: range,reload
-dimwishlist:item=3369545945&perks=3250034553,3230963543,280464955,3708227201  PvE. MW: range,reload
-dimwishlist:item=3369545945&perks=1467527085,1561002382,280464955,3708227201  PvE. MW: range,reload
-dimwishlist:item=3369545945&perks=1467527085,1885400500,280464955,3708227201  PvE. MW: range,reload
-dimwishlist:item=3369545945&perks=1467527085,679225683,280464955,3708227201  PvE. MW: range,reload
-dimwishlist:item=3369545945&perks=1467527085,1087426260,280464955,3708227201  PvE. MW: range,reload
-dimwishlist:item=3369545945&perks=1467527085,3230963543,280464955,3708227201  PvE. MW: range,reload
-dimwishlist:item=3369545945&perks=4090651448,1561002382,280464955,3708227201  PvE. MW: range,reload
-dimwishlist:item=3369545945&perks=4090651448,1885400500,280464955,3708227201  PvE. MW: range,reload
-dimwishlist:item=3369545945&perks=4090651448,679225683,280464955,3708227201  PvE. MW: range,reload
-dimwishlist:item=3369545945&perks=4090651448,1087426260,280464955,3708227201  PvE. MW: range,reload
-dimwishlist:item=3369545945&perks=4090651448,3230963543,280464955,3708227201  PvE. MW: range,reload
+dimwishlist:item=3369545945&perks=202670084,1561002382,280464955,3708227201  PvE. MW: range, reload
+dimwishlist:item=3369545945&perks=202670084,1885400500,280464955,3708227201  PvE. MW: range, reload
+dimwishlist:item=3369545945&perks=202670084,679225683,280464955,3708227201  PvE. MW: range, reload
+dimwishlist:item=3369545945&perks=202670084,1087426260,280464955,3708227201  PvE. MW: range, reload
+dimwishlist:item=3369545945&perks=202670084,3230963543,280464955,3708227201  PvE. MW: range, reload
+dimwishlist:item=3369545945&perks=3250034553,1561002382,280464955,3708227201  PvE. MW: range, reload
+dimwishlist:item=3369545945&perks=3250034553,1885400500,280464955,3708227201  PvE. MW: range, reload
+dimwishlist:item=3369545945&perks=3250034553,679225683,280464955,3708227201  PvE. MW: range, reload
+dimwishlist:item=3369545945&perks=3250034553,1087426260,280464955,3708227201  PvE. MW: range, reload
+dimwishlist:item=3369545945&perks=3250034553,3230963543,280464955,3708227201  PvE. MW: range, reload
+dimwishlist:item=3369545945&perks=1467527085,1561002382,280464955,3708227201  PvE. MW: range, reload
+dimwishlist:item=3369545945&perks=1467527085,1885400500,280464955,3708227201  PvE. MW: range, reload
+dimwishlist:item=3369545945&perks=1467527085,679225683,280464955,3708227201  PvE. MW: range, reload
+dimwishlist:item=3369545945&perks=1467527085,1087426260,280464955,3708227201  PvE. MW: range, reload
+dimwishlist:item=3369545945&perks=1467527085,3230963543,280464955,3708227201  PvE. MW: range, reload
+dimwishlist:item=3369545945&perks=4090651448,1561002382,280464955,3708227201  PvE. MW: range, reload
+dimwishlist:item=3369545945&perks=4090651448,1885400500,280464955,3708227201  PvE. MW: range, reload
+dimwishlist:item=3369545945&perks=4090651448,679225683,280464955,3708227201  PvE. MW: range, reload
+dimwishlist:item=3369545945&perks=4090651448,1087426260,280464955,3708227201  PvE. MW: range, reload
+dimwishlist:item=3369545945&perks=4090651448,3230963543,280464955,3708227201  PvE. MW: range, reload
 // Quickdraw, Rampage
-dimwishlist:item=3369545945&perks=202670084,1561002382,706527188,3425386926  PvE. MW: range,reload
-dimwishlist:item=3369545945&perks=202670084,1885400500,706527188,3425386926  PvE. MW: range,reload
-dimwishlist:item=3369545945&perks=202670084,679225683,706527188,3425386926  PvE. MW: range,reload
-dimwishlist:item=3369545945&perks=202670084,1087426260,706527188,3425386926  PvE. MW: range,reload
-dimwishlist:item=3369545945&perks=202670084,3230963543,706527188,3425386926  PvE. MW: range,reload
-dimwishlist:item=3369545945&perks=3250034553,1561002382,706527188,3425386926  PvE. MW: range,reload
-dimwishlist:item=3369545945&perks=3250034553,1885400500,706527188,3425386926  PvE. MW: range,reload
-dimwishlist:item=3369545945&perks=3250034553,679225683,706527188,3425386926  PvE. MW: range,reload
-dimwishlist:item=3369545945&perks=3250034553,1087426260,706527188,3425386926  PvE. MW: range,reload
-dimwishlist:item=3369545945&perks=3250034553,3230963543,706527188,3425386926  PvE. MW: range,reload
-dimwishlist:item=3369545945&perks=1467527085,1561002382,706527188,3425386926  PvE. MW: range,reload
-dimwishlist:item=3369545945&perks=1467527085,1885400500,706527188,3425386926  PvE. MW: range,reload
-dimwishlist:item=3369545945&perks=1467527085,679225683,706527188,3425386926  PvE. MW: range,reload
-dimwishlist:item=3369545945&perks=1467527085,1087426260,706527188,3425386926  PvE. MW: range,reload
-dimwishlist:item=3369545945&perks=1467527085,3230963543,706527188,3425386926  PvE. MW: range,reload
-dimwishlist:item=3369545945&perks=4090651448,1561002382,706527188,3425386926  PvE. MW: range,reload
-dimwishlist:item=3369545945&perks=4090651448,1885400500,706527188,3425386926  PvE. MW: range,reload
-dimwishlist:item=3369545945&perks=4090651448,679225683,706527188,3425386926  PvE. MW: range,reload
-dimwishlist:item=3369545945&perks=4090651448,1087426260,706527188,3425386926  PvE. MW: range,reload
-dimwishlist:item=3369545945&perks=4090651448,3230963543,706527188,3425386926  PvE. MW: range,reload
+dimwishlist:item=3369545945&perks=202670084,1561002382,706527188,3425386926  PvE. MW: range, reload
+dimwishlist:item=3369545945&perks=202670084,1885400500,706527188,3425386926  PvE. MW: range, reload
+dimwishlist:item=3369545945&perks=202670084,679225683,706527188,3425386926  PvE. MW: range, reload
+dimwishlist:item=3369545945&perks=202670084,1087426260,706527188,3425386926  PvE. MW: range, reload
+dimwishlist:item=3369545945&perks=202670084,3230963543,706527188,3425386926  PvE. MW: range, reload
+dimwishlist:item=3369545945&perks=3250034553,1561002382,706527188,3425386926  PvE. MW: range, reload
+dimwishlist:item=3369545945&perks=3250034553,1885400500,706527188,3425386926  PvE. MW: range, reload
+dimwishlist:item=3369545945&perks=3250034553,679225683,706527188,3425386926  PvE. MW: range, reload
+dimwishlist:item=3369545945&perks=3250034553,1087426260,706527188,3425386926  PvE. MW: range, reload
+dimwishlist:item=3369545945&perks=3250034553,3230963543,706527188,3425386926  PvE. MW: range, reload
+dimwishlist:item=3369545945&perks=1467527085,1561002382,706527188,3425386926  PvE. MW: range, reload
+dimwishlist:item=3369545945&perks=1467527085,1885400500,706527188,3425386926  PvE. MW: range, reload
+dimwishlist:item=3369545945&perks=1467527085,679225683,706527188,3425386926  PvE. MW: range, reload
+dimwishlist:item=3369545945&perks=1467527085,1087426260,706527188,3425386926  PvE. MW: range, reload
+dimwishlist:item=3369545945&perks=1467527085,3230963543,706527188,3425386926  PvE. MW: range, reload
+dimwishlist:item=3369545945&perks=4090651448,1561002382,706527188,3425386926  PvE. MW: range, reload
+dimwishlist:item=3369545945&perks=4090651448,1885400500,706527188,3425386926  PvE. MW: range, reload
+dimwishlist:item=3369545945&perks=4090651448,679225683,706527188,3425386926  PvE. MW: range, reload
+dimwishlist:item=3369545945&perks=4090651448,1087426260,706527188,3425386926  PvE. MW: range, reload
+dimwishlist:item=3369545945&perks=4090651448,3230963543,706527188,3425386926  PvE. MW: range, reload
 // Quickdraw, Surrounded
-dimwishlist:item=3369545945&perks=202670084,1561002382,706527188,3708227201  PvE. MW: range,reload
-dimwishlist:item=3369545945&perks=202670084,1885400500,706527188,3708227201  PvE. MW: range,reload
-dimwishlist:item=3369545945&perks=202670084,679225683,706527188,3708227201  PvE. MW: range,reload
-dimwishlist:item=3369545945&perks=202670084,1087426260,706527188,3708227201  PvE. MW: range,reload
-dimwishlist:item=3369545945&perks=202670084,3230963543,706527188,3708227201  PvE. MW: range,reload
-dimwishlist:item=3369545945&perks=3250034553,1561002382,706527188,3708227201  PvE. MW: range,reload
-dimwishlist:item=3369545945&perks=3250034553,1885400500,706527188,3708227201  PvE. MW: range,reload
-dimwishlist:item=3369545945&perks=3250034553,679225683,706527188,3708227201  PvE. MW: range,reload
-dimwishlist:item=3369545945&perks=3250034553,1087426260,706527188,3708227201  PvE. MW: range,reload
-dimwishlist:item=3369545945&perks=3250034553,3230963543,706527188,3708227201  PvE. MW: range,reload
-dimwishlist:item=3369545945&perks=1467527085,1561002382,706527188,3708227201  PvE. MW: range,reload
-dimwishlist:item=3369545945&perks=1467527085,1885400500,706527188,3708227201  PvE. MW: range,reload
-dimwishlist:item=3369545945&perks=1467527085,679225683,706527188,3708227201  PvE. MW: range,reload
-dimwishlist:item=3369545945&perks=1467527085,1087426260,706527188,3708227201  PvE. MW: range,reload
-dimwishlist:item=3369545945&perks=1467527085,3230963543,706527188,3708227201  PvE. MW: range,reload
-dimwishlist:item=3369545945&perks=4090651448,1561002382,706527188,3708227201  PvE. MW: range,reload
-dimwishlist:item=3369545945&perks=4090651448,1885400500,706527188,3708227201  PvE. MW: range,reload
-dimwishlist:item=3369545945&perks=4090651448,679225683,706527188,3708227201  PvE. MW: range,reload
-dimwishlist:item=3369545945&perks=4090651448,1087426260,706527188,3708227201  PvE. MW: range,reload
-dimwishlist:item=3369545945&perks=4090651448,3230963543,706527188,3708227201  PvE. MW: range,reload
+dimwishlist:item=3369545945&perks=202670084,1561002382,706527188,3708227201  PvE. MW: range, reload
+dimwishlist:item=3369545945&perks=202670084,1885400500,706527188,3708227201  PvE. MW: range, reload
+dimwishlist:item=3369545945&perks=202670084,679225683,706527188,3708227201  PvE. MW: range, reload
+dimwishlist:item=3369545945&perks=202670084,1087426260,706527188,3708227201  PvE. MW: range, reload
+dimwishlist:item=3369545945&perks=202670084,3230963543,706527188,3708227201  PvE. MW: range, reload
+dimwishlist:item=3369545945&perks=3250034553,1561002382,706527188,3708227201  PvE. MW: range, reload
+dimwishlist:item=3369545945&perks=3250034553,1885400500,706527188,3708227201  PvE. MW: range, reload
+dimwishlist:item=3369545945&perks=3250034553,679225683,706527188,3708227201  PvE. MW: range, reload
+dimwishlist:item=3369545945&perks=3250034553,1087426260,706527188,3708227201  PvE. MW: range, reload
+dimwishlist:item=3369545945&perks=3250034553,3230963543,706527188,3708227201  PvE. MW: range, reload
+dimwishlist:item=3369545945&perks=1467527085,1561002382,706527188,3708227201  PvE. MW: range, reload
+dimwishlist:item=3369545945&perks=1467527085,1885400500,706527188,3708227201  PvE. MW: range, reload
+dimwishlist:item=3369545945&perks=1467527085,679225683,706527188,3708227201  PvE. MW: range, reload
+dimwishlist:item=3369545945&perks=1467527085,1087426260,706527188,3708227201  PvE. MW: range, reload
+dimwishlist:item=3369545945&perks=1467527085,3230963543,706527188,3708227201  PvE. MW: range, reload
+dimwishlist:item=3369545945&perks=4090651448,1561002382,706527188,3708227201  PvE. MW: range, reload
+dimwishlist:item=3369545945&perks=4090651448,1885400500,706527188,3708227201  PvE. MW: range, reload
+dimwishlist:item=3369545945&perks=4090651448,679225683,706527188,3708227201  PvE. MW: range, reload
+dimwishlist:item=3369545945&perks=4090651448,1087426260,706527188,3708227201  PvE. MW: range, reload
+dimwishlist:item=3369545945&perks=4090651448,3230963543,706527188,3708227201  PvE. MW: range, reload
 
 
 // Bad Omens
 // Tracking Module, Cluster Bomb
-dimwishlist:item=991314988&perks=1478423395,3796465595,3977735242,1275731761  PvE.  God Roll.  Received from resetting one's Gambit rank twice. Great roll. MW: velocity,blast_radius,reload
+dimwishlist:item=991314988&perks=1478423395,3796465595,3977735242,1275731761  PvE.  God Roll.  Received from resetting one's Gambit rank twice. Great roll. MW: velocity, blast_radius, reload
 // Bad Omens
 //notes: Max Boss DPS.  Implosion Rounds concentrates the blast (and cluster bombs) to do the most damage on bosses
 // Field Prep, Cluster Bomb
-dimwishlist:item=991314988&perks=981914802,3492396210,2869569095,1275731761  PvE.  Field Prep for the extra ammo reserves and faster reload when crouching.  Fallout Plays recommended {https://www.youtube.com/watch?v=KGECTCBY_Zg) MW: velocity,handling,reload
+dimwishlist:item=991314988&perks=981914802,3492396210,2869569095,1275731761  PvE.  Field Prep for the extra ammo reserves and faster reload when crouching.  Fallout Plays recommended {https://www.youtube.com/watch?v=KGECTCBY_Zg) MW: velocity, handling, reload
 // Bad Omens
 // Tracking Module, Cluster Bomb
-dimwishlist:item=991314988&perks=1478423395,3796465595,3977735242,1275731761  PvE.  Received from resetting one's Gambit rank twice. Great roll. MW: blast_radius,velocity,reload
+dimwishlist:item=991314988&perks=1478423395,3796465595,3977735242,1275731761  PvE.  Received from resetting one's Gambit rank twice. Great roll. MW: blast_radius, velocity, reload
 // Bad Omens
 // Tracking Module, Cluster Bomb
-dimwishlist:item=991314988&perks=1478423395,2985827016,3977735242,1275731761  PvE (4.9) or PvP (2.9). MW: blast_radius,velocity,reload
-dimwishlist:item=991314988&perks=1478423395,1996142143,3977735242,1275731761  PvE (4.9) or PvP (2.9). MW: blast_radius,velocity,reload
-dimwishlist:item=991314988&perks=1478423395,2822142346,3977735242,1275731761  PvE (4.9) or PvP (2.9). MW: blast_radius,velocity,reload
-dimwishlist:item=991314988&perks=1441682018,2985827016,3977735242,1275731761  PvE (4.9) or PvP (2.9). MW: blast_radius,velocity,reload
-dimwishlist:item=991314988&perks=1441682018,1996142143,3977735242,1275731761  PvE (4.9) or PvP (2.9). MW: blast_radius,velocity,reload
-dimwishlist:item=991314988&perks=1441682018,2822142346,3977735242,1275731761  PvE (4.9) or PvP (2.9). MW: blast_radius,velocity,reload
-dimwishlist:item=991314988&perks=981914802,2985827016,3977735242,1275731761  PvE (4.9) or PvP (2.9). MW: blast_radius,velocity,reload
-dimwishlist:item=991314988&perks=981914802,1996142143,3977735242,1275731761  PvE (4.9) or PvP (2.9). MW: blast_radius,velocity,reload
-dimwishlist:item=991314988&perks=981914802,2822142346,3977735242,1275731761  PvE (4.9) or PvP (2.9). MW: blast_radius,velocity,reload
+dimwishlist:item=991314988&perks=1478423395,2985827016,3977735242,1275731761  PvE (4.9) or PvP (2.9). MW: blast_radius, velocity, reload
+dimwishlist:item=991314988&perks=1478423395,1996142143,3977735242,1275731761  PvE (4.9) or PvP (2.9). MW: blast_radius, velocity, reload
+dimwishlist:item=991314988&perks=1478423395,2822142346,3977735242,1275731761  PvE (4.9) or PvP (2.9). MW: blast_radius, velocity, reload
+dimwishlist:item=991314988&perks=1478423395,3492396210,3977735242,1275731761  PvE (4.9) or PvP (2.9). MW: blast_radius, velocity, reload
+dimwishlist:item=991314988&perks=1441682018,2985827016,3977735242,1275731761  PvE (4.9) or PvP (2.9). MW: blast_radius, velocity, reload
+dimwishlist:item=991314988&perks=1441682018,1996142143,3977735242,1275731761  PvE (4.9) or PvP (2.9). MW: blast_radius, velocity, reload
+dimwishlist:item=991314988&perks=1441682018,2822142346,3977735242,1275731761  PvE (4.9) or PvP (2.9). MW: blast_radius, velocity, reload
+dimwishlist:item=991314988&perks=1441682018,3492396210,3977735242,1275731761  PvE (4.9) or PvP (2.9). MW: blast_radius, velocity, reload
+dimwishlist:item=991314988&perks=981914802,2985827016,3977735242,1275731761  PvE (4.9) or PvP (2.9). MW: blast_radius, velocity, reload
+dimwishlist:item=991314988&perks=981914802,1996142143,3977735242,1275731761  PvE (4.9) or PvP (2.9). MW: blast_radius, velocity, reload
+dimwishlist:item=991314988&perks=981914802,2822142346,3977735242,1275731761  PvE (4.9) or PvP (2.9). MW: blast_radius, velocity, reload
+dimwishlist:item=991314988&perks=981914802,3492396210,3977735242,1275731761  PvE (4.9) or PvP (2.9). MW: blast_radius, velocity, reload
+dimwishlist:item=991314988&perks=3798852852,2985827016,3977735242,1275731761  PvE (4.9) or PvP (2.9). MW: blast_radius, velocity, reload
+dimwishlist:item=991314988&perks=3798852852,1996142143,3977735242,1275731761  PvE (4.9) or PvP (2.9). MW: blast_radius, velocity, reload
+dimwishlist:item=991314988&perks=3798852852,2822142346,3977735242,1275731761  PvE (4.9) or PvP (2.9). MW: blast_radius, velocity, reload
+dimwishlist:item=991314988&perks=3798852852,3492396210,3977735242,1275731761  PvE (4.9) or PvP (2.9). MW: blast_radius, velocity, reload
 // Auto Loading Holster, Cluster Bomb
-dimwishlist:item=991314988&perks=1478423395,2985827016,3300816228,1275731761  PvE (4.9) or PvP (2.9). MW: blast_radius,velocity,reload
-dimwishlist:item=991314988&perks=1478423395,1996142143,3300816228,1275731761  PvE (4.9) or PvP (2.9). MW: blast_radius,velocity,reload
-dimwishlist:item=991314988&perks=1478423395,2822142346,3300816228,1275731761  PvE (4.9) or PvP (2.9). MW: blast_radius,velocity,reload
-dimwishlist:item=991314988&perks=1441682018,2985827016,3300816228,1275731761  PvE (4.9) or PvP (2.9). MW: blast_radius,velocity,reload
-dimwishlist:item=991314988&perks=1441682018,1996142143,3300816228,1275731761  PvE (4.9) or PvP (2.9). MW: blast_radius,velocity,reload
-dimwishlist:item=991314988&perks=1441682018,2822142346,3300816228,1275731761  PvE (4.9) or PvP (2.9). MW: blast_radius,velocity,reload
-dimwishlist:item=991314988&perks=981914802,2985827016,3300816228,1275731761  PvE (4.9) or PvP (2.9). MW: blast_radius,velocity,reload
-dimwishlist:item=991314988&perks=981914802,1996142143,3300816228,1275731761  PvE (4.9) or PvP (2.9). MW: blast_radius,velocity,reload
-dimwishlist:item=991314988&perks=981914802,2822142346,3300816228,1275731761  PvE (4.9) or PvP (2.9). MW: blast_radius,velocity,reload
+dimwishlist:item=991314988&perks=1478423395,2985827016,3300816228,1275731761  PvE (4.9) or PvP (2.9). MW: blast_radius, velocity, reload
+dimwishlist:item=991314988&perks=1478423395,1996142143,3300816228,1275731761  PvE (4.9) or PvP (2.9). MW: blast_radius, velocity, reload
+dimwishlist:item=991314988&perks=1478423395,2822142346,3300816228,1275731761  PvE (4.9) or PvP (2.9). MW: blast_radius, velocity, reload
+dimwishlist:item=991314988&perks=1478423395,3492396210,3300816228,1275731761  PvE (4.9) or PvP (2.9). MW: blast_radius, velocity, reload
+dimwishlist:item=991314988&perks=1441682018,2985827016,3300816228,1275731761  PvE (4.9) or PvP (2.9). MW: blast_radius, velocity, reload
+dimwishlist:item=991314988&perks=1441682018,1996142143,3300816228,1275731761  PvE (4.9) or PvP (2.9). MW: blast_radius, velocity, reload
+dimwishlist:item=991314988&perks=1441682018,2822142346,3300816228,1275731761  PvE (4.9) or PvP (2.9). MW: blast_radius, velocity, reload
+dimwishlist:item=991314988&perks=1441682018,3492396210,3300816228,1275731761  PvE (4.9) or PvP (2.9). MW: blast_radius, velocity, reload
+dimwishlist:item=991314988&perks=981914802,2985827016,3300816228,1275731761  PvE (4.9) or PvP (2.9). MW: blast_radius, velocity, reload
+dimwishlist:item=991314988&perks=981914802,1996142143,3300816228,1275731761  PvE (4.9) or PvP (2.9). MW: blast_radius, velocity, reload
+dimwishlist:item=991314988&perks=981914802,2822142346,3300816228,1275731761  PvE (4.9) or PvP (2.9). MW: blast_radius, velocity, reload
+dimwishlist:item=991314988&perks=981914802,3492396210,3300816228,1275731761  PvE (4.9) or PvP (2.9). MW: blast_radius, velocity, reload
+dimwishlist:item=991314988&perks=3798852852,2985827016,3300816228,1275731761  PvE (4.9) or PvP (2.9). MW: blast_radius, velocity, reload
+dimwishlist:item=991314988&perks=3798852852,1996142143,3300816228,1275731761  PvE (4.9) or PvP (2.9). MW: blast_radius, velocity, reload
+dimwishlist:item=991314988&perks=3798852852,2822142346,3300816228,1275731761  PvE (4.9) or PvP (2.9). MW: blast_radius, velocity, reload
+dimwishlist:item=991314988&perks=3798852852,3492396210,3300816228,1275731761  PvE (4.9) or PvP (2.9). MW: blast_radius, velocity, reload
 // Tracking Module, Quickdraw
-dimwishlist:item=991314988&perks=1478423395,2985827016,3977735242,706527188  PvP (2.9). MW: blast_radius,velocity,reload
-dimwishlist:item=991314988&perks=1478423395,1996142143,3977735242,706527188  PvP (2.9). MW: blast_radius,velocity,reload
-dimwishlist:item=991314988&perks=1478423395,2822142346,3977735242,706527188  PvP (2.9). MW: blast_radius,velocity,reload
-dimwishlist:item=991314988&perks=1441682018,2985827016,3977735242,706527188  PvP (2.9). MW: blast_radius,velocity,reload
-dimwishlist:item=991314988&perks=1441682018,1996142143,3977735242,706527188  PvP (2.9). MW: blast_radius,velocity,reload
-dimwishlist:item=991314988&perks=1441682018,2822142346,3977735242,706527188  PvP (2.9). MW: blast_radius,velocity,reload
-dimwishlist:item=991314988&perks=981914802,2985827016,3977735242,706527188  PvP (2.9). MW: blast_radius,velocity,reload
-dimwishlist:item=991314988&perks=981914802,1996142143,3977735242,706527188  PvP (2.9). MW: blast_radius,velocity,reload
-dimwishlist:item=991314988&perks=981914802,2822142346,3977735242,706527188  PvP (2.9). MW: blast_radius,velocity,reload
+dimwishlist:item=991314988&perks=1478423395,2985827016,3977735242,706527188  PvP (2.9). MW: blast_radius, velocity, reload
+dimwishlist:item=991314988&perks=1478423395,1996142143,3977735242,706527188  PvP (2.9). MW: blast_radius, velocity, reload
+dimwishlist:item=991314988&perks=1478423395,2822142346,3977735242,706527188  PvP (2.9). MW: blast_radius, velocity, reload
+dimwishlist:item=991314988&perks=1478423395,3492396210,3977735242,706527188  PvP (2.9). MW: blast_radius, velocity, reload
+dimwishlist:item=991314988&perks=1441682018,2985827016,3977735242,706527188  PvP (2.9). MW: blast_radius, velocity, reload
+dimwishlist:item=991314988&perks=1441682018,1996142143,3977735242,706527188  PvP (2.9). MW: blast_radius, velocity, reload
+dimwishlist:item=991314988&perks=1441682018,2822142346,3977735242,706527188  PvP (2.9). MW: blast_radius, velocity, reload
+dimwishlist:item=991314988&perks=1441682018,3492396210,3977735242,706527188  PvP (2.9). MW: blast_radius, velocity, reload
+dimwishlist:item=991314988&perks=981914802,2985827016,3977735242,706527188  PvP (2.9). MW: blast_radius, velocity, reload
+dimwishlist:item=991314988&perks=981914802,1996142143,3977735242,706527188  PvP (2.9). MW: blast_radius, velocity, reload
+dimwishlist:item=991314988&perks=981914802,2822142346,3977735242,706527188  PvP (2.9). MW: blast_radius, velocity, reload
+dimwishlist:item=991314988&perks=981914802,3492396210,3977735242,706527188  PvP (2.9). MW: blast_radius, velocity, reload
+dimwishlist:item=991314988&perks=3798852852,2985827016,3977735242,706527188  PvP (2.9). MW: blast_radius, velocity, reload
+dimwishlist:item=991314988&perks=3798852852,1996142143,3977735242,706527188  PvP (2.9). MW: blast_radius, velocity, reload
+dimwishlist:item=991314988&perks=3798852852,2822142346,3977735242,706527188  PvP (2.9). MW: blast_radius, velocity, reload
+dimwishlist:item=991314988&perks=3798852852,3492396210,3977735242,706527188  PvP (2.9). MW: blast_radius, velocity, reload
 // Auto Loading Holster, Quickdraw
-dimwishlist:item=991314988&perks=1478423395,2985827016,3300816228,706527188  PvP (2.9). MW: blast_radius,velocity,reload
-dimwishlist:item=991314988&perks=1478423395,1996142143,3300816228,706527188  PvP (2.9). MW: blast_radius,velocity,reload
-dimwishlist:item=991314988&perks=1478423395,2822142346,3300816228,706527188  PvP (2.9). MW: blast_radius,velocity,reload
-dimwishlist:item=991314988&perks=1441682018,2985827016,3300816228,706527188  PvP (2.9). MW: blast_radius,velocity,reload
-dimwishlist:item=991314988&perks=1441682018,1996142143,3300816228,706527188  PvP (2.9). MW: blast_radius,velocity,reload
-dimwishlist:item=991314988&perks=1441682018,2822142346,3300816228,706527188  PvP (2.9). MW: blast_radius,velocity,reload
-dimwishlist:item=991314988&perks=981914802,2985827016,3300816228,706527188  PvP (2.9). MW: blast_radius,velocity,reload
-dimwishlist:item=991314988&perks=981914802,1996142143,3300816228,706527188  PvP (2.9). MW: blast_radius,velocity,reload
-dimwishlist:item=991314988&perks=981914802,2822142346,3300816228,706527188  PvP (2.9). MW: blast_radius,velocity,reload
+dimwishlist:item=991314988&perks=1478423395,2985827016,3300816228,706527188  PvP (2.9). MW: blast_radius, velocity, reload
+dimwishlist:item=991314988&perks=1478423395,1996142143,3300816228,706527188  PvP (2.9). MW: blast_radius, velocity, reload
+dimwishlist:item=991314988&perks=1478423395,2822142346,3300816228,706527188  PvP (2.9). MW: blast_radius, velocity, reload
+dimwishlist:item=991314988&perks=1478423395,3492396210,3300816228,706527188  PvP (2.9). MW: blast_radius, velocity, reload
+dimwishlist:item=991314988&perks=1441682018,2985827016,3300816228,706527188  PvP (2.9). MW: blast_radius, velocity, reload
+dimwishlist:item=991314988&perks=1441682018,1996142143,3300816228,706527188  PvP (2.9). MW: blast_radius, velocity, reload
+dimwishlist:item=991314988&perks=1441682018,2822142346,3300816228,706527188  PvP (2.9). MW: blast_radius, velocity, reload
+dimwishlist:item=991314988&perks=1441682018,3492396210,3300816228,706527188  PvP (2.9). MW: blast_radius, velocity, reload
+dimwishlist:item=991314988&perks=981914802,2985827016,3300816228,706527188  PvP (2.9). MW: blast_radius, velocity, reload
+dimwishlist:item=991314988&perks=981914802,1996142143,3300816228,706527188  PvP (2.9). MW: blast_radius, velocity, reload
+dimwishlist:item=991314988&perks=981914802,2822142346,3300816228,706527188  PvP (2.9). MW: blast_radius, velocity, reload
+dimwishlist:item=991314988&perks=981914802,3492396210,3300816228,706527188  PvP (2.9). MW: blast_radius, velocity, reload
+dimwishlist:item=991314988&perks=3798852852,2985827016,3300816228,706527188  PvP (2.9). MW: blast_radius, velocity, reload
+dimwishlist:item=991314988&perks=3798852852,1996142143,3300816228,706527188  PvP (2.9). MW: blast_radius, velocity, reload
+dimwishlist:item=991314988&perks=3798852852,2822142346,3300816228,706527188  PvP (2.9). MW: blast_radius, velocity, reload
+dimwishlist:item=991314988&perks=3798852852,3492396210,3300816228,706527188  PvP (2.9). MW: blast_radius, velocity, reload
 // Snapshot Sights, Quickdraw
-dimwishlist:item=991314988&perks=1478423395,2985827016,957782887,706527188  PvP (2.9). MW: blast_radius,velocity,reload
-dimwishlist:item=991314988&perks=1478423395,1996142143,957782887,706527188  PvP (2.9). MW: blast_radius,velocity,reload
-dimwishlist:item=991314988&perks=1478423395,2822142346,957782887,706527188  PvP (2.9). MW: blast_radius,velocity,reload
-dimwishlist:item=991314988&perks=1441682018,2985827016,957782887,706527188  PvP (2.9). MW: blast_radius,velocity,reload
-dimwishlist:item=991314988&perks=1441682018,1996142143,957782887,706527188  PvP (2.9). MW: blast_radius,velocity,reload
-dimwishlist:item=991314988&perks=1441682018,2822142346,957782887,706527188  PvP (2.9). MW: blast_radius,velocity,reload
-dimwishlist:item=991314988&perks=981914802,2985827016,957782887,706527188  PvP (2.9). MW: blast_radius,velocity,reload
-dimwishlist:item=991314988&perks=981914802,1996142143,957782887,706527188  PvP (2.9). MW: blast_radius,velocity,reload
-dimwishlist:item=991314988&perks=981914802,2822142346,957782887,706527188  PvP (2.9). MW: blast_radius,velocity,reload
+dimwishlist:item=991314988&perks=1478423395,2985827016,957782887,706527188  PvP (2.9). MW: blast_radius, velocity, reload
+dimwishlist:item=991314988&perks=1478423395,1996142143,957782887,706527188  PvP (2.9). MW: blast_radius, velocity, reload
+dimwishlist:item=991314988&perks=1478423395,2822142346,957782887,706527188  PvP (2.9). MW: blast_radius, velocity, reload
+dimwishlist:item=991314988&perks=1478423395,3492396210,957782887,706527188  PvP (2.9). MW: blast_radius, velocity, reload
+dimwishlist:item=991314988&perks=1441682018,2985827016,957782887,706527188  PvP (2.9). MW: blast_radius, velocity, reload
+dimwishlist:item=991314988&perks=1441682018,1996142143,957782887,706527188  PvP (2.9). MW: blast_radius, velocity, reload
+dimwishlist:item=991314988&perks=1441682018,2822142346,957782887,706527188  PvP (2.9). MW: blast_radius, velocity, reload
+dimwishlist:item=991314988&perks=1441682018,3492396210,957782887,706527188  PvP (2.9). MW: blast_radius, velocity, reload
+dimwishlist:item=991314988&perks=981914802,2985827016,957782887,706527188  PvP (2.9). MW: blast_radius, velocity, reload
+dimwishlist:item=991314988&perks=981914802,1996142143,957782887,706527188  PvP (2.9). MW: blast_radius, velocity, reload
+dimwishlist:item=991314988&perks=981914802,2822142346,957782887,706527188  PvP (2.9). MW: blast_radius, velocity, reload
+dimwishlist:item=991314988&perks=981914802,3492396210,957782887,706527188  PvP (2.9). MW: blast_radius, velocity, reload
+dimwishlist:item=991314988&perks=3798852852,2985827016,957782887,706527188  PvP (2.9). MW: blast_radius, velocity, reload
+dimwishlist:item=991314988&perks=3798852852,1996142143,957782887,706527188  PvP (2.9). MW: blast_radius, velocity, reload
+dimwishlist:item=991314988&perks=3798852852,2822142346,957782887,706527188  PvP (2.9). MW: blast_radius, velocity, reload
+dimwishlist:item=991314988&perks=3798852852,3492396210,957782887,706527188  PvP (2.9). MW: blast_radius, velocity, reload
 // Tracking Module, Kill Clip
-dimwishlist:item=991314988&perks=1478423395,2985827016,3977735242,1015611457  PvE (4.9). MW: blast_radius,velocity,reload
-dimwishlist:item=991314988&perks=1478423395,1996142143,3977735242,1015611457  PvE (4.9). MW: blast_radius,velocity,reload
-dimwishlist:item=991314988&perks=1478423395,2822142346,3977735242,1015611457  PvE (4.9). MW: blast_radius,velocity,reload
-dimwishlist:item=991314988&perks=1441682018,2985827016,3977735242,1015611457  PvE (4.9). MW: blast_radius,velocity,reload
-dimwishlist:item=991314988&perks=1441682018,1996142143,3977735242,1015611457  PvE (4.9). MW: blast_radius,velocity,reload
-dimwishlist:item=991314988&perks=1441682018,2822142346,3977735242,1015611457  PvE (4.9). MW: blast_radius,velocity,reload
-dimwishlist:item=991314988&perks=981914802,2985827016,3977735242,1015611457  PvE (4.9). MW: blast_radius,velocity,reload
-dimwishlist:item=991314988&perks=981914802,1996142143,3977735242,1015611457  PvE (4.9). MW: blast_radius,velocity,reload
-dimwishlist:item=991314988&perks=981914802,2822142346,3977735242,1015611457  PvE (4.9). MW: blast_radius,velocity,reload
+dimwishlist:item=991314988&perks=1478423395,2985827016,3977735242,1015611457  PvE (4.9). MW: blast_radius, velocity, reload
+dimwishlist:item=991314988&perks=1478423395,1996142143,3977735242,1015611457  PvE (4.9). MW: blast_radius, velocity, reload
+dimwishlist:item=991314988&perks=1478423395,2822142346,3977735242,1015611457  PvE (4.9). MW: blast_radius, velocity, reload
+dimwishlist:item=991314988&perks=1478423395,3492396210,3977735242,1015611457  PvE (4.9). MW: blast_radius, velocity, reload
+dimwishlist:item=991314988&perks=1441682018,2985827016,3977735242,1015611457  PvE (4.9). MW: blast_radius, velocity, reload
+dimwishlist:item=991314988&perks=1441682018,1996142143,3977735242,1015611457  PvE (4.9). MW: blast_radius, velocity, reload
+dimwishlist:item=991314988&perks=1441682018,2822142346,3977735242,1015611457  PvE (4.9). MW: blast_radius, velocity, reload
+dimwishlist:item=991314988&perks=1441682018,3492396210,3977735242,1015611457  PvE (4.9). MW: blast_radius, velocity, reload
+dimwishlist:item=991314988&perks=981914802,2985827016,3977735242,1015611457  PvE (4.9). MW: blast_radius, velocity, reload
+dimwishlist:item=991314988&perks=981914802,1996142143,3977735242,1015611457  PvE (4.9). MW: blast_radius, velocity, reload
+dimwishlist:item=991314988&perks=981914802,2822142346,3977735242,1015611457  PvE (4.9). MW: blast_radius, velocity, reload
+dimwishlist:item=991314988&perks=981914802,3492396210,3977735242,1015611457  PvE (4.9). MW: blast_radius, velocity, reload
+dimwishlist:item=991314988&perks=3798852852,2985827016,3977735242,1015611457  PvE (4.9). MW: blast_radius, velocity, reload
+dimwishlist:item=991314988&perks=3798852852,1996142143,3977735242,1015611457  PvE (4.9). MW: blast_radius, velocity, reload
+dimwishlist:item=991314988&perks=3798852852,2822142346,3977735242,1015611457  PvE (4.9). MW: blast_radius, velocity, reload
+dimwishlist:item=991314988&perks=3798852852,3492396210,3977735242,1015611457  PvE (4.9). MW: blast_radius, velocity, reload
 // Tracking Module, Genesis
-dimwishlist:item=991314988&perks=1478423395,2985827016,3977735242,3096702027  PvE (4.9). MW: blast_radius,velocity,reload
-dimwishlist:item=991314988&perks=1478423395,1996142143,3977735242,3096702027  PvE (4.9). MW: blast_radius,velocity,reload
-dimwishlist:item=991314988&perks=1478423395,2822142346,3977735242,3096702027  PvE (4.9). MW: blast_radius,velocity,reload
-dimwishlist:item=991314988&perks=1441682018,2985827016,3977735242,3096702027  PvE (4.9). MW: blast_radius,velocity,reload
-dimwishlist:item=991314988&perks=1441682018,1996142143,3977735242,3096702027  PvE (4.9). MW: blast_radius,velocity,reload
-dimwishlist:item=991314988&perks=1441682018,2822142346,3977735242,3096702027  PvE (4.9). MW: blast_radius,velocity,reload
-dimwishlist:item=991314988&perks=981914802,2985827016,3977735242,3096702027  PvE (4.9). MW: blast_radius,velocity,reload
-dimwishlist:item=991314988&perks=981914802,1996142143,3977735242,3096702027  PvE (4.9). MW: blast_radius,velocity,reload
-dimwishlist:item=991314988&perks=981914802,2822142346,3977735242,3096702027  PvE (4.9). MW: blast_radius,velocity,reload
+dimwishlist:item=991314988&perks=1478423395,2985827016,3977735242,3096702027  PvE (4.9). MW: blast_radius, velocity, reload
+dimwishlist:item=991314988&perks=1478423395,1996142143,3977735242,3096702027  PvE (4.9). MW: blast_radius, velocity, reload
+dimwishlist:item=991314988&perks=1478423395,2822142346,3977735242,3096702027  PvE (4.9). MW: blast_radius, velocity, reload
+dimwishlist:item=991314988&perks=1478423395,3492396210,3977735242,3096702027  PvE (4.9). MW: blast_radius, velocity, reload
+dimwishlist:item=991314988&perks=1441682018,2985827016,3977735242,3096702027  PvE (4.9). MW: blast_radius, velocity, reload
+dimwishlist:item=991314988&perks=1441682018,1996142143,3977735242,3096702027  PvE (4.9). MW: blast_radius, velocity, reload
+dimwishlist:item=991314988&perks=1441682018,2822142346,3977735242,3096702027  PvE (4.9). MW: blast_radius, velocity, reload
+dimwishlist:item=991314988&perks=1441682018,3492396210,3977735242,3096702027  PvE (4.9). MW: blast_radius, velocity, reload
+dimwishlist:item=991314988&perks=981914802,2985827016,3977735242,3096702027  PvE (4.9). MW: blast_radius, velocity, reload
+dimwishlist:item=991314988&perks=981914802,1996142143,3977735242,3096702027  PvE (4.9). MW: blast_radius, velocity, reload
+dimwishlist:item=991314988&perks=981914802,2822142346,3977735242,3096702027  PvE (4.9). MW: blast_radius, velocity, reload
+dimwishlist:item=991314988&perks=981914802,3492396210,3977735242,3096702027  PvE (4.9). MW: blast_radius, velocity, reload
+dimwishlist:item=991314988&perks=3798852852,2985827016,3977735242,3096702027  PvE (4.9). MW: blast_radius, velocity, reload
+dimwishlist:item=991314988&perks=3798852852,1996142143,3977735242,3096702027  PvE (4.9). MW: blast_radius, velocity, reload
+dimwishlist:item=991314988&perks=3798852852,2822142346,3977735242,3096702027  PvE (4.9). MW: blast_radius, velocity, reload
+dimwishlist:item=991314988&perks=3798852852,3492396210,3977735242,3096702027  PvE (4.9). MW: blast_radius, velocity, reload
 // Auto Loading Holster, Kill Clip
-dimwishlist:item=991314988&perks=1478423395,2985827016,3300816228,1015611457  PvE (4.9). MW: blast_radius,velocity,reload
-dimwishlist:item=991314988&perks=1478423395,1996142143,3300816228,1015611457  PvE (4.9). MW: blast_radius,velocity,reload
-dimwishlist:item=991314988&perks=1478423395,2822142346,3300816228,1015611457  PvE (4.9). MW: blast_radius,velocity,reload
-dimwishlist:item=991314988&perks=1441682018,2985827016,3300816228,1015611457  PvE (4.9). MW: blast_radius,velocity,reload
-dimwishlist:item=991314988&perks=1441682018,1996142143,3300816228,1015611457  PvE (4.9). MW: blast_radius,velocity,reload
-dimwishlist:item=991314988&perks=1441682018,2822142346,3300816228,1015611457  PvE (4.9). MW: blast_radius,velocity,reload
-dimwishlist:item=991314988&perks=981914802,2985827016,3300816228,1015611457  PvE (4.9). MW: blast_radius,velocity,reload
-dimwishlist:item=991314988&perks=981914802,1996142143,3300816228,1015611457  PvE (4.9). MW: blast_radius,velocity,reload
-dimwishlist:item=991314988&perks=981914802,2822142346,3300816228,1015611457  PvE (4.9). MW: blast_radius,velocity,reload
+dimwishlist:item=991314988&perks=1478423395,2985827016,3300816228,1015611457  PvE (4.9). MW: blast_radius, velocity, reload
+dimwishlist:item=991314988&perks=1478423395,1996142143,3300816228,1015611457  PvE (4.9). MW: blast_radius, velocity, reload
+dimwishlist:item=991314988&perks=1478423395,2822142346,3300816228,1015611457  PvE (4.9). MW: blast_radius, velocity, reload
+dimwishlist:item=991314988&perks=1478423395,3492396210,3300816228,1015611457  PvE (4.9). MW: blast_radius, velocity, reload
+dimwishlist:item=991314988&perks=1441682018,2985827016,3300816228,1015611457  PvE (4.9). MW: blast_radius, velocity, reload
+dimwishlist:item=991314988&perks=1441682018,1996142143,3300816228,1015611457  PvE (4.9). MW: blast_radius, velocity, reload
+dimwishlist:item=991314988&perks=1441682018,2822142346,3300816228,1015611457  PvE (4.9). MW: blast_radius, velocity, reload
+dimwishlist:item=991314988&perks=1441682018,3492396210,3300816228,1015611457  PvE (4.9). MW: blast_radius, velocity, reload
+dimwishlist:item=991314988&perks=981914802,2985827016,3300816228,1015611457  PvE (4.9). MW: blast_radius, velocity, reload
+dimwishlist:item=991314988&perks=981914802,1996142143,3300816228,1015611457  PvE (4.9). MW: blast_radius, velocity, reload
+dimwishlist:item=991314988&perks=981914802,2822142346,3300816228,1015611457  PvE (4.9). MW: blast_radius, velocity, reload
+dimwishlist:item=991314988&perks=981914802,3492396210,3300816228,1015611457  PvE (4.9). MW: blast_radius, velocity, reload
+dimwishlist:item=991314988&perks=3798852852,2985827016,3300816228,1015611457  PvE (4.9). MW: blast_radius, velocity, reload
+dimwishlist:item=991314988&perks=3798852852,1996142143,3300816228,1015611457  PvE (4.9). MW: blast_radius, velocity, reload
+dimwishlist:item=991314988&perks=3798852852,2822142346,3300816228,1015611457  PvE (4.9). MW: blast_radius, velocity, reload
+dimwishlist:item=991314988&perks=3798852852,3492396210,3300816228,1015611457  PvE (4.9). MW: blast_radius, velocity, reload
 // Auto Loading Holster, Genesis
-dimwishlist:item=991314988&perks=1478423395,2985827016,3300816228,3096702027  PvE (4.9). MW: blast_radius,velocity,reload
-dimwishlist:item=991314988&perks=1478423395,1996142143,3300816228,3096702027  PvE (4.9). MW: blast_radius,velocity,reload
-dimwishlist:item=991314988&perks=1478423395,2822142346,3300816228,3096702027  PvE (4.9). MW: blast_radius,velocity,reload
-dimwishlist:item=991314988&perks=1441682018,2985827016,3300816228,3096702027  PvE (4.9). MW: blast_radius,velocity,reload
-dimwishlist:item=991314988&perks=1441682018,1996142143,3300816228,3096702027  PvE (4.9). MW: blast_radius,velocity,reload
-dimwishlist:item=991314988&perks=1441682018,2822142346,3300816228,3096702027  PvE (4.9). MW: blast_radius,velocity,reload
-dimwishlist:item=991314988&perks=981914802,2985827016,3300816228,3096702027  PvE (4.9). MW: blast_radius,velocity,reload
-dimwishlist:item=991314988&perks=981914802,1996142143,3300816228,3096702027  PvE (4.9). MW: blast_radius,velocity,reload
-dimwishlist:item=991314988&perks=981914802,2822142346,3300816228,3096702027  PvE (4.9). MW: blast_radius,velocity,reload
+dimwishlist:item=991314988&perks=1478423395,2985827016,3300816228,3096702027  PvE (4.9). MW: blast_radius, velocity, reload
+dimwishlist:item=991314988&perks=1478423395,1996142143,3300816228,3096702027  PvE (4.9). MW: blast_radius, velocity, reload
+dimwishlist:item=991314988&perks=1478423395,2822142346,3300816228,3096702027  PvE (4.9). MW: blast_radius, velocity, reload
+dimwishlist:item=991314988&perks=1478423395,3492396210,3300816228,3096702027  PvE (4.9). MW: blast_radius, velocity, reload
+dimwishlist:item=991314988&perks=1441682018,2985827016,3300816228,3096702027  PvE (4.9). MW: blast_radius, velocity, reload
+dimwishlist:item=991314988&perks=1441682018,1996142143,3300816228,3096702027  PvE (4.9). MW: blast_radius, velocity, reload
+dimwishlist:item=991314988&perks=1441682018,2822142346,3300816228,3096702027  PvE (4.9). MW: blast_radius, velocity, reload
+dimwishlist:item=991314988&perks=1441682018,3492396210,3300816228,3096702027  PvE (4.9). MW: blast_radius, velocity, reload
+dimwishlist:item=991314988&perks=981914802,2985827016,3300816228,3096702027  PvE (4.9). MW: blast_radius, velocity, reload
+dimwishlist:item=991314988&perks=981914802,1996142143,3300816228,3096702027  PvE (4.9). MW: blast_radius, velocity, reload
+dimwishlist:item=991314988&perks=981914802,2822142346,3300816228,3096702027  PvE (4.9). MW: blast_radius, velocity, reload
+dimwishlist:item=991314988&perks=981914802,3492396210,3300816228,3096702027  PvE (4.9). MW: blast_radius, velocity, reload
+dimwishlist:item=991314988&perks=3798852852,2985827016,3300816228,3096702027  PvE (4.9). MW: blast_radius, velocity, reload
+dimwishlist:item=991314988&perks=3798852852,1996142143,3300816228,3096702027  PvE (4.9). MW: blast_radius, velocity, reload
+dimwishlist:item=991314988&perks=3798852852,2822142346,3300816228,3096702027  PvE (4.9). MW: blast_radius, velocity, reload
+dimwishlist:item=991314988&perks=3798852852,3492396210,3300816228,3096702027  PvE (4.9). MW: blast_radius, velocity, reload
 
 
 // Night Watch
@@ -841,39 +904,39 @@ dimwishlist:item=3504336176&perks=4090651448,1087426260,1168162263,3038247973  P
 
 // Death Adder
 // Mulligan, Disruption Break
-dimwishlist:item=2742490609&perks=202670084,3142289711,3513791699,1683379515  PvE.  Nightfall God roll. Shielded enemies destroyer.  Mulligan procs on shield hits AND misses.  Disruption Break works on champion's Barrier shields too.  Mulligan for more ammo when busting a shield, Disruption Break for the added kinetic damage buff afterwards. MW: range,reload
-dimwishlist:item=2742490609&perks=202670084,3230963543,3513791699,1683379515  PvE.  Nightfall God roll. Shielded enemies destroyer.  Mulligan procs on shield hits AND misses.  Disruption Break works on champion's Barrier shields too.  Mulligan for more ammo when busting a shield, Disruption Break for the added kinetic damage buff afterwards. MW: range,reload
-dimwishlist:item=2742490609&perks=202670084,106909392,3513791699,1683379515  PvE.  Nightfall God roll. Shielded enemies destroyer.  Mulligan procs on shield hits AND misses.  Disruption Break works on champion's Barrier shields too.  Mulligan for more ammo when busting a shield, Disruption Break for the added kinetic damage buff afterwards. MW: range,reload
-dimwishlist:item=2742490609&perks=202670084,1087426260,3513791699,1683379515  PvE.  Nightfall God roll. Shielded enemies destroyer.  Mulligan procs on shield hits AND misses.  Disruption Break works on champion's Barrier shields too.  Mulligan for more ammo when busting a shield, Disruption Break for the added kinetic damage buff afterwards. MW: range,reload
-dimwishlist:item=2742490609&perks=3250034553,3142289711,3513791699,1683379515  PvE.  Nightfall God roll. Shielded enemies destroyer.  Mulligan procs on shield hits AND misses.  Disruption Break works on champion's Barrier shields too.  Mulligan for more ammo when busting a shield, Disruption Break for the added kinetic damage buff afterwards. MW: range,reload
-dimwishlist:item=2742490609&perks=3250034553,3230963543,3513791699,1683379515  PvE.  Nightfall God roll. Shielded enemies destroyer.  Mulligan procs on shield hits AND misses.  Disruption Break works on champion's Barrier shields too.  Mulligan for more ammo when busting a shield, Disruption Break for the added kinetic damage buff afterwards. MW: range,reload
-dimwishlist:item=2742490609&perks=3250034553,106909392,3513791699,1683379515  PvE.  Nightfall God roll. Shielded enemies destroyer.  Mulligan procs on shield hits AND misses.  Disruption Break works on champion's Barrier shields too.  Mulligan for more ammo when busting a shield, Disruption Break for the added kinetic damage buff afterwards. MW: range,reload
-dimwishlist:item=2742490609&perks=3250034553,1087426260,3513791699,1683379515  PvE.  Nightfall God roll. Shielded enemies destroyer.  Mulligan procs on shield hits AND misses.  Disruption Break works on champion's Barrier shields too.  Mulligan for more ammo when busting a shield, Disruption Break for the added kinetic damage buff afterwards. MW: range,reload
-dimwishlist:item=2742490609&perks=1467527085,3142289711,3513791699,1683379515  PvE.  Nightfall God roll. Shielded enemies destroyer.  Mulligan procs on shield hits AND misses.  Disruption Break works on champion's Barrier shields too.  Mulligan for more ammo when busting a shield, Disruption Break for the added kinetic damage buff afterwards. MW: range,reload
-dimwishlist:item=2742490609&perks=1467527085,3230963543,3513791699,1683379515  PvE.  Nightfall God roll. Shielded enemies destroyer.  Mulligan procs on shield hits AND misses.  Disruption Break works on champion's Barrier shields too.  Mulligan for more ammo when busting a shield, Disruption Break for the added kinetic damage buff afterwards. MW: range,reload
-dimwishlist:item=2742490609&perks=1467527085,106909392,3513791699,1683379515  PvE.  Nightfall God roll. Shielded enemies destroyer.  Mulligan procs on shield hits AND misses.  Disruption Break works on champion's Barrier shields too.  Mulligan for more ammo when busting a shield, Disruption Break for the added kinetic damage buff afterwards. MW: range,reload
-dimwishlist:item=2742490609&perks=1467527085,1087426260,3513791699,1683379515  PvE.  Nightfall God roll. Shielded enemies destroyer.  Mulligan procs on shield hits AND misses.  Disruption Break works on champion's Barrier shields too.  Mulligan for more ammo when busting a shield, Disruption Break for the added kinetic damage buff afterwards. MW: range,reload
-dimwishlist:item=2742490609&perks=4090651448,3142289711,3513791699,1683379515  PvE.  Nightfall God roll. Shielded enemies destroyer.  Mulligan procs on shield hits AND misses.  Disruption Break works on champion's Barrier shields too.  Mulligan for more ammo when busting a shield, Disruption Break for the added kinetic damage buff afterwards. MW: range,reload
-dimwishlist:item=2742490609&perks=4090651448,3230963543,3513791699,1683379515  PvE.  Nightfall God roll. Shielded enemies destroyer.  Mulligan procs on shield hits AND misses.  Disruption Break works on champion's Barrier shields too.  Mulligan for more ammo when busting a shield, Disruption Break for the added kinetic damage buff afterwards. MW: range,reload
-dimwishlist:item=2742490609&perks=4090651448,106909392,3513791699,1683379515  PvE.  Nightfall God roll. Shielded enemies destroyer.  Mulligan procs on shield hits AND misses.  Disruption Break works on champion's Barrier shields too.  Mulligan for more ammo when busting a shield, Disruption Break for the added kinetic damage buff afterwards. MW: range,reload
-dimwishlist:item=2742490609&perks=4090651448,1087426260,3513791699,1683379515  PvE.  Nightfall God roll. Shielded enemies destroyer.  Mulligan procs on shield hits AND misses.  Disruption Break works on champion's Barrier shields too.  Mulligan for more ammo when busting a shield, Disruption Break for the added kinetic damage buff afterwards. MW: range,reload
+dimwishlist:item=2742490609&perks=202670084,3142289711,3513791699,1683379515  PvE.  Nightfall God roll. Shielded enemies destroyer.  Mulligan procs on shield hits AND misses.  Disruption Break works on champion's Barrier shields too.  Mulligan for more ammo when busting a shield, Disruption Break for the added kinetic damage buff afterwards. MW: range, reload
+dimwishlist:item=2742490609&perks=202670084,3230963543,3513791699,1683379515  PvE.  Nightfall God roll. Shielded enemies destroyer.  Mulligan procs on shield hits AND misses.  Disruption Break works on champion's Barrier shields too.  Mulligan for more ammo when busting a shield, Disruption Break for the added kinetic damage buff afterwards. MW: range, reload
+dimwishlist:item=2742490609&perks=202670084,106909392,3513791699,1683379515  PvE.  Nightfall God roll. Shielded enemies destroyer.  Mulligan procs on shield hits AND misses.  Disruption Break works on champion's Barrier shields too.  Mulligan for more ammo when busting a shield, Disruption Break for the added kinetic damage buff afterwards. MW: range, reload
+dimwishlist:item=2742490609&perks=202670084,1087426260,3513791699,1683379515  PvE.  Nightfall God roll. Shielded enemies destroyer.  Mulligan procs on shield hits AND misses.  Disruption Break works on champion's Barrier shields too.  Mulligan for more ammo when busting a shield, Disruption Break for the added kinetic damage buff afterwards. MW: range, reload
+dimwishlist:item=2742490609&perks=3250034553,3142289711,3513791699,1683379515  PvE.  Nightfall God roll. Shielded enemies destroyer.  Mulligan procs on shield hits AND misses.  Disruption Break works on champion's Barrier shields too.  Mulligan for more ammo when busting a shield, Disruption Break for the added kinetic damage buff afterwards. MW: range, reload
+dimwishlist:item=2742490609&perks=3250034553,3230963543,3513791699,1683379515  PvE.  Nightfall God roll. Shielded enemies destroyer.  Mulligan procs on shield hits AND misses.  Disruption Break works on champion's Barrier shields too.  Mulligan for more ammo when busting a shield, Disruption Break for the added kinetic damage buff afterwards. MW: range, reload
+dimwishlist:item=2742490609&perks=3250034553,106909392,3513791699,1683379515  PvE.  Nightfall God roll. Shielded enemies destroyer.  Mulligan procs on shield hits AND misses.  Disruption Break works on champion's Barrier shields too.  Mulligan for more ammo when busting a shield, Disruption Break for the added kinetic damage buff afterwards. MW: range, reload
+dimwishlist:item=2742490609&perks=3250034553,1087426260,3513791699,1683379515  PvE.  Nightfall God roll. Shielded enemies destroyer.  Mulligan procs on shield hits AND misses.  Disruption Break works on champion's Barrier shields too.  Mulligan for more ammo when busting a shield, Disruption Break for the added kinetic damage buff afterwards. MW: range, reload
+dimwishlist:item=2742490609&perks=1467527085,3142289711,3513791699,1683379515  PvE.  Nightfall God roll. Shielded enemies destroyer.  Mulligan procs on shield hits AND misses.  Disruption Break works on champion's Barrier shields too.  Mulligan for more ammo when busting a shield, Disruption Break for the added kinetic damage buff afterwards. MW: range, reload
+dimwishlist:item=2742490609&perks=1467527085,3230963543,3513791699,1683379515  PvE.  Nightfall God roll. Shielded enemies destroyer.  Mulligan procs on shield hits AND misses.  Disruption Break works on champion's Barrier shields too.  Mulligan for more ammo when busting a shield, Disruption Break for the added kinetic damage buff afterwards. MW: range, reload
+dimwishlist:item=2742490609&perks=1467527085,106909392,3513791699,1683379515  PvE.  Nightfall God roll. Shielded enemies destroyer.  Mulligan procs on shield hits AND misses.  Disruption Break works on champion's Barrier shields too.  Mulligan for more ammo when busting a shield, Disruption Break for the added kinetic damage buff afterwards. MW: range, reload
+dimwishlist:item=2742490609&perks=1467527085,1087426260,3513791699,1683379515  PvE.  Nightfall God roll. Shielded enemies destroyer.  Mulligan procs on shield hits AND misses.  Disruption Break works on champion's Barrier shields too.  Mulligan for more ammo when busting a shield, Disruption Break for the added kinetic damage buff afterwards. MW: range, reload
+dimwishlist:item=2742490609&perks=4090651448,3142289711,3513791699,1683379515  PvE.  Nightfall God roll. Shielded enemies destroyer.  Mulligan procs on shield hits AND misses.  Disruption Break works on champion's Barrier shields too.  Mulligan for more ammo when busting a shield, Disruption Break for the added kinetic damage buff afterwards. MW: range, reload
+dimwishlist:item=2742490609&perks=4090651448,3230963543,3513791699,1683379515  PvE.  Nightfall God roll. Shielded enemies destroyer.  Mulligan procs on shield hits AND misses.  Disruption Break works on champion's Barrier shields too.  Mulligan for more ammo when busting a shield, Disruption Break for the added kinetic damage buff afterwards. MW: range, reload
+dimwishlist:item=2742490609&perks=4090651448,106909392,3513791699,1683379515  PvE.  Nightfall God roll. Shielded enemies destroyer.  Mulligan procs on shield hits AND misses.  Disruption Break works on champion's Barrier shields too.  Mulligan for more ammo when busting a shield, Disruption Break for the added kinetic damage buff afterwards. MW: range, reload
+dimwishlist:item=2742490609&perks=4090651448,1087426260,3513791699,1683379515  PvE.  Nightfall God roll. Shielded enemies destroyer.  Mulligan procs on shield hits AND misses.  Disruption Break works on champion's Barrier shields too.  Mulligan for more ammo when busting a shield, Disruption Break for the added kinetic damage buff afterwards. MW: range, reload
 // Feeding Frenzy, Dragonfly
-dimwishlist:item=2742490609&perks=202670084,3142289711,2779035018,2848615171  PvE.  Adds-clearing King.  MW: range,reload
-dimwishlist:item=2742490609&perks=202670084,3230963543,2779035018,2848615171  PvE.  Adds-clearing King.  MW: range,reload
-dimwishlist:item=2742490609&perks=202670084,106909392,2779035018,2848615171  PvE.  Adds-clearing King.  MW: range,reload
-dimwishlist:item=2742490609&perks=202670084,1087426260,2779035018,2848615171  PvE.  Adds-clearing King.  MW: range,reload
-dimwishlist:item=2742490609&perks=3250034553,3142289711,2779035018,2848615171  PvE.  Adds-clearing King.  MW: range,reload
-dimwishlist:item=2742490609&perks=3250034553,3230963543,2779035018,2848615171  PvE.  Adds-clearing King.  MW: range,reload
-dimwishlist:item=2742490609&perks=3250034553,106909392,2779035018,2848615171  PvE.  Adds-clearing King.  MW: range,reload
-dimwishlist:item=2742490609&perks=3250034553,1087426260,2779035018,2848615171  PvE.  Adds-clearing King.  MW: range,reload
-dimwishlist:item=2742490609&perks=1467527085,3142289711,2779035018,2848615171  PvE.  Adds-clearing King.  MW: range,reload
-dimwishlist:item=2742490609&perks=1467527085,3230963543,2779035018,2848615171  PvE.  Adds-clearing King.  MW: range,reload
-dimwishlist:item=2742490609&perks=1467527085,106909392,2779035018,2848615171  PvE.  Adds-clearing King.  MW: range,reload
-dimwishlist:item=2742490609&perks=1467527085,1087426260,2779035018,2848615171  PvE.  Adds-clearing King.  MW: range,reload
-dimwishlist:item=2742490609&perks=4090651448,3142289711,2779035018,2848615171  PvE.  Adds-clearing King.  MW: range,reload
-dimwishlist:item=2742490609&perks=4090651448,3230963543,2779035018,2848615171  PvE.  Adds-clearing King.  MW: range,reload
-dimwishlist:item=2742490609&perks=4090651448,106909392,2779035018,2848615171  PvE.  Adds-clearing King.  MW: range,reload
-dimwishlist:item=2742490609&perks=4090651448,1087426260,2779035018,2848615171  PvE.  Adds-clearing King.  MW: range,reload
+dimwishlist:item=2742490609&perks=202670084,3142289711,2779035018,2848615171  PvE.  Adds-clearing King.  MW: range, reload
+dimwishlist:item=2742490609&perks=202670084,3230963543,2779035018,2848615171  PvE.  Adds-clearing King.  MW: range, reload
+dimwishlist:item=2742490609&perks=202670084,106909392,2779035018,2848615171  PvE.  Adds-clearing King.  MW: range, reload
+dimwishlist:item=2742490609&perks=202670084,1087426260,2779035018,2848615171  PvE.  Adds-clearing King.  MW: range, reload
+dimwishlist:item=2742490609&perks=3250034553,3142289711,2779035018,2848615171  PvE.  Adds-clearing King.  MW: range, reload
+dimwishlist:item=2742490609&perks=3250034553,3230963543,2779035018,2848615171  PvE.  Adds-clearing King.  MW: range, reload
+dimwishlist:item=2742490609&perks=3250034553,106909392,2779035018,2848615171  PvE.  Adds-clearing King.  MW: range, reload
+dimwishlist:item=2742490609&perks=3250034553,1087426260,2779035018,2848615171  PvE.  Adds-clearing King.  MW: range, reload
+dimwishlist:item=2742490609&perks=1467527085,3142289711,2779035018,2848615171  PvE.  Adds-clearing King.  MW: range, reload
+dimwishlist:item=2742490609&perks=1467527085,3230963543,2779035018,2848615171  PvE.  Adds-clearing King.  MW: range, reload
+dimwishlist:item=2742490609&perks=1467527085,106909392,2779035018,2848615171  PvE.  Adds-clearing King.  MW: range, reload
+dimwishlist:item=2742490609&perks=1467527085,1087426260,2779035018,2848615171  PvE.  Adds-clearing King.  MW: range, reload
+dimwishlist:item=2742490609&perks=4090651448,3142289711,2779035018,2848615171  PvE.  Adds-clearing King.  MW: range, reload
+dimwishlist:item=2742490609&perks=4090651448,3230963543,2779035018,2848615171  PvE.  Adds-clearing King.  MW: range, reload
+dimwishlist:item=2742490609&perks=4090651448,106909392,2779035018,2848615171  PvE.  Adds-clearing King.  MW: range, reload
+dimwishlist:item=2742490609&perks=4090651448,1087426260,2779035018,2848615171  PvE.  Adds-clearing King.  MW: range, reload
 
 
 // Falling Guillotine
