@@ -158,6 +158,272 @@ dimwishlist:item=3920811074&perks=3151536503,3230963543,280464955  PvP. MW: rang
 dimwishlist:item=3920811074&perks=360593483,3230963543,280464955  PvP. MW: range
 
 
+// Berengers Memory
+//notes: Reducing the blast radius concentrates the blast to do the most damage on bosses
+// Field Prep, Demolitionist
+dimwishlist:item=407621213&perks=981914802,3301904089,2869569095,3523296417  PvE. Max Boss DPS. Field Prep for the extra ammo reserves and faster reload when crouching.  Fallout Plays recommended {https://www.youtube.com/watch?v=KGECTCBY_Zg). MW: velocity, handling, reload
+dimwishlist:item=407621213&perks=981914802,409831596,2869569095,3523296417  PvE. Max Boss DPS. Field Prep for the extra ammo reserves and faster reload when crouching.  Fallout Plays recommended {https://www.youtube.com/watch?v=KGECTCBY_Zg). MW: velocity, handling, reload
+dimwishlist:item=407621213&perks=981914802,2985827016,2869569095,3523296417  PvE. Max Boss DPS. Field Prep for the extra ammo reserves and faster reload when crouching.  Fallout Plays recommended {https://www.youtube.com/watch?v=KGECTCBY_Zg). MW: velocity, handling, reload
+dimwishlist:item=407621213&perks=3525010810,3301904089,2869569095,3523296417  PvE. Max Boss DPS. Field Prep for the extra ammo reserves and faster reload when crouching.  Fallout Plays recommended {https://www.youtube.com/watch?v=KGECTCBY_Zg). MW: velocity, handling, reload
+dimwishlist:item=407621213&perks=3525010810,409831596,2869569095,3523296417  PvE. Max Boss DPS. Field Prep for the extra ammo reserves and faster reload when crouching.  Fallout Plays recommended {https://www.youtube.com/watch?v=KGECTCBY_Zg). MW: velocity, handling, reload
+dimwishlist:item=407621213&perks=3525010810,2985827016,2869569095,3523296417  PvE. Max Boss DPS. Field Prep for the extra ammo reserves and faster reload when crouching.  Fallout Plays recommended {https://www.youtube.com/watch?v=KGECTCBY_Zg). MW: velocity, handling, reload
+dimwishlist:item=407621213&perks=3798852852,3301904089,2869569095,3523296417  PvE. Max Boss DPS. Field Prep for the extra ammo reserves and faster reload when crouching.  Fallout Plays recommended {https://www.youtube.com/watch?v=KGECTCBY_Zg). MW: velocity, handling, reload
+dimwishlist:item=407621213&perks=3798852852,409831596,2869569095,3523296417  PvE. Max Boss DPS. Field Prep for the extra ammo reserves and faster reload when crouching.  Fallout Plays recommended {https://www.youtube.com/watch?v=KGECTCBY_Zg). MW: velocity, handling, reload
+dimwishlist:item=407621213&perks=3798852852,2985827016,2869569095,3523296417  PvE. Max Boss DPS. Field Prep for the extra ammo reserves and faster reload when crouching.  Fallout Plays recommended {https://www.youtube.com/watch?v=KGECTCBY_Zg). MW: velocity, handling, reload
+// Field Prep, Rampage
+dimwishlist:item=407621213&perks=981914802,3301904089,2869569095,3425386926  PvE. Max Boss DPS. Field Prep for the extra ammo reserves and faster reload when crouching.  Fallout Plays recommended {https://www.youtube.com/watch?v=KGECTCBY_Zg). MW: velocity, handling, reload
+dimwishlist:item=407621213&perks=981914802,409831596,2869569095,3425386926  PvE. Max Boss DPS. Field Prep for the extra ammo reserves and faster reload when crouching.  Fallout Plays recommended {https://www.youtube.com/watch?v=KGECTCBY_Zg). MW: velocity, handling, reload
+dimwishlist:item=407621213&perks=981914802,2985827016,2869569095,3425386926  PvE. Max Boss DPS. Field Prep for the extra ammo reserves and faster reload when crouching.  Fallout Plays recommended {https://www.youtube.com/watch?v=KGECTCBY_Zg). MW: velocity, handling, reload
+dimwishlist:item=407621213&perks=3525010810,3301904089,2869569095,3425386926  PvE. Max Boss DPS. Field Prep for the extra ammo reserves and faster reload when crouching.  Fallout Plays recommended {https://www.youtube.com/watch?v=KGECTCBY_Zg). MW: velocity, handling, reload
+dimwishlist:item=407621213&perks=3525010810,409831596,2869569095,3425386926  PvE. Max Boss DPS. Field Prep for the extra ammo reserves and faster reload when crouching.  Fallout Plays recommended {https://www.youtube.com/watch?v=KGECTCBY_Zg). MW: velocity, handling, reload
+dimwishlist:item=407621213&perks=3525010810,2985827016,2869569095,3425386926  PvE. Max Boss DPS. Field Prep for the extra ammo reserves and faster reload when crouching.  Fallout Plays recommended {https://www.youtube.com/watch?v=KGECTCBY_Zg). MW: velocity, handling, reload
+dimwishlist:item=407621213&perks=3798852852,3301904089,2869569095,3425386926  PvE. Max Boss DPS. Field Prep for the extra ammo reserves and faster reload when crouching.  Fallout Plays recommended {https://www.youtube.com/watch?v=KGECTCBY_Zg). MW: velocity, handling, reload
+dimwishlist:item=407621213&perks=3798852852,409831596,2869569095,3425386926  PvE. Max Boss DPS. Field Prep for the extra ammo reserves and faster reload when crouching.  Fallout Plays recommended {https://www.youtube.com/watch?v=KGECTCBY_Zg). MW: velocity, handling, reload
+dimwishlist:item=407621213&perks=3798852852,2985827016,2869569095,3425386926  PvE. Max Boss DPS. Field Prep for the extra ammo reserves and faster reload when crouching.  Fallout Plays recommended {https://www.youtube.com/watch?v=KGECTCBY_Zg). MW: velocity, handling, reload
+// Field Prep, Disruption Break
+dimwishlist:item=407621213&perks=981914802,3301904089,2869569095,1683379515  PvE. Max Boss DPS. Field Prep for the extra ammo reserves and faster reload when crouching.  Fallout Plays recommended {https://www.youtube.com/watch?v=KGECTCBY_Zg). MW: velocity, handling, reload
+dimwishlist:item=407621213&perks=981914802,409831596,2869569095,1683379515  PvE. Max Boss DPS. Field Prep for the extra ammo reserves and faster reload when crouching.  Fallout Plays recommended {https://www.youtube.com/watch?v=KGECTCBY_Zg). MW: velocity, handling, reload
+dimwishlist:item=407621213&perks=981914802,2985827016,2869569095,1683379515  PvE. Max Boss DPS. Field Prep for the extra ammo reserves and faster reload when crouching.  Fallout Plays recommended {https://www.youtube.com/watch?v=KGECTCBY_Zg). MW: velocity, handling, reload
+dimwishlist:item=407621213&perks=3525010810,3301904089,2869569095,1683379515  PvE. Max Boss DPS. Field Prep for the extra ammo reserves and faster reload when crouching.  Fallout Plays recommended {https://www.youtube.com/watch?v=KGECTCBY_Zg). MW: velocity, handling, reload
+dimwishlist:item=407621213&perks=3525010810,409831596,2869569095,1683379515  PvE. Max Boss DPS. Field Prep for the extra ammo reserves and faster reload when crouching.  Fallout Plays recommended {https://www.youtube.com/watch?v=KGECTCBY_Zg). MW: velocity, handling, reload
+dimwishlist:item=407621213&perks=3525010810,2985827016,2869569095,1683379515  PvE. Max Boss DPS. Field Prep for the extra ammo reserves and faster reload when crouching.  Fallout Plays recommended {https://www.youtube.com/watch?v=KGECTCBY_Zg). MW: velocity, handling, reload
+dimwishlist:item=407621213&perks=3798852852,3301904089,2869569095,1683379515  PvE. Max Boss DPS. Field Prep for the extra ammo reserves and faster reload when crouching.  Fallout Plays recommended {https://www.youtube.com/watch?v=KGECTCBY_Zg). MW: velocity, handling, reload
+dimwishlist:item=407621213&perks=3798852852,409831596,2869569095,1683379515  PvE. Max Boss DPS. Field Prep for the extra ammo reserves and faster reload when crouching.  Fallout Plays recommended {https://www.youtube.com/watch?v=KGECTCBY_Zg). MW: velocity, handling, reload
+dimwishlist:item=407621213&perks=3798852852,2985827016,2869569095,1683379515  PvE. Max Boss DPS. Field Prep for the extra ammo reserves and faster reload when crouching.  Fallout Plays recommended {https://www.youtube.com/watch?v=KGECTCBY_Zg). MW: velocity, handling, reload
+// Field Prep, Auto Loading Holster
+dimwishlist:item=407621213&perks=981914802,3301904089,2869569095,3300816228  PvE. Max Boss DPS. Field Prep for the extra ammo reserves and faster reload when crouching.  Fallout Plays recommended {https://www.youtube.com/watch?v=KGECTCBY_Zg). MW: velocity, handling, reload
+dimwishlist:item=407621213&perks=981914802,409831596,2869569095,3300816228  PvE. Max Boss DPS. Field Prep for the extra ammo reserves and faster reload when crouching.  Fallout Plays recommended {https://www.youtube.com/watch?v=KGECTCBY_Zg). MW: velocity, handling, reload
+dimwishlist:item=407621213&perks=981914802,2985827016,2869569095,3300816228  PvE. Max Boss DPS. Field Prep for the extra ammo reserves and faster reload when crouching.  Fallout Plays recommended {https://www.youtube.com/watch?v=KGECTCBY_Zg). MW: velocity, handling, reload
+dimwishlist:item=407621213&perks=3525010810,3301904089,2869569095,3300816228  PvE. Max Boss DPS. Field Prep for the extra ammo reserves and faster reload when crouching.  Fallout Plays recommended {https://www.youtube.com/watch?v=KGECTCBY_Zg). MW: velocity, handling, reload
+dimwishlist:item=407621213&perks=3525010810,409831596,2869569095,3300816228  PvE. Max Boss DPS. Field Prep for the extra ammo reserves and faster reload when crouching.  Fallout Plays recommended {https://www.youtube.com/watch?v=KGECTCBY_Zg). MW: velocity, handling, reload
+dimwishlist:item=407621213&perks=3525010810,2985827016,2869569095,3300816228  PvE. Max Boss DPS. Field Prep for the extra ammo reserves and faster reload when crouching.  Fallout Plays recommended {https://www.youtube.com/watch?v=KGECTCBY_Zg). MW: velocity, handling, reload
+dimwishlist:item=407621213&perks=3798852852,3301904089,2869569095,3300816228  PvE. Max Boss DPS. Field Prep for the extra ammo reserves and faster reload when crouching.  Fallout Plays recommended {https://www.youtube.com/watch?v=KGECTCBY_Zg). MW: velocity, handling, reload
+dimwishlist:item=407621213&perks=3798852852,409831596,2869569095,3300816228  PvE. Max Boss DPS. Field Prep for the extra ammo reserves and faster reload when crouching.  Fallout Plays recommended {https://www.youtube.com/watch?v=KGECTCBY_Zg). MW: velocity, handling, reload
+dimwishlist:item=407621213&perks=3798852852,2985827016,2869569095,3300816228  PvE. Max Boss DPS. Field Prep for the extra ammo reserves and faster reload when crouching.  Fallout Plays recommended {https://www.youtube.com/watch?v=KGECTCBY_Zg). MW: velocity, handling, reload
+// Clown Cartridge, Demolitionist
+dimwishlist:item=407621213&perks=981914802,3301904089,2284787283,3523296417  PvE. Boss DPS. MW: velocity, handling, reload
+dimwishlist:item=407621213&perks=981914802,409831596,2284787283,3523296417  PvE. Boss DPS. MW: velocity, handling, reload
+dimwishlist:item=407621213&perks=981914802,2985827016,2284787283,3523296417  PvE. Boss DPS. MW: velocity, handling, reload
+dimwishlist:item=407621213&perks=3525010810,3301904089,2284787283,3523296417  PvE. Boss DPS. MW: velocity, handling, reload
+dimwishlist:item=407621213&perks=3525010810,409831596,2284787283,3523296417  PvE. Boss DPS. MW: velocity, handling, reload
+dimwishlist:item=407621213&perks=3525010810,2985827016,2284787283,3523296417  PvE. Boss DPS. MW: velocity, handling, reload
+dimwishlist:item=407621213&perks=3798852852,3301904089,2284787283,3523296417  PvE. Boss DPS. MW: velocity, handling, reload
+dimwishlist:item=407621213&perks=3798852852,409831596,2284787283,3523296417  PvE. Boss DPS. MW: velocity, handling, reload
+dimwishlist:item=407621213&perks=3798852852,2985827016,2284787283,3523296417  PvE. Boss DPS. MW: velocity, handling, reload
+// Clown Cartridge, Rampage
+dimwishlist:item=407621213&perks=981914802,3301904089,2284787283,3425386926  PvE. Boss DPS. MW: velocity, handling, reload
+dimwishlist:item=407621213&perks=981914802,409831596,2284787283,3425386926  PvE. Boss DPS. MW: velocity, handling, reload
+dimwishlist:item=407621213&perks=981914802,2985827016,2284787283,3425386926  PvE. Boss DPS. MW: velocity, handling, reload
+dimwishlist:item=407621213&perks=3525010810,3301904089,2284787283,3425386926  PvE. Boss DPS. MW: velocity, handling, reload
+dimwishlist:item=407621213&perks=3525010810,409831596,2284787283,3425386926  PvE. Boss DPS. MW: velocity, handling, reload
+dimwishlist:item=407621213&perks=3525010810,2985827016,2284787283,3425386926  PvE. Boss DPS. MW: velocity, handling, reload
+dimwishlist:item=407621213&perks=3798852852,3301904089,2284787283,3425386926  PvE. Boss DPS. MW: velocity, handling, reload
+dimwishlist:item=407621213&perks=3798852852,409831596,2284787283,3425386926  PvE. Boss DPS. MW: velocity, handling, reload
+dimwishlist:item=407621213&perks=3798852852,2985827016,2284787283,3425386926  PvE. Boss DPS. MW: velocity, handling, reload
+// Clown Cartridge, Disruption Break
+dimwishlist:item=407621213&perks=981914802,3301904089,2284787283,1683379515  PvE. Boss DPS. MW: velocity, handling, reload
+dimwishlist:item=407621213&perks=981914802,409831596,2284787283,1683379515  PvE. Boss DPS. MW: velocity, handling, reload
+dimwishlist:item=407621213&perks=981914802,2985827016,2284787283,1683379515  PvE. Boss DPS. MW: velocity, handling, reload
+dimwishlist:item=407621213&perks=3525010810,3301904089,2284787283,1683379515  PvE. Boss DPS. MW: velocity, handling, reload
+dimwishlist:item=407621213&perks=3525010810,409831596,2284787283,1683379515  PvE. Boss DPS. MW: velocity, handling, reload
+dimwishlist:item=407621213&perks=3525010810,2985827016,2284787283,1683379515  PvE. Boss DPS. MW: velocity, handling, reload
+dimwishlist:item=407621213&perks=3798852852,3301904089,2284787283,1683379515  PvE. Boss DPS. MW: velocity, handling, reload
+dimwishlist:item=407621213&perks=3798852852,409831596,2284787283,1683379515  PvE. Boss DPS. MW: velocity, handling, reload
+dimwishlist:item=407621213&perks=3798852852,2985827016,2284787283,1683379515  PvE. Boss DPS. MW: velocity, handling, reload
+// Clown Cartridge, Auto Loading Holster
+dimwishlist:item=407621213&perks=981914802,3301904089,2284787283,3300816228  PvE. Boss DPS. MW: velocity, handling, reload
+dimwishlist:item=407621213&perks=981914802,409831596,2284787283,3300816228  PvE. Boss DPS. MW: velocity, handling, reload
+dimwishlist:item=407621213&perks=981914802,2985827016,2284787283,3300816228  PvE. Boss DPS. MW: velocity, handling, reload
+dimwishlist:item=407621213&perks=3525010810,3301904089,2284787283,3300816228  PvE. Boss DPS. MW: velocity, handling, reload
+dimwishlist:item=407621213&perks=3525010810,409831596,2284787283,3300816228  PvE. Boss DPS. MW: velocity, handling, reload
+dimwishlist:item=407621213&perks=3525010810,2985827016,2284787283,3300816228  PvE. Boss DPS. MW: velocity, handling, reload
+dimwishlist:item=407621213&perks=3798852852,3301904089,2284787283,3300816228  PvE. Boss DPS. MW: velocity, handling, reload
+dimwishlist:item=407621213&perks=3798852852,409831596,2284787283,3300816228  PvE. Boss DPS. MW: velocity, handling, reload
+dimwishlist:item=407621213&perks=3798852852,2985827016,2284787283,3300816228  PvE. Boss DPS. MW: velocity, handling, reload
+// Threat Detector, Demolitionist
+dimwishlist:item=407621213&perks=981914802,3301904089,4071163871,3523296417  PvE. Boss DPS. MW: velocity, handling, reload
+dimwishlist:item=407621213&perks=981914802,409831596,4071163871,3523296417  PvE. Boss DPS. MW: velocity, handling, reload
+dimwishlist:item=407621213&perks=981914802,2985827016,4071163871,3523296417  PvE. Boss DPS. MW: velocity, handling, reload
+dimwishlist:item=407621213&perks=3525010810,3301904089,4071163871,3523296417  PvE. Boss DPS. MW: velocity, handling, reload
+dimwishlist:item=407621213&perks=3525010810,409831596,4071163871,3523296417  PvE. Boss DPS. MW: velocity, handling, reload
+dimwishlist:item=407621213&perks=3525010810,2985827016,4071163871,3523296417  PvE. Boss DPS. MW: velocity, handling, reload
+dimwishlist:item=407621213&perks=3798852852,3301904089,4071163871,3523296417  PvE. Boss DPS. MW: velocity, handling, reload
+dimwishlist:item=407621213&perks=3798852852,409831596,4071163871,3523296417  PvE. Boss DPS. MW: velocity, handling, reload
+dimwishlist:item=407621213&perks=3798852852,2985827016,4071163871,3523296417  PvE. Boss DPS. MW: velocity, handling, reload
+// Threat Detector, Rampage
+dimwishlist:item=407621213&perks=981914802,3301904089,4071163871,3425386926  PvE. Boss DPS. MW: velocity, handling, reload
+dimwishlist:item=407621213&perks=981914802,409831596,4071163871,3425386926  PvE. Boss DPS. MW: velocity, handling, reload
+dimwishlist:item=407621213&perks=981914802,2985827016,4071163871,3425386926  PvE. Boss DPS. MW: velocity, handling, reload
+dimwishlist:item=407621213&perks=3525010810,3301904089,4071163871,3425386926  PvE. Boss DPS. MW: velocity, handling, reload
+dimwishlist:item=407621213&perks=3525010810,409831596,4071163871,3425386926  PvE. Boss DPS. MW: velocity, handling, reload
+dimwishlist:item=407621213&perks=3525010810,2985827016,4071163871,3425386926  PvE. Boss DPS. MW: velocity, handling, reload
+dimwishlist:item=407621213&perks=3798852852,3301904089,4071163871,3425386926  PvE. Boss DPS. MW: velocity, handling, reload
+dimwishlist:item=407621213&perks=3798852852,409831596,4071163871,3425386926  PvE. Boss DPS. MW: velocity, handling, reload
+dimwishlist:item=407621213&perks=3798852852,2985827016,4071163871,3425386926  PvE. Boss DPS. MW: velocity, handling, reload
+// Threat Detector, Disruption Break
+dimwishlist:item=407621213&perks=981914802,3301904089,4071163871,1683379515  PvE. Boss DPS. MW: velocity, handling, reload
+dimwishlist:item=407621213&perks=981914802,409831596,4071163871,1683379515  PvE. Boss DPS. MW: velocity, handling, reload
+dimwishlist:item=407621213&perks=981914802,2985827016,4071163871,1683379515  PvE. Boss DPS. MW: velocity, handling, reload
+dimwishlist:item=407621213&perks=3525010810,3301904089,4071163871,1683379515  PvE. Boss DPS. MW: velocity, handling, reload
+dimwishlist:item=407621213&perks=3525010810,409831596,4071163871,1683379515  PvE. Boss DPS. MW: velocity, handling, reload
+dimwishlist:item=407621213&perks=3525010810,2985827016,4071163871,1683379515  PvE. Boss DPS. MW: velocity, handling, reload
+dimwishlist:item=407621213&perks=3798852852,3301904089,4071163871,1683379515  PvE. Boss DPS. MW: velocity, handling, reload
+dimwishlist:item=407621213&perks=3798852852,409831596,4071163871,1683379515  PvE. Boss DPS. MW: velocity, handling, reload
+dimwishlist:item=407621213&perks=3798852852,2985827016,4071163871,1683379515  PvE. Boss DPS. MW: velocity, handling, reload
+// Threat Detector, Auto Loading Holster
+dimwishlist:item=407621213&perks=981914802,3301904089,4071163871,3300816228  PvE. Boss DPS. MW: velocity, handling, reload
+dimwishlist:item=407621213&perks=981914802,409831596,4071163871,3300816228  PvE. Boss DPS. MW: velocity, handling, reload
+dimwishlist:item=407621213&perks=981914802,2985827016,4071163871,3300816228  PvE. Boss DPS. MW: velocity, handling, reload
+dimwishlist:item=407621213&perks=3525010810,3301904089,4071163871,3300816228  PvE. Boss DPS. MW: velocity, handling, reload
+dimwishlist:item=407621213&perks=3525010810,409831596,4071163871,3300816228  PvE. Boss DPS. MW: velocity, handling, reload
+dimwishlist:item=407621213&perks=3525010810,2985827016,4071163871,3300816228  PvE. Boss DPS. MW: velocity, handling, reload
+dimwishlist:item=407621213&perks=3798852852,3301904089,4071163871,3300816228  PvE. Boss DPS. MW: velocity, handling, reload
+dimwishlist:item=407621213&perks=3798852852,409831596,4071163871,3300816228  PvE. Boss DPS. MW: velocity, handling, reload
+dimwishlist:item=407621213&perks=3798852852,2985827016,4071163871,3300816228  PvE. Boss DPS. MW: velocity, handling, reload
+// Berengers Memory
+//notes: Go for largest Blast Radius, or High Velocity Rounds to speed up the rockets
+// Field Prep, Demolitionist
+dimwishlist:item=407621213&perks=1478423395,1380253176,2869569095,3523296417  PvE(4.5). Max Blast Radius. MW: blast_radius, velocity, reload
+dimwishlist:item=407621213&perks=1478423395,3373736292,2869569095,3523296417  PvE(4.5). Max Blast Radius. MW: blast_radius, velocity, reload
+dimwishlist:item=407621213&perks=1478423395,2822142346,2869569095,3523296417  PvE(4.5). Max Blast Radius. MW: blast_radius, velocity, reload
+dimwishlist:item=407621213&perks=1844523823,1380253176,2869569095,3523296417  PvE(4.5). Max Blast Radius. MW: blast_radius, velocity, reload
+dimwishlist:item=407621213&perks=1844523823,3373736292,2869569095,3523296417  PvE(4.5). Max Blast Radius. MW: blast_radius, velocity, reload
+dimwishlist:item=407621213&perks=1844523823,2822142346,2869569095,3523296417  PvE(4.5). Max Blast Radius. MW: blast_radius, velocity, reload
+dimwishlist:item=407621213&perks=1441682018,1380253176,2869569095,3523296417  PvE(4.5). Max Blast Radius. MW: blast_radius, velocity, reload
+dimwishlist:item=407621213&perks=1441682018,3373736292,2869569095,3523296417  PvE(4.5). Max Blast Radius. MW: blast_radius, velocity, reload
+dimwishlist:item=407621213&perks=1441682018,2822142346,2869569095,3523296417  PvE(4.5). Max Blast Radius. MW: blast_radius, velocity, reload
+// Field Prep, Rampage
+dimwishlist:item=407621213&perks=1478423395,1380253176,2869569095,3425386926  PvE(4.5). Max Blast Radius. MW: blast_radius, velocity, reload
+dimwishlist:item=407621213&perks=1478423395,3373736292,2869569095,3425386926  PvE(4.5). Max Blast Radius. MW: blast_radius, velocity, reload
+dimwishlist:item=407621213&perks=1478423395,2822142346,2869569095,3425386926  PvE(4.5). Max Blast Radius. MW: blast_radius, velocity, reload
+dimwishlist:item=407621213&perks=1844523823,1380253176,2869569095,3425386926  PvE(4.5). Max Blast Radius. MW: blast_radius, velocity, reload
+dimwishlist:item=407621213&perks=1844523823,3373736292,2869569095,3425386926  PvE(4.5). Max Blast Radius. MW: blast_radius, velocity, reload
+dimwishlist:item=407621213&perks=1844523823,2822142346,2869569095,3425386926  PvE(4.5). Max Blast Radius. MW: blast_radius, velocity, reload
+dimwishlist:item=407621213&perks=1441682018,1380253176,2869569095,3425386926  PvE(4.5). Max Blast Radius. MW: blast_radius, velocity, reload
+dimwishlist:item=407621213&perks=1441682018,3373736292,2869569095,3425386926  PvE(4.5). Max Blast Radius. MW: blast_radius, velocity, reload
+dimwishlist:item=407621213&perks=1441682018,2822142346,2869569095,3425386926  PvE(4.5). Max Blast Radius. MW: blast_radius, velocity, reload
+// Field Prep, Disruption Break
+dimwishlist:item=407621213&perks=1478423395,1380253176,2869569095,1683379515  PvE(4.5). Max Blast Radius. MW: blast_radius, velocity, reload
+dimwishlist:item=407621213&perks=1478423395,3373736292,2869569095,1683379515  PvE(4.5). Max Blast Radius. MW: blast_radius, velocity, reload
+dimwishlist:item=407621213&perks=1478423395,2822142346,2869569095,1683379515  PvE(4.5). Max Blast Radius. MW: blast_radius, velocity, reload
+dimwishlist:item=407621213&perks=1844523823,1380253176,2869569095,1683379515  PvE(4.5). Max Blast Radius. MW: blast_radius, velocity, reload
+dimwishlist:item=407621213&perks=1844523823,3373736292,2869569095,1683379515  PvE(4.5). Max Blast Radius. MW: blast_radius, velocity, reload
+dimwishlist:item=407621213&perks=1844523823,2822142346,2869569095,1683379515  PvE(4.5). Max Blast Radius. MW: blast_radius, velocity, reload
+dimwishlist:item=407621213&perks=1441682018,1380253176,2869569095,1683379515  PvE(4.5). Max Blast Radius. MW: blast_radius, velocity, reload
+dimwishlist:item=407621213&perks=1441682018,3373736292,2869569095,1683379515  PvE(4.5). Max Blast Radius. MW: blast_radius, velocity, reload
+dimwishlist:item=407621213&perks=1441682018,2822142346,2869569095,1683379515  PvE(4.5). Max Blast Radius. MW: blast_radius, velocity, reload
+// Field Prep, Auto Loading Holster
+dimwishlist:item=407621213&perks=1478423395,1380253176,2869569095,3300816228  PvE(4.5). Max Blast Radius. MW: blast_radius, velocity, reload
+dimwishlist:item=407621213&perks=1478423395,3373736292,2869569095,3300816228  PvE(4.5). Max Blast Radius. MW: blast_radius, velocity, reload
+dimwishlist:item=407621213&perks=1478423395,2822142346,2869569095,3300816228  PvE(4.5). Max Blast Radius. MW: blast_radius, velocity, reload
+dimwishlist:item=407621213&perks=1844523823,1380253176,2869569095,3300816228  PvE(4.5). Max Blast Radius. MW: blast_radius, velocity, reload
+dimwishlist:item=407621213&perks=1844523823,3373736292,2869569095,3300816228  PvE(4.5). Max Blast Radius. MW: blast_radius, velocity, reload
+dimwishlist:item=407621213&perks=1844523823,2822142346,2869569095,3300816228  PvE(4.5). Max Blast Radius. MW: blast_radius, velocity, reload
+dimwishlist:item=407621213&perks=1441682018,1380253176,2869569095,3300816228  PvE(4.5). Max Blast Radius. MW: blast_radius, velocity, reload
+dimwishlist:item=407621213&perks=1441682018,3373736292,2869569095,3300816228  PvE(4.5). Max Blast Radius. MW: blast_radius, velocity, reload
+dimwishlist:item=407621213&perks=1441682018,2822142346,2869569095,3300816228  PvE(4.5). Max Blast Radius. MW: blast_radius, velocity, reload
+// Clown Cartridge, Demolitionist
+dimwishlist:item=407621213&perks=1478423395,1380253176,2284787283,3523296417  PvE(4.5). Max Blast Radius. MW: blast_radius, velocity, reload
+dimwishlist:item=407621213&perks=1478423395,3373736292,2284787283,3523296417  PvE(4.5). Max Blast Radius. MW: blast_radius, velocity, reload
+dimwishlist:item=407621213&perks=1478423395,2822142346,2284787283,3523296417  PvE(4.5). Max Blast Radius. MW: blast_radius, velocity, reload
+dimwishlist:item=407621213&perks=1844523823,1380253176,2284787283,3523296417  PvE(4.5). Max Blast Radius. MW: blast_radius, velocity, reload
+dimwishlist:item=407621213&perks=1844523823,3373736292,2284787283,3523296417  PvE(4.5). Max Blast Radius. MW: blast_radius, velocity, reload
+dimwishlist:item=407621213&perks=1844523823,2822142346,2284787283,3523296417  PvE(4.5). Max Blast Radius. MW: blast_radius, velocity, reload
+dimwishlist:item=407621213&perks=1441682018,1380253176,2284787283,3523296417  PvE(4.5). Max Blast Radius. MW: blast_radius, velocity, reload
+dimwishlist:item=407621213&perks=1441682018,3373736292,2284787283,3523296417  PvE(4.5). Max Blast Radius. MW: blast_radius, velocity, reload
+dimwishlist:item=407621213&perks=1441682018,2822142346,2284787283,3523296417  PvE(4.5). Max Blast Radius. MW: blast_radius, velocity, reload
+// Clown Cartridge, Rampage
+dimwishlist:item=407621213&perks=1478423395,1380253176,2284787283,3425386926  PvE(4.5). Max Blast Radius. MW: blast_radius, velocity, reload
+dimwishlist:item=407621213&perks=1478423395,3373736292,2284787283,3425386926  PvE(4.5). Max Blast Radius. MW: blast_radius, velocity, reload
+dimwishlist:item=407621213&perks=1478423395,2822142346,2284787283,3425386926  PvE(4.5). Max Blast Radius. MW: blast_radius, velocity, reload
+dimwishlist:item=407621213&perks=1844523823,1380253176,2284787283,3425386926  PvE(4.5). Max Blast Radius. MW: blast_radius, velocity, reload
+dimwishlist:item=407621213&perks=1844523823,3373736292,2284787283,3425386926  PvE(4.5). Max Blast Radius. MW: blast_radius, velocity, reload
+dimwishlist:item=407621213&perks=1844523823,2822142346,2284787283,3425386926  PvE(4.5). Max Blast Radius. MW: blast_radius, velocity, reload
+dimwishlist:item=407621213&perks=1441682018,1380253176,2284787283,3425386926  PvE(4.5). Max Blast Radius. MW: blast_radius, velocity, reload
+dimwishlist:item=407621213&perks=1441682018,3373736292,2284787283,3425386926  PvE(4.5). Max Blast Radius. MW: blast_radius, velocity, reload
+dimwishlist:item=407621213&perks=1441682018,2822142346,2284787283,3425386926  PvE(4.5). Max Blast Radius. MW: blast_radius, velocity, reload
+// Clown Cartridge, Disruption Break
+dimwishlist:item=407621213&perks=1478423395,1380253176,2284787283,1683379515  PvE(4.5). Max Blast Radius. MW: blast_radius, velocity, reload
+dimwishlist:item=407621213&perks=1478423395,3373736292,2284787283,1683379515  PvE(4.5). Max Blast Radius. MW: blast_radius, velocity, reload
+dimwishlist:item=407621213&perks=1478423395,2822142346,2284787283,1683379515  PvE(4.5). Max Blast Radius. MW: blast_radius, velocity, reload
+dimwishlist:item=407621213&perks=1844523823,1380253176,2284787283,1683379515  PvE(4.5). Max Blast Radius. MW: blast_radius, velocity, reload
+dimwishlist:item=407621213&perks=1844523823,3373736292,2284787283,1683379515  PvE(4.5). Max Blast Radius. MW: blast_radius, velocity, reload
+dimwishlist:item=407621213&perks=1844523823,2822142346,2284787283,1683379515  PvE(4.5). Max Blast Radius. MW: blast_radius, velocity, reload
+dimwishlist:item=407621213&perks=1441682018,1380253176,2284787283,1683379515  PvE(4.5). Max Blast Radius. MW: blast_radius, velocity, reload
+dimwishlist:item=407621213&perks=1441682018,3373736292,2284787283,1683379515  PvE(4.5). Max Blast Radius. MW: blast_radius, velocity, reload
+dimwishlist:item=407621213&perks=1441682018,2822142346,2284787283,1683379515  PvE(4.5). Max Blast Radius. MW: blast_radius, velocity, reload
+// Clown Cartridge, Auto Loading Holster
+dimwishlist:item=407621213&perks=1478423395,1380253176,2284787283,3300816228  PvE(4.5). Max Blast Radius. MW: blast_radius, velocity, reload
+dimwishlist:item=407621213&perks=1478423395,3373736292,2284787283,3300816228  PvE(4.5). Max Blast Radius. MW: blast_radius, velocity, reload
+dimwishlist:item=407621213&perks=1478423395,2822142346,2284787283,3300816228  PvE(4.5). Max Blast Radius. MW: blast_radius, velocity, reload
+dimwishlist:item=407621213&perks=1844523823,1380253176,2284787283,3300816228  PvE(4.5). Max Blast Radius. MW: blast_radius, velocity, reload
+dimwishlist:item=407621213&perks=1844523823,3373736292,2284787283,3300816228  PvE(4.5). Max Blast Radius. MW: blast_radius, velocity, reload
+dimwishlist:item=407621213&perks=1844523823,2822142346,2284787283,3300816228  PvE(4.5). Max Blast Radius. MW: blast_radius, velocity, reload
+dimwishlist:item=407621213&perks=1441682018,1380253176,2284787283,3300816228  PvE(4.5). Max Blast Radius. MW: blast_radius, velocity, reload
+dimwishlist:item=407621213&perks=1441682018,3373736292,2284787283,3300816228  PvE(4.5). Max Blast Radius. MW: blast_radius, velocity, reload
+dimwishlist:item=407621213&perks=1441682018,2822142346,2284787283,3300816228  PvE(4.5). Max Blast Radius. MW: blast_radius, velocity, reload
+// Quickdraw, Rampage
+dimwishlist:item=407621213&perks=1478423395,1380253176,706527188,3425386926  PvP(1.8). Max Blast Radius. MW: blast_radius, velocity, reload
+dimwishlist:item=407621213&perks=1478423395,3373736292,706527188,3425386926  PvP(1.8). Max Blast Radius. MW: blast_radius, velocity, reload
+dimwishlist:item=407621213&perks=1478423395,2822142346,706527188,3425386926  PvP(1.8). Max Blast Radius. MW: blast_radius, velocity, reload
+dimwishlist:item=407621213&perks=1844523823,1380253176,706527188,3425386926  PvP(1.8). Max Blast Radius. MW: blast_radius, velocity, reload
+dimwishlist:item=407621213&perks=1844523823,3373736292,706527188,3425386926  PvP(1.8). Max Blast Radius. MW: blast_radius, velocity, reload
+dimwishlist:item=407621213&perks=1844523823,2822142346,706527188,3425386926  PvP(1.8). Max Blast Radius. MW: blast_radius, velocity, reload
+dimwishlist:item=407621213&perks=1441682018,1380253176,706527188,3425386926  PvP(1.8). Max Blast Radius. MW: blast_radius, velocity, reload
+dimwishlist:item=407621213&perks=1441682018,3373736292,706527188,3425386926  PvP(1.8). Max Blast Radius. MW: blast_radius, velocity, reload
+dimwishlist:item=407621213&perks=1441682018,2822142346,706527188,3425386926  PvP(1.8). Max Blast Radius. MW: blast_radius, velocity, reload
+// Quickdraw, Disruption Break
+dimwishlist:item=407621213&perks=1478423395,1380253176,706527188,1683379515  PvP(1.8). Max Blast Radius. MW: blast_radius, velocity, reload
+dimwishlist:item=407621213&perks=1478423395,3373736292,706527188,1683379515  PvP(1.8). Max Blast Radius. MW: blast_radius, velocity, reload
+dimwishlist:item=407621213&perks=1478423395,2822142346,706527188,1683379515  PvP(1.8). Max Blast Radius. MW: blast_radius, velocity, reload
+dimwishlist:item=407621213&perks=1844523823,1380253176,706527188,1683379515  PvP(1.8). Max Blast Radius. MW: blast_radius, velocity, reload
+dimwishlist:item=407621213&perks=1844523823,3373736292,706527188,1683379515  PvP(1.8). Max Blast Radius. MW: blast_radius, velocity, reload
+dimwishlist:item=407621213&perks=1844523823,2822142346,706527188,1683379515  PvP(1.8). Max Blast Radius. MW: blast_radius, velocity, reload
+dimwishlist:item=407621213&perks=1441682018,1380253176,706527188,1683379515  PvP(1.8). Max Blast Radius. MW: blast_radius, velocity, reload
+dimwishlist:item=407621213&perks=1441682018,3373736292,706527188,1683379515  PvP(1.8). Max Blast Radius. MW: blast_radius, velocity, reload
+dimwishlist:item=407621213&perks=1441682018,2822142346,706527188,1683379515  PvP(1.8). Max Blast Radius. MW: blast_radius, velocity, reload
+// Quickdraw, Elemental Capacitor
+dimwishlist:item=407621213&perks=1478423395,1380253176,706527188,3511092054  PvP(1.8). Max Blast Radius. MW: blast_radius, velocity, reload
+dimwishlist:item=407621213&perks=1478423395,3373736292,706527188,3511092054  PvP(1.8). Max Blast Radius. MW: blast_radius, velocity, reload
+dimwishlist:item=407621213&perks=1478423395,2822142346,706527188,3511092054  PvP(1.8). Max Blast Radius. MW: blast_radius, velocity, reload
+dimwishlist:item=407621213&perks=1844523823,1380253176,706527188,3511092054  PvP(1.8). Max Blast Radius. MW: blast_radius, velocity, reload
+dimwishlist:item=407621213&perks=1844523823,3373736292,706527188,3511092054  PvP(1.8). Max Blast Radius. MW: blast_radius, velocity, reload
+dimwishlist:item=407621213&perks=1844523823,2822142346,706527188,3511092054  PvP(1.8). Max Blast Radius. MW: blast_radius, velocity, reload
+dimwishlist:item=407621213&perks=1441682018,1380253176,706527188,3511092054  PvP(1.8). Max Blast Radius. MW: blast_radius, velocity, reload
+dimwishlist:item=407621213&perks=1441682018,3373736292,706527188,3511092054  PvP(1.8). Max Blast Radius. MW: blast_radius, velocity, reload
+dimwishlist:item=407621213&perks=1441682018,2822142346,706527188,3511092054  PvP(1.8). Max Blast Radius. MW: blast_radius, velocity, reload
+// Threat Detector, Rampage
+dimwishlist:item=407621213&perks=1478423395,1380253176,4071163871,3425386926  PvP(1.8). Max Blast Radius. MW: blast_radius, velocity, reload
+dimwishlist:item=407621213&perks=1478423395,3373736292,4071163871,3425386926  PvP(1.8). Max Blast Radius. MW: blast_radius, velocity, reload
+dimwishlist:item=407621213&perks=1478423395,2822142346,4071163871,3425386926  PvP(1.8). Max Blast Radius. MW: blast_radius, velocity, reload
+dimwishlist:item=407621213&perks=1844523823,1380253176,4071163871,3425386926  PvP(1.8). Max Blast Radius. MW: blast_radius, velocity, reload
+dimwishlist:item=407621213&perks=1844523823,3373736292,4071163871,3425386926  PvP(1.8). Max Blast Radius. MW: blast_radius, velocity, reload
+dimwishlist:item=407621213&perks=1844523823,2822142346,4071163871,3425386926  PvP(1.8). Max Blast Radius. MW: blast_radius, velocity, reload
+dimwishlist:item=407621213&perks=1441682018,1380253176,4071163871,3425386926  PvP(1.8). Max Blast Radius. MW: blast_radius, velocity, reload
+dimwishlist:item=407621213&perks=1441682018,3373736292,4071163871,3425386926  PvP(1.8). Max Blast Radius. MW: blast_radius, velocity, reload
+dimwishlist:item=407621213&perks=1441682018,2822142346,4071163871,3425386926  PvP(1.8). Max Blast Radius. MW: blast_radius, velocity, reload
+// Threat Detector, Disruption Break
+dimwishlist:item=407621213&perks=1478423395,1380253176,4071163871,1683379515  PvP(1.8). Max Blast Radius. MW: blast_radius, velocity, reload
+dimwishlist:item=407621213&perks=1478423395,3373736292,4071163871,1683379515  PvP(1.8). Max Blast Radius. MW: blast_radius, velocity, reload
+dimwishlist:item=407621213&perks=1478423395,2822142346,4071163871,1683379515  PvP(1.8). Max Blast Radius. MW: blast_radius, velocity, reload
+dimwishlist:item=407621213&perks=1844523823,1380253176,4071163871,1683379515  PvP(1.8). Max Blast Radius. MW: blast_radius, velocity, reload
+dimwishlist:item=407621213&perks=1844523823,3373736292,4071163871,1683379515  PvP(1.8). Max Blast Radius. MW: blast_radius, velocity, reload
+dimwishlist:item=407621213&perks=1844523823,2822142346,4071163871,1683379515  PvP(1.8). Max Blast Radius. MW: blast_radius, velocity, reload
+dimwishlist:item=407621213&perks=1441682018,1380253176,4071163871,1683379515  PvP(1.8). Max Blast Radius. MW: blast_radius, velocity, reload
+dimwishlist:item=407621213&perks=1441682018,3373736292,4071163871,1683379515  PvP(1.8). Max Blast Radius. MW: blast_radius, velocity, reload
+dimwishlist:item=407621213&perks=1441682018,2822142346,4071163871,1683379515  PvP(1.8). Max Blast Radius. MW: blast_radius, velocity, reload
+// Threat Detector, Elemental Capacitor
+dimwishlist:item=407621213&perks=1478423395,1380253176,4071163871,3511092054  PvP(1.8). Max Blast Radius. MW: blast_radius, velocity, reload
+dimwishlist:item=407621213&perks=1478423395,3373736292,4071163871,3511092054  PvP(1.8). Max Blast Radius. MW: blast_radius, velocity, reload
+dimwishlist:item=407621213&perks=1478423395,2822142346,4071163871,3511092054  PvP(1.8). Max Blast Radius. MW: blast_radius, velocity, reload
+dimwishlist:item=407621213&perks=1844523823,1380253176,4071163871,3511092054  PvP(1.8). Max Blast Radius. MW: blast_radius, velocity, reload
+dimwishlist:item=407621213&perks=1844523823,3373736292,4071163871,3511092054  PvP(1.8). Max Blast Radius. MW: blast_radius, velocity, reload
+dimwishlist:item=407621213&perks=1844523823,2822142346,4071163871,3511092054  PvP(1.8). Max Blast Radius. MW: blast_radius, velocity, reload
+dimwishlist:item=407621213&perks=1441682018,1380253176,4071163871,3511092054  PvP(1.8). Max Blast Radius. MW: blast_radius, velocity, reload
+dimwishlist:item=407621213&perks=1441682018,3373736292,4071163871,3511092054  PvP(1.8). Max Blast Radius. MW: blast_radius, velocity, reload
+dimwishlist:item=407621213&perks=1441682018,2822142346,4071163871,3511092054  PvP(1.8). Max Blast Radius. MW: blast_radius, velocity, reload
+
+
 // Interference Vi
 // Clown Cartridge, Full Court
 dimwishlist:item=2257180473&perks=1478423395,3301904089,2284787283,2888557110  PvE. Boss DPS. KackisHD recommendation (https://www.youtube.com/watch?v=VmMMx9-CnT8). MW: velocity, blast_radius, reload
@@ -221,6 +487,188 @@ dimwishlist:item=2257180473&perks=3525010810,409831596,3300816228,4071163871  Pv
 dimwishlist:item=2257180473&perks=3525010810,2822142346,3300816228,4071163871  PvP(2.4). MW: velocity, blast_radius, reload
 dimwishlist:item=2257180473&perks=1441682018,409831596,3300816228,4071163871  PvP(2.4). MW: velocity, blast_radius, reload
 dimwishlist:item=2257180473&perks=1441682018,2822142346,3300816228,4071163871  PvP(2.4). MW: velocity, blast_radius, reload
+
+
+// Outrageous Fortune
+//notes: Reducing the blast radius concentrates the blast to do the most damage on bosses
+// Field Prep, Rampage
+dimwishlist:item=4146702548&perks=981914802,409831596,2869569095,3425386926  PvE. Max Boss DPS. Field Prep for the extra ammo reserves and faster reload when crouching.  Fallout Plays recommended {https://www.youtube.com/watch?v=KGECTCBY_Zg). MW: velocity, handling, reload
+dimwishlist:item=4146702548&perks=981914802,332133599,2869569095,3425386926  PvE. Max Boss DPS. Field Prep for the extra ammo reserves and faster reload when crouching.  Fallout Plays recommended {https://www.youtube.com/watch?v=KGECTCBY_Zg). MW: velocity, handling, reload
+dimwishlist:item=4146702548&perks=981914802,1716000303,2869569095,3425386926  PvE. Max Boss DPS. Field Prep for the extra ammo reserves and faster reload when crouching.  Fallout Plays recommended {https://www.youtube.com/watch?v=KGECTCBY_Zg). MW: velocity, handling, reload
+dimwishlist:item=4146702548&perks=981914802,3301904089,2869569095,3425386926  PvE. Max Boss DPS. Field Prep for the extra ammo reserves and faster reload when crouching.  Fallout Plays recommended {https://www.youtube.com/watch?v=KGECTCBY_Zg). MW: velocity, handling, reload
+// Auto Loading Holster, Rampage
+dimwishlist:item=4146702548&perks=981914802,409831596,3300816228,3425386926  PvE. Boss DPS. MW: velocity, handling, reload
+dimwishlist:item=4146702548&perks=981914802,332133599,3300816228,3425386926  PvE. Boss DPS. MW: velocity, handling, reload
+dimwishlist:item=4146702548&perks=981914802,1716000303,3300816228,3425386926  PvE. Boss DPS. MW: velocity, handling, reload
+dimwishlist:item=4146702548&perks=981914802,3301904089,3300816228,3425386926  PvE. Boss DPS. MW: velocity, handling, reload
+// Threat Detector, Rampage
+dimwishlist:item=4146702548&perks=981914802,409831596,4071163871,3425386926  PvE. Boss DPS. MW: velocity, handling, reload
+dimwishlist:item=4146702548&perks=981914802,332133599,4071163871,3425386926  PvE. Boss DPS. MW: velocity, handling, reload
+dimwishlist:item=4146702548&perks=981914802,1716000303,4071163871,3425386926  PvE. Boss DPS. MW: velocity, handling, reload
+dimwishlist:item=4146702548&perks=981914802,3301904089,4071163871,3425386926  PvE. Boss DPS. MW: velocity, handling, reload
+// Rangefinder, Rampage
+dimwishlist:item=4146702548&perks=981914802,409831596,2846385770,3425386926  PvE. Boss DPS. MW: velocity, handling, reload
+dimwishlist:item=4146702548&perks=981914802,332133599,2846385770,3425386926  PvE. Boss DPS. MW: velocity, handling, reload
+dimwishlist:item=4146702548&perks=981914802,1716000303,2846385770,3425386926  PvE. Boss DPS. MW: velocity, handling, reload
+dimwishlist:item=4146702548&perks=981914802,3301904089,2846385770,3425386926  PvE. Boss DPS. MW: velocity, handling, reload
+// Outrageous Fortune
+//notes: Go for largest Blast Radius, or High Velocity Rounds to speed up the rockets
+// Rangefinder, Rampage
+dimwishlist:item=4146702548&perks=1478423395,3999527219,2846385770,3425386926  PvE(5.0). Max Blast Radius. MW: blast_radius, velocity, reload
+dimwishlist:item=4146702548&perks=1478423395,1380253176,2846385770,3425386926  PvE(5.0). Max Blast Radius. MW: blast_radius, velocity, reload
+dimwishlist:item=4146702548&perks=1478423395,1996142143,2846385770,3425386926  PvE(5.0). Max Blast Radius. MW: blast_radius, velocity, reload
+dimwishlist:item=4146702548&perks=1478423395,2822142346,2846385770,3425386926  PvE(5.0). Max Blast Radius. MW: blast_radius, velocity, reload
+dimwishlist:item=4146702548&perks=1844523823,3999527219,2846385770,3425386926  PvE(5.0). Max Blast Radius. MW: blast_radius, velocity, reload
+dimwishlist:item=4146702548&perks=1844523823,1380253176,2846385770,3425386926  PvE(5.0). Max Blast Radius. MW: blast_radius, velocity, reload
+dimwishlist:item=4146702548&perks=1844523823,1996142143,2846385770,3425386926  PvE(5.0). Max Blast Radius. MW: blast_radius, velocity, reload
+dimwishlist:item=4146702548&perks=1844523823,2822142346,2846385770,3425386926  PvE(5.0). Max Blast Radius. MW: blast_radius, velocity, reload
+dimwishlist:item=4146702548&perks=1441682018,3999527219,2846385770,3425386926  PvE(5.0). Max Blast Radius. MW: blast_radius, velocity, reload
+dimwishlist:item=4146702548&perks=1441682018,1380253176,2846385770,3425386926  PvE(5.0). Max Blast Radius. MW: blast_radius, velocity, reload
+dimwishlist:item=4146702548&perks=1441682018,1996142143,2846385770,3425386926  PvE(5.0). Max Blast Radius. MW: blast_radius, velocity, reload
+dimwishlist:item=4146702548&perks=1441682018,2822142346,2846385770,3425386926  PvE(5.0). Max Blast Radius. MW: blast_radius, velocity, reload
+// Rangefinder, Genesis
+dimwishlist:item=4146702548&perks=1478423395,3999527219,2846385770,3096702027  PvE(5.0). Max Blast Radius. MW: blast_radius, velocity, reload
+dimwishlist:item=4146702548&perks=1478423395,1380253176,2846385770,3096702027  PvE(5.0). Max Blast Radius. MW: blast_radius, velocity, reload
+dimwishlist:item=4146702548&perks=1478423395,1996142143,2846385770,3096702027  PvE(5.0). Max Blast Radius. MW: blast_radius, velocity, reload
+dimwishlist:item=4146702548&perks=1478423395,2822142346,2846385770,3096702027  PvE(5.0). Max Blast Radius. MW: blast_radius, velocity, reload
+dimwishlist:item=4146702548&perks=1844523823,3999527219,2846385770,3096702027  PvE(5.0). Max Blast Radius. MW: blast_radius, velocity, reload
+dimwishlist:item=4146702548&perks=1844523823,1380253176,2846385770,3096702027  PvE(5.0). Max Blast Radius. MW: blast_radius, velocity, reload
+dimwishlist:item=4146702548&perks=1844523823,1996142143,2846385770,3096702027  PvE(5.0). Max Blast Radius. MW: blast_radius, velocity, reload
+dimwishlist:item=4146702548&perks=1844523823,2822142346,2846385770,3096702027  PvE(5.0). Max Blast Radius. MW: blast_radius, velocity, reload
+dimwishlist:item=4146702548&perks=1441682018,3999527219,2846385770,3096702027  PvE(5.0). Max Blast Radius. MW: blast_radius, velocity, reload
+dimwishlist:item=4146702548&perks=1441682018,1380253176,2846385770,3096702027  PvE(5.0). Max Blast Radius. MW: blast_radius, velocity, reload
+dimwishlist:item=4146702548&perks=1441682018,1996142143,2846385770,3096702027  PvE(5.0). Max Blast Radius. MW: blast_radius, velocity, reload
+dimwishlist:item=4146702548&perks=1441682018,2822142346,2846385770,3096702027  PvE(5.0). Max Blast Radius. MW: blast_radius, velocity, reload
+// Threat Detector, Rampage
+dimwishlist:item=4146702548&perks=1478423395,3999527219,4071163871,3425386926  PvE(5.0). Max Blast Radius. MW: blast_radius, velocity, reload
+dimwishlist:item=4146702548&perks=1478423395,1380253176,4071163871,3425386926  PvE(5.0). Max Blast Radius. MW: blast_radius, velocity, reload
+dimwishlist:item=4146702548&perks=1478423395,1996142143,4071163871,3425386926  PvE(5.0). Max Blast Radius. MW: blast_radius, velocity, reload
+dimwishlist:item=4146702548&perks=1478423395,2822142346,4071163871,3425386926  PvE(5.0). Max Blast Radius. MW: blast_radius, velocity, reload
+dimwishlist:item=4146702548&perks=1844523823,3999527219,4071163871,3425386926  PvE(5.0). Max Blast Radius. MW: blast_radius, velocity, reload
+dimwishlist:item=4146702548&perks=1844523823,1380253176,4071163871,3425386926  PvE(5.0). Max Blast Radius. MW: blast_radius, velocity, reload
+dimwishlist:item=4146702548&perks=1844523823,1996142143,4071163871,3425386926  PvE(5.0). Max Blast Radius. MW: blast_radius, velocity, reload
+dimwishlist:item=4146702548&perks=1844523823,2822142346,4071163871,3425386926  PvE(5.0). Max Blast Radius. MW: blast_radius, velocity, reload
+dimwishlist:item=4146702548&perks=1441682018,3999527219,4071163871,3425386926  PvE(5.0). Max Blast Radius. MW: blast_radius, velocity, reload
+dimwishlist:item=4146702548&perks=1441682018,1380253176,4071163871,3425386926  PvE(5.0). Max Blast Radius. MW: blast_radius, velocity, reload
+dimwishlist:item=4146702548&perks=1441682018,1996142143,4071163871,3425386926  PvE(5.0). Max Blast Radius. MW: blast_radius, velocity, reload
+dimwishlist:item=4146702548&perks=1441682018,2822142346,4071163871,3425386926  PvE(5.0). Max Blast Radius. MW: blast_radius, velocity, reload
+// Threat Detector, Genesis
+dimwishlist:item=4146702548&perks=1478423395,3999527219,4071163871,3096702027  PvE(5.0). Max Blast Radius. MW: blast_radius, velocity, reload
+dimwishlist:item=4146702548&perks=1478423395,1380253176,4071163871,3096702027  PvE(5.0). Max Blast Radius. MW: blast_radius, velocity, reload
+dimwishlist:item=4146702548&perks=1478423395,1996142143,4071163871,3096702027  PvE(5.0). Max Blast Radius. MW: blast_radius, velocity, reload
+dimwishlist:item=4146702548&perks=1478423395,2822142346,4071163871,3096702027  PvE(5.0). Max Blast Radius. MW: blast_radius, velocity, reload
+dimwishlist:item=4146702548&perks=1844523823,3999527219,4071163871,3096702027  PvE(5.0). Max Blast Radius. MW: blast_radius, velocity, reload
+dimwishlist:item=4146702548&perks=1844523823,1380253176,4071163871,3096702027  PvE(5.0). Max Blast Radius. MW: blast_radius, velocity, reload
+dimwishlist:item=4146702548&perks=1844523823,1996142143,4071163871,3096702027  PvE(5.0). Max Blast Radius. MW: blast_radius, velocity, reload
+dimwishlist:item=4146702548&perks=1844523823,2822142346,4071163871,3096702027  PvE(5.0). Max Blast Radius. MW: blast_radius, velocity, reload
+dimwishlist:item=4146702548&perks=1441682018,3999527219,4071163871,3096702027  PvE(5.0). Max Blast Radius. MW: blast_radius, velocity, reload
+dimwishlist:item=4146702548&perks=1441682018,1380253176,4071163871,3096702027  PvE(5.0). Max Blast Radius. MW: blast_radius, velocity, reload
+dimwishlist:item=4146702548&perks=1441682018,1996142143,4071163871,3096702027  PvE(5.0). Max Blast Radius. MW: blast_radius, velocity, reload
+dimwishlist:item=4146702548&perks=1441682018,2822142346,4071163871,3096702027  PvE(5.0). Max Blast Radius. MW: blast_radius, velocity, reload
+// Field Prep, Rampage
+dimwishlist:item=4146702548&perks=1478423395,3999527219,2869569095,3425386926  PvE(5.0). Max Blast Radius. MW: blast_radius, velocity, reload
+dimwishlist:item=4146702548&perks=1478423395,1380253176,2869569095,3425386926  PvE(5.0). Max Blast Radius. MW: blast_radius, velocity, reload
+dimwishlist:item=4146702548&perks=1478423395,1996142143,2869569095,3425386926  PvE(5.0). Max Blast Radius. MW: blast_radius, velocity, reload
+dimwishlist:item=4146702548&perks=1478423395,2822142346,2869569095,3425386926  PvE(5.0). Max Blast Radius. MW: blast_radius, velocity, reload
+dimwishlist:item=4146702548&perks=1844523823,3999527219,2869569095,3425386926  PvE(5.0). Max Blast Radius. MW: blast_radius, velocity, reload
+dimwishlist:item=4146702548&perks=1844523823,1380253176,2869569095,3425386926  PvE(5.0). Max Blast Radius. MW: blast_radius, velocity, reload
+dimwishlist:item=4146702548&perks=1844523823,1996142143,2869569095,3425386926  PvE(5.0). Max Blast Radius. MW: blast_radius, velocity, reload
+dimwishlist:item=4146702548&perks=1844523823,2822142346,2869569095,3425386926  PvE(5.0). Max Blast Radius. MW: blast_radius, velocity, reload
+dimwishlist:item=4146702548&perks=1441682018,3999527219,2869569095,3425386926  PvE(5.0). Max Blast Radius. MW: blast_radius, velocity, reload
+dimwishlist:item=4146702548&perks=1441682018,1380253176,2869569095,3425386926  PvE(5.0). Max Blast Radius. MW: blast_radius, velocity, reload
+dimwishlist:item=4146702548&perks=1441682018,1996142143,2869569095,3425386926  PvE(5.0). Max Blast Radius. MW: blast_radius, velocity, reload
+dimwishlist:item=4146702548&perks=1441682018,2822142346,2869569095,3425386926  PvE(5.0). Max Blast Radius. MW: blast_radius, velocity, reload
+// Field Prep, Genesis
+dimwishlist:item=4146702548&perks=1478423395,3999527219,2869569095,3096702027  PvE(5.0). Max Blast Radius. MW: blast_radius, velocity, reload
+dimwishlist:item=4146702548&perks=1478423395,1380253176,2869569095,3096702027  PvE(5.0). Max Blast Radius. MW: blast_radius, velocity, reload
+dimwishlist:item=4146702548&perks=1478423395,1996142143,2869569095,3096702027  PvE(5.0). Max Blast Radius. MW: blast_radius, velocity, reload
+dimwishlist:item=4146702548&perks=1478423395,2822142346,2869569095,3096702027  PvE(5.0). Max Blast Radius. MW: blast_radius, velocity, reload
+dimwishlist:item=4146702548&perks=1844523823,3999527219,2869569095,3096702027  PvE(5.0). Max Blast Radius. MW: blast_radius, velocity, reload
+dimwishlist:item=4146702548&perks=1844523823,1380253176,2869569095,3096702027  PvE(5.0). Max Blast Radius. MW: blast_radius, velocity, reload
+dimwishlist:item=4146702548&perks=1844523823,1996142143,2869569095,3096702027  PvE(5.0). Max Blast Radius. MW: blast_radius, velocity, reload
+dimwishlist:item=4146702548&perks=1844523823,2822142346,2869569095,3096702027  PvE(5.0). Max Blast Radius. MW: blast_radius, velocity, reload
+dimwishlist:item=4146702548&perks=1441682018,3999527219,2869569095,3096702027  PvE(5.0). Max Blast Radius. MW: blast_radius, velocity, reload
+dimwishlist:item=4146702548&perks=1441682018,1380253176,2869569095,3096702027  PvE(5.0). Max Blast Radius. MW: blast_radius, velocity, reload
+dimwishlist:item=4146702548&perks=1441682018,1996142143,2869569095,3096702027  PvE(5.0). Max Blast Radius. MW: blast_radius, velocity, reload
+dimwishlist:item=4146702548&perks=1441682018,2822142346,2869569095,3096702027  PvE(5.0). Max Blast Radius. MW: blast_radius, velocity, reload
+// Auto Loading Holster, Rampage
+dimwishlist:item=4146702548&perks=1478423395,3999527219,3300816228,3425386926  PvE(5.0). Max Blast Radius. MW: blast_radius, velocity, reload
+dimwishlist:item=4146702548&perks=1478423395,1380253176,3300816228,3425386926  PvE(5.0). Max Blast Radius. MW: blast_radius, velocity, reload
+dimwishlist:item=4146702548&perks=1478423395,1996142143,3300816228,3425386926  PvE(5.0). Max Blast Radius. MW: blast_radius, velocity, reload
+dimwishlist:item=4146702548&perks=1478423395,2822142346,3300816228,3425386926  PvE(5.0). Max Blast Radius. MW: blast_radius, velocity, reload
+dimwishlist:item=4146702548&perks=1844523823,3999527219,3300816228,3425386926  PvE(5.0). Max Blast Radius. MW: blast_radius, velocity, reload
+dimwishlist:item=4146702548&perks=1844523823,1380253176,3300816228,3425386926  PvE(5.0). Max Blast Radius. MW: blast_radius, velocity, reload
+dimwishlist:item=4146702548&perks=1844523823,1996142143,3300816228,3425386926  PvE(5.0). Max Blast Radius. MW: blast_radius, velocity, reload
+dimwishlist:item=4146702548&perks=1844523823,2822142346,3300816228,3425386926  PvE(5.0). Max Blast Radius. MW: blast_radius, velocity, reload
+dimwishlist:item=4146702548&perks=1441682018,3999527219,3300816228,3425386926  PvE(5.0). Max Blast Radius. MW: blast_radius, velocity, reload
+dimwishlist:item=4146702548&perks=1441682018,1380253176,3300816228,3425386926  PvE(5.0). Max Blast Radius. MW: blast_radius, velocity, reload
+dimwishlist:item=4146702548&perks=1441682018,1996142143,3300816228,3425386926  PvE(5.0). Max Blast Radius. MW: blast_radius, velocity, reload
+dimwishlist:item=4146702548&perks=1441682018,2822142346,3300816228,3425386926  PvE(5.0). Max Blast Radius. MW: blast_radius, velocity, reload
+// Auto Loading Holster, Genesis
+dimwishlist:item=4146702548&perks=1478423395,3999527219,3300816228,3096702027  PvE(5.0). Max Blast Radius. MW: blast_radius, velocity, reload
+dimwishlist:item=4146702548&perks=1478423395,1380253176,3300816228,3096702027  PvE(5.0). Max Blast Radius. MW: blast_radius, velocity, reload
+dimwishlist:item=4146702548&perks=1478423395,1996142143,3300816228,3096702027  PvE(5.0). Max Blast Radius. MW: blast_radius, velocity, reload
+dimwishlist:item=4146702548&perks=1478423395,2822142346,3300816228,3096702027  PvE(5.0). Max Blast Radius. MW: blast_radius, velocity, reload
+dimwishlist:item=4146702548&perks=1844523823,3999527219,3300816228,3096702027  PvE(5.0). Max Blast Radius. MW: blast_radius, velocity, reload
+dimwishlist:item=4146702548&perks=1844523823,1380253176,3300816228,3096702027  PvE(5.0). Max Blast Radius. MW: blast_radius, velocity, reload
+dimwishlist:item=4146702548&perks=1844523823,1996142143,3300816228,3096702027  PvE(5.0). Max Blast Radius. MW: blast_radius, velocity, reload
+dimwishlist:item=4146702548&perks=1844523823,2822142346,3300816228,3096702027  PvE(5.0). Max Blast Radius. MW: blast_radius, velocity, reload
+dimwishlist:item=4146702548&perks=1441682018,3999527219,3300816228,3096702027  PvE(5.0). Max Blast Radius. MW: blast_radius, velocity, reload
+dimwishlist:item=4146702548&perks=1441682018,1380253176,3300816228,3096702027  PvE(5.0). Max Blast Radius. MW: blast_radius, velocity, reload
+dimwishlist:item=4146702548&perks=1441682018,1996142143,3300816228,3096702027  PvE(5.0). Max Blast Radius. MW: blast_radius, velocity, reload
+dimwishlist:item=4146702548&perks=1441682018,2822142346,3300816228,3096702027  PvE(5.0). Max Blast Radius. MW: blast_radius, velocity, reload
+// Rangefinder, Rampage
+dimwishlist:item=4146702548&perks=1478423395,3999527219,2846385770,3425386926  PvP(0.4). Max Blast Radius. MW: blast_radius, velocity, reload
+dimwishlist:item=4146702548&perks=1478423395,1380253176,2846385770,3425386926  PvP(0.4). Max Blast Radius. MW: blast_radius, velocity, reload
+dimwishlist:item=4146702548&perks=1478423395,1996142143,2846385770,3425386926  PvP(0.4). Max Blast Radius. MW: blast_radius, velocity, reload
+dimwishlist:item=4146702548&perks=1478423395,2822142346,2846385770,3425386926  PvP(0.4). Max Blast Radius. MW: blast_radius, velocity, reload
+dimwishlist:item=4146702548&perks=1844523823,3999527219,2846385770,3425386926  PvP(0.4). Max Blast Radius. MW: blast_radius, velocity, reload
+dimwishlist:item=4146702548&perks=1844523823,1380253176,2846385770,3425386926  PvP(0.4). Max Blast Radius. MW: blast_radius, velocity, reload
+dimwishlist:item=4146702548&perks=1844523823,1996142143,2846385770,3425386926  PvP(0.4). Max Blast Radius. MW: blast_radius, velocity, reload
+dimwishlist:item=4146702548&perks=1844523823,2822142346,2846385770,3425386926  PvP(0.4). Max Blast Radius. MW: blast_radius, velocity, reload
+dimwishlist:item=4146702548&perks=1441682018,3999527219,2846385770,3425386926  PvP(0.4). Max Blast Radius. MW: blast_radius, velocity, reload
+dimwishlist:item=4146702548&perks=1441682018,1380253176,2846385770,3425386926  PvP(0.4). Max Blast Radius. MW: blast_radius, velocity, reload
+dimwishlist:item=4146702548&perks=1441682018,1996142143,2846385770,3425386926  PvP(0.4). Max Blast Radius. MW: blast_radius, velocity, reload
+dimwishlist:item=4146702548&perks=1441682018,2822142346,2846385770,3425386926  PvP(0.4). Max Blast Radius. MW: blast_radius, velocity, reload
+// Rangefinder, Quickdraw
+dimwishlist:item=4146702548&perks=1478423395,3999527219,2846385770,706527188  PvP(0.4). Max Blast Radius. MW: blast_radius, velocity, reload
+dimwishlist:item=4146702548&perks=1478423395,1380253176,2846385770,706527188  PvP(0.4). Max Blast Radius. MW: blast_radius, velocity, reload
+dimwishlist:item=4146702548&perks=1478423395,1996142143,2846385770,706527188  PvP(0.4). Max Blast Radius. MW: blast_radius, velocity, reload
+dimwishlist:item=4146702548&perks=1478423395,2822142346,2846385770,706527188  PvP(0.4). Max Blast Radius. MW: blast_radius, velocity, reload
+dimwishlist:item=4146702548&perks=1844523823,3999527219,2846385770,706527188  PvP(0.4). Max Blast Radius. MW: blast_radius, velocity, reload
+dimwishlist:item=4146702548&perks=1844523823,1380253176,2846385770,706527188  PvP(0.4). Max Blast Radius. MW: blast_radius, velocity, reload
+dimwishlist:item=4146702548&perks=1844523823,1996142143,2846385770,706527188  PvP(0.4). Max Blast Radius. MW: blast_radius, velocity, reload
+dimwishlist:item=4146702548&perks=1844523823,2822142346,2846385770,706527188  PvP(0.4). Max Blast Radius. MW: blast_radius, velocity, reload
+dimwishlist:item=4146702548&perks=1441682018,3999527219,2846385770,706527188  PvP(0.4). Max Blast Radius. MW: blast_radius, velocity, reload
+dimwishlist:item=4146702548&perks=1441682018,1380253176,2846385770,706527188  PvP(0.4). Max Blast Radius. MW: blast_radius, velocity, reload
+dimwishlist:item=4146702548&perks=1441682018,1996142143,2846385770,706527188  PvP(0.4). Max Blast Radius. MW: blast_radius, velocity, reload
+dimwishlist:item=4146702548&perks=1441682018,2822142346,2846385770,706527188  PvP(0.4). Max Blast Radius. MW: blast_radius, velocity, reload
+// Snapshot Sights, Rampage
+dimwishlist:item=4146702548&perks=1478423395,3999527219,957782887,3425386926  PvP(0.4). Max Blast Radius. MW: blast_radius, velocity, reload
+dimwishlist:item=4146702548&perks=1478423395,1380253176,957782887,3425386926  PvP(0.4). Max Blast Radius. MW: blast_radius, velocity, reload
+dimwishlist:item=4146702548&perks=1478423395,1996142143,957782887,3425386926  PvP(0.4). Max Blast Radius. MW: blast_radius, velocity, reload
+dimwishlist:item=4146702548&perks=1478423395,2822142346,957782887,3425386926  PvP(0.4). Max Blast Radius. MW: blast_radius, velocity, reload
+dimwishlist:item=4146702548&perks=1844523823,3999527219,957782887,3425386926  PvP(0.4). Max Blast Radius. MW: blast_radius, velocity, reload
+dimwishlist:item=4146702548&perks=1844523823,1380253176,957782887,3425386926  PvP(0.4). Max Blast Radius. MW: blast_radius, velocity, reload
+dimwishlist:item=4146702548&perks=1844523823,1996142143,957782887,3425386926  PvP(0.4). Max Blast Radius. MW: blast_radius, velocity, reload
+dimwishlist:item=4146702548&perks=1844523823,2822142346,957782887,3425386926  PvP(0.4). Max Blast Radius. MW: blast_radius, velocity, reload
+dimwishlist:item=4146702548&perks=1441682018,3999527219,957782887,3425386926  PvP(0.4). Max Blast Radius. MW: blast_radius, velocity, reload
+dimwishlist:item=4146702548&perks=1441682018,1380253176,957782887,3425386926  PvP(0.4). Max Blast Radius. MW: blast_radius, velocity, reload
+dimwishlist:item=4146702548&perks=1441682018,1996142143,957782887,3425386926  PvP(0.4). Max Blast Radius. MW: blast_radius, velocity, reload
+dimwishlist:item=4146702548&perks=1441682018,2822142346,957782887,3425386926  PvP(0.4). Max Blast Radius. MW: blast_radius, velocity, reload
+// Snapshot Sights, Quickdraw
+dimwishlist:item=4146702548&perks=1478423395,3999527219,957782887,706527188  PvP(0.4). Max Blast Radius. MW: blast_radius, velocity, reload
+dimwishlist:item=4146702548&perks=1478423395,1380253176,957782887,706527188  PvP(0.4). Max Blast Radius. MW: blast_radius, velocity, reload
+dimwishlist:item=4146702548&perks=1478423395,1996142143,957782887,706527188  PvP(0.4). Max Blast Radius. MW: blast_radius, velocity, reload
+dimwishlist:item=4146702548&perks=1478423395,2822142346,957782887,706527188  PvP(0.4). Max Blast Radius. MW: blast_radius, velocity, reload
+dimwishlist:item=4146702548&perks=1844523823,3999527219,957782887,706527188  PvP(0.4). Max Blast Radius. MW: blast_radius, velocity, reload
+dimwishlist:item=4146702548&perks=1844523823,1380253176,957782887,706527188  PvP(0.4). Max Blast Radius. MW: blast_radius, velocity, reload
+dimwishlist:item=4146702548&perks=1844523823,1996142143,957782887,706527188  PvP(0.4). Max Blast Radius. MW: blast_radius, velocity, reload
+dimwishlist:item=4146702548&perks=1844523823,2822142346,957782887,706527188  PvP(0.4). Max Blast Radius. MW: blast_radius, velocity, reload
+dimwishlist:item=4146702548&perks=1441682018,3999527219,957782887,706527188  PvP(0.4). Max Blast Radius. MW: blast_radius, velocity, reload
+dimwishlist:item=4146702548&perks=1441682018,1380253176,957782887,706527188  PvP(0.4). Max Blast Radius. MW: blast_radius, velocity, reload
+dimwishlist:item=4146702548&perks=1441682018,1996142143,957782887,706527188  PvP(0.4). Max Blast Radius. MW: blast_radius, velocity, reload
+dimwishlist:item=4146702548&perks=1441682018,2822142346,957782887,706527188  PvP(0.4). Max Blast Radius. MW: blast_radius, velocity, reload
 
 
 // Truthteller
@@ -1588,6 +2036,25 @@ dimwishlist:item=1253087083&perks=1482024992,106909392,588594999,706527188  PvP(
 dimwishlist:item=1253087083&perks=4090651448,1140096971,588594999,706527188  PvP(3.6). MW: range, handling, reload
 dimwishlist:item=1253087083&perks=4090651448,3142289711,588594999,706527188  PvP(3.6). MW: range, handling, reload
 dimwishlist:item=1253087083&perks=4090651448,106909392,588594999,706527188  PvP(3.6). MW: range, handling, reload
+// Moving Target, High Impact Reserves
+dimwishlist:item=1253087083&perks=1840239774,1140096971,588594999,2213355989  PvP(3.6). MW: range, handling, reload
+dimwishlist:item=1253087083&perks=1840239774,3142289711,588594999,2213355989  PvP(3.6). MW: range, handling, reload
+dimwishlist:item=1253087083&perks=1840239774,106909392,588594999,2213355989  PvP(3.6). MW: range, handling, reload
+dimwishlist:item=1253087083&perks=202670084,1140096971,588594999,2213355989  PvP(3.6). MW: range, handling, reload
+dimwishlist:item=1253087083&perks=202670084,3142289711,588594999,2213355989  PvP(3.6). MW: range, handling, reload
+dimwishlist:item=1253087083&perks=202670084,106909392,588594999,2213355989  PvP(3.6). MW: range, handling, reload
+dimwishlist:item=1253087083&perks=3250034553,1140096971,588594999,2213355989  PvP(3.6). MW: range, handling, reload
+dimwishlist:item=1253087083&perks=3250034553,3142289711,588594999,2213355989  PvP(3.6). MW: range, handling, reload
+dimwishlist:item=1253087083&perks=3250034553,106909392,588594999,2213355989  PvP(3.6). MW: range, handling, reload
+dimwishlist:item=1253087083&perks=1467527085,1140096971,588594999,2213355989  PvP(3.6). MW: range, handling, reload
+dimwishlist:item=1253087083&perks=1467527085,3142289711,588594999,2213355989  PvP(3.6). MW: range, handling, reload
+dimwishlist:item=1253087083&perks=1467527085,106909392,588594999,2213355989  PvP(3.6). MW: range, handling, reload
+dimwishlist:item=1253087083&perks=1482024992,1140096971,588594999,2213355989  PvP(3.6). MW: range, handling, reload
+dimwishlist:item=1253087083&perks=1482024992,3142289711,588594999,2213355989  PvP(3.6). MW: range, handling, reload
+dimwishlist:item=1253087083&perks=1482024992,106909392,588594999,2213355989  PvP(3.6). MW: range, handling, reload
+dimwishlist:item=1253087083&perks=4090651448,1140096971,588594999,2213355989  PvP(3.6). MW: range, handling, reload
+dimwishlist:item=1253087083&perks=4090651448,3142289711,588594999,2213355989  PvP(3.6). MW: range, handling, reload
+dimwishlist:item=1253087083&perks=4090651448,106909392,588594999,2213355989  PvP(3.6). MW: range, handling, reload
 // Moving Target, Box Breathing
 dimwishlist:item=1253087083&perks=1840239774,1140096971,588594999,2551157718  PvP(3.6). MW: range, handling, reload
 dimwishlist:item=1253087083&perks=1840239774,3142289711,588594999,2551157718  PvP(3.6). MW: range, handling, reload
@@ -1607,6 +2074,63 @@ dimwishlist:item=1253087083&perks=1482024992,106909392,588594999,2551157718  PvP
 dimwishlist:item=1253087083&perks=4090651448,1140096971,588594999,2551157718  PvP(3.6). MW: range, handling, reload
 dimwishlist:item=1253087083&perks=4090651448,3142289711,588594999,2551157718  PvP(3.6). MW: range, handling, reload
 dimwishlist:item=1253087083&perks=4090651448,106909392,588594999,2551157718  PvP(3.6). MW: range, handling, reload
+// No Distractions, Quickdraw
+dimwishlist:item=1253087083&perks=1840239774,1140096971,2866798147,706527188  PvP(3.6). MW: range, handling, reload
+dimwishlist:item=1253087083&perks=1840239774,3142289711,2866798147,706527188  PvP(3.6). MW: range, handling, reload
+dimwishlist:item=1253087083&perks=1840239774,106909392,2866798147,706527188  PvP(3.6). MW: range, handling, reload
+dimwishlist:item=1253087083&perks=202670084,1140096971,2866798147,706527188  PvP(3.6). MW: range, handling, reload
+dimwishlist:item=1253087083&perks=202670084,3142289711,2866798147,706527188  PvP(3.6). MW: range, handling, reload
+dimwishlist:item=1253087083&perks=202670084,106909392,2866798147,706527188  PvP(3.6). MW: range, handling, reload
+dimwishlist:item=1253087083&perks=3250034553,1140096971,2866798147,706527188  PvP(3.6). MW: range, handling, reload
+dimwishlist:item=1253087083&perks=3250034553,3142289711,2866798147,706527188  PvP(3.6). MW: range, handling, reload
+dimwishlist:item=1253087083&perks=3250034553,106909392,2866798147,706527188  PvP(3.6). MW: range, handling, reload
+dimwishlist:item=1253087083&perks=1467527085,1140096971,2866798147,706527188  PvP(3.6). MW: range, handling, reload
+dimwishlist:item=1253087083&perks=1467527085,3142289711,2866798147,706527188  PvP(3.6). MW: range, handling, reload
+dimwishlist:item=1253087083&perks=1467527085,106909392,2866798147,706527188  PvP(3.6). MW: range, handling, reload
+dimwishlist:item=1253087083&perks=1482024992,1140096971,2866798147,706527188  PvP(3.6). MW: range, handling, reload
+dimwishlist:item=1253087083&perks=1482024992,3142289711,2866798147,706527188  PvP(3.6). MW: range, handling, reload
+dimwishlist:item=1253087083&perks=1482024992,106909392,2866798147,706527188  PvP(3.6). MW: range, handling, reload
+dimwishlist:item=1253087083&perks=4090651448,1140096971,2866798147,706527188  PvP(3.6). MW: range, handling, reload
+dimwishlist:item=1253087083&perks=4090651448,3142289711,2866798147,706527188  PvP(3.6). MW: range, handling, reload
+dimwishlist:item=1253087083&perks=4090651448,106909392,2866798147,706527188  PvP(3.6). MW: range, handling, reload
+// No Distractions, High Impact Reserves
+dimwishlist:item=1253087083&perks=1840239774,1140096971,2866798147,2213355989  PvP(3.6). MW: range, handling, reload
+dimwishlist:item=1253087083&perks=1840239774,3142289711,2866798147,2213355989  PvP(3.6). MW: range, handling, reload
+dimwishlist:item=1253087083&perks=1840239774,106909392,2866798147,2213355989  PvP(3.6). MW: range, handling, reload
+dimwishlist:item=1253087083&perks=202670084,1140096971,2866798147,2213355989  PvP(3.6). MW: range, handling, reload
+dimwishlist:item=1253087083&perks=202670084,3142289711,2866798147,2213355989  PvP(3.6). MW: range, handling, reload
+dimwishlist:item=1253087083&perks=202670084,106909392,2866798147,2213355989  PvP(3.6). MW: range, handling, reload
+dimwishlist:item=1253087083&perks=3250034553,1140096971,2866798147,2213355989  PvP(3.6). MW: range, handling, reload
+dimwishlist:item=1253087083&perks=3250034553,3142289711,2866798147,2213355989  PvP(3.6). MW: range, handling, reload
+dimwishlist:item=1253087083&perks=3250034553,106909392,2866798147,2213355989  PvP(3.6). MW: range, handling, reload
+dimwishlist:item=1253087083&perks=1467527085,1140096971,2866798147,2213355989  PvP(3.6). MW: range, handling, reload
+dimwishlist:item=1253087083&perks=1467527085,3142289711,2866798147,2213355989  PvP(3.6). MW: range, handling, reload
+dimwishlist:item=1253087083&perks=1467527085,106909392,2866798147,2213355989  PvP(3.6). MW: range, handling, reload
+dimwishlist:item=1253087083&perks=1482024992,1140096971,2866798147,2213355989  PvP(3.6). MW: range, handling, reload
+dimwishlist:item=1253087083&perks=1482024992,3142289711,2866798147,2213355989  PvP(3.6). MW: range, handling, reload
+dimwishlist:item=1253087083&perks=1482024992,106909392,2866798147,2213355989  PvP(3.6). MW: range, handling, reload
+dimwishlist:item=1253087083&perks=4090651448,1140096971,2866798147,2213355989  PvP(3.6). MW: range, handling, reload
+dimwishlist:item=1253087083&perks=4090651448,3142289711,2866798147,2213355989  PvP(3.6). MW: range, handling, reload
+dimwishlist:item=1253087083&perks=4090651448,106909392,2866798147,2213355989  PvP(3.6). MW: range, handling, reload
+// No Distractions, Box Breathing
+dimwishlist:item=1253087083&perks=1840239774,1140096971,2866798147,2551157718  PvP(3.6). MW: range, handling, reload
+dimwishlist:item=1253087083&perks=1840239774,3142289711,2866798147,2551157718  PvP(3.6). MW: range, handling, reload
+dimwishlist:item=1253087083&perks=1840239774,106909392,2866798147,2551157718  PvP(3.6). MW: range, handling, reload
+dimwishlist:item=1253087083&perks=202670084,1140096971,2866798147,2551157718  PvP(3.6). MW: range, handling, reload
+dimwishlist:item=1253087083&perks=202670084,3142289711,2866798147,2551157718  PvP(3.6). MW: range, handling, reload
+dimwishlist:item=1253087083&perks=202670084,106909392,2866798147,2551157718  PvP(3.6). MW: range, handling, reload
+dimwishlist:item=1253087083&perks=3250034553,1140096971,2866798147,2551157718  PvP(3.6). MW: range, handling, reload
+dimwishlist:item=1253087083&perks=3250034553,3142289711,2866798147,2551157718  PvP(3.6). MW: range, handling, reload
+dimwishlist:item=1253087083&perks=3250034553,106909392,2866798147,2551157718  PvP(3.6). MW: range, handling, reload
+dimwishlist:item=1253087083&perks=1467527085,1140096971,2866798147,2551157718  PvP(3.6). MW: range, handling, reload
+dimwishlist:item=1253087083&perks=1467527085,3142289711,2866798147,2551157718  PvP(3.6). MW: range, handling, reload
+dimwishlist:item=1253087083&perks=1467527085,106909392,2866798147,2551157718  PvP(3.6). MW: range, handling, reload
+dimwishlist:item=1253087083&perks=1482024992,1140096971,2866798147,2551157718  PvP(3.6). MW: range, handling, reload
+dimwishlist:item=1253087083&perks=1482024992,3142289711,2866798147,2551157718  PvP(3.6). MW: range, handling, reload
+dimwishlist:item=1253087083&perks=1482024992,106909392,2866798147,2551157718  PvP(3.6). MW: range, handling, reload
+dimwishlist:item=1253087083&perks=4090651448,1140096971,2866798147,2551157718  PvP(3.6). MW: range, handling, reload
+dimwishlist:item=1253087083&perks=4090651448,3142289711,2866798147,2551157718  PvP(3.6). MW: range, handling, reload
+dimwishlist:item=1253087083&perks=4090651448,106909392,2866798147,2551157718  PvP(3.6). MW: range, handling, reload
 // Ikelos Sr V102
 //notes: Can use to create Warmind cells.  Appended Mag will get you to the sniper magazine cap (7)
 // Fourth Times The Charm, High Impact Reserves
@@ -1704,6 +2228,93 @@ dimwishlist:item=1253087083&perks=1482024992,1140096971,3400784728,1683379515  N
 dimwishlist:item=1253087083&perks=4090651448,106909392,3400784728,1683379515  Nightfall. For killing ADDs. MW: range, handling, reload
 dimwishlist:item=1253087083&perks=4090651448,1087426260,3400784728,1683379515  Nightfall. For killing ADDs. MW: range, handling, reload
 dimwishlist:item=1253087083&perks=4090651448,1140096971,3400784728,1683379515  Nightfall. For killing ADDs. MW: range, handling, reload
+
+
+// Long Shadow
+// Field Prep, Moving Target
+dimwishlist:item=3745990145&perks=893526892,3142289711,2869569095,588594999  PvP. MW: range, handling, reload
+dimwishlist:item=3745990145&perks=893526892,106909392,2869569095,588594999  PvP. MW: range, handling, reload
+dimwishlist:item=3745990145&perks=893526895,3142289711,2869569095,588594999  PvP. MW: range, handling, reload
+dimwishlist:item=3745990145&perks=893526895,106909392,2869569095,588594999  PvP. MW: range, handling, reload
+// Field Prep, Rampage
+dimwishlist:item=3745990145&perks=893526892,3142289711,2869569095,3425386926  PvP. MW: range, handling, reload
+dimwishlist:item=3745990145&perks=893526892,106909392,2869569095,3425386926  PvP. MW: range, handling, reload
+dimwishlist:item=3745990145&perks=893526895,3142289711,2869569095,3425386926  PvP. MW: range, handling, reload
+dimwishlist:item=3745990145&perks=893526895,106909392,2869569095,3425386926  PvP. MW: range, handling, reload
+// Snapshot Sights, Moving Target
+dimwishlist:item=3745990145&perks=893526892,3142289711,957782887,588594999  PvP. MW: range, handling, reload
+dimwishlist:item=3745990145&perks=893526892,106909392,957782887,588594999  PvP. MW: range, handling, reload
+dimwishlist:item=3745990145&perks=893526895,3142289711,957782887,588594999  PvP. MW: range, handling, reload
+dimwishlist:item=3745990145&perks=893526895,106909392,957782887,588594999  PvP. MW: range, handling, reload
+// Snapshot Sights, Rampage
+dimwishlist:item=3745990145&perks=893526892,3142289711,957782887,3425386926  PvP. MW: range, handling, reload
+dimwishlist:item=3745990145&perks=893526892,106909392,957782887,3425386926  PvP. MW: range, handling, reload
+dimwishlist:item=3745990145&perks=893526895,3142289711,957782887,3425386926  PvP. MW: range, handling, reload
+dimwishlist:item=3745990145&perks=893526895,106909392,957782887,3425386926  PvP. MW: range, handling, reload
+// Long Shadow
+// Firmly Planted, Triple Tap
+dimwishlist:item=3745990145&perks=893526892,106909392,280464955,3400784728  Ammo replenishing, High damaging boss killer. MW: range, handling, reload
+dimwishlist:item=3745990145&perks=893526892,1087426260,280464955,3400784728  Ammo replenishing, High damaging boss killer. MW: range, handling, reload
+dimwishlist:item=3745990145&perks=893526892,2420895100,280464955,3400784728  Ammo replenishing, High damaging boss killer. MW: range, handling, reload
+dimwishlist:item=3745990145&perks=893526895,106909392,280464955,3400784728  Ammo replenishing, High damaging boss killer. MW: range, handling, reload
+dimwishlist:item=3745990145&perks=893526895,1087426260,280464955,3400784728  Ammo replenishing, High damaging boss killer. MW: range, handling, reload
+dimwishlist:item=3745990145&perks=893526895,2420895100,280464955,3400784728  Ammo replenishing, High damaging boss killer. MW: range, handling, reload
+// Firmly Planted, Rampage
+dimwishlist:item=3745990145&perks=893526892,106909392,280464955,3425386926  Ammo replenishing, High damaging boss killer. MW: range, handling, reload
+dimwishlist:item=3745990145&perks=893526892,1087426260,280464955,3425386926  Ammo replenishing, High damaging boss killer. MW: range, handling, reload
+dimwishlist:item=3745990145&perks=893526892,2420895100,280464955,3425386926  Ammo replenishing, High damaging boss killer. MW: range, handling, reload
+dimwishlist:item=3745990145&perks=893526895,106909392,280464955,3425386926  Ammo replenishing, High damaging boss killer. MW: range, handling, reload
+dimwishlist:item=3745990145&perks=893526895,1087426260,280464955,3425386926  Ammo replenishing, High damaging boss killer. MW: range, handling, reload
+dimwishlist:item=3745990145&perks=893526895,2420895100,280464955,3425386926  Ammo replenishing, High damaging boss killer. MW: range, handling, reload
+// Firmly Planted, Outlaw
+dimwishlist:item=3745990145&perks=893526892,106909392,280464955,1168162263  Ammo replenishing, High damaging boss killer. MW: range, handling, reload
+dimwishlist:item=3745990145&perks=893526892,1087426260,280464955,1168162263  Ammo replenishing, High damaging boss killer. MW: range, handling, reload
+dimwishlist:item=3745990145&perks=893526892,2420895100,280464955,1168162263  Ammo replenishing, High damaging boss killer. MW: range, handling, reload
+dimwishlist:item=3745990145&perks=893526895,106909392,280464955,1168162263  Ammo replenishing, High damaging boss killer. MW: range, handling, reload
+dimwishlist:item=3745990145&perks=893526895,1087426260,280464955,1168162263  Ammo replenishing, High damaging boss killer. MW: range, handling, reload
+dimwishlist:item=3745990145&perks=893526895,2420895100,280464955,1168162263  Ammo replenishing, High damaging boss killer. MW: range, handling, reload
+// Rapid Hit, Triple Tap
+dimwishlist:item=3745990145&perks=893526892,106909392,247725512,3400784728  Ammo replenishing, High damaging boss killer. MW: range, handling, reload
+dimwishlist:item=3745990145&perks=893526892,1087426260,247725512,3400784728  Ammo replenishing, High damaging boss killer. MW: range, handling, reload
+dimwishlist:item=3745990145&perks=893526892,2420895100,247725512,3400784728  Ammo replenishing, High damaging boss killer. MW: range, handling, reload
+dimwishlist:item=3745990145&perks=893526895,106909392,247725512,3400784728  Ammo replenishing, High damaging boss killer. MW: range, handling, reload
+dimwishlist:item=3745990145&perks=893526895,1087426260,247725512,3400784728  Ammo replenishing, High damaging boss killer. MW: range, handling, reload
+dimwishlist:item=3745990145&perks=893526895,2420895100,247725512,3400784728  Ammo replenishing, High damaging boss killer. MW: range, handling, reload
+// Rapid Hit, Rampage
+dimwishlist:item=3745990145&perks=893526892,106909392,247725512,3425386926  Ammo replenishing, High damaging boss killer. MW: range, handling, reload
+dimwishlist:item=3745990145&perks=893526892,1087426260,247725512,3425386926  Ammo replenishing, High damaging boss killer. MW: range, handling, reload
+dimwishlist:item=3745990145&perks=893526892,2420895100,247725512,3425386926  Ammo replenishing, High damaging boss killer. MW: range, handling, reload
+dimwishlist:item=3745990145&perks=893526895,106909392,247725512,3425386926  Ammo replenishing, High damaging boss killer. MW: range, handling, reload
+dimwishlist:item=3745990145&perks=893526895,1087426260,247725512,3425386926  Ammo replenishing, High damaging boss killer. MW: range, handling, reload
+dimwishlist:item=3745990145&perks=893526895,2420895100,247725512,3425386926  Ammo replenishing, High damaging boss killer. MW: range, handling, reload
+// Rapid Hit, Outlaw
+dimwishlist:item=3745990145&perks=893526892,106909392,247725512,1168162263  Ammo replenishing, High damaging boss killer. MW: range, handling, reload
+dimwishlist:item=3745990145&perks=893526892,1087426260,247725512,1168162263  Ammo replenishing, High damaging boss killer. MW: range, handling, reload
+dimwishlist:item=3745990145&perks=893526892,2420895100,247725512,1168162263  Ammo replenishing, High damaging boss killer. MW: range, handling, reload
+dimwishlist:item=3745990145&perks=893526895,106909392,247725512,1168162263  Ammo replenishing, High damaging boss killer. MW: range, handling, reload
+dimwishlist:item=3745990145&perks=893526895,1087426260,247725512,1168162263  Ammo replenishing, High damaging boss killer. MW: range, handling, reload
+dimwishlist:item=3745990145&perks=893526895,2420895100,247725512,1168162263  Ammo replenishing, High damaging boss killer. MW: range, handling, reload
+// Field Prep, Triple Tap
+dimwishlist:item=3745990145&perks=893526892,106909392,2869569095,3400784728  Ammo replenishing, High damaging boss killer. MW: range, handling, reload
+dimwishlist:item=3745990145&perks=893526892,1087426260,2869569095,3400784728  Ammo replenishing, High damaging boss killer. MW: range, handling, reload
+dimwishlist:item=3745990145&perks=893526892,2420895100,2869569095,3400784728  Ammo replenishing, High damaging boss killer. MW: range, handling, reload
+dimwishlist:item=3745990145&perks=893526895,106909392,2869569095,3400784728  Ammo replenishing, High damaging boss killer. MW: range, handling, reload
+dimwishlist:item=3745990145&perks=893526895,1087426260,2869569095,3400784728  Ammo replenishing, High damaging boss killer. MW: range, handling, reload
+dimwishlist:item=3745990145&perks=893526895,2420895100,2869569095,3400784728  Ammo replenishing, High damaging boss killer. MW: range, handling, reload
+// Field Prep, Rampage
+dimwishlist:item=3745990145&perks=893526892,106909392,2869569095,3425386926  Ammo replenishing, High damaging boss killer. MW: range, handling, reload
+dimwishlist:item=3745990145&perks=893526892,1087426260,2869569095,3425386926  Ammo replenishing, High damaging boss killer. MW: range, handling, reload
+dimwishlist:item=3745990145&perks=893526892,2420895100,2869569095,3425386926  Ammo replenishing, High damaging boss killer. MW: range, handling, reload
+dimwishlist:item=3745990145&perks=893526895,106909392,2869569095,3425386926  Ammo replenishing, High damaging boss killer. MW: range, handling, reload
+dimwishlist:item=3745990145&perks=893526895,1087426260,2869569095,3425386926  Ammo replenishing, High damaging boss killer. MW: range, handling, reload
+dimwishlist:item=3745990145&perks=893526895,2420895100,2869569095,3425386926  Ammo replenishing, High damaging boss killer. MW: range, handling, reload
+// Field Prep, Outlaw
+dimwishlist:item=3745990145&perks=893526892,106909392,2869569095,1168162263  Ammo replenishing, High damaging boss killer. MW: range, handling, reload
+dimwishlist:item=3745990145&perks=893526892,1087426260,2869569095,1168162263  Ammo replenishing, High damaging boss killer. MW: range, handling, reload
+dimwishlist:item=3745990145&perks=893526892,2420895100,2869569095,1168162263  Ammo replenishing, High damaging boss killer. MW: range, handling, reload
+dimwishlist:item=3745990145&perks=893526895,106909392,2869569095,1168162263  Ammo replenishing, High damaging boss killer. MW: range, handling, reload
+dimwishlist:item=3745990145&perks=893526895,1087426260,2869569095,1168162263  Ammo replenishing, High damaging boss killer. MW: range, handling, reload
+dimwishlist:item=3745990145&perks=893526895,2420895100,2869569095,1168162263  Ammo replenishing, High damaging boss killer. MW: range, handling, reload
 
 
 // Death Adder
