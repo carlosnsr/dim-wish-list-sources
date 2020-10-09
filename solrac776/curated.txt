@@ -1861,6 +1861,137 @@ dimwishlist:item=3504336176&perks=4090651448,106909392,1168162263,3038247973  Pv
 dimwishlist:item=3504336176&perks=4090651448,1087426260,1168162263,3038247973  PvP. MW: range
 
 
+// Seventh Seraph Cqc 12
+//notes: CQC as a Lightweight weapon is better for closing quickly and high fire-rate for the follow-up shot if needed.  Faster than Mindbender's Ambition or Astral Horizon.  See CoolGuy (https://www.youtube.com/watch?v=KNspWrMBhiQ)
+// Quickdraw, Vorpal Weapon
+dimwishlist:item=1821724780&perks=1047830412,3142289711,706527188,1546637391  PvP. Range Shotgun.  Vorpal for a Super killer. MW: range
+dimwishlist:item=1821724780&perks=1047830412,679225683,706527188,1546637391  PvP. Range Shotgun.  Vorpal for a Super killer. MW: range
+dimwishlist:item=1821724780&perks=1047830412,791862061,706527188,1546637391  PvP. Range Shotgun.  Vorpal for a Super killer. MW: range
+dimwishlist:item=1821724780&perks=1332244541,3142289711,706527188,1546637391  PvP. Range Shotgun.  Vorpal for a Super killer. MW: range
+dimwishlist:item=1821724780&perks=1332244541,679225683,706527188,1546637391  PvP. Range Shotgun.  Vorpal for a Super killer. MW: range
+dimwishlist:item=1821724780&perks=1332244541,791862061,706527188,1546637391  PvP. Range Shotgun.  Vorpal for a Super killer. MW: range
+// Quickdraw, Snapshot Sights
+dimwishlist:item=1821724780&perks=1047830412,3142289711,706527188,957782887  PvP. Range Shotgun.  Vorpal for a Super killer. MW: range
+dimwishlist:item=1821724780&perks=1047830412,679225683,706527188,957782887  PvP. Range Shotgun.  Vorpal for a Super killer. MW: range
+dimwishlist:item=1821724780&perks=1047830412,791862061,706527188,957782887  PvP. Range Shotgun.  Vorpal for a Super killer. MW: range
+dimwishlist:item=1821724780&perks=1332244541,3142289711,706527188,957782887  PvP. Range Shotgun.  Vorpal for a Super killer. MW: range
+dimwishlist:item=1821724780&perks=1332244541,679225683,706527188,957782887  PvP. Range Shotgun.  Vorpal for a Super killer. MW: range
+dimwishlist:item=1821724780&perks=1332244541,791862061,706527188,957782887  PvP. Range Shotgun.  Vorpal for a Super killer. MW: range
+// Slideshot, Vorpal Weapon
+dimwishlist:item=1821724780&perks=1047830412,3142289711,3161816588,1546637391  PvP. Range Shotgun.  Vorpal for a Super killer. MW: handling
+dimwishlist:item=1821724780&perks=1047830412,679225683,3161816588,1546637391  PvP. Range Shotgun.  Vorpal for a Super killer. MW: handling
+dimwishlist:item=1821724780&perks=1047830412,791862061,3161816588,1546637391  PvP. Range Shotgun.  Vorpal for a Super killer. MW: handling
+dimwishlist:item=1821724780&perks=1332244541,3142289711,3161816588,1546637391  PvP. Range Shotgun.  Vorpal for a Super killer. MW: handling
+dimwishlist:item=1821724780&perks=1332244541,679225683,3161816588,1546637391  PvP. Range Shotgun.  Vorpal for a Super killer. MW: handling
+dimwishlist:item=1821724780&perks=1332244541,791862061,3161816588,1546637391  PvP. Range Shotgun.  Vorpal for a Super killer. MW: handling
+// Slideshot, Snapshot Sights
+dimwishlist:item=1821724780&perks=1047830412,3142289711,3161816588,957782887  PvP. Range Shotgun.  Vorpal for a Super killer. MW: handling
+dimwishlist:item=1821724780&perks=1047830412,679225683,3161816588,957782887  PvP. Range Shotgun.  Vorpal for a Super killer. MW: handling
+dimwishlist:item=1821724780&perks=1047830412,791862061,3161816588,957782887  PvP. Range Shotgun.  Vorpal for a Super killer. MW: handling
+dimwishlist:item=1821724780&perks=1332244541,3142289711,3161816588,957782887  PvP. Range Shotgun.  Vorpal for a Super killer. MW: handling
+dimwishlist:item=1821724780&perks=1332244541,679225683,3161816588,957782887  PvP. Range Shotgun.  Vorpal for a Super killer. MW: handling
+dimwishlist:item=1821724780&perks=1332244541,791862061,3161816588,957782887  PvP. Range Shotgun.  Vorpal for a Super killer. MW: handling
+// Seventh Seraph Cqc 12
+//notes: CQC as a Lightweight weapon is better for closing quickly and high fire-rate for the follow-up shot if needed.  Faster than Mindbender's Ambition or Astral Horizon.  See CoolGuy (https://www.youtube.com/watch?v=KNspWrMBhiQ)
+// Quickdraw, Vorpal Weapon
+dimwishlist:item=1821724780&perks=1482024992,791862061,706527188,1546637391  PvP. Less Range, More Handling Shotgun. MW: range
+dimwishlist:item=1821724780&perks=1482024992,3142289711,706527188,1546637391  PvP. Less Range, More Handling Shotgun. MW: range
+dimwishlist:item=1821724780&perks=1482024992,679225683,706527188,1546637391  PvP. Less Range, More Handling Shotgun. MW: range
+dimwishlist:item=1821724780&perks=4090651448,791862061,706527188,1546637391  PvP. Less Range, More Handling Shotgun. MW: range
+dimwishlist:item=1821724780&perks=4090651448,3142289711,706527188,1546637391  PvP. Less Range, More Handling Shotgun. MW: range
+dimwishlist:item=1821724780&perks=4090651448,679225683,706527188,1546637391  PvP. Less Range, More Handling Shotgun. MW: range
+// Quickdraw, Snapshot Sights
+dimwishlist:item=1821724780&perks=1482024992,791862061,706527188,957782887  PvP. Less Range, More Handling Shotgun. MW: range
+dimwishlist:item=1821724780&perks=1482024992,3142289711,706527188,957782887  PvP. Less Range, More Handling Shotgun. MW: range
+dimwishlist:item=1821724780&perks=1482024992,679225683,706527188,957782887  PvP. Less Range, More Handling Shotgun. MW: range
+dimwishlist:item=1821724780&perks=4090651448,791862061,706527188,957782887  PvP. Less Range, More Handling Shotgun. MW: range
+dimwishlist:item=1821724780&perks=4090651448,3142289711,706527188,957782887  PvP. Less Range, More Handling Shotgun. MW: range
+dimwishlist:item=1821724780&perks=4090651448,679225683,706527188,957782887  PvP. Less Range, More Handling Shotgun. MW: range
+// Slideshot, Vorpal Weapon
+dimwishlist:item=1821724780&perks=1482024992,791862061,3161816588,1546637391  PvP. Less Range, More Handling Shotgun. MW: handling
+dimwishlist:item=1821724780&perks=1482024992,3142289711,3161816588,1546637391  PvP. Less Range, More Handling Shotgun. MW: handling
+dimwishlist:item=1821724780&perks=1482024992,679225683,3161816588,1546637391  PvP. Less Range, More Handling Shotgun. MW: handling
+dimwishlist:item=1821724780&perks=4090651448,791862061,3161816588,1546637391  PvP. Less Range, More Handling Shotgun. MW: handling
+dimwishlist:item=1821724780&perks=4090651448,3142289711,3161816588,1546637391  PvP. Less Range, More Handling Shotgun. MW: handling
+dimwishlist:item=1821724780&perks=4090651448,679225683,3161816588,1546637391  PvP. Less Range, More Handling Shotgun. MW: handling
+// Slideshot, Snapshot Sights
+dimwishlist:item=1821724780&perks=1482024992,791862061,3161816588,957782887  PvP. Less Range, More Handling Shotgun. MW: handling
+dimwishlist:item=1821724780&perks=1482024992,3142289711,3161816588,957782887  PvP. Less Range, More Handling Shotgun. MW: handling
+dimwishlist:item=1821724780&perks=1482024992,679225683,3161816588,957782887  PvP. Less Range, More Handling Shotgun. MW: handling
+dimwishlist:item=1821724780&perks=4090651448,791862061,3161816588,957782887  PvP. Less Range, More Handling Shotgun. MW: handling
+dimwishlist:item=1821724780&perks=4090651448,3142289711,3161816588,957782887  PvP. Less Range, More Handling Shotgun. MW: handling
+dimwishlist:item=1821724780&perks=4090651448,679225683,3161816588,957782887  PvP. Less Range, More Handling Shotgun. MW: handling
+// Seventh Seraph Cqc 12
+// Auto Loading Holster, Trench Barrel
+dimwishlist:item=1821724780&perks=1482024992,791862061,3300816228,2360754333  PvE. Melee. MW: range
+dimwishlist:item=1821724780&perks=1482024992,106909392,3300816228,2360754333  PvE. Melee. MW: range
+dimwishlist:item=1821724780&perks=1482024992,679225683,3300816228,2360754333  PvE. Melee. MW: range
+dimwishlist:item=1821724780&perks=1482024992,3142289711,3300816228,2360754333  PvE. Melee. MW: range
+dimwishlist:item=1821724780&perks=4090651448,791862061,3300816228,2360754333  PvE. Melee. MW: range
+dimwishlist:item=1821724780&perks=4090651448,106909392,3300816228,2360754333  PvE. Melee. MW: range
+dimwishlist:item=1821724780&perks=4090651448,679225683,3300816228,2360754333  PvE. Melee. MW: range
+dimwishlist:item=1821724780&perks=4090651448,3142289711,3300816228,2360754333  PvE. Melee. MW: range
+dimwishlist:item=1821724780&perks=1332244541,791862061,3300816228,2360754333  PvE. Melee. MW: range
+dimwishlist:item=1821724780&perks=1332244541,106909392,3300816228,2360754333  PvE. Melee. MW: range
+dimwishlist:item=1821724780&perks=1332244541,679225683,3300816228,2360754333  PvE. Melee. MW: range
+dimwishlist:item=1821724780&perks=1332244541,3142289711,3300816228,2360754333  PvE. Melee. MW: range
+dimwishlist:item=1821724780&perks=1047830412,791862061,3300816228,2360754333  PvE. Melee. MW: range
+dimwishlist:item=1821724780&perks=1047830412,106909392,3300816228,2360754333  PvE. Melee. MW: range
+dimwishlist:item=1821724780&perks=1047830412,679225683,3300816228,2360754333  PvE. Melee. MW: range
+dimwishlist:item=1821724780&perks=1047830412,3142289711,3300816228,2360754333  PvE. Melee. MW: range
+// Lead From Gold, Trench Barrel
+dimwishlist:item=1821724780&perks=1482024992,791862061,1556840489,2360754333  PvE. Melee. MW: range
+dimwishlist:item=1821724780&perks=1482024992,106909392,1556840489,2360754333  PvE. Melee. MW: range
+dimwishlist:item=1821724780&perks=1482024992,679225683,1556840489,2360754333  PvE. Melee. MW: range
+dimwishlist:item=1821724780&perks=1482024992,3142289711,1556840489,2360754333  PvE. Melee. MW: range
+dimwishlist:item=1821724780&perks=4090651448,791862061,1556840489,2360754333  PvE. Melee. MW: range
+dimwishlist:item=1821724780&perks=4090651448,106909392,1556840489,2360754333  PvE. Melee. MW: range
+dimwishlist:item=1821724780&perks=4090651448,679225683,1556840489,2360754333  PvE. Melee. MW: range
+dimwishlist:item=1821724780&perks=4090651448,3142289711,1556840489,2360754333  PvE. Melee. MW: range
+dimwishlist:item=1821724780&perks=1332244541,791862061,1556840489,2360754333  PvE. Melee. MW: range
+dimwishlist:item=1821724780&perks=1332244541,106909392,1556840489,2360754333  PvE. Melee. MW: range
+dimwishlist:item=1821724780&perks=1332244541,679225683,1556840489,2360754333  PvE. Melee. MW: range
+dimwishlist:item=1821724780&perks=1332244541,3142289711,1556840489,2360754333  PvE. Melee. MW: range
+dimwishlist:item=1821724780&perks=1047830412,791862061,1556840489,2360754333  PvE. Melee. MW: range
+dimwishlist:item=1821724780&perks=1047830412,106909392,1556840489,2360754333  PvE. Melee. MW: range
+dimwishlist:item=1821724780&perks=1047830412,679225683,1556840489,2360754333  PvE. Melee. MW: range
+dimwishlist:item=1821724780&perks=1047830412,3142289711,1556840489,2360754333  PvE. Melee. MW: range
+// Auto Loading Holster, Vorpal Weapon
+dimwishlist:item=1821724780&perks=1482024992,791862061,3300816228,1546637391  PvE. MW: range
+dimwishlist:item=1821724780&perks=1482024992,106909392,3300816228,1546637391  PvE. MW: range
+dimwishlist:item=1821724780&perks=1482024992,679225683,3300816228,1546637391  PvE. MW: range
+dimwishlist:item=1821724780&perks=1482024992,3142289711,3300816228,1546637391  PvE. MW: range
+dimwishlist:item=1821724780&perks=4090651448,791862061,3300816228,1546637391  PvE. MW: range
+dimwishlist:item=1821724780&perks=4090651448,106909392,3300816228,1546637391  PvE. MW: range
+dimwishlist:item=1821724780&perks=4090651448,679225683,3300816228,1546637391  PvE. MW: range
+dimwishlist:item=1821724780&perks=4090651448,3142289711,3300816228,1546637391  PvE. MW: range
+dimwishlist:item=1821724780&perks=1332244541,791862061,3300816228,1546637391  PvE. MW: range
+dimwishlist:item=1821724780&perks=1332244541,106909392,3300816228,1546637391  PvE. MW: range
+dimwishlist:item=1821724780&perks=1332244541,679225683,3300816228,1546637391  PvE. MW: range
+dimwishlist:item=1821724780&perks=1332244541,3142289711,3300816228,1546637391  PvE. MW: range
+dimwishlist:item=1821724780&perks=1047830412,791862061,3300816228,1546637391  PvE. MW: range
+dimwishlist:item=1821724780&perks=1047830412,106909392,3300816228,1546637391  PvE. MW: range
+dimwishlist:item=1821724780&perks=1047830412,679225683,3300816228,1546637391  PvE. MW: range
+dimwishlist:item=1821724780&perks=1047830412,3142289711,3300816228,1546637391  PvE. MW: range
+// Lead From Gold, Vorpal Weapon
+dimwishlist:item=1821724780&perks=1482024992,791862061,1556840489,1546637391  PvE. MW: range
+dimwishlist:item=1821724780&perks=1482024992,106909392,1556840489,1546637391  PvE. MW: range
+dimwishlist:item=1821724780&perks=1482024992,679225683,1556840489,1546637391  PvE. MW: range
+dimwishlist:item=1821724780&perks=1482024992,3142289711,1556840489,1546637391  PvE. MW: range
+dimwishlist:item=1821724780&perks=4090651448,791862061,1556840489,1546637391  PvE. MW: range
+dimwishlist:item=1821724780&perks=4090651448,106909392,1556840489,1546637391  PvE. MW: range
+dimwishlist:item=1821724780&perks=4090651448,679225683,1556840489,1546637391  PvE. MW: range
+dimwishlist:item=1821724780&perks=4090651448,3142289711,1556840489,1546637391  PvE. MW: range
+dimwishlist:item=1821724780&perks=1332244541,791862061,1556840489,1546637391  PvE. MW: range
+dimwishlist:item=1821724780&perks=1332244541,106909392,1556840489,1546637391  PvE. MW: range
+dimwishlist:item=1821724780&perks=1332244541,679225683,1556840489,1546637391  PvE. MW: range
+dimwishlist:item=1821724780&perks=1332244541,3142289711,1556840489,1546637391  PvE. MW: range
+dimwishlist:item=1821724780&perks=1047830412,791862061,1556840489,1546637391  PvE. MW: range
+dimwishlist:item=1821724780&perks=1047830412,106909392,1556840489,1546637391  PvE. MW: range
+dimwishlist:item=1821724780&perks=1047830412,679225683,1556840489,1546637391  PvE. MW: range
+dimwishlist:item=1821724780&perks=1047830412,3142289711,1556840489,1546637391  PvE. MW: range
+
+
 // Lonesome
 // Rapid Hit, Kill Clip
 dimwishlist:item=2199171672&perks=202670084,1561002382,247725512,1015611457  PvP. MW: range, stability
