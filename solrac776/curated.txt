@@ -1992,6 +1992,86 @@ dimwishlist:item=1821724780&perks=1047830412,679225683,1556840489,1546637391  Pv
 dimwishlist:item=1821724780&perks=1047830412,3142289711,1556840489,1546637391  PvE. MW: range
 
 
+// Wishbringer
+//notes: Less range that CQC but a higher RPM so that you can offload lots of DPS in a short time.  But requires 2-shots at range for Dust Rock Blues can do in 1
+// Slideshot, Opening Shot
+dimwishlist:item=3356526253&perks=1047830412,3142289711,3161816588,47981717  PvP. MW: range
+dimwishlist:item=3356526253&perks=1047830412,679225683,3161816588,47981717  PvP. MW: range
+dimwishlist:item=3356526253&perks=1332244541,3142289711,3161816588,47981717  PvP. MW: range
+dimwishlist:item=3356526253&perks=1332244541,679225683,3161816588,47981717  PvP. MW: range
+// Slideshot, Snapshot Sights
+dimwishlist:item=3356526253&perks=1047830412,3142289711,3161816588,957782887  PvP. MW: range
+dimwishlist:item=3356526253&perks=1047830412,679225683,3161816588,957782887  PvP. MW: range
+dimwishlist:item=3356526253&perks=1332244541,3142289711,3161816588,957782887  PvP. MW: range
+dimwishlist:item=3356526253&perks=1332244541,679225683,3161816588,957782887  PvP. MW: range
+// Threat Detector, Opening Shot
+dimwishlist:item=3356526253&perks=1047830412,3142289711,4071163871,47981717  PvP. MW: range
+dimwishlist:item=3356526253&perks=1047830412,679225683,4071163871,47981717  PvP. MW: range
+dimwishlist:item=3356526253&perks=1332244541,3142289711,4071163871,47981717  PvP. MW: range
+dimwishlist:item=3356526253&perks=1332244541,679225683,4071163871,47981717  PvP. MW: range
+// Threat Detector, Snapshot Sights
+dimwishlist:item=3356526253&perks=1047830412,3142289711,4071163871,957782887  PvP. MW: range
+dimwishlist:item=3356526253&perks=1047830412,679225683,4071163871,957782887  PvP. MW: range
+dimwishlist:item=3356526253&perks=1332244541,3142289711,4071163871,957782887  PvP. MW: range
+dimwishlist:item=3356526253&perks=1332244541,679225683,4071163871,957782887  PvP. MW: range
+// Wishbringer
+// Slideshot, Opening Shot
+dimwishlist:item=3356526253&perks=1482024992,3142289711,3161816588,47981717  PvP. Less Range, More Handling Shotgun. MW: range
+dimwishlist:item=3356526253&perks=1482024992,679225683,3161816588,47981717  PvP. Less Range, More Handling Shotgun. MW: range
+dimwishlist:item=3356526253&perks=4090651448,3142289711,3161816588,47981717  PvP. Less Range, More Handling Shotgun. MW: range
+dimwishlist:item=3356526253&perks=4090651448,679225683,3161816588,47981717  PvP. Less Range, More Handling Shotgun. MW: range
+// Slideshot, Snapshot Sights
+dimwishlist:item=3356526253&perks=1482024992,3142289711,3161816588,957782887  PvP. Less Range, More Handling Shotgun. MW: range
+dimwishlist:item=3356526253&perks=1482024992,679225683,3161816588,957782887  PvP. Less Range, More Handling Shotgun. MW: range
+dimwishlist:item=3356526253&perks=4090651448,3142289711,3161816588,957782887  PvP. Less Range, More Handling Shotgun. MW: range
+dimwishlist:item=3356526253&perks=4090651448,679225683,3161816588,957782887  PvP. Less Range, More Handling Shotgun. MW: range
+// Threat Detector, Opening Shot
+dimwishlist:item=3356526253&perks=1482024992,3142289711,4071163871,47981717  PvP. Less Range, More Handling Shotgun. MW: range
+dimwishlist:item=3356526253&perks=1482024992,679225683,4071163871,47981717  PvP. Less Range, More Handling Shotgun. MW: range
+dimwishlist:item=3356526253&perks=4090651448,3142289711,4071163871,47981717  PvP. Less Range, More Handling Shotgun. MW: range
+dimwishlist:item=3356526253&perks=4090651448,679225683,4071163871,47981717  PvP. Less Range, More Handling Shotgun. MW: range
+// Threat Detector, Snapshot Sights
+dimwishlist:item=3356526253&perks=1482024992,3142289711,4071163871,957782887  PvP. Less Range, More Handling Shotgun. MW: range
+dimwishlist:item=3356526253&perks=1482024992,679225683,4071163871,957782887  PvP. Less Range, More Handling Shotgun. MW: range
+dimwishlist:item=3356526253&perks=4090651448,3142289711,4071163871,957782887  PvP. Less Range, More Handling Shotgun. MW: range
+dimwishlist:item=3356526253&perks=4090651448,679225683,4071163871,957782887  PvP. Less Range, More Handling Shotgun. MW: range
+// Wishbringer
+// Threat Detector, Rampage
+dimwishlist:item=3356526253&perks=1482024992,1087426260,4071163871,3425386926  PvE. Melee. MW: range
+dimwishlist:item=3356526253&perks=1482024992,106909392,4071163871,3425386926  PvE. Melee. MW: range
+dimwishlist:item=3356526253&perks=1482024992,2420895100,4071163871,3425386926  PvE. Melee. MW: range
+dimwishlist:item=3356526253&perks=1482024992,3142289711,4071163871,3425386926  PvE. Melee. MW: range
+dimwishlist:item=3356526253&perks=4090651448,1087426260,4071163871,3425386926  PvE. Melee. MW: range
+dimwishlist:item=3356526253&perks=4090651448,106909392,4071163871,3425386926  PvE. Melee. MW: range
+dimwishlist:item=3356526253&perks=4090651448,2420895100,4071163871,3425386926  PvE. Melee. MW: range
+dimwishlist:item=3356526253&perks=4090651448,3142289711,4071163871,3425386926  PvE. Melee. MW: range
+dimwishlist:item=3356526253&perks=1047830412,1087426260,4071163871,3425386926  PvE. Melee. MW: range
+dimwishlist:item=3356526253&perks=1047830412,106909392,4071163871,3425386926  PvE. Melee. MW: range
+dimwishlist:item=3356526253&perks=1047830412,2420895100,4071163871,3425386926  PvE. Melee. MW: range
+dimwishlist:item=3356526253&perks=1047830412,3142289711,4071163871,3425386926  PvE. Melee. MW: range
+dimwishlist:item=3356526253&perks=1332244541,1087426260,4071163871,3425386926  PvE. Melee. MW: range
+dimwishlist:item=3356526253&perks=1332244541,106909392,4071163871,3425386926  PvE. Melee. MW: range
+dimwishlist:item=3356526253&perks=1332244541,2420895100,4071163871,3425386926  PvE. Melee. MW: range
+dimwishlist:item=3356526253&perks=1332244541,3142289711,4071163871,3425386926  PvE. Melee. MW: range
+// Threat Detector, Auto Loading Holster
+dimwishlist:item=3356526253&perks=1482024992,1087426260,4071163871,3300816228  PvE. Melee. MW: range
+dimwishlist:item=3356526253&perks=1482024992,106909392,4071163871,3300816228  PvE. Melee. MW: range
+dimwishlist:item=3356526253&perks=1482024992,2420895100,4071163871,3300816228  PvE. Melee. MW: range
+dimwishlist:item=3356526253&perks=1482024992,3142289711,4071163871,3300816228  PvE. Melee. MW: range
+dimwishlist:item=3356526253&perks=4090651448,1087426260,4071163871,3300816228  PvE. Melee. MW: range
+dimwishlist:item=3356526253&perks=4090651448,106909392,4071163871,3300816228  PvE. Melee. MW: range
+dimwishlist:item=3356526253&perks=4090651448,2420895100,4071163871,3300816228  PvE. Melee. MW: range
+dimwishlist:item=3356526253&perks=4090651448,3142289711,4071163871,3300816228  PvE. Melee. MW: range
+dimwishlist:item=3356526253&perks=1047830412,1087426260,4071163871,3300816228  PvE. Melee. MW: range
+dimwishlist:item=3356526253&perks=1047830412,106909392,4071163871,3300816228  PvE. Melee. MW: range
+dimwishlist:item=3356526253&perks=1047830412,2420895100,4071163871,3300816228  PvE. Melee. MW: range
+dimwishlist:item=3356526253&perks=1047830412,3142289711,4071163871,3300816228  PvE. Melee. MW: range
+dimwishlist:item=3356526253&perks=1332244541,1087426260,4071163871,3300816228  PvE. Melee. MW: range
+dimwishlist:item=3356526253&perks=1332244541,106909392,4071163871,3300816228  PvE. Melee. MW: range
+dimwishlist:item=3356526253&perks=1332244541,2420895100,4071163871,3300816228  PvE. Melee. MW: range
+dimwishlist:item=3356526253&perks=1332244541,3142289711,4071163871,3300816228  PvE. Melee. MW: range
+
+
 // Lonesome
 // Rapid Hit, Kill Clip
 dimwishlist:item=2199171672&perks=202670084,1561002382,247725512,1015611457  PvP. MW: range, stability
