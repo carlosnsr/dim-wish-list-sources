@@ -9,18 +9,48 @@ dimwishlist:item=821154603&perks=3250034553,3142289711,1890422124,1015611457  Pv
 dimwishlist:item=821154603&perks=1467527085,3142289711,1890422124,1015611457  PvP. Tap the Trigger + Kill Clip as recommended by PattyCakes. MW: range, stability, handling
 dimwishlist:item=821154603&perks=1482024992,3142289711,1890422124,1015611457  PvP. Tap the Trigger + Kill Clip as recommended by PattyCakes. MW: range, stability, handling
 dimwishlist:item=821154603&perks=4090651448,3142289711,1890422124,1015611457  PvP. Tap the Trigger + Kill Clip as recommended by PattyCakes. MW: range, stability, handling
+// Zen Moment, Kill Clip
+dimwishlist:item=821154603&perks=202670084,3142289711,2387244414,1015611457  PvP. Tap the Trigger + Kill Clip as recommended by PattyCakes. MW: range, stability, handling
+dimwishlist:item=821154603&perks=3250034553,3142289711,2387244414,1015611457  PvP. Tap the Trigger + Kill Clip as recommended by PattyCakes. MW: range, stability, handling
+dimwishlist:item=821154603&perks=1467527085,3142289711,2387244414,1015611457  PvP. Tap the Trigger + Kill Clip as recommended by PattyCakes. MW: range, stability, handling
+dimwishlist:item=821154603&perks=1482024992,3142289711,2387244414,1015611457  PvP. Tap the Trigger + Kill Clip as recommended by PattyCakes. MW: range, stability, handling
+dimwishlist:item=821154603&perks=4090651448,3142289711,2387244414,1015611457  PvP. Tap the Trigger + Kill Clip as recommended by PattyCakes. MW: range, stability, handling
 // Tap The Trigger, Multikill Clip
 dimwishlist:item=821154603&perks=202670084,3142289711,1890422124,2458213969  PvP. MW: range, stability, handling
 dimwishlist:item=821154603&perks=3250034553,3142289711,1890422124,2458213969  PvP. MW: range, stability, handling
 dimwishlist:item=821154603&perks=1467527085,3142289711,1890422124,2458213969  PvP. MW: range, stability, handling
 dimwishlist:item=821154603&perks=1482024992,3142289711,1890422124,2458213969  PvP. MW: range, stability, handling
 dimwishlist:item=821154603&perks=4090651448,3142289711,1890422124,2458213969  PvP. MW: range, stability, handling
+// Tap The Trigger, Rampage
+dimwishlist:item=821154603&perks=202670084,3142289711,1890422124,3425386926  PvP. MW: range, stability, handling
+dimwishlist:item=821154603&perks=3250034553,3142289711,1890422124,3425386926  PvP. MW: range, stability, handling
+dimwishlist:item=821154603&perks=1467527085,3142289711,1890422124,3425386926  PvP. MW: range, stability, handling
+dimwishlist:item=821154603&perks=1482024992,3142289711,1890422124,3425386926  PvP. MW: range, stability, handling
+dimwishlist:item=821154603&perks=4090651448,3142289711,1890422124,3425386926  PvP. MW: range, stability, handling
 // Tap The Trigger, Demolitionist
 dimwishlist:item=821154603&perks=202670084,3142289711,1890422124,3523296417  PvP. MW: range, stability, handling
 dimwishlist:item=821154603&perks=3250034553,3142289711,1890422124,3523296417  PvP. MW: range, stability, handling
 dimwishlist:item=821154603&perks=1467527085,3142289711,1890422124,3523296417  PvP. MW: range, stability, handling
 dimwishlist:item=821154603&perks=1482024992,3142289711,1890422124,3523296417  PvP. MW: range, stability, handling
 dimwishlist:item=821154603&perks=4090651448,3142289711,1890422124,3523296417  PvP. MW: range, stability, handling
+// Zen Moment, Multikill Clip
+dimwishlist:item=821154603&perks=202670084,3142289711,2387244414,2458213969  PvP. MW: range, stability, handling
+dimwishlist:item=821154603&perks=3250034553,3142289711,2387244414,2458213969  PvP. MW: range, stability, handling
+dimwishlist:item=821154603&perks=1467527085,3142289711,2387244414,2458213969  PvP. MW: range, stability, handling
+dimwishlist:item=821154603&perks=1482024992,3142289711,2387244414,2458213969  PvP. MW: range, stability, handling
+dimwishlist:item=821154603&perks=4090651448,3142289711,2387244414,2458213969  PvP. MW: range, stability, handling
+// Zen Moment, Rampage
+dimwishlist:item=821154603&perks=202670084,3142289711,2387244414,3425386926  PvP. MW: range, stability, handling
+dimwishlist:item=821154603&perks=3250034553,3142289711,2387244414,3425386926  PvP. MW: range, stability, handling
+dimwishlist:item=821154603&perks=1467527085,3142289711,2387244414,3425386926  PvP. MW: range, stability, handling
+dimwishlist:item=821154603&perks=1482024992,3142289711,2387244414,3425386926  PvP. MW: range, stability, handling
+dimwishlist:item=821154603&perks=4090651448,3142289711,2387244414,3425386926  PvP. MW: range, stability, handling
+// Zen Moment, Demolitionist
+dimwishlist:item=821154603&perks=202670084,3142289711,2387244414,3523296417  PvP. MW: range, stability, handling
+dimwishlist:item=821154603&perks=3250034553,3142289711,2387244414,3523296417  PvP. MW: range, stability, handling
+dimwishlist:item=821154603&perks=1467527085,3142289711,2387244414,3523296417  PvP. MW: range, stability, handling
+dimwishlist:item=821154603&perks=1482024992,3142289711,2387244414,3523296417  PvP. MW: range, stability, handling
+dimwishlist:item=821154603&perks=4090651448,3142289711,2387244414,3523296417  PvP. MW: range, stability, handling
 // Gnawing Hunger
 //notes: Extra magazine size to keep shooting for longer
 // Field Prep, Rampage
