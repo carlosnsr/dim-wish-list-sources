@@ -2104,6 +2104,226 @@ dimwishlist:item=3504336176&perks=4090651448,106909392,1168162263,3038247973  Pv
 dimwishlist:item=3504336176&perks=4090651448,1087426260,1168162263,3038247973  PvP. MW: range
 
 
+// First In Last Out
+//notes: See Aztecross's video (https://www.youtube.com/watch?v=Vj1tNWkP9Fg)
+// Hip Fire Grip, Opening Shot
+dimwishlist:item=3616586446&perks=202670084,3142289711,1866048759,47981717  PvP. Range Shotgun.  Hip-Fire grip is great for accuracy and aim assist, and there's no need to ADS.  Great for close-quarters combat, especially versus other Shotgunners.  Vorpal for a Super two-tap killer. MW: range
+dimwishlist:item=3616586446&perks=202670084,679225683,1866048759,47981717  PvP. Range Shotgun.  Hip-Fire grip is great for accuracy and aim assist, and there's no need to ADS.  Great for close-quarters combat, especially versus other Shotgunners.  Vorpal for a Super two-tap killer. MW: range
+dimwishlist:item=3616586446&perks=202670084,791862061,1866048759,47981717  PvP. Range Shotgun.  Hip-Fire grip is great for accuracy and aim assist, and there's no need to ADS.  Great for close-quarters combat, especially versus other Shotgunners.  Vorpal for a Super two-tap killer. MW: range
+dimwishlist:item=3616586446&perks=202670084,106909392,1866048759,47981717  PvP. Range Shotgun.  Hip-Fire grip is great for accuracy and aim assist, and there's no need to ADS.  Great for close-quarters combat, especially versus other Shotgunners.  Vorpal for a Super two-tap killer. MW: range
+dimwishlist:item=3616586446&perks=3250034553,3142289711,1866048759,47981717  PvP. Range Shotgun.  Hip-Fire grip is great for accuracy and aim assist, and there's no need to ADS.  Great for close-quarters combat, especially versus other Shotgunners.  Vorpal for a Super two-tap killer. MW: range
+dimwishlist:item=3616586446&perks=3250034553,679225683,1866048759,47981717  PvP. Range Shotgun.  Hip-Fire grip is great for accuracy and aim assist, and there's no need to ADS.  Great for close-quarters combat, especially versus other Shotgunners.  Vorpal for a Super two-tap killer. MW: range
+dimwishlist:item=3616586446&perks=3250034553,791862061,1866048759,47981717  PvP. Range Shotgun.  Hip-Fire grip is great for accuracy and aim assist, and there's no need to ADS.  Great for close-quarters combat, especially versus other Shotgunners.  Vorpal for a Super two-tap killer. MW: range
+dimwishlist:item=3616586446&perks=3250034553,106909392,1866048759,47981717  PvP. Range Shotgun.  Hip-Fire grip is great for accuracy and aim assist, and there's no need to ADS.  Great for close-quarters combat, especially versus other Shotgunners.  Vorpal for a Super two-tap killer. MW: range
+dimwishlist:item=3616586446&perks=1467527085,3142289711,1866048759,47981717  PvP. Range Shotgun.  Hip-Fire grip is great for accuracy and aim assist, and there's no need to ADS.  Great for close-quarters combat, especially versus other Shotgunners.  Vorpal for a Super two-tap killer. MW: range
+dimwishlist:item=3616586446&perks=1467527085,679225683,1866048759,47981717  PvP. Range Shotgun.  Hip-Fire grip is great for accuracy and aim assist, and there's no need to ADS.  Great for close-quarters combat, especially versus other Shotgunners.  Vorpal for a Super two-tap killer. MW: range
+dimwishlist:item=3616586446&perks=1467527085,791862061,1866048759,47981717  PvP. Range Shotgun.  Hip-Fire grip is great for accuracy and aim assist, and there's no need to ADS.  Great for close-quarters combat, especially versus other Shotgunners.  Vorpal for a Super two-tap killer. MW: range
+dimwishlist:item=3616586446&perks=1467527085,106909392,1866048759,47981717  PvP. Range Shotgun.  Hip-Fire grip is great for accuracy and aim assist, and there's no need to ADS.  Great for close-quarters combat, especially versus other Shotgunners.  Vorpal for a Super two-tap killer. MW: range
+// Hip Fire Grip, Vorpal Weapon
+dimwishlist:item=3616586446&perks=202670084,3142289711,1866048759,1546637391  PvP. Range Shotgun.  Hip-Fire grip is great for accuracy and aim assist, and there's no need to ADS.  Great for close-quarters combat, especially versus other Shotgunners.  Vorpal for a Super two-tap killer. MW: range
+dimwishlist:item=3616586446&perks=202670084,679225683,1866048759,1546637391  PvP. Range Shotgun.  Hip-Fire grip is great for accuracy and aim assist, and there's no need to ADS.  Great for close-quarters combat, especially versus other Shotgunners.  Vorpal for a Super two-tap killer. MW: range
+dimwishlist:item=3616586446&perks=202670084,791862061,1866048759,1546637391  PvP. Range Shotgun.  Hip-Fire grip is great for accuracy and aim assist, and there's no need to ADS.  Great for close-quarters combat, especially versus other Shotgunners.  Vorpal for a Super two-tap killer. MW: range
+dimwishlist:item=3616586446&perks=202670084,106909392,1866048759,1546637391  PvP. Range Shotgun.  Hip-Fire grip is great for accuracy and aim assist, and there's no need to ADS.  Great for close-quarters combat, especially versus other Shotgunners.  Vorpal for a Super two-tap killer. MW: range
+dimwishlist:item=3616586446&perks=3250034553,3142289711,1866048759,1546637391  PvP. Range Shotgun.  Hip-Fire grip is great for accuracy and aim assist, and there's no need to ADS.  Great for close-quarters combat, especially versus other Shotgunners.  Vorpal for a Super two-tap killer. MW: range
+dimwishlist:item=3616586446&perks=3250034553,679225683,1866048759,1546637391  PvP. Range Shotgun.  Hip-Fire grip is great for accuracy and aim assist, and there's no need to ADS.  Great for close-quarters combat, especially versus other Shotgunners.  Vorpal for a Super two-tap killer. MW: range
+dimwishlist:item=3616586446&perks=3250034553,791862061,1866048759,1546637391  PvP. Range Shotgun.  Hip-Fire grip is great for accuracy and aim assist, and there's no need to ADS.  Great for close-quarters combat, especially versus other Shotgunners.  Vorpal for a Super two-tap killer. MW: range
+dimwishlist:item=3616586446&perks=3250034553,106909392,1866048759,1546637391  PvP. Range Shotgun.  Hip-Fire grip is great for accuracy and aim assist, and there's no need to ADS.  Great for close-quarters combat, especially versus other Shotgunners.  Vorpal for a Super two-tap killer. MW: range
+dimwishlist:item=3616586446&perks=1467527085,3142289711,1866048759,1546637391  PvP. Range Shotgun.  Hip-Fire grip is great for accuracy and aim assist, and there's no need to ADS.  Great for close-quarters combat, especially versus other Shotgunners.  Vorpal for a Super two-tap killer. MW: range
+dimwishlist:item=3616586446&perks=1467527085,679225683,1866048759,1546637391  PvP. Range Shotgun.  Hip-Fire grip is great for accuracy and aim assist, and there's no need to ADS.  Great for close-quarters combat, especially versus other Shotgunners.  Vorpal for a Super two-tap killer. MW: range
+dimwishlist:item=3616586446&perks=1467527085,791862061,1866048759,1546637391  PvP. Range Shotgun.  Hip-Fire grip is great for accuracy and aim assist, and there's no need to ADS.  Great for close-quarters combat, especially versus other Shotgunners.  Vorpal for a Super two-tap killer. MW: range
+dimwishlist:item=3616586446&perks=1467527085,106909392,1866048759,1546637391  PvP. Range Shotgun.  Hip-Fire grip is great for accuracy and aim assist, and there's no need to ADS.  Great for close-quarters combat, especially versus other Shotgunners.  Vorpal for a Super two-tap killer. MW: range
+// Slideshot, Opening Shot
+dimwishlist:item=3616586446&perks=202670084,3142289711,3161816588,47981717  PvP. Range Shotgun.  Slideshot & Opening Shot stack for a high-range kill.  Vorpal for a Super killer. MW: range
+dimwishlist:item=3616586446&perks=202670084,679225683,3161816588,47981717  PvP. Range Shotgun.  Slideshot & Opening Shot stack for a high-range kill.  Vorpal for a Super killer. MW: range
+dimwishlist:item=3616586446&perks=202670084,791862061,3161816588,47981717  PvP. Range Shotgun.  Slideshot & Opening Shot stack for a high-range kill.  Vorpal for a Super killer. MW: range
+dimwishlist:item=3616586446&perks=202670084,106909392,3161816588,47981717  PvP. Range Shotgun.  Slideshot & Opening Shot stack for a high-range kill.  Vorpal for a Super killer. MW: range
+dimwishlist:item=3616586446&perks=3250034553,3142289711,3161816588,47981717  PvP. Range Shotgun.  Slideshot & Opening Shot stack for a high-range kill.  Vorpal for a Super killer. MW: range
+dimwishlist:item=3616586446&perks=3250034553,679225683,3161816588,47981717  PvP. Range Shotgun.  Slideshot & Opening Shot stack for a high-range kill.  Vorpal for a Super killer. MW: range
+dimwishlist:item=3616586446&perks=3250034553,791862061,3161816588,47981717  PvP. Range Shotgun.  Slideshot & Opening Shot stack for a high-range kill.  Vorpal for a Super killer. MW: range
+dimwishlist:item=3616586446&perks=3250034553,106909392,3161816588,47981717  PvP. Range Shotgun.  Slideshot & Opening Shot stack for a high-range kill.  Vorpal for a Super killer. MW: range
+dimwishlist:item=3616586446&perks=1467527085,3142289711,3161816588,47981717  PvP. Range Shotgun.  Slideshot & Opening Shot stack for a high-range kill.  Vorpal for a Super killer. MW: range
+dimwishlist:item=3616586446&perks=1467527085,679225683,3161816588,47981717  PvP. Range Shotgun.  Slideshot & Opening Shot stack for a high-range kill.  Vorpal for a Super killer. MW: range
+dimwishlist:item=3616586446&perks=1467527085,791862061,3161816588,47981717  PvP. Range Shotgun.  Slideshot & Opening Shot stack for a high-range kill.  Vorpal for a Super killer. MW: range
+dimwishlist:item=3616586446&perks=1467527085,106909392,3161816588,47981717  PvP. Range Shotgun.  Slideshot & Opening Shot stack for a high-range kill.  Vorpal for a Super killer. MW: range
+// Slideshot, Vorpal Weapon
+dimwishlist:item=3616586446&perks=202670084,3142289711,3161816588,1546637391  PvP. Range Shotgun.  Slideshot & Opening Shot stack for a high-range kill.  Vorpal for a Super killer. MW: range
+dimwishlist:item=3616586446&perks=202670084,679225683,3161816588,1546637391  PvP. Range Shotgun.  Slideshot & Opening Shot stack for a high-range kill.  Vorpal for a Super killer. MW: range
+dimwishlist:item=3616586446&perks=202670084,791862061,3161816588,1546637391  PvP. Range Shotgun.  Slideshot & Opening Shot stack for a high-range kill.  Vorpal for a Super killer. MW: range
+dimwishlist:item=3616586446&perks=202670084,106909392,3161816588,1546637391  PvP. Range Shotgun.  Slideshot & Opening Shot stack for a high-range kill.  Vorpal for a Super killer. MW: range
+dimwishlist:item=3616586446&perks=3250034553,3142289711,3161816588,1546637391  PvP. Range Shotgun.  Slideshot & Opening Shot stack for a high-range kill.  Vorpal for a Super killer. MW: range
+dimwishlist:item=3616586446&perks=3250034553,679225683,3161816588,1546637391  PvP. Range Shotgun.  Slideshot & Opening Shot stack for a high-range kill.  Vorpal for a Super killer. MW: range
+dimwishlist:item=3616586446&perks=3250034553,791862061,3161816588,1546637391  PvP. Range Shotgun.  Slideshot & Opening Shot stack for a high-range kill.  Vorpal for a Super killer. MW: range
+dimwishlist:item=3616586446&perks=3250034553,106909392,3161816588,1546637391  PvP. Range Shotgun.  Slideshot & Opening Shot stack for a high-range kill.  Vorpal for a Super killer. MW: range
+dimwishlist:item=3616586446&perks=1467527085,3142289711,3161816588,1546637391  PvP. Range Shotgun.  Slideshot & Opening Shot stack for a high-range kill.  Vorpal for a Super killer. MW: range
+dimwishlist:item=3616586446&perks=1467527085,679225683,3161816588,1546637391  PvP. Range Shotgun.  Slideshot & Opening Shot stack for a high-range kill.  Vorpal for a Super killer. MW: range
+dimwishlist:item=3616586446&perks=1467527085,791862061,3161816588,1546637391  PvP. Range Shotgun.  Slideshot & Opening Shot stack for a high-range kill.  Vorpal for a Super killer. MW: range
+dimwishlist:item=3616586446&perks=1467527085,106909392,3161816588,1546637391  PvP. Range Shotgun.  Slideshot & Opening Shot stack for a high-range kill.  Vorpal for a Super killer. MW: range
+// First In Last Out
+// Hip Fire Grip, Opening Shot
+dimwishlist:item=3616586446&perks=1482024992,791862061,1866048759,47981717  PvP. Range Shotgun.  Hip-Fire grip is great for accuracy and aim assist.  Vorpal for a Super killer. MW: range
+dimwishlist:item=3616586446&perks=1482024992,3142289711,1866048759,47981717  PvP. Range Shotgun.  Hip-Fire grip is great for accuracy and aim assist.  Vorpal for a Super killer. MW: range
+dimwishlist:item=3616586446&perks=1482024992,679225683,1866048759,47981717  PvP. Range Shotgun.  Hip-Fire grip is great for accuracy and aim assist.  Vorpal for a Super killer. MW: range
+dimwishlist:item=3616586446&perks=1482024992,106909392,1866048759,47981717  PvP. Range Shotgun.  Hip-Fire grip is great for accuracy and aim assist.  Vorpal for a Super killer. MW: range
+dimwishlist:item=3616586446&perks=4090651448,791862061,1866048759,47981717  PvP. Range Shotgun.  Hip-Fire grip is great for accuracy and aim assist.  Vorpal for a Super killer. MW: range
+dimwishlist:item=3616586446&perks=4090651448,3142289711,1866048759,47981717  PvP. Range Shotgun.  Hip-Fire grip is great for accuracy and aim assist.  Vorpal for a Super killer. MW: range
+dimwishlist:item=3616586446&perks=4090651448,679225683,1866048759,47981717  PvP. Range Shotgun.  Hip-Fire grip is great for accuracy and aim assist.  Vorpal for a Super killer. MW: range
+dimwishlist:item=3616586446&perks=4090651448,106909392,1866048759,47981717  PvP. Range Shotgun.  Hip-Fire grip is great for accuracy and aim assist.  Vorpal for a Super killer. MW: range
+// Hip Fire Grip, Vorpal Weapon
+dimwishlist:item=3616586446&perks=1482024992,791862061,1866048759,1546637391  PvP. Range Shotgun.  Hip-Fire grip is great for accuracy and aim assist.  Vorpal for a Super killer. MW: range
+dimwishlist:item=3616586446&perks=1482024992,3142289711,1866048759,1546637391  PvP. Range Shotgun.  Hip-Fire grip is great for accuracy and aim assist.  Vorpal for a Super killer. MW: range
+dimwishlist:item=3616586446&perks=1482024992,679225683,1866048759,1546637391  PvP. Range Shotgun.  Hip-Fire grip is great for accuracy and aim assist.  Vorpal for a Super killer. MW: range
+dimwishlist:item=3616586446&perks=1482024992,106909392,1866048759,1546637391  PvP. Range Shotgun.  Hip-Fire grip is great for accuracy and aim assist.  Vorpal for a Super killer. MW: range
+dimwishlist:item=3616586446&perks=4090651448,791862061,1866048759,1546637391  PvP. Range Shotgun.  Hip-Fire grip is great for accuracy and aim assist.  Vorpal for a Super killer. MW: range
+dimwishlist:item=3616586446&perks=4090651448,3142289711,1866048759,1546637391  PvP. Range Shotgun.  Hip-Fire grip is great for accuracy and aim assist.  Vorpal for a Super killer. MW: range
+dimwishlist:item=3616586446&perks=4090651448,679225683,1866048759,1546637391  PvP. Range Shotgun.  Hip-Fire grip is great for accuracy and aim assist.  Vorpal for a Super killer. MW: range
+dimwishlist:item=3616586446&perks=4090651448,106909392,1866048759,1546637391  PvP. Range Shotgun.  Hip-Fire grip is great for accuracy and aim assist.  Vorpal for a Super killer. MW: range
+// Slideshot, Opening Shot
+dimwishlist:item=3616586446&perks=1482024992,791862061,3161816588,47981717  PvP. Range Shotgun.  Slideshot & Opening Shot stack for a high-range kill.  Vorpal for a Super killer. MW: range
+dimwishlist:item=3616586446&perks=1482024992,3142289711,3161816588,47981717  PvP. Range Shotgun.  Slideshot & Opening Shot stack for a high-range kill.  Vorpal for a Super killer. MW: range
+dimwishlist:item=3616586446&perks=1482024992,679225683,3161816588,47981717  PvP. Range Shotgun.  Slideshot & Opening Shot stack for a high-range kill.  Vorpal for a Super killer. MW: range
+dimwishlist:item=3616586446&perks=1482024992,106909392,3161816588,47981717  PvP. Range Shotgun.  Slideshot & Opening Shot stack for a high-range kill.  Vorpal for a Super killer. MW: range
+dimwishlist:item=3616586446&perks=4090651448,791862061,3161816588,47981717  PvP. Range Shotgun.  Slideshot & Opening Shot stack for a high-range kill.  Vorpal for a Super killer. MW: range
+dimwishlist:item=3616586446&perks=4090651448,3142289711,3161816588,47981717  PvP. Range Shotgun.  Slideshot & Opening Shot stack for a high-range kill.  Vorpal for a Super killer. MW: range
+dimwishlist:item=3616586446&perks=4090651448,679225683,3161816588,47981717  PvP. Range Shotgun.  Slideshot & Opening Shot stack for a high-range kill.  Vorpal for a Super killer. MW: range
+dimwishlist:item=3616586446&perks=4090651448,106909392,3161816588,47981717  PvP. Range Shotgun.  Slideshot & Opening Shot stack for a high-range kill.  Vorpal for a Super killer. MW: range
+// Slideshot, Vorpal Weapon
+dimwishlist:item=3616586446&perks=1482024992,791862061,3161816588,1546637391  PvP. Range Shotgun.  Slideshot & Opening Shot stack for a high-range kill.  Vorpal for a Super killer. MW: range
+dimwishlist:item=3616586446&perks=1482024992,3142289711,3161816588,1546637391  PvP. Range Shotgun.  Slideshot & Opening Shot stack for a high-range kill.  Vorpal for a Super killer. MW: range
+dimwishlist:item=3616586446&perks=1482024992,679225683,3161816588,1546637391  PvP. Range Shotgun.  Slideshot & Opening Shot stack for a high-range kill.  Vorpal for a Super killer. MW: range
+dimwishlist:item=3616586446&perks=1482024992,106909392,3161816588,1546637391  PvP. Range Shotgun.  Slideshot & Opening Shot stack for a high-range kill.  Vorpal for a Super killer. MW: range
+dimwishlist:item=3616586446&perks=4090651448,791862061,3161816588,1546637391  PvP. Range Shotgun.  Slideshot & Opening Shot stack for a high-range kill.  Vorpal for a Super killer. MW: range
+dimwishlist:item=3616586446&perks=4090651448,3142289711,3161816588,1546637391  PvP. Range Shotgun.  Slideshot & Opening Shot stack for a high-range kill.  Vorpal for a Super killer. MW: range
+dimwishlist:item=3616586446&perks=4090651448,679225683,3161816588,1546637391  PvP. Range Shotgun.  Slideshot & Opening Shot stack for a high-range kill.  Vorpal for a Super killer. MW: range
+dimwishlist:item=3616586446&perks=4090651448,106909392,3161816588,1546637391  PvP. Range Shotgun.  Slideshot & Opening Shot stack for a high-range kill.  Vorpal for a Super killer. MW: range
+// First In Last Out
+// Auto Loading Holster, Demolitionist
+dimwishlist:item=3616586446&perks=3250034553,791862061,3300816228,3523296417  PvE. MW: range
+dimwishlist:item=3616586446&perks=3250034553,106909392,3300816228,3523296417  PvE. MW: range
+dimwishlist:item=3616586446&perks=3250034553,679225683,3300816228,3523296417  PvE. MW: range
+dimwishlist:item=3616586446&perks=3250034553,3142289711,3300816228,3523296417  PvE. MW: range
+dimwishlist:item=3616586446&perks=1482024992,791862061,3300816228,3523296417  PvE. MW: range
+dimwishlist:item=3616586446&perks=1482024992,106909392,3300816228,3523296417  PvE. MW: range
+dimwishlist:item=3616586446&perks=1482024992,679225683,3300816228,3523296417  PvE. MW: range
+dimwishlist:item=3616586446&perks=1482024992,3142289711,3300816228,3523296417  PvE. MW: range
+dimwishlist:item=3616586446&perks=4090651448,791862061,3300816228,3523296417  PvE. MW: range
+dimwishlist:item=3616586446&perks=4090651448,106909392,3300816228,3523296417  PvE. MW: range
+dimwishlist:item=3616586446&perks=4090651448,679225683,3300816228,3523296417  PvE. MW: range
+dimwishlist:item=3616586446&perks=4090651448,3142289711,3300816228,3523296417  PvE. MW: range
+dimwishlist:item=3616586446&perks=1332244541,791862061,3300816228,3523296417  PvE. MW: range
+dimwishlist:item=3616586446&perks=1332244541,106909392,3300816228,3523296417  PvE. MW: range
+dimwishlist:item=3616586446&perks=1332244541,679225683,3300816228,3523296417  PvE. MW: range
+dimwishlist:item=3616586446&perks=1332244541,3142289711,3300816228,3523296417  PvE. MW: range
+dimwishlist:item=3616586446&perks=202670084,791862061,3300816228,3523296417  PvE. MW: range
+dimwishlist:item=3616586446&perks=202670084,106909392,3300816228,3523296417  PvE. MW: range
+dimwishlist:item=3616586446&perks=202670084,679225683,3300816228,3523296417  PvE. MW: range
+dimwishlist:item=3616586446&perks=202670084,3142289711,3300816228,3523296417  PvE. MW: range
+// Auto Loading Holster, Vorpal Weapon
+dimwishlist:item=3616586446&perks=3250034553,791862061,3300816228,1546637391  PvE. MW: range
+dimwishlist:item=3616586446&perks=3250034553,106909392,3300816228,1546637391  PvE. MW: range
+dimwishlist:item=3616586446&perks=3250034553,679225683,3300816228,1546637391  PvE. MW: range
+dimwishlist:item=3616586446&perks=3250034553,3142289711,3300816228,1546637391  PvE. MW: range
+dimwishlist:item=3616586446&perks=1482024992,791862061,3300816228,1546637391  PvE. MW: range
+dimwishlist:item=3616586446&perks=1482024992,106909392,3300816228,1546637391  PvE. MW: range
+dimwishlist:item=3616586446&perks=1482024992,679225683,3300816228,1546637391  PvE. MW: range
+dimwishlist:item=3616586446&perks=1482024992,3142289711,3300816228,1546637391  PvE. MW: range
+dimwishlist:item=3616586446&perks=4090651448,791862061,3300816228,1546637391  PvE. MW: range
+dimwishlist:item=3616586446&perks=4090651448,106909392,3300816228,1546637391  PvE. MW: range
+dimwishlist:item=3616586446&perks=4090651448,679225683,3300816228,1546637391  PvE. MW: range
+dimwishlist:item=3616586446&perks=4090651448,3142289711,3300816228,1546637391  PvE. MW: range
+dimwishlist:item=3616586446&perks=1332244541,791862061,3300816228,1546637391  PvE. MW: range
+dimwishlist:item=3616586446&perks=1332244541,106909392,3300816228,1546637391  PvE. MW: range
+dimwishlist:item=3616586446&perks=1332244541,679225683,3300816228,1546637391  PvE. MW: range
+dimwishlist:item=3616586446&perks=1332244541,3142289711,3300816228,1546637391  PvE. MW: range
+dimwishlist:item=3616586446&perks=202670084,791862061,3300816228,1546637391  PvE. MW: range
+dimwishlist:item=3616586446&perks=202670084,106909392,3300816228,1546637391  PvE. MW: range
+dimwishlist:item=3616586446&perks=202670084,679225683,3300816228,1546637391  PvE. MW: range
+dimwishlist:item=3616586446&perks=202670084,3142289711,3300816228,1546637391  PvE. MW: range
+// Auto Loading Holster, Surrounded
+dimwishlist:item=3616586446&perks=3250034553,791862061,3300816228,3708227201  PvE. MW: range
+dimwishlist:item=3616586446&perks=3250034553,106909392,3300816228,3708227201  PvE. MW: range
+dimwishlist:item=3616586446&perks=3250034553,679225683,3300816228,3708227201  PvE. MW: range
+dimwishlist:item=3616586446&perks=3250034553,3142289711,3300816228,3708227201  PvE. MW: range
+dimwishlist:item=3616586446&perks=1482024992,791862061,3300816228,3708227201  PvE. MW: range
+dimwishlist:item=3616586446&perks=1482024992,106909392,3300816228,3708227201  PvE. MW: range
+dimwishlist:item=3616586446&perks=1482024992,679225683,3300816228,3708227201  PvE. MW: range
+dimwishlist:item=3616586446&perks=1482024992,3142289711,3300816228,3708227201  PvE. MW: range
+dimwishlist:item=3616586446&perks=4090651448,791862061,3300816228,3708227201  PvE. MW: range
+dimwishlist:item=3616586446&perks=4090651448,106909392,3300816228,3708227201  PvE. MW: range
+dimwishlist:item=3616586446&perks=4090651448,679225683,3300816228,3708227201  PvE. MW: range
+dimwishlist:item=3616586446&perks=4090651448,3142289711,3300816228,3708227201  PvE. MW: range
+dimwishlist:item=3616586446&perks=1332244541,791862061,3300816228,3708227201  PvE. MW: range
+dimwishlist:item=3616586446&perks=1332244541,106909392,3300816228,3708227201  PvE. MW: range
+dimwishlist:item=3616586446&perks=1332244541,679225683,3300816228,3708227201  PvE. MW: range
+dimwishlist:item=3616586446&perks=1332244541,3142289711,3300816228,3708227201  PvE. MW: range
+dimwishlist:item=3616586446&perks=202670084,791862061,3300816228,3708227201  PvE. MW: range
+dimwishlist:item=3616586446&perks=202670084,106909392,3300816228,3708227201  PvE. MW: range
+dimwishlist:item=3616586446&perks=202670084,679225683,3300816228,3708227201  PvE. MW: range
+dimwishlist:item=3616586446&perks=202670084,3142289711,3300816228,3708227201  PvE. MW: range
+// Outlaw, Demolitionist
+dimwishlist:item=3616586446&perks=3250034553,791862061,1168162263,3523296417  PvE. MW: range
+dimwishlist:item=3616586446&perks=3250034553,106909392,1168162263,3523296417  PvE. MW: range
+dimwishlist:item=3616586446&perks=3250034553,679225683,1168162263,3523296417  PvE. MW: range
+dimwishlist:item=3616586446&perks=3250034553,3142289711,1168162263,3523296417  PvE. MW: range
+dimwishlist:item=3616586446&perks=1482024992,791862061,1168162263,3523296417  PvE. MW: range
+dimwishlist:item=3616586446&perks=1482024992,106909392,1168162263,3523296417  PvE. MW: range
+dimwishlist:item=3616586446&perks=1482024992,679225683,1168162263,3523296417  PvE. MW: range
+dimwishlist:item=3616586446&perks=1482024992,3142289711,1168162263,3523296417  PvE. MW: range
+dimwishlist:item=3616586446&perks=4090651448,791862061,1168162263,3523296417  PvE. MW: range
+dimwishlist:item=3616586446&perks=4090651448,106909392,1168162263,3523296417  PvE. MW: range
+dimwishlist:item=3616586446&perks=4090651448,679225683,1168162263,3523296417  PvE. MW: range
+dimwishlist:item=3616586446&perks=4090651448,3142289711,1168162263,3523296417  PvE. MW: range
+dimwishlist:item=3616586446&perks=1332244541,791862061,1168162263,3523296417  PvE. MW: range
+dimwishlist:item=3616586446&perks=1332244541,106909392,1168162263,3523296417  PvE. MW: range
+dimwishlist:item=3616586446&perks=1332244541,679225683,1168162263,3523296417  PvE. MW: range
+dimwishlist:item=3616586446&perks=1332244541,3142289711,1168162263,3523296417  PvE. MW: range
+dimwishlist:item=3616586446&perks=202670084,791862061,1168162263,3523296417  PvE. MW: range
+dimwishlist:item=3616586446&perks=202670084,106909392,1168162263,3523296417  PvE. MW: range
+dimwishlist:item=3616586446&perks=202670084,679225683,1168162263,3523296417  PvE. MW: range
+dimwishlist:item=3616586446&perks=202670084,3142289711,1168162263,3523296417  PvE. MW: range
+// Outlaw, Vorpal Weapon
+dimwishlist:item=3616586446&perks=3250034553,791862061,1168162263,1546637391  PvE. MW: range
+dimwishlist:item=3616586446&perks=3250034553,106909392,1168162263,1546637391  PvE. MW: range
+dimwishlist:item=3616586446&perks=3250034553,679225683,1168162263,1546637391  PvE. MW: range
+dimwishlist:item=3616586446&perks=3250034553,3142289711,1168162263,1546637391  PvE. MW: range
+dimwishlist:item=3616586446&perks=1482024992,791862061,1168162263,1546637391  PvE. MW: range
+dimwishlist:item=3616586446&perks=1482024992,106909392,1168162263,1546637391  PvE. MW: range
+dimwishlist:item=3616586446&perks=1482024992,679225683,1168162263,1546637391  PvE. MW: range
+dimwishlist:item=3616586446&perks=1482024992,3142289711,1168162263,1546637391  PvE. MW: range
+dimwishlist:item=3616586446&perks=4090651448,791862061,1168162263,1546637391  PvE. MW: range
+dimwishlist:item=3616586446&perks=4090651448,106909392,1168162263,1546637391  PvE. MW: range
+dimwishlist:item=3616586446&perks=4090651448,679225683,1168162263,1546637391  PvE. MW: range
+dimwishlist:item=3616586446&perks=4090651448,3142289711,1168162263,1546637391  PvE. MW: range
+dimwishlist:item=3616586446&perks=1332244541,791862061,1168162263,1546637391  PvE. MW: range
+dimwishlist:item=3616586446&perks=1332244541,106909392,1168162263,1546637391  PvE. MW: range
+dimwishlist:item=3616586446&perks=1332244541,679225683,1168162263,1546637391  PvE. MW: range
+dimwishlist:item=3616586446&perks=1332244541,3142289711,1168162263,1546637391  PvE. MW: range
+dimwishlist:item=3616586446&perks=202670084,791862061,1168162263,1546637391  PvE. MW: range
+dimwishlist:item=3616586446&perks=202670084,106909392,1168162263,1546637391  PvE. MW: range
+dimwishlist:item=3616586446&perks=202670084,679225683,1168162263,1546637391  PvE. MW: range
+dimwishlist:item=3616586446&perks=202670084,3142289711,1168162263,1546637391  PvE. MW: range
+// Outlaw, Surrounded
+dimwishlist:item=3616586446&perks=3250034553,791862061,1168162263,3708227201  PvE. MW: range
+dimwishlist:item=3616586446&perks=3250034553,106909392,1168162263,3708227201  PvE. MW: range
+dimwishlist:item=3616586446&perks=3250034553,679225683,1168162263,3708227201  PvE. MW: range
+dimwishlist:item=3616586446&perks=3250034553,3142289711,1168162263,3708227201  PvE. MW: range
+dimwishlist:item=3616586446&perks=1482024992,791862061,1168162263,3708227201  PvE. MW: range
+dimwishlist:item=3616586446&perks=1482024992,106909392,1168162263,3708227201  PvE. MW: range
+dimwishlist:item=3616586446&perks=1482024992,679225683,1168162263,3708227201  PvE. MW: range
+dimwishlist:item=3616586446&perks=1482024992,3142289711,1168162263,3708227201  PvE. MW: range
+dimwishlist:item=3616586446&perks=4090651448,791862061,1168162263,3708227201  PvE. MW: range
+dimwishlist:item=3616586446&perks=4090651448,106909392,1168162263,3708227201  PvE. MW: range
+dimwishlist:item=3616586446&perks=4090651448,679225683,1168162263,3708227201  PvE. MW: range
+dimwishlist:item=3616586446&perks=4090651448,3142289711,1168162263,3708227201  PvE. MW: range
+dimwishlist:item=3616586446&perks=1332244541,791862061,1168162263,3708227201  PvE. MW: range
+dimwishlist:item=3616586446&perks=1332244541,106909392,1168162263,3708227201  PvE. MW: range
+dimwishlist:item=3616586446&perks=1332244541,679225683,1168162263,3708227201  PvE. MW: range
+dimwishlist:item=3616586446&perks=1332244541,3142289711,1168162263,3708227201  PvE. MW: range
+dimwishlist:item=3616586446&perks=202670084,791862061,1168162263,3708227201  PvE. MW: range
+dimwishlist:item=3616586446&perks=202670084,106909392,1168162263,3708227201  PvE. MW: range
+dimwishlist:item=3616586446&perks=202670084,679225683,1168162263,3708227201  PvE. MW: range
+dimwishlist:item=3616586446&perks=202670084,3142289711,1168162263,3708227201  PvE. MW: range
+
+
 // Seventh Seraph Cqc 12
 //notes: CQC as a Lightweight weapon is better for closing quickly and high fire-rate for the follow-up shot if needed.  Faster than Mindbender's Ambition or Astral Horizon.  See CoolGuy (https://www.youtube.com/watch?v=KNspWrMBhiQ)
 // Quickdraw, Vorpal Weapon
