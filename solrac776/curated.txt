@@ -1159,6 +1159,219 @@ dimwishlist:item=834081972&perks=1926090092,679225683,3400784728,1015611457  PvE
 dimwishlist:item=834081972&perks=1926090092,3230963543,3400784728,1015611457  PvE. MW: range, reload
 
 
+// True Prophecy
+// Rangefinder, Rampage
+dimwishlist:item=2742838700&perks=1926090091,3142289711,2846385770,3425386926  PvP. MW: range, stability, handling, reload
+dimwishlist:item=2742838700&perks=1926090091,106909392,2846385770,3425386926  PvP. MW: range, stability, handling, reload
+dimwishlist:item=2742838700&perks=1926090091,3230963543,2846385770,3425386926  PvP. MW: range, stability, handling, reload
+dimwishlist:item=2742838700&perks=1926090093,3142289711,2846385770,3425386926  PvP. MW: range, stability, handling, reload
+dimwishlist:item=2742838700&perks=1926090093,106909392,2846385770,3425386926  PvP. MW: range, stability, handling, reload
+dimwishlist:item=2742838700&perks=1926090093,3230963543,2846385770,3425386926  PvP. MW: range, stability, handling, reload
+dimwishlist:item=2742838700&perks=1926090092,3142289711,2846385770,3425386926  PvP. MW: range, stability, handling, reload
+dimwishlist:item=2742838700&perks=1926090092,106909392,2846385770,3425386926  PvP. MW: range, stability, handling, reload
+dimwishlist:item=2742838700&perks=1926090092,3230963543,2846385770,3425386926  PvP. MW: range, stability, handling, reload
+// Rangefinder, Explosive Payload
+dimwishlist:item=2742838700&perks=1926090091,3142289711,2846385770,3038247973  PvP. MW: range, stability, handling, reload
+dimwishlist:item=2742838700&perks=1926090091,106909392,2846385770,3038247973  PvP. MW: range, stability, handling, reload
+dimwishlist:item=2742838700&perks=1926090091,3230963543,2846385770,3038247973  PvP. MW: range, stability, handling, reload
+dimwishlist:item=2742838700&perks=1926090093,3142289711,2846385770,3038247973  PvP. MW: range, stability, handling, reload
+dimwishlist:item=2742838700&perks=1926090093,106909392,2846385770,3038247973  PvP. MW: range, stability, handling, reload
+dimwishlist:item=2742838700&perks=1926090093,3230963543,2846385770,3038247973  PvP. MW: range, stability, handling, reload
+dimwishlist:item=2742838700&perks=1926090092,3142289711,2846385770,3038247973  PvP. MW: range, stability, handling, reload
+dimwishlist:item=2742838700&perks=1926090092,106909392,2846385770,3038247973  PvP. MW: range, stability, handling, reload
+dimwishlist:item=2742838700&perks=1926090092,3230963543,2846385770,3038247973  PvP. MW: range, stability, handling, reload
+// Rangefinder, Timed Payload
+dimwishlist:item=2742838700&perks=1926090091,3142289711,2846385770,1954620775  PvP. MW: range, stability, handling, reload
+dimwishlist:item=2742838700&perks=1926090091,106909392,2846385770,1954620775  PvP. MW: range, stability, handling, reload
+dimwishlist:item=2742838700&perks=1926090091,3230963543,2846385770,1954620775  PvP. MW: range, stability, handling, reload
+dimwishlist:item=2742838700&perks=1926090093,3142289711,2846385770,1954620775  PvP. MW: range, stability, handling, reload
+dimwishlist:item=2742838700&perks=1926090093,106909392,2846385770,1954620775  PvP. MW: range, stability, handling, reload
+dimwishlist:item=2742838700&perks=1926090093,3230963543,2846385770,1954620775  PvP. MW: range, stability, handling, reload
+dimwishlist:item=2742838700&perks=1926090092,3142289711,2846385770,1954620775  PvP. MW: range, stability, handling, reload
+dimwishlist:item=2742838700&perks=1926090092,106909392,2846385770,1954620775  PvP. MW: range, stability, handling, reload
+dimwishlist:item=2742838700&perks=1926090092,3230963543,2846385770,1954620775  PvP. MW: range, stability, handling, reload
+// Rangefinder, Demolitionist
+dimwishlist:item=2742838700&perks=1926090091,3142289711,2846385770,3523296417  PvP. MW: range, stability, handling, reload
+dimwishlist:item=2742838700&perks=1926090091,106909392,2846385770,3523296417  PvP. MW: range, stability, handling, reload
+dimwishlist:item=2742838700&perks=1926090091,3230963543,2846385770,3523296417  PvP. MW: range, stability, handling, reload
+dimwishlist:item=2742838700&perks=1926090093,3142289711,2846385770,3523296417  PvP. MW: range, stability, handling, reload
+dimwishlist:item=2742838700&perks=1926090093,106909392,2846385770,3523296417  PvP. MW: range, stability, handling, reload
+dimwishlist:item=2742838700&perks=1926090093,3230963543,2846385770,3523296417  PvP. MW: range, stability, handling, reload
+dimwishlist:item=2742838700&perks=1926090092,3142289711,2846385770,3523296417  PvP. MW: range, stability, handling, reload
+dimwishlist:item=2742838700&perks=1926090092,106909392,2846385770,3523296417  PvP. MW: range, stability, handling, reload
+dimwishlist:item=2742838700&perks=1926090092,3230963543,2846385770,3523296417  PvP. MW: range, stability, handling, reload
+// Opening Shot, Rampage
+dimwishlist:item=2742838700&perks=1926090091,3142289711,47981717,3425386926  PvP. MW: range, stability, handling, reload
+dimwishlist:item=2742838700&perks=1926090091,106909392,47981717,3425386926  PvP. MW: range, stability, handling, reload
+dimwishlist:item=2742838700&perks=1926090091,3230963543,47981717,3425386926  PvP. MW: range, stability, handling, reload
+dimwishlist:item=2742838700&perks=1926090093,3142289711,47981717,3425386926  PvP. MW: range, stability, handling, reload
+dimwishlist:item=2742838700&perks=1926090093,106909392,47981717,3425386926  PvP. MW: range, stability, handling, reload
+dimwishlist:item=2742838700&perks=1926090093,3230963543,47981717,3425386926  PvP. MW: range, stability, handling, reload
+dimwishlist:item=2742838700&perks=1926090092,3142289711,47981717,3425386926  PvP. MW: range, stability, handling, reload
+dimwishlist:item=2742838700&perks=1926090092,106909392,47981717,3425386926  PvP. MW: range, stability, handling, reload
+dimwishlist:item=2742838700&perks=1926090092,3230963543,47981717,3425386926  PvP. MW: range, stability, handling, reload
+// Opening Shot, Explosive Payload
+dimwishlist:item=2742838700&perks=1926090091,3142289711,47981717,3038247973  PvP. MW: range, stability, handling, reload
+dimwishlist:item=2742838700&perks=1926090091,106909392,47981717,3038247973  PvP. MW: range, stability, handling, reload
+dimwishlist:item=2742838700&perks=1926090091,3230963543,47981717,3038247973  PvP. MW: range, stability, handling, reload
+dimwishlist:item=2742838700&perks=1926090093,3142289711,47981717,3038247973  PvP. MW: range, stability, handling, reload
+dimwishlist:item=2742838700&perks=1926090093,106909392,47981717,3038247973  PvP. MW: range, stability, handling, reload
+dimwishlist:item=2742838700&perks=1926090093,3230963543,47981717,3038247973  PvP. MW: range, stability, handling, reload
+dimwishlist:item=2742838700&perks=1926090092,3142289711,47981717,3038247973  PvP. MW: range, stability, handling, reload
+dimwishlist:item=2742838700&perks=1926090092,106909392,47981717,3038247973  PvP. MW: range, stability, handling, reload
+dimwishlist:item=2742838700&perks=1926090092,3230963543,47981717,3038247973  PvP. MW: range, stability, handling, reload
+// Opening Shot, Timed Payload
+dimwishlist:item=2742838700&perks=1926090091,3142289711,47981717,1954620775  PvP. MW: range, stability, handling, reload
+dimwishlist:item=2742838700&perks=1926090091,106909392,47981717,1954620775  PvP. MW: range, stability, handling, reload
+dimwishlist:item=2742838700&perks=1926090091,3230963543,47981717,1954620775  PvP. MW: range, stability, handling, reload
+dimwishlist:item=2742838700&perks=1926090093,3142289711,47981717,1954620775  PvP. MW: range, stability, handling, reload
+dimwishlist:item=2742838700&perks=1926090093,106909392,47981717,1954620775  PvP. MW: range, stability, handling, reload
+dimwishlist:item=2742838700&perks=1926090093,3230963543,47981717,1954620775  PvP. MW: range, stability, handling, reload
+dimwishlist:item=2742838700&perks=1926090092,3142289711,47981717,1954620775  PvP. MW: range, stability, handling, reload
+dimwishlist:item=2742838700&perks=1926090092,106909392,47981717,1954620775  PvP. MW: range, stability, handling, reload
+dimwishlist:item=2742838700&perks=1926090092,3230963543,47981717,1954620775  PvP. MW: range, stability, handling, reload
+// Opening Shot, Demolitionist
+dimwishlist:item=2742838700&perks=1926090091,3142289711,47981717,3523296417  PvP. MW: range, stability, handling, reload
+dimwishlist:item=2742838700&perks=1926090091,106909392,47981717,3523296417  PvP. MW: range, stability, handling, reload
+dimwishlist:item=2742838700&perks=1926090091,3230963543,47981717,3523296417  PvP. MW: range, stability, handling, reload
+dimwishlist:item=2742838700&perks=1926090093,3142289711,47981717,3523296417  PvP. MW: range, stability, handling, reload
+dimwishlist:item=2742838700&perks=1926090093,106909392,47981717,3523296417  PvP. MW: range, stability, handling, reload
+dimwishlist:item=2742838700&perks=1926090093,3230963543,47981717,3523296417  PvP. MW: range, stability, handling, reload
+dimwishlist:item=2742838700&perks=1926090092,3142289711,47981717,3523296417  PvP. MW: range, stability, handling, reload
+dimwishlist:item=2742838700&perks=1926090092,106909392,47981717,3523296417  PvP. MW: range, stability, handling, reload
+dimwishlist:item=2742838700&perks=1926090092,3230963543,47981717,3523296417  PvP. MW: range, stability, handling, reload
+// Overflow, Rampage
+dimwishlist:item=2742838700&perks=1926090091,3142289711,3643424744,3425386926  PvP. MW: range, stability, handling, reload
+dimwishlist:item=2742838700&perks=1926090091,106909392,3643424744,3425386926  PvP. MW: range, stability, handling, reload
+dimwishlist:item=2742838700&perks=1926090091,3230963543,3643424744,3425386926  PvP. MW: range, stability, handling, reload
+dimwishlist:item=2742838700&perks=1926090093,3142289711,3643424744,3425386926  PvP. MW: range, stability, handling, reload
+dimwishlist:item=2742838700&perks=1926090093,106909392,3643424744,3425386926  PvP. MW: range, stability, handling, reload
+dimwishlist:item=2742838700&perks=1926090093,3230963543,3643424744,3425386926  PvP. MW: range, stability, handling, reload
+dimwishlist:item=2742838700&perks=1926090092,3142289711,3643424744,3425386926  PvP. MW: range, stability, handling, reload
+dimwishlist:item=2742838700&perks=1926090092,106909392,3643424744,3425386926  PvP. MW: range, stability, handling, reload
+dimwishlist:item=2742838700&perks=1926090092,3230963543,3643424744,3425386926  PvP. MW: range, stability, handling, reload
+// Overflow, Explosive Payload
+dimwishlist:item=2742838700&perks=1926090091,3142289711,3643424744,3038247973  PvP. MW: range, stability, handling, reload
+dimwishlist:item=2742838700&perks=1926090091,106909392,3643424744,3038247973  PvP. MW: range, stability, handling, reload
+dimwishlist:item=2742838700&perks=1926090091,3230963543,3643424744,3038247973  PvP. MW: range, stability, handling, reload
+dimwishlist:item=2742838700&perks=1926090093,3142289711,3643424744,3038247973  PvP. MW: range, stability, handling, reload
+dimwishlist:item=2742838700&perks=1926090093,106909392,3643424744,3038247973  PvP. MW: range, stability, handling, reload
+dimwishlist:item=2742838700&perks=1926090093,3230963543,3643424744,3038247973  PvP. MW: range, stability, handling, reload
+dimwishlist:item=2742838700&perks=1926090092,3142289711,3643424744,3038247973  PvP. MW: range, stability, handling, reload
+dimwishlist:item=2742838700&perks=1926090092,106909392,3643424744,3038247973  PvP. MW: range, stability, handling, reload
+dimwishlist:item=2742838700&perks=1926090092,3230963543,3643424744,3038247973  PvP. MW: range, stability, handling, reload
+// Overflow, Timed Payload
+dimwishlist:item=2742838700&perks=1926090091,3142289711,3643424744,1954620775  PvP. MW: range, stability, handling, reload
+dimwishlist:item=2742838700&perks=1926090091,106909392,3643424744,1954620775  PvP. MW: range, stability, handling, reload
+dimwishlist:item=2742838700&perks=1926090091,3230963543,3643424744,1954620775  PvP. MW: range, stability, handling, reload
+dimwishlist:item=2742838700&perks=1926090093,3142289711,3643424744,1954620775  PvP. MW: range, stability, handling, reload
+dimwishlist:item=2742838700&perks=1926090093,106909392,3643424744,1954620775  PvP. MW: range, stability, handling, reload
+dimwishlist:item=2742838700&perks=1926090093,3230963543,3643424744,1954620775  PvP. MW: range, stability, handling, reload
+dimwishlist:item=2742838700&perks=1926090092,3142289711,3643424744,1954620775  PvP. MW: range, stability, handling, reload
+dimwishlist:item=2742838700&perks=1926090092,106909392,3643424744,1954620775  PvP. MW: range, stability, handling, reload
+dimwishlist:item=2742838700&perks=1926090092,3230963543,3643424744,1954620775  PvP. MW: range, stability, handling, reload
+// Overflow, Demolitionist
+dimwishlist:item=2742838700&perks=1926090091,3142289711,3643424744,3523296417  PvP. MW: range, stability, handling, reload
+dimwishlist:item=2742838700&perks=1926090091,106909392,3643424744,3523296417  PvP. MW: range, stability, handling, reload
+dimwishlist:item=2742838700&perks=1926090091,3230963543,3643424744,3523296417  PvP. MW: range, stability, handling, reload
+dimwishlist:item=2742838700&perks=1926090093,3142289711,3643424744,3523296417  PvP. MW: range, stability, handling, reload
+dimwishlist:item=2742838700&perks=1926090093,106909392,3643424744,3523296417  PvP. MW: range, stability, handling, reload
+dimwishlist:item=2742838700&perks=1926090093,3230963543,3643424744,3523296417  PvP. MW: range, stability, handling, reload
+dimwishlist:item=2742838700&perks=1926090092,3142289711,3643424744,3523296417  PvP. MW: range, stability, handling, reload
+dimwishlist:item=2742838700&perks=1926090092,106909392,3643424744,3523296417  PvP. MW: range, stability, handling, reload
+dimwishlist:item=2742838700&perks=1926090092,3230963543,3643424744,3523296417  PvP. MW: range, stability, handling, reload
+// Overflow, Rampage
+dimwishlist:item=2742838700&perks=1926090091,3142289711,3643424744,3425386926  PvE. MW: range, handling, reload
+dimwishlist:item=2742838700&perks=1926090091,106909392,3643424744,3425386926  PvE. MW: range, handling, reload
+dimwishlist:item=2742838700&perks=1926090091,3230963543,3643424744,3425386926  PvE. MW: range, handling, reload
+dimwishlist:item=2742838700&perks=1926090093,3142289711,3643424744,3425386926  PvE. MW: range, handling, reload
+dimwishlist:item=2742838700&perks=1926090093,106909392,3643424744,3425386926  PvE. MW: range, handling, reload
+dimwishlist:item=2742838700&perks=1926090093,3230963543,3643424744,3425386926  PvE. MW: range, handling, reload
+dimwishlist:item=2742838700&perks=1926090092,3142289711,3643424744,3425386926  PvE. MW: range, handling, reload
+dimwishlist:item=2742838700&perks=1926090092,106909392,3643424744,3425386926  PvE. MW: range, handling, reload
+dimwishlist:item=2742838700&perks=1926090092,3230963543,3643424744,3425386926  PvE. MW: range, handling, reload
+// Overflow, Demolitionist
+dimwishlist:item=2742838700&perks=1926090091,3142289711,3643424744,3523296417  PvE. MW: range, handling, reload
+dimwishlist:item=2742838700&perks=1926090091,106909392,3643424744,3523296417  PvE. MW: range, handling, reload
+dimwishlist:item=2742838700&perks=1926090091,3230963543,3643424744,3523296417  PvE. MW: range, handling, reload
+dimwishlist:item=2742838700&perks=1926090093,3142289711,3643424744,3523296417  PvE. MW: range, handling, reload
+dimwishlist:item=2742838700&perks=1926090093,106909392,3643424744,3523296417  PvE. MW: range, handling, reload
+dimwishlist:item=2742838700&perks=1926090093,3230963543,3643424744,3523296417  PvE. MW: range, handling, reload
+dimwishlist:item=2742838700&perks=1926090092,3142289711,3643424744,3523296417  PvE. MW: range, handling, reload
+dimwishlist:item=2742838700&perks=1926090092,106909392,3643424744,3523296417  PvE. MW: range, handling, reload
+dimwishlist:item=2742838700&perks=1926090092,3230963543,3643424744,3523296417  PvE. MW: range, handling, reload
+// Overflow, Explosive Payload
+dimwishlist:item=2742838700&perks=1926090091,3142289711,3643424744,3038247973  PvE. MW: range, handling, reload
+dimwishlist:item=2742838700&perks=1926090091,106909392,3643424744,3038247973  PvE. MW: range, handling, reload
+dimwishlist:item=2742838700&perks=1926090091,3230963543,3643424744,3038247973  PvE. MW: range, handling, reload
+dimwishlist:item=2742838700&perks=1926090093,3142289711,3643424744,3038247973  PvE. MW: range, handling, reload
+dimwishlist:item=2742838700&perks=1926090093,106909392,3643424744,3038247973  PvE. MW: range, handling, reload
+dimwishlist:item=2742838700&perks=1926090093,3230963543,3643424744,3038247973  PvE. MW: range, handling, reload
+dimwishlist:item=2742838700&perks=1926090092,3142289711,3643424744,3038247973  PvE. MW: range, handling, reload
+dimwishlist:item=2742838700&perks=1926090092,106909392,3643424744,3038247973  PvE. MW: range, handling, reload
+dimwishlist:item=2742838700&perks=1926090092,3230963543,3643424744,3038247973  PvE. MW: range, handling, reload
+// Grave Robber, Rampage
+dimwishlist:item=2742838700&perks=1926090091,3142289711,1631667848,3425386926  PvE. MW: range, handling, reload
+dimwishlist:item=2742838700&perks=1926090091,106909392,1631667848,3425386926  PvE. MW: range, handling, reload
+dimwishlist:item=2742838700&perks=1926090091,3230963543,1631667848,3425386926  PvE. MW: range, handling, reload
+dimwishlist:item=2742838700&perks=1926090093,3142289711,1631667848,3425386926  PvE. MW: range, handling, reload
+dimwishlist:item=2742838700&perks=1926090093,106909392,1631667848,3425386926  PvE. MW: range, handling, reload
+dimwishlist:item=2742838700&perks=1926090093,3230963543,1631667848,3425386926  PvE. MW: range, handling, reload
+dimwishlist:item=2742838700&perks=1926090092,3142289711,1631667848,3425386926  PvE. MW: range, handling, reload
+dimwishlist:item=2742838700&perks=1926090092,106909392,1631667848,3425386926  PvE. MW: range, handling, reload
+dimwishlist:item=2742838700&perks=1926090092,3230963543,1631667848,3425386926  PvE. MW: range, handling, reload
+// Grave Robber, Demolitionist
+dimwishlist:item=2742838700&perks=1926090091,3142289711,1631667848,3523296417  PvE. MW: range, handling, reload
+dimwishlist:item=2742838700&perks=1926090091,106909392,1631667848,3523296417  PvE. MW: range, handling, reload
+dimwishlist:item=2742838700&perks=1926090091,3230963543,1631667848,3523296417  PvE. MW: range, handling, reload
+dimwishlist:item=2742838700&perks=1926090093,3142289711,1631667848,3523296417  PvE. MW: range, handling, reload
+dimwishlist:item=2742838700&perks=1926090093,106909392,1631667848,3523296417  PvE. MW: range, handling, reload
+dimwishlist:item=2742838700&perks=1926090093,3230963543,1631667848,3523296417  PvE. MW: range, handling, reload
+dimwishlist:item=2742838700&perks=1926090092,3142289711,1631667848,3523296417  PvE. MW: range, handling, reload
+dimwishlist:item=2742838700&perks=1926090092,106909392,1631667848,3523296417  PvE. MW: range, handling, reload
+dimwishlist:item=2742838700&perks=1926090092,3230963543,1631667848,3523296417  PvE. MW: range, handling, reload
+// Grave Robber, Explosive Payload
+dimwishlist:item=2742838700&perks=1926090091,3142289711,1631667848,3038247973  PvE. MW: range, handling, reload
+dimwishlist:item=2742838700&perks=1926090091,106909392,1631667848,3038247973  PvE. MW: range, handling, reload
+dimwishlist:item=2742838700&perks=1926090091,3230963543,1631667848,3038247973  PvE. MW: range, handling, reload
+dimwishlist:item=2742838700&perks=1926090093,3142289711,1631667848,3038247973  PvE. MW: range, handling, reload
+dimwishlist:item=2742838700&perks=1926090093,106909392,1631667848,3038247973  PvE. MW: range, handling, reload
+dimwishlist:item=2742838700&perks=1926090093,3230963543,1631667848,3038247973  PvE. MW: range, handling, reload
+dimwishlist:item=2742838700&perks=1926090092,3142289711,1631667848,3038247973  PvE. MW: range, handling, reload
+dimwishlist:item=2742838700&perks=1926090092,106909392,1631667848,3038247973  PvE. MW: range, handling, reload
+dimwishlist:item=2742838700&perks=1926090092,3230963543,1631667848,3038247973  PvE. MW: range, handling, reload
+// Field Prep, Rampage
+dimwishlist:item=2742838700&perks=1926090091,3142289711,2869569095,3425386926  PvE. MW: range, handling, reload
+dimwishlist:item=2742838700&perks=1926090091,106909392,2869569095,3425386926  PvE. MW: range, handling, reload
+dimwishlist:item=2742838700&perks=1926090091,3230963543,2869569095,3425386926  PvE. MW: range, handling, reload
+dimwishlist:item=2742838700&perks=1926090093,3142289711,2869569095,3425386926  PvE. MW: range, handling, reload
+dimwishlist:item=2742838700&perks=1926090093,106909392,2869569095,3425386926  PvE. MW: range, handling, reload
+dimwishlist:item=2742838700&perks=1926090093,3230963543,2869569095,3425386926  PvE. MW: range, handling, reload
+dimwishlist:item=2742838700&perks=1926090092,3142289711,2869569095,3425386926  PvE. MW: range, handling, reload
+dimwishlist:item=2742838700&perks=1926090092,106909392,2869569095,3425386926  PvE. MW: range, handling, reload
+dimwishlist:item=2742838700&perks=1926090092,3230963543,2869569095,3425386926  PvE. MW: range, handling, reload
+// Field Prep, Demolitionist
+dimwishlist:item=2742838700&perks=1926090091,3142289711,2869569095,3523296417  PvE. MW: range, handling, reload
+dimwishlist:item=2742838700&perks=1926090091,106909392,2869569095,3523296417  PvE. MW: range, handling, reload
+dimwishlist:item=2742838700&perks=1926090091,3230963543,2869569095,3523296417  PvE. MW: range, handling, reload
+dimwishlist:item=2742838700&perks=1926090093,3142289711,2869569095,3523296417  PvE. MW: range, handling, reload
+dimwishlist:item=2742838700&perks=1926090093,106909392,2869569095,3523296417  PvE. MW: range, handling, reload
+dimwishlist:item=2742838700&perks=1926090093,3230963543,2869569095,3523296417  PvE. MW: range, handling, reload
+dimwishlist:item=2742838700&perks=1926090092,3142289711,2869569095,3523296417  PvE. MW: range, handling, reload
+dimwishlist:item=2742838700&perks=1926090092,106909392,2869569095,3523296417  PvE. MW: range, handling, reload
+dimwishlist:item=2742838700&perks=1926090092,3230963543,2869569095,3523296417  PvE. MW: range, handling, reload
+// Field Prep, Explosive Payload
+dimwishlist:item=2742838700&perks=1926090091,3142289711,2869569095,3038247973  PvE. MW: range, handling, reload
+dimwishlist:item=2742838700&perks=1926090091,106909392,2869569095,3038247973  PvE. MW: range, handling, reload
+dimwishlist:item=2742838700&perks=1926090091,3230963543,2869569095,3038247973  PvE. MW: range, handling, reload
+dimwishlist:item=2742838700&perks=1926090093,3142289711,2869569095,3038247973  PvE. MW: range, handling, reload
+dimwishlist:item=2742838700&perks=1926090093,106909392,2869569095,3038247973  PvE. MW: range, handling, reload
+dimwishlist:item=2742838700&perks=1926090093,3230963543,2869569095,3038247973  PvE. MW: range, handling, reload
+dimwishlist:item=2742838700&perks=1926090092,3142289711,2869569095,3038247973  PvE. MW: range, handling, reload
+dimwishlist:item=2742838700&perks=1926090092,106909392,2869569095,3038247973  PvE. MW: range, handling, reload
+dimwishlist:item=2742838700&perks=1926090092,3230963543,2869569095,3038247973  PvE. MW: range, handling, reload
+
+
 // Temporal Clause
 //notes: Not recommended for PvP (2.0 rating on light.gg)
 // Ambitious Assassin, Rampage
