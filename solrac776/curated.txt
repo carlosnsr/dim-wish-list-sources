@@ -3134,6 +3134,139 @@ dimwishlist:item=2742490609&perks=4090651448,106909392,2779035018,2848615171  Pv
 dimwishlist:item=2742490609&perks=4090651448,1087426260,2779035018,2848615171  PvE. Adds-clearing King. MW: range, reload
 
 
+// Escape Velocity
+// Zen Moment, Quickdraw
+dimwishlist:item=1786797708&perks=663495154,3142289711,2387244414,706527188  PvP. Maximising range or stability.  Trying to make a laser beam. MW: stability, range, reload
+dimwishlist:item=1786797708&perks=663495154,1561002382,2387244414,706527188  PvP. Maximising range or stability.  Trying to make a laser beam. MW: stability, range, reload
+dimwishlist:item=1786797708&perks=663495154,3177308360,2387244414,706527188  PvP. Maximising range or stability.  Trying to make a laser beam. MW: stability, range, reload
+dimwishlist:item=1786797708&perks=663495154,106909392,2387244414,706527188  PvP. Maximising range or stability.  Trying to make a laser beam. MW: stability, range, reload
+dimwishlist:item=1786797708&perks=663495155,3142289711,2387244414,706527188  PvP. Maximising range or stability.  Trying to make a laser beam. MW: stability, range, reload
+dimwishlist:item=1786797708&perks=663495155,1561002382,2387244414,706527188  PvP. Maximising range or stability.  Trying to make a laser beam. MW: stability, range, reload
+dimwishlist:item=1786797708&perks=663495155,3177308360,2387244414,706527188  PvP. Maximising range or stability.  Trying to make a laser beam. MW: stability, range, reload
+dimwishlist:item=1786797708&perks=663495155,106909392,2387244414,706527188  PvP. Maximising range or stability.  Trying to make a laser beam. MW: stability, range, reload
+dimwishlist:item=1786797708&perks=2209280307,3142289711,2387244414,706527188  PvP. Maximising range or stability.  Trying to make a laser beam. MW: stability, range, reload
+dimwishlist:item=1786797708&perks=2209280307,1561002382,2387244414,706527188  PvP. Maximising range or stability.  Trying to make a laser beam. MW: stability, range, reload
+dimwishlist:item=1786797708&perks=2209280307,3177308360,2387244414,706527188  PvP. Maximising range or stability.  Trying to make a laser beam. MW: stability, range, reload
+dimwishlist:item=1786797708&perks=2209280307,106909392,2387244414,706527188  PvP. Maximising range or stability.  Trying to make a laser beam. MW: stability, range, reload
+// Zen Moment, Vorpal Weapon
+dimwishlist:item=1786797708&perks=663495154,3142289711,2387244414,1546637391  PvP. Maximising range or stability.  Trying to make a laser beam. MW: stability, range, reload
+dimwishlist:item=1786797708&perks=663495154,1561002382,2387244414,1546637391  PvP. Maximising range or stability.  Trying to make a laser beam. MW: stability, range, reload
+dimwishlist:item=1786797708&perks=663495154,3177308360,2387244414,1546637391  PvP. Maximising range or stability.  Trying to make a laser beam. MW: stability, range, reload
+dimwishlist:item=1786797708&perks=663495154,106909392,2387244414,1546637391  PvP. Maximising range or stability.  Trying to make a laser beam. MW: stability, range, reload
+dimwishlist:item=1786797708&perks=663495155,3142289711,2387244414,1546637391  PvP. Maximising range or stability.  Trying to make a laser beam. MW: stability, range, reload
+dimwishlist:item=1786797708&perks=663495155,1561002382,2387244414,1546637391  PvP. Maximising range or stability.  Trying to make a laser beam. MW: stability, range, reload
+dimwishlist:item=1786797708&perks=663495155,3177308360,2387244414,1546637391  PvP. Maximising range or stability.  Trying to make a laser beam. MW: stability, range, reload
+dimwishlist:item=1786797708&perks=663495155,106909392,2387244414,1546637391  PvP. Maximising range or stability.  Trying to make a laser beam. MW: stability, range, reload
+dimwishlist:item=1786797708&perks=2209280307,3142289711,2387244414,1546637391  PvP. Maximising range or stability.  Trying to make a laser beam. MW: stability, range, reload
+dimwishlist:item=1786797708&perks=2209280307,1561002382,2387244414,1546637391  PvP. Maximising range or stability.  Trying to make a laser beam. MW: stability, range, reload
+dimwishlist:item=1786797708&perks=2209280307,3177308360,2387244414,1546637391  PvP. Maximising range or stability.  Trying to make a laser beam. MW: stability, range, reload
+dimwishlist:item=1786797708&perks=2209280307,106909392,2387244414,1546637391  PvP. Maximising range or stability.  Trying to make a laser beam. MW: stability, range, reload
+// Threat Detector, Quickdraw
+dimwishlist:item=1786797708&perks=663495154,3142289711,4071163871,706527188  PvP. Maximising range or stability.  Trying to make a laser beam. MW: stability, range, reload
+dimwishlist:item=1786797708&perks=663495154,1561002382,4071163871,706527188  PvP. Maximising range or stability.  Trying to make a laser beam. MW: stability, range, reload
+dimwishlist:item=1786797708&perks=663495154,3177308360,4071163871,706527188  PvP. Maximising range or stability.  Trying to make a laser beam. MW: stability, range, reload
+dimwishlist:item=1786797708&perks=663495154,106909392,4071163871,706527188  PvP. Maximising range or stability.  Trying to make a laser beam. MW: stability, range, reload
+dimwishlist:item=1786797708&perks=663495155,3142289711,4071163871,706527188  PvP. Maximising range or stability.  Trying to make a laser beam. MW: stability, range, reload
+dimwishlist:item=1786797708&perks=663495155,1561002382,4071163871,706527188  PvP. Maximising range or stability.  Trying to make a laser beam. MW: stability, range, reload
+dimwishlist:item=1786797708&perks=663495155,3177308360,4071163871,706527188  PvP. Maximising range or stability.  Trying to make a laser beam. MW: stability, range, reload
+dimwishlist:item=1786797708&perks=663495155,106909392,4071163871,706527188  PvP. Maximising range or stability.  Trying to make a laser beam. MW: stability, range, reload
+dimwishlist:item=1786797708&perks=2209280307,3142289711,4071163871,706527188  PvP. Maximising range or stability.  Trying to make a laser beam. MW: stability, range, reload
+dimwishlist:item=1786797708&perks=2209280307,1561002382,4071163871,706527188  PvP. Maximising range or stability.  Trying to make a laser beam. MW: stability, range, reload
+dimwishlist:item=1786797708&perks=2209280307,3177308360,4071163871,706527188  PvP. Maximising range or stability.  Trying to make a laser beam. MW: stability, range, reload
+dimwishlist:item=1786797708&perks=2209280307,106909392,4071163871,706527188  PvP. Maximising range or stability.  Trying to make a laser beam. MW: stability, range, reload
+// Threat Detector, Vorpal Weapon
+dimwishlist:item=1786797708&perks=663495154,3142289711,4071163871,1546637391  PvP. Maximising range or stability.  Trying to make a laser beam. MW: stability, range, reload
+dimwishlist:item=1786797708&perks=663495154,1561002382,4071163871,1546637391  PvP. Maximising range or stability.  Trying to make a laser beam. MW: stability, range, reload
+dimwishlist:item=1786797708&perks=663495154,3177308360,4071163871,1546637391  PvP. Maximising range or stability.  Trying to make a laser beam. MW: stability, range, reload
+dimwishlist:item=1786797708&perks=663495154,106909392,4071163871,1546637391  PvP. Maximising range or stability.  Trying to make a laser beam. MW: stability, range, reload
+dimwishlist:item=1786797708&perks=663495155,3142289711,4071163871,1546637391  PvP. Maximising range or stability.  Trying to make a laser beam. MW: stability, range, reload
+dimwishlist:item=1786797708&perks=663495155,1561002382,4071163871,1546637391  PvP. Maximising range or stability.  Trying to make a laser beam. MW: stability, range, reload
+dimwishlist:item=1786797708&perks=663495155,3177308360,4071163871,1546637391  PvP. Maximising range or stability.  Trying to make a laser beam. MW: stability, range, reload
+dimwishlist:item=1786797708&perks=663495155,106909392,4071163871,1546637391  PvP. Maximising range or stability.  Trying to make a laser beam. MW: stability, range, reload
+dimwishlist:item=1786797708&perks=2209280307,3142289711,4071163871,1546637391  PvP. Maximising range or stability.  Trying to make a laser beam. MW: stability, range, reload
+dimwishlist:item=1786797708&perks=2209280307,1561002382,4071163871,1546637391  PvP. Maximising range or stability.  Trying to make a laser beam. MW: stability, range, reload
+dimwishlist:item=1786797708&perks=2209280307,3177308360,4071163871,1546637391  PvP. Maximising range or stability.  Trying to make a laser beam. MW: stability, range, reload
+dimwishlist:item=1786797708&perks=2209280307,106909392,4071163871,1546637391  PvP. Maximising range or stability.  Trying to make a laser beam. MW: stability, range, reload
+// Overflow, Osmosis
+dimwishlist:item=1786797708&perks=663495154,3142289711,3643424744,1774574192  PvE. MW: stability, range, reload
+dimwishlist:item=1786797708&perks=663495154,1561002382,3643424744,1774574192  PvE. MW: stability, range, reload
+dimwishlist:item=1786797708&perks=663495154,3177308360,3643424744,1774574192  PvE. MW: stability, range, reload
+dimwishlist:item=1786797708&perks=663495154,106909392,3643424744,1774574192  PvE. MW: stability, range, reload
+dimwishlist:item=1786797708&perks=663495155,3142289711,3643424744,1774574192  PvE. MW: stability, range, reload
+dimwishlist:item=1786797708&perks=663495155,1561002382,3643424744,1774574192  PvE. MW: stability, range, reload
+dimwishlist:item=1786797708&perks=663495155,3177308360,3643424744,1774574192  PvE. MW: stability, range, reload
+dimwishlist:item=1786797708&perks=663495155,106909392,3643424744,1774574192  PvE. MW: stability, range, reload
+dimwishlist:item=1786797708&perks=2209280307,3142289711,3643424744,1774574192  PvE. MW: stability, range, reload
+dimwishlist:item=1786797708&perks=2209280307,1561002382,3643424744,1774574192  PvE. MW: stability, range, reload
+dimwishlist:item=1786797708&perks=2209280307,3177308360,3643424744,1774574192  PvE. MW: stability, range, reload
+dimwishlist:item=1786797708&perks=2209280307,106909392,3643424744,1774574192  PvE. MW: stability, range, reload
+// Overflow, Vorpal Weapon
+dimwishlist:item=1786797708&perks=663495154,3142289711,3643424744,1546637391  PvE. MW: stability, range, reload
+dimwishlist:item=1786797708&perks=663495154,1561002382,3643424744,1546637391  PvE. MW: stability, range, reload
+dimwishlist:item=1786797708&perks=663495154,3177308360,3643424744,1546637391  PvE. MW: stability, range, reload
+dimwishlist:item=1786797708&perks=663495154,106909392,3643424744,1546637391  PvE. MW: stability, range, reload
+dimwishlist:item=1786797708&perks=663495155,3142289711,3643424744,1546637391  PvE. MW: stability, range, reload
+dimwishlist:item=1786797708&perks=663495155,1561002382,3643424744,1546637391  PvE. MW: stability, range, reload
+dimwishlist:item=1786797708&perks=663495155,3177308360,3643424744,1546637391  PvE. MW: stability, range, reload
+dimwishlist:item=1786797708&perks=663495155,106909392,3643424744,1546637391  PvE. MW: stability, range, reload
+dimwishlist:item=1786797708&perks=2209280307,3142289711,3643424744,1546637391  PvE. MW: stability, range, reload
+dimwishlist:item=1786797708&perks=2209280307,1561002382,3643424744,1546637391  PvE. MW: stability, range, reload
+dimwishlist:item=1786797708&perks=2209280307,3177308360,3643424744,1546637391  PvE. MW: stability, range, reload
+dimwishlist:item=1786797708&perks=2209280307,106909392,3643424744,1546637391  PvE. MW: stability, range, reload
+// Threat Detector, Osmosis
+dimwishlist:item=1786797708&perks=663495154,3142289711,4071163871,1774574192  PvE. MW: stability, range, reload
+dimwishlist:item=1786797708&perks=663495154,1561002382,4071163871,1774574192  PvE. MW: stability, range, reload
+dimwishlist:item=1786797708&perks=663495154,3177308360,4071163871,1774574192  PvE. MW: stability, range, reload
+dimwishlist:item=1786797708&perks=663495154,106909392,4071163871,1774574192  PvE. MW: stability, range, reload
+dimwishlist:item=1786797708&perks=663495155,3142289711,4071163871,1774574192  PvE. MW: stability, range, reload
+dimwishlist:item=1786797708&perks=663495155,1561002382,4071163871,1774574192  PvE. MW: stability, range, reload
+dimwishlist:item=1786797708&perks=663495155,3177308360,4071163871,1774574192  PvE. MW: stability, range, reload
+dimwishlist:item=1786797708&perks=663495155,106909392,4071163871,1774574192  PvE. MW: stability, range, reload
+dimwishlist:item=1786797708&perks=2209280307,3142289711,4071163871,1774574192  PvE. MW: stability, range, reload
+dimwishlist:item=1786797708&perks=2209280307,1561002382,4071163871,1774574192  PvE. MW: stability, range, reload
+dimwishlist:item=1786797708&perks=2209280307,3177308360,4071163871,1774574192  PvE. MW: stability, range, reload
+dimwishlist:item=1786797708&perks=2209280307,106909392,4071163871,1774574192  PvE. MW: stability, range, reload
+// Threat Detector, Vorpal Weapon
+dimwishlist:item=1786797708&perks=663495154,3142289711,4071163871,1546637391  PvE. MW: stability, range, reload
+dimwishlist:item=1786797708&perks=663495154,1561002382,4071163871,1546637391  PvE. MW: stability, range, reload
+dimwishlist:item=1786797708&perks=663495154,3177308360,4071163871,1546637391  PvE. MW: stability, range, reload
+dimwishlist:item=1786797708&perks=663495154,106909392,4071163871,1546637391  PvE. MW: stability, range, reload
+dimwishlist:item=1786797708&perks=663495155,3142289711,4071163871,1546637391  PvE. MW: stability, range, reload
+dimwishlist:item=1786797708&perks=663495155,1561002382,4071163871,1546637391  PvE. MW: stability, range, reload
+dimwishlist:item=1786797708&perks=663495155,3177308360,4071163871,1546637391  PvE. MW: stability, range, reload
+dimwishlist:item=1786797708&perks=663495155,106909392,4071163871,1546637391  PvE. MW: stability, range, reload
+dimwishlist:item=1786797708&perks=2209280307,3142289711,4071163871,1546637391  PvE. MW: stability, range, reload
+dimwishlist:item=1786797708&perks=2209280307,1561002382,4071163871,1546637391  PvE. MW: stability, range, reload
+dimwishlist:item=1786797708&perks=2209280307,3177308360,4071163871,1546637391  PvE. MW: stability, range, reload
+dimwishlist:item=1786797708&perks=2209280307,106909392,4071163871,1546637391  PvE. MW: stability, range, reload
+// Grave Robber, Surrounded
+dimwishlist:item=1786797708&perks=663495154,3142289711,1631667848,3708227201  PvE. Melee. MW: stability, range, reload
+dimwishlist:item=1786797708&perks=663495154,1561002382,1631667848,3708227201  PvE. Melee. MW: stability, range, reload
+dimwishlist:item=1786797708&perks=663495154,3177308360,1631667848,3708227201  PvE. Melee. MW: stability, range, reload
+dimwishlist:item=1786797708&perks=663495154,106909392,1631667848,3708227201  PvE. Melee. MW: stability, range, reload
+dimwishlist:item=1786797708&perks=663495155,3142289711,1631667848,3708227201  PvE. Melee. MW: stability, range, reload
+dimwishlist:item=1786797708&perks=663495155,1561002382,1631667848,3708227201  PvE. Melee. MW: stability, range, reload
+dimwishlist:item=1786797708&perks=663495155,3177308360,1631667848,3708227201  PvE. Melee. MW: stability, range, reload
+dimwishlist:item=1786797708&perks=663495155,106909392,1631667848,3708227201  PvE. Melee. MW: stability, range, reload
+dimwishlist:item=1786797708&perks=2209280307,3142289711,1631667848,3708227201  PvE. Melee. MW: stability, range, reload
+dimwishlist:item=1786797708&perks=2209280307,1561002382,1631667848,3708227201  PvE. Melee. MW: stability, range, reload
+dimwishlist:item=1786797708&perks=2209280307,3177308360,1631667848,3708227201  PvE. Melee. MW: stability, range, reload
+dimwishlist:item=1786797708&perks=2209280307,106909392,1631667848,3708227201  PvE. Melee. MW: stability, range, reload
+// Threat Detector, Surrounded
+dimwishlist:item=1786797708&perks=663495154,3142289711,4071163871,3708227201  PvE. Melee. MW: stability, range, reload
+dimwishlist:item=1786797708&perks=663495154,1561002382,4071163871,3708227201  PvE. Melee. MW: stability, range, reload
+dimwishlist:item=1786797708&perks=663495154,3177308360,4071163871,3708227201  PvE. Melee. MW: stability, range, reload
+dimwishlist:item=1786797708&perks=663495154,106909392,4071163871,3708227201  PvE. Melee. MW: stability, range, reload
+dimwishlist:item=1786797708&perks=663495155,3142289711,4071163871,3708227201  PvE. Melee. MW: stability, range, reload
+dimwishlist:item=1786797708&perks=663495155,1561002382,4071163871,3708227201  PvE. Melee. MW: stability, range, reload
+dimwishlist:item=1786797708&perks=663495155,3177308360,4071163871,3708227201  PvE. Melee. MW: stability, range, reload
+dimwishlist:item=1786797708&perks=663495155,106909392,4071163871,3708227201  PvE. Melee. MW: stability, range, reload
+dimwishlist:item=1786797708&perks=2209280307,3142289711,4071163871,3708227201  PvE. Melee. MW: stability, range, reload
+dimwishlist:item=1786797708&perks=2209280307,1561002382,4071163871,3708227201  PvE. Melee. MW: stability, range, reload
+dimwishlist:item=1786797708&perks=2209280307,3177308360,4071163871,3708227201  PvE. Melee. MW: stability, range, reload
+dimwishlist:item=1786797708&perks=2209280307,106909392,4071163871,3708227201  PvE. Melee. MW: stability, range, reload
+
+
 // Ikelos Smg V102
 //notes: Maybe Full Bore is a bad idea due to the penalty to the gun's already low stability.  This will impact how your aim assist cone deteriorates during an extended burst.  Seraph Rounds increases range (hidden effect).  See Aztecross (https://www.youtube.com/watch?v=sMl6qPUcjV8)
 // Dynamic Sway Reduction, Tap The Trigger
@@ -3381,6 +3514,223 @@ dimwishlist:item=2222560548&perks=1482024992,106909392,972757866,3708227201  PvE
 dimwishlist:item=2222560548&perks=4090651448,3142289711,972757866,3708227201  PvE. Melee. MW: stability, range, reload
 dimwishlist:item=2222560548&perks=4090651448,1140096971,972757866,3708227201  PvE. Melee. MW: stability, range, reload
 dimwishlist:item=2222560548&perks=4090651448,106909392,972757866,3708227201  PvE. Melee. MW: stability, range, reload
+
+
+// Seventh Seraph Vy 7
+// Firmly Planted, Feeding Frenzy
+dimwishlist:item=766323545&perks=1482024992,3142289711,280464955,2779035018  PvP. Maximising range or stability.  Trying to make a laser beam. MW: stability, range, reload
+dimwishlist:item=766323545&perks=1482024992,3177308360,280464955,2779035018  PvP. Maximising range or stability.  Trying to make a laser beam. MW: stability, range, reload
+dimwishlist:item=766323545&perks=1482024992,106909392,280464955,2779035018  PvP. Maximising range or stability.  Trying to make a laser beam. MW: stability, range, reload
+dimwishlist:item=766323545&perks=1392496348,3142289711,280464955,2779035018  PvP. Maximising range or stability.  Trying to make a laser beam. MW: stability, range, reload
+dimwishlist:item=766323545&perks=1392496348,3177308360,280464955,2779035018  PvP. Maximising range or stability.  Trying to make a laser beam. MW: stability, range, reload
+dimwishlist:item=766323545&perks=1392496348,106909392,280464955,2779035018  PvP. Maximising range or stability.  Trying to make a laser beam. MW: stability, range, reload
+dimwishlist:item=766323545&perks=4090651448,3142289711,280464955,2779035018  PvP. Maximising range or stability.  Trying to make a laser beam. MW: stability, range, reload
+dimwishlist:item=766323545&perks=4090651448,3177308360,280464955,2779035018  PvP. Maximising range or stability.  Trying to make a laser beam. MW: stability, range, reload
+dimwishlist:item=766323545&perks=4090651448,106909392,280464955,2779035018  PvP. Maximising range or stability.  Trying to make a laser beam. MW: stability, range, reload
+dimwishlist:item=766323545&perks=3250034553,3142289711,280464955,2779035018  PvP. Maximising range or stability.  Trying to make a laser beam. MW: stability, range, reload
+dimwishlist:item=766323545&perks=3250034553,3177308360,280464955,2779035018  PvP. Maximising range or stability.  Trying to make a laser beam. MW: stability, range, reload
+dimwishlist:item=766323545&perks=3250034553,106909392,280464955,2779035018  PvP. Maximising range or stability.  Trying to make a laser beam. MW: stability, range, reload
+dimwishlist:item=766323545&perks=3661387068,3142289711,280464955,2779035018  PvP. Maximising range or stability.  Trying to make a laser beam. MW: stability, range, reload
+dimwishlist:item=766323545&perks=3661387068,3177308360,280464955,2779035018  PvP. Maximising range or stability.  Trying to make a laser beam. MW: stability, range, reload
+dimwishlist:item=766323545&perks=3661387068,106909392,280464955,2779035018  PvP. Maximising range or stability.  Trying to make a laser beam. MW: stability, range, reload
+dimwishlist:item=766323545&perks=202670084,3142289711,280464955,2779035018  PvP. Maximising range or stability.  Trying to make a laser beam. MW: stability, range, reload
+dimwishlist:item=766323545&perks=202670084,3177308360,280464955,2779035018  PvP. Maximising range or stability.  Trying to make a laser beam. MW: stability, range, reload
+dimwishlist:item=766323545&perks=202670084,106909392,280464955,2779035018  PvP. Maximising range or stability.  Trying to make a laser beam. MW: stability, range, reload
+// Firmly Planted, Vorpal Weapon
+dimwishlist:item=766323545&perks=1482024992,3142289711,280464955,1546637391  PvP. Maximising range or stability.  Trying to make a laser beam. MW: stability, range, reload
+dimwishlist:item=766323545&perks=1482024992,3177308360,280464955,1546637391  PvP. Maximising range or stability.  Trying to make a laser beam. MW: stability, range, reload
+dimwishlist:item=766323545&perks=1482024992,106909392,280464955,1546637391  PvP. Maximising range or stability.  Trying to make a laser beam. MW: stability, range, reload
+dimwishlist:item=766323545&perks=1392496348,3142289711,280464955,1546637391  PvP. Maximising range or stability.  Trying to make a laser beam. MW: stability, range, reload
+dimwishlist:item=766323545&perks=1392496348,3177308360,280464955,1546637391  PvP. Maximising range or stability.  Trying to make a laser beam. MW: stability, range, reload
+dimwishlist:item=766323545&perks=1392496348,106909392,280464955,1546637391  PvP. Maximising range or stability.  Trying to make a laser beam. MW: stability, range, reload
+dimwishlist:item=766323545&perks=4090651448,3142289711,280464955,1546637391  PvP. Maximising range or stability.  Trying to make a laser beam. MW: stability, range, reload
+dimwishlist:item=766323545&perks=4090651448,3177308360,280464955,1546637391  PvP. Maximising range or stability.  Trying to make a laser beam. MW: stability, range, reload
+dimwishlist:item=766323545&perks=4090651448,106909392,280464955,1546637391  PvP. Maximising range or stability.  Trying to make a laser beam. MW: stability, range, reload
+dimwishlist:item=766323545&perks=3250034553,3142289711,280464955,1546637391  PvP. Maximising range or stability.  Trying to make a laser beam. MW: stability, range, reload
+dimwishlist:item=766323545&perks=3250034553,3177308360,280464955,1546637391  PvP. Maximising range or stability.  Trying to make a laser beam. MW: stability, range, reload
+dimwishlist:item=766323545&perks=3250034553,106909392,280464955,1546637391  PvP. Maximising range or stability.  Trying to make a laser beam. MW: stability, range, reload
+dimwishlist:item=766323545&perks=3661387068,3142289711,280464955,1546637391  PvP. Maximising range or stability.  Trying to make a laser beam. MW: stability, range, reload
+dimwishlist:item=766323545&perks=3661387068,3177308360,280464955,1546637391  PvP. Maximising range or stability.  Trying to make a laser beam. MW: stability, range, reload
+dimwishlist:item=766323545&perks=3661387068,106909392,280464955,1546637391  PvP. Maximising range or stability.  Trying to make a laser beam. MW: stability, range, reload
+dimwishlist:item=766323545&perks=202670084,3142289711,280464955,1546637391  PvP. Maximising range or stability.  Trying to make a laser beam. MW: stability, range, reload
+dimwishlist:item=766323545&perks=202670084,3177308360,280464955,1546637391  PvP. Maximising range or stability.  Trying to make a laser beam. MW: stability, range, reload
+dimwishlist:item=766323545&perks=202670084,106909392,280464955,1546637391  PvP. Maximising range or stability.  Trying to make a laser beam. MW: stability, range, reload
+// Firmly Planted, Elemental Capacitor
+dimwishlist:item=766323545&perks=1482024992,3142289711,280464955,3511092054  PvP. Maximising range or stability.  Trying to make a laser beam. MW: stability, range, reload
+dimwishlist:item=766323545&perks=1482024992,3177308360,280464955,3511092054  PvP. Maximising range or stability.  Trying to make a laser beam. MW: stability, range, reload
+dimwishlist:item=766323545&perks=1482024992,106909392,280464955,3511092054  PvP. Maximising range or stability.  Trying to make a laser beam. MW: stability, range, reload
+dimwishlist:item=766323545&perks=1392496348,3142289711,280464955,3511092054  PvP. Maximising range or stability.  Trying to make a laser beam. MW: stability, range, reload
+dimwishlist:item=766323545&perks=1392496348,3177308360,280464955,3511092054  PvP. Maximising range or stability.  Trying to make a laser beam. MW: stability, range, reload
+dimwishlist:item=766323545&perks=1392496348,106909392,280464955,3511092054  PvP. Maximising range or stability.  Trying to make a laser beam. MW: stability, range, reload
+dimwishlist:item=766323545&perks=4090651448,3142289711,280464955,3511092054  PvP. Maximising range or stability.  Trying to make a laser beam. MW: stability, range, reload
+dimwishlist:item=766323545&perks=4090651448,3177308360,280464955,3511092054  PvP. Maximising range or stability.  Trying to make a laser beam. MW: stability, range, reload
+dimwishlist:item=766323545&perks=4090651448,106909392,280464955,3511092054  PvP. Maximising range or stability.  Trying to make a laser beam. MW: stability, range, reload
+dimwishlist:item=766323545&perks=3250034553,3142289711,280464955,3511092054  PvP. Maximising range or stability.  Trying to make a laser beam. MW: stability, range, reload
+dimwishlist:item=766323545&perks=3250034553,3177308360,280464955,3511092054  PvP. Maximising range or stability.  Trying to make a laser beam. MW: stability, range, reload
+dimwishlist:item=766323545&perks=3250034553,106909392,280464955,3511092054  PvP. Maximising range or stability.  Trying to make a laser beam. MW: stability, range, reload
+dimwishlist:item=766323545&perks=3661387068,3142289711,280464955,3511092054  PvP. Maximising range or stability.  Trying to make a laser beam. MW: stability, range, reload
+dimwishlist:item=766323545&perks=3661387068,3177308360,280464955,3511092054  PvP. Maximising range or stability.  Trying to make a laser beam. MW: stability, range, reload
+dimwishlist:item=766323545&perks=3661387068,106909392,280464955,3511092054  PvP. Maximising range or stability.  Trying to make a laser beam. MW: stability, range, reload
+dimwishlist:item=766323545&perks=202670084,3142289711,280464955,3511092054  PvP. Maximising range or stability.  Trying to make a laser beam. MW: stability, range, reload
+dimwishlist:item=766323545&perks=202670084,3177308360,280464955,3511092054  PvP. Maximising range or stability.  Trying to make a laser beam. MW: stability, range, reload
+dimwishlist:item=766323545&perks=202670084,106909392,280464955,3511092054  PvP. Maximising range or stability.  Trying to make a laser beam. MW: stability, range, reload
+// Pulse Monitor, Feeding Frenzy
+dimwishlist:item=766323545&perks=1482024992,3142289711,972757866,2779035018  PvP. Maximising range or stability.  Trying to make a laser beam. MW: stability, range, reload
+dimwishlist:item=766323545&perks=1482024992,3177308360,972757866,2779035018  PvP. Maximising range or stability.  Trying to make a laser beam. MW: stability, range, reload
+dimwishlist:item=766323545&perks=1482024992,106909392,972757866,2779035018  PvP. Maximising range or stability.  Trying to make a laser beam. MW: stability, range, reload
+dimwishlist:item=766323545&perks=1392496348,3142289711,972757866,2779035018  PvP. Maximising range or stability.  Trying to make a laser beam. MW: stability, range, reload
+dimwishlist:item=766323545&perks=1392496348,3177308360,972757866,2779035018  PvP. Maximising range or stability.  Trying to make a laser beam. MW: stability, range, reload
+dimwishlist:item=766323545&perks=1392496348,106909392,972757866,2779035018  PvP. Maximising range or stability.  Trying to make a laser beam. MW: stability, range, reload
+dimwishlist:item=766323545&perks=4090651448,3142289711,972757866,2779035018  PvP. Maximising range or stability.  Trying to make a laser beam. MW: stability, range, reload
+dimwishlist:item=766323545&perks=4090651448,3177308360,972757866,2779035018  PvP. Maximising range or stability.  Trying to make a laser beam. MW: stability, range, reload
+dimwishlist:item=766323545&perks=4090651448,106909392,972757866,2779035018  PvP. Maximising range or stability.  Trying to make a laser beam. MW: stability, range, reload
+dimwishlist:item=766323545&perks=3250034553,3142289711,972757866,2779035018  PvP. Maximising range or stability.  Trying to make a laser beam. MW: stability, range, reload
+dimwishlist:item=766323545&perks=3250034553,3177308360,972757866,2779035018  PvP. Maximising range or stability.  Trying to make a laser beam. MW: stability, range, reload
+dimwishlist:item=766323545&perks=3250034553,106909392,972757866,2779035018  PvP. Maximising range or stability.  Trying to make a laser beam. MW: stability, range, reload
+dimwishlist:item=766323545&perks=3661387068,3142289711,972757866,2779035018  PvP. Maximising range or stability.  Trying to make a laser beam. MW: stability, range, reload
+dimwishlist:item=766323545&perks=3661387068,3177308360,972757866,2779035018  PvP. Maximising range or stability.  Trying to make a laser beam. MW: stability, range, reload
+dimwishlist:item=766323545&perks=3661387068,106909392,972757866,2779035018  PvP. Maximising range or stability.  Trying to make a laser beam. MW: stability, range, reload
+dimwishlist:item=766323545&perks=202670084,3142289711,972757866,2779035018  PvP. Maximising range or stability.  Trying to make a laser beam. MW: stability, range, reload
+dimwishlist:item=766323545&perks=202670084,3177308360,972757866,2779035018  PvP. Maximising range or stability.  Trying to make a laser beam. MW: stability, range, reload
+dimwishlist:item=766323545&perks=202670084,106909392,972757866,2779035018  PvP. Maximising range or stability.  Trying to make a laser beam. MW: stability, range, reload
+// Pulse Monitor, Vorpal Weapon
+dimwishlist:item=766323545&perks=1482024992,3142289711,972757866,1546637391  PvP. Maximising range or stability.  Trying to make a laser beam. MW: stability, range, reload
+dimwishlist:item=766323545&perks=1482024992,3177308360,972757866,1546637391  PvP. Maximising range or stability.  Trying to make a laser beam. MW: stability, range, reload
+dimwishlist:item=766323545&perks=1482024992,106909392,972757866,1546637391  PvP. Maximising range or stability.  Trying to make a laser beam. MW: stability, range, reload
+dimwishlist:item=766323545&perks=1392496348,3142289711,972757866,1546637391  PvP. Maximising range or stability.  Trying to make a laser beam. MW: stability, range, reload
+dimwishlist:item=766323545&perks=1392496348,3177308360,972757866,1546637391  PvP. Maximising range or stability.  Trying to make a laser beam. MW: stability, range, reload
+dimwishlist:item=766323545&perks=1392496348,106909392,972757866,1546637391  PvP. Maximising range or stability.  Trying to make a laser beam. MW: stability, range, reload
+dimwishlist:item=766323545&perks=4090651448,3142289711,972757866,1546637391  PvP. Maximising range or stability.  Trying to make a laser beam. MW: stability, range, reload
+dimwishlist:item=766323545&perks=4090651448,3177308360,972757866,1546637391  PvP. Maximising range or stability.  Trying to make a laser beam. MW: stability, range, reload
+dimwishlist:item=766323545&perks=4090651448,106909392,972757866,1546637391  PvP. Maximising range or stability.  Trying to make a laser beam. MW: stability, range, reload
+dimwishlist:item=766323545&perks=3250034553,3142289711,972757866,1546637391  PvP. Maximising range or stability.  Trying to make a laser beam. MW: stability, range, reload
+dimwishlist:item=766323545&perks=3250034553,3177308360,972757866,1546637391  PvP. Maximising range or stability.  Trying to make a laser beam. MW: stability, range, reload
+dimwishlist:item=766323545&perks=3250034553,106909392,972757866,1546637391  PvP. Maximising range or stability.  Trying to make a laser beam. MW: stability, range, reload
+dimwishlist:item=766323545&perks=3661387068,3142289711,972757866,1546637391  PvP. Maximising range or stability.  Trying to make a laser beam. MW: stability, range, reload
+dimwishlist:item=766323545&perks=3661387068,3177308360,972757866,1546637391  PvP. Maximising range or stability.  Trying to make a laser beam. MW: stability, range, reload
+dimwishlist:item=766323545&perks=3661387068,106909392,972757866,1546637391  PvP. Maximising range or stability.  Trying to make a laser beam. MW: stability, range, reload
+dimwishlist:item=766323545&perks=202670084,3142289711,972757866,1546637391  PvP. Maximising range or stability.  Trying to make a laser beam. MW: stability, range, reload
+dimwishlist:item=766323545&perks=202670084,3177308360,972757866,1546637391  PvP. Maximising range or stability.  Trying to make a laser beam. MW: stability, range, reload
+dimwishlist:item=766323545&perks=202670084,106909392,972757866,1546637391  PvP. Maximising range or stability.  Trying to make a laser beam. MW: stability, range, reload
+// Pulse Monitor, Elemental Capacitor
+dimwishlist:item=766323545&perks=1482024992,3142289711,972757866,3511092054  PvP. Maximising range or stability.  Trying to make a laser beam. MW: stability, range, reload
+dimwishlist:item=766323545&perks=1482024992,3177308360,972757866,3511092054  PvP. Maximising range or stability.  Trying to make a laser beam. MW: stability, range, reload
+dimwishlist:item=766323545&perks=1482024992,106909392,972757866,3511092054  PvP. Maximising range or stability.  Trying to make a laser beam. MW: stability, range, reload
+dimwishlist:item=766323545&perks=1392496348,3142289711,972757866,3511092054  PvP. Maximising range or stability.  Trying to make a laser beam. MW: stability, range, reload
+dimwishlist:item=766323545&perks=1392496348,3177308360,972757866,3511092054  PvP. Maximising range or stability.  Trying to make a laser beam. MW: stability, range, reload
+dimwishlist:item=766323545&perks=1392496348,106909392,972757866,3511092054  PvP. Maximising range or stability.  Trying to make a laser beam. MW: stability, range, reload
+dimwishlist:item=766323545&perks=4090651448,3142289711,972757866,3511092054  PvP. Maximising range or stability.  Trying to make a laser beam. MW: stability, range, reload
+dimwishlist:item=766323545&perks=4090651448,3177308360,972757866,3511092054  PvP. Maximising range or stability.  Trying to make a laser beam. MW: stability, range, reload
+dimwishlist:item=766323545&perks=4090651448,106909392,972757866,3511092054  PvP. Maximising range or stability.  Trying to make a laser beam. MW: stability, range, reload
+dimwishlist:item=766323545&perks=3250034553,3142289711,972757866,3511092054  PvP. Maximising range or stability.  Trying to make a laser beam. MW: stability, range, reload
+dimwishlist:item=766323545&perks=3250034553,3177308360,972757866,3511092054  PvP. Maximising range or stability.  Trying to make a laser beam. MW: stability, range, reload
+dimwishlist:item=766323545&perks=3250034553,106909392,972757866,3511092054  PvP. Maximising range or stability.  Trying to make a laser beam. MW: stability, range, reload
+dimwishlist:item=766323545&perks=3661387068,3142289711,972757866,3511092054  PvP. Maximising range or stability.  Trying to make a laser beam. MW: stability, range, reload
+dimwishlist:item=766323545&perks=3661387068,3177308360,972757866,3511092054  PvP. Maximising range or stability.  Trying to make a laser beam. MW: stability, range, reload
+dimwishlist:item=766323545&perks=3661387068,106909392,972757866,3511092054  PvP. Maximising range or stability.  Trying to make a laser beam. MW: stability, range, reload
+dimwishlist:item=766323545&perks=202670084,3142289711,972757866,3511092054  PvP. Maximising range or stability.  Trying to make a laser beam. MW: stability, range, reload
+dimwishlist:item=766323545&perks=202670084,3177308360,972757866,3511092054  PvP. Maximising range or stability.  Trying to make a laser beam. MW: stability, range, reload
+dimwishlist:item=766323545&perks=202670084,106909392,972757866,3511092054  PvP. Maximising range or stability.  Trying to make a laser beam. MW: stability, range, reload
+// Seventh Seraph Vy 7
+// Fourth Times The Charm, Dragonfly
+dimwishlist:item=766323545&perks=202670084,3142289711,1354429876,2848615171  PvE. MW: stability, range, reload
+dimwishlist:item=766323545&perks=202670084,106909392,1354429876,2848615171  PvE. MW: stability, range, reload
+dimwishlist:item=766323545&perks=3250034553,3142289711,1354429876,2848615171  PvE. MW: stability, range, reload
+dimwishlist:item=766323545&perks=3250034553,106909392,1354429876,2848615171  PvE. MW: stability, range, reload
+dimwishlist:item=766323545&perks=1467527085,3142289711,1354429876,2848615171  PvE. MW: stability, range, reload
+dimwishlist:item=766323545&perks=1467527085,106909392,1354429876,2848615171  PvE. MW: stability, range, reload
+dimwishlist:item=766323545&perks=1482024992,3142289711,1354429876,2848615171  PvE. MW: stability, range, reload
+dimwishlist:item=766323545&perks=1482024992,106909392,1354429876,2848615171  PvE. MW: stability, range, reload
+dimwishlist:item=766323545&perks=4090651448,3142289711,1354429876,2848615171  PvE. MW: stability, range, reload
+dimwishlist:item=766323545&perks=4090651448,106909392,1354429876,2848615171  PvE. MW: stability, range, reload
+// Fourth Times The Charm, Feeding Frenzy
+dimwishlist:item=766323545&perks=202670084,3142289711,1354429876,2779035018  PvE. MW: stability, range, reload
+dimwishlist:item=766323545&perks=202670084,106909392,1354429876,2779035018  PvE. MW: stability, range, reload
+dimwishlist:item=766323545&perks=3250034553,3142289711,1354429876,2779035018  PvE. MW: stability, range, reload
+dimwishlist:item=766323545&perks=3250034553,106909392,1354429876,2779035018  PvE. MW: stability, range, reload
+dimwishlist:item=766323545&perks=1467527085,3142289711,1354429876,2779035018  PvE. MW: stability, range, reload
+dimwishlist:item=766323545&perks=1467527085,106909392,1354429876,2779035018  PvE. MW: stability, range, reload
+dimwishlist:item=766323545&perks=1482024992,3142289711,1354429876,2779035018  PvE. MW: stability, range, reload
+dimwishlist:item=766323545&perks=1482024992,106909392,1354429876,2779035018  PvE. MW: stability, range, reload
+dimwishlist:item=766323545&perks=4090651448,3142289711,1354429876,2779035018  PvE. MW: stability, range, reload
+dimwishlist:item=766323545&perks=4090651448,106909392,1354429876,2779035018  PvE. MW: stability, range, reload
+// Fourth Times The Charm, Vorpal Weapon
+dimwishlist:item=766323545&perks=202670084,3142289711,1354429876,1546637391  PvE. MW: stability, range, reload
+dimwishlist:item=766323545&perks=202670084,106909392,1354429876,1546637391  PvE. MW: stability, range, reload
+dimwishlist:item=766323545&perks=3250034553,3142289711,1354429876,1546637391  PvE. MW: stability, range, reload
+dimwishlist:item=766323545&perks=3250034553,106909392,1354429876,1546637391  PvE. MW: stability, range, reload
+dimwishlist:item=766323545&perks=1467527085,3142289711,1354429876,1546637391  PvE. MW: stability, range, reload
+dimwishlist:item=766323545&perks=1467527085,106909392,1354429876,1546637391  PvE. MW: stability, range, reload
+dimwishlist:item=766323545&perks=1482024992,3142289711,1354429876,1546637391  PvE. MW: stability, range, reload
+dimwishlist:item=766323545&perks=1482024992,106909392,1354429876,1546637391  PvE. MW: stability, range, reload
+dimwishlist:item=766323545&perks=4090651448,3142289711,1354429876,1546637391  PvE. MW: stability, range, reload
+dimwishlist:item=766323545&perks=4090651448,106909392,1354429876,1546637391  PvE. MW: stability, range, reload
+// Firmly Planted, Dragonfly
+dimwishlist:item=766323545&perks=202670084,3142289711,280464955,2848615171  PvE. MW: stability, range, reload
+dimwishlist:item=766323545&perks=202670084,106909392,280464955,2848615171  PvE. MW: stability, range, reload
+dimwishlist:item=766323545&perks=3250034553,3142289711,280464955,2848615171  PvE. MW: stability, range, reload
+dimwishlist:item=766323545&perks=3250034553,106909392,280464955,2848615171  PvE. MW: stability, range, reload
+dimwishlist:item=766323545&perks=1467527085,3142289711,280464955,2848615171  PvE. MW: stability, range, reload
+dimwishlist:item=766323545&perks=1467527085,106909392,280464955,2848615171  PvE. MW: stability, range, reload
+dimwishlist:item=766323545&perks=1482024992,3142289711,280464955,2848615171  PvE. MW: stability, range, reload
+dimwishlist:item=766323545&perks=1482024992,106909392,280464955,2848615171  PvE. MW: stability, range, reload
+dimwishlist:item=766323545&perks=4090651448,3142289711,280464955,2848615171  PvE. MW: stability, range, reload
+dimwishlist:item=766323545&perks=4090651448,106909392,280464955,2848615171  PvE. MW: stability, range, reload
+// Firmly Planted, Feeding Frenzy
+dimwishlist:item=766323545&perks=202670084,3142289711,280464955,2779035018  PvE. MW: stability, range, reload
+dimwishlist:item=766323545&perks=202670084,106909392,280464955,2779035018  PvE. MW: stability, range, reload
+dimwishlist:item=766323545&perks=3250034553,3142289711,280464955,2779035018  PvE. MW: stability, range, reload
+dimwishlist:item=766323545&perks=3250034553,106909392,280464955,2779035018  PvE. MW: stability, range, reload
+dimwishlist:item=766323545&perks=1467527085,3142289711,280464955,2779035018  PvE. MW: stability, range, reload
+dimwishlist:item=766323545&perks=1467527085,106909392,280464955,2779035018  PvE. MW: stability, range, reload
+dimwishlist:item=766323545&perks=1482024992,3142289711,280464955,2779035018  PvE. MW: stability, range, reload
+dimwishlist:item=766323545&perks=1482024992,106909392,280464955,2779035018  PvE. MW: stability, range, reload
+dimwishlist:item=766323545&perks=4090651448,3142289711,280464955,2779035018  PvE. MW: stability, range, reload
+dimwishlist:item=766323545&perks=4090651448,106909392,280464955,2779035018  PvE. MW: stability, range, reload
+// Firmly Planted, Vorpal Weapon
+dimwishlist:item=766323545&perks=202670084,3142289711,280464955,1546637391  PvE. MW: stability, range, reload
+dimwishlist:item=766323545&perks=202670084,106909392,280464955,1546637391  PvE. MW: stability, range, reload
+dimwishlist:item=766323545&perks=3250034553,3142289711,280464955,1546637391  PvE. MW: stability, range, reload
+dimwishlist:item=766323545&perks=3250034553,106909392,280464955,1546637391  PvE. MW: stability, range, reload
+dimwishlist:item=766323545&perks=1467527085,3142289711,280464955,1546637391  PvE. MW: stability, range, reload
+dimwishlist:item=766323545&perks=1467527085,106909392,280464955,1546637391  PvE. MW: stability, range, reload
+dimwishlist:item=766323545&perks=1482024992,3142289711,280464955,1546637391  PvE. MW: stability, range, reload
+dimwishlist:item=766323545&perks=1482024992,106909392,280464955,1546637391  PvE. MW: stability, range, reload
+dimwishlist:item=766323545&perks=4090651448,3142289711,280464955,1546637391  PvE. MW: stability, range, reload
+dimwishlist:item=766323545&perks=4090651448,106909392,280464955,1546637391  PvE. MW: stability, range, reload
+// Ambitious Assassin, Dragonfly
+dimwishlist:item=766323545&perks=202670084,3142289711,2010801679,2848615171  PvE. MW: stability, range, reload
+dimwishlist:item=766323545&perks=202670084,106909392,2010801679,2848615171  PvE. MW: stability, range, reload
+dimwishlist:item=766323545&perks=3250034553,3142289711,2010801679,2848615171  PvE. MW: stability, range, reload
+dimwishlist:item=766323545&perks=3250034553,106909392,2010801679,2848615171  PvE. MW: stability, range, reload
+dimwishlist:item=766323545&perks=1467527085,3142289711,2010801679,2848615171  PvE. MW: stability, range, reload
+dimwishlist:item=766323545&perks=1467527085,106909392,2010801679,2848615171  PvE. MW: stability, range, reload
+dimwishlist:item=766323545&perks=1482024992,3142289711,2010801679,2848615171  PvE. MW: stability, range, reload
+dimwishlist:item=766323545&perks=1482024992,106909392,2010801679,2848615171  PvE. MW: stability, range, reload
+dimwishlist:item=766323545&perks=4090651448,3142289711,2010801679,2848615171  PvE. MW: stability, range, reload
+dimwishlist:item=766323545&perks=4090651448,106909392,2010801679,2848615171  PvE. MW: stability, range, reload
+// Ambitious Assassin, Feeding Frenzy
+dimwishlist:item=766323545&perks=202670084,3142289711,2010801679,2779035018  PvE. MW: stability, range, reload
+dimwishlist:item=766323545&perks=202670084,106909392,2010801679,2779035018  PvE. MW: stability, range, reload
+dimwishlist:item=766323545&perks=3250034553,3142289711,2010801679,2779035018  PvE. MW: stability, range, reload
+dimwishlist:item=766323545&perks=3250034553,106909392,2010801679,2779035018  PvE. MW: stability, range, reload
+dimwishlist:item=766323545&perks=1467527085,3142289711,2010801679,2779035018  PvE. MW: stability, range, reload
+dimwishlist:item=766323545&perks=1467527085,106909392,2010801679,2779035018  PvE. MW: stability, range, reload
+dimwishlist:item=766323545&perks=1482024992,3142289711,2010801679,2779035018  PvE. MW: stability, range, reload
+dimwishlist:item=766323545&perks=1482024992,106909392,2010801679,2779035018  PvE. MW: stability, range, reload
+dimwishlist:item=766323545&perks=4090651448,3142289711,2010801679,2779035018  PvE. MW: stability, range, reload
+dimwishlist:item=766323545&perks=4090651448,106909392,2010801679,2779035018  PvE. MW: stability, range, reload
+// Ambitious Assassin, Vorpal Weapon
+dimwishlist:item=766323545&perks=202670084,3142289711,2010801679,1546637391  PvE. MW: stability, range, reload
+dimwishlist:item=766323545&perks=202670084,106909392,2010801679,1546637391  PvE. MW: stability, range, reload
+dimwishlist:item=766323545&perks=3250034553,3142289711,2010801679,1546637391  PvE. MW: stability, range, reload
+dimwishlist:item=766323545&perks=3250034553,106909392,2010801679,1546637391  PvE. MW: stability, range, reload
+dimwishlist:item=766323545&perks=1467527085,3142289711,2010801679,1546637391  PvE. MW: stability, range, reload
+dimwishlist:item=766323545&perks=1467527085,106909392,2010801679,1546637391  PvE. MW: stability, range, reload
+dimwishlist:item=766323545&perks=1482024992,3142289711,2010801679,1546637391  PvE. MW: stability, range, reload
+dimwishlist:item=766323545&perks=1482024992,106909392,2010801679,1546637391  PvE. MW: stability, range, reload
+dimwishlist:item=766323545&perks=4090651448,3142289711,2010801679,1546637391  PvE. MW: stability, range, reload
+dimwishlist:item=766323545&perks=4090651448,106909392,2010801679,1546637391  PvE. MW: stability, range, reload
 
 
 // Honors Edge
