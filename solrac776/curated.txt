@@ -3583,212 +3583,308 @@ dimwishlist:item=2199171672&perks=4090651448,679225683,1631667848,4082225868  #5
 // Pulse Monitor, Quickdraw
 dimwishlist:item=2807687156&perks=1840239774,3142289711,972757866,706527188  #1111 PvP. MW: range, handling, reload
 dimwishlist:item=2807687156&perks=1840239774,106909392,972757866,706527188  #1211 PvP. MW: range, handling, reload
+dimwishlist:item=2807687156&perks=1840239774,1087426260,972757866,706527188  #1311 PvP. MW: range, handling, reload
 dimwishlist:item=2807687156&perks=202670084,3142289711,972757866,706527188  #2111 PvP. MW: range, handling, reload
 dimwishlist:item=2807687156&perks=202670084,106909392,972757866,706527188  #2211 PvP. MW: range, handling, reload
+dimwishlist:item=2807687156&perks=202670084,1087426260,972757866,706527188  #2311 PvP. MW: range, handling, reload
 dimwishlist:item=2807687156&perks=3250034553,3142289711,972757866,706527188  #3111 PvP. MW: range, handling, reload
 dimwishlist:item=2807687156&perks=3250034553,106909392,972757866,706527188  #3211 PvP. MW: range, handling, reload
+dimwishlist:item=2807687156&perks=3250034553,1087426260,972757866,706527188  #3311 PvP. MW: range, handling, reload
 dimwishlist:item=2807687156&perks=1467527085,3142289711,972757866,706527188  #4111 PvP. MW: range, handling, reload
 dimwishlist:item=2807687156&perks=1467527085,106909392,972757866,706527188  #4211 PvP. MW: range, handling, reload
+dimwishlist:item=2807687156&perks=1467527085,1087426260,972757866,706527188  #4311 PvP. MW: range, handling, reload
 dimwishlist:item=2807687156&perks=1482024992,3142289711,972757866,706527188  #5111 PvP. MW: range, handling, reload
 dimwishlist:item=2807687156&perks=1482024992,106909392,972757866,706527188  #5211 PvP. MW: range, handling, reload
+dimwishlist:item=2807687156&perks=1482024992,1087426260,972757866,706527188  #5311 PvP. MW: range, handling, reload
 dimwishlist:item=2807687156&perks=4090651448,3142289711,972757866,706527188  #6111 PvP. MW: range, handling, reload
 dimwishlist:item=2807687156&perks=4090651448,106909392,972757866,706527188  #6211 PvP. MW: range, handling, reload
+dimwishlist:item=2807687156&perks=4090651448,1087426260,972757866,706527188  #6311 PvP. MW: range, handling, reload
 // Pulse Monitor, Snapshot Sights
 dimwishlist:item=2807687156&perks=1840239774,3142289711,972757866,957782887  #1112 PvP. MW: range, handling, reload
 dimwishlist:item=2807687156&perks=1840239774,106909392,972757866,957782887  #1212 PvP. MW: range, handling, reload
+dimwishlist:item=2807687156&perks=1840239774,1087426260,972757866,957782887  #1312 PvP. MW: range, handling, reload
 dimwishlist:item=2807687156&perks=202670084,3142289711,972757866,957782887  #2112 PvP. MW: range, handling, reload
 dimwishlist:item=2807687156&perks=202670084,106909392,972757866,957782887  #2212 PvP. MW: range, handling, reload
+dimwishlist:item=2807687156&perks=202670084,1087426260,972757866,957782887  #2312 PvP. MW: range, handling, reload
 dimwishlist:item=2807687156&perks=3250034553,3142289711,972757866,957782887  #3112 PvP. MW: range, handling, reload
 dimwishlist:item=2807687156&perks=3250034553,106909392,972757866,957782887  #3212 PvP. MW: range, handling, reload
+dimwishlist:item=2807687156&perks=3250034553,1087426260,972757866,957782887  #3312 PvP. MW: range, handling, reload
 dimwishlist:item=2807687156&perks=1467527085,3142289711,972757866,957782887  #4112 PvP. MW: range, handling, reload
 dimwishlist:item=2807687156&perks=1467527085,106909392,972757866,957782887  #4212 PvP. MW: range, handling, reload
+dimwishlist:item=2807687156&perks=1467527085,1087426260,972757866,957782887  #4312 PvP. MW: range, handling, reload
 dimwishlist:item=2807687156&perks=1482024992,3142289711,972757866,957782887  #5112 PvP. MW: range, handling, reload
 dimwishlist:item=2807687156&perks=1482024992,106909392,972757866,957782887  #5212 PvP. MW: range, handling, reload
+dimwishlist:item=2807687156&perks=1482024992,1087426260,972757866,957782887  #5312 PvP. MW: range, handling, reload
 dimwishlist:item=2807687156&perks=4090651448,3142289711,972757866,957782887  #6112 PvP. MW: range, handling, reload
 dimwishlist:item=2807687156&perks=4090651448,106909392,972757866,957782887  #6212 PvP. MW: range, handling, reload
+dimwishlist:item=2807687156&perks=4090651448,1087426260,972757866,957782887  #6312 PvP. MW: range, handling, reload
 // Pulse Monitor, Opening Shot
 dimwishlist:item=2807687156&perks=1840239774,3142289711,972757866,47981717  #1113 PvP. MW: range, handling, reload
 dimwishlist:item=2807687156&perks=1840239774,106909392,972757866,47981717  #1213 PvP. MW: range, handling, reload
+dimwishlist:item=2807687156&perks=1840239774,1087426260,972757866,47981717  #1313 PvP. MW: range, handling, reload
 dimwishlist:item=2807687156&perks=202670084,3142289711,972757866,47981717  #2113 PvP. MW: range, handling, reload
 dimwishlist:item=2807687156&perks=202670084,106909392,972757866,47981717  #2213 PvP. MW: range, handling, reload
+dimwishlist:item=2807687156&perks=202670084,1087426260,972757866,47981717  #2313 PvP. MW: range, handling, reload
 dimwishlist:item=2807687156&perks=3250034553,3142289711,972757866,47981717  #3113 PvP. MW: range, handling, reload
 dimwishlist:item=2807687156&perks=3250034553,106909392,972757866,47981717  #3213 PvP. MW: range, handling, reload
+dimwishlist:item=2807687156&perks=3250034553,1087426260,972757866,47981717  #3313 PvP. MW: range, handling, reload
 dimwishlist:item=2807687156&perks=1467527085,3142289711,972757866,47981717  #4113 PvP. MW: range, handling, reload
 dimwishlist:item=2807687156&perks=1467527085,106909392,972757866,47981717  #4213 PvP. MW: range, handling, reload
+dimwishlist:item=2807687156&perks=1467527085,1087426260,972757866,47981717  #4313 PvP. MW: range, handling, reload
 dimwishlist:item=2807687156&perks=1482024992,3142289711,972757866,47981717  #5113 PvP. MW: range, handling, reload
 dimwishlist:item=2807687156&perks=1482024992,106909392,972757866,47981717  #5213 PvP. MW: range, handling, reload
+dimwishlist:item=2807687156&perks=1482024992,1087426260,972757866,47981717  #5313 PvP. MW: range, handling, reload
 dimwishlist:item=2807687156&perks=4090651448,3142289711,972757866,47981717  #6113 PvP. MW: range, handling, reload
 dimwishlist:item=2807687156&perks=4090651448,106909392,972757866,47981717  #6213 PvP. MW: range, handling, reload
+dimwishlist:item=2807687156&perks=4090651448,1087426260,972757866,47981717  #6313 PvP. MW: range, handling, reload
 // Pulse Monitor, Firing Line
 dimwishlist:item=2807687156&perks=1840239774,3142289711,972757866,1771339417  #1114 PvP. MW: range, handling, reload
 dimwishlist:item=2807687156&perks=1840239774,106909392,972757866,1771339417  #1214 PvP. MW: range, handling, reload
+dimwishlist:item=2807687156&perks=1840239774,1087426260,972757866,1771339417  #1314 PvP. MW: range, handling, reload
 dimwishlist:item=2807687156&perks=202670084,3142289711,972757866,1771339417  #2114 PvP. MW: range, handling, reload
 dimwishlist:item=2807687156&perks=202670084,106909392,972757866,1771339417  #2214 PvP. MW: range, handling, reload
+dimwishlist:item=2807687156&perks=202670084,1087426260,972757866,1771339417  #2314 PvP. MW: range, handling, reload
 dimwishlist:item=2807687156&perks=3250034553,3142289711,972757866,1771339417  #3114 PvP. MW: range, handling, reload
 dimwishlist:item=2807687156&perks=3250034553,106909392,972757866,1771339417  #3214 PvP. MW: range, handling, reload
+dimwishlist:item=2807687156&perks=3250034553,1087426260,972757866,1771339417  #3314 PvP. MW: range, handling, reload
 dimwishlist:item=2807687156&perks=1467527085,3142289711,972757866,1771339417  #4114 PvP. MW: range, handling, reload
 dimwishlist:item=2807687156&perks=1467527085,106909392,972757866,1771339417  #4214 PvP. MW: range, handling, reload
+dimwishlist:item=2807687156&perks=1467527085,1087426260,972757866,1771339417  #4314 PvP. MW: range, handling, reload
 dimwishlist:item=2807687156&perks=1482024992,3142289711,972757866,1771339417  #5114 PvP. MW: range, handling, reload
 dimwishlist:item=2807687156&perks=1482024992,106909392,972757866,1771339417  #5214 PvP. MW: range, handling, reload
+dimwishlist:item=2807687156&perks=1482024992,1087426260,972757866,1771339417  #5314 PvP. MW: range, handling, reload
 dimwishlist:item=2807687156&perks=4090651448,3142289711,972757866,1771339417  #6114 PvP. MW: range, handling, reload
 dimwishlist:item=2807687156&perks=4090651448,106909392,972757866,1771339417  #6214 PvP. MW: range, handling, reload
+dimwishlist:item=2807687156&perks=4090651448,1087426260,972757866,1771339417  #6314 PvP. MW: range, handling, reload
 // Dragonfly, Quickdraw
 dimwishlist:item=2807687156&perks=1840239774,3142289711,2848615171,706527188  #1121 PvP. MW: range, handling, reload
 dimwishlist:item=2807687156&perks=1840239774,106909392,2848615171,706527188  #1221 PvP. MW: range, handling, reload
+dimwishlist:item=2807687156&perks=1840239774,1087426260,2848615171,706527188  #1321 PvP. MW: range, handling, reload
 dimwishlist:item=2807687156&perks=202670084,3142289711,2848615171,706527188  #2121 PvP. MW: range, handling, reload
 dimwishlist:item=2807687156&perks=202670084,106909392,2848615171,706527188  #2221 PvP. MW: range, handling, reload
+dimwishlist:item=2807687156&perks=202670084,1087426260,2848615171,706527188  #2321 PvP. MW: range, handling, reload
 dimwishlist:item=2807687156&perks=3250034553,3142289711,2848615171,706527188  #3121 PvP. MW: range, handling, reload
 dimwishlist:item=2807687156&perks=3250034553,106909392,2848615171,706527188  #3221 PvP. MW: range, handling, reload
+dimwishlist:item=2807687156&perks=3250034553,1087426260,2848615171,706527188  #3321 PvP. MW: range, handling, reload
 dimwishlist:item=2807687156&perks=1467527085,3142289711,2848615171,706527188  #4121 PvP. MW: range, handling, reload
 dimwishlist:item=2807687156&perks=1467527085,106909392,2848615171,706527188  #4221 PvP. MW: range, handling, reload
+dimwishlist:item=2807687156&perks=1467527085,1087426260,2848615171,706527188  #4321 PvP. MW: range, handling, reload
 dimwishlist:item=2807687156&perks=1482024992,3142289711,2848615171,706527188  #5121 PvP. MW: range, handling, reload
 dimwishlist:item=2807687156&perks=1482024992,106909392,2848615171,706527188  #5221 PvP. MW: range, handling, reload
+dimwishlist:item=2807687156&perks=1482024992,1087426260,2848615171,706527188  #5321 PvP. MW: range, handling, reload
 dimwishlist:item=2807687156&perks=4090651448,3142289711,2848615171,706527188  #6121 PvP. MW: range, handling, reload
 dimwishlist:item=2807687156&perks=4090651448,106909392,2848615171,706527188  #6221 PvP. MW: range, handling, reload
+dimwishlist:item=2807687156&perks=4090651448,1087426260,2848615171,706527188  #6321 PvP. MW: range, handling, reload
 // Dragonfly, Snapshot Sights
 dimwishlist:item=2807687156&perks=1840239774,3142289711,2848615171,957782887  #1122 PvP. MW: range, handling, reload
 dimwishlist:item=2807687156&perks=1840239774,106909392,2848615171,957782887  #1222 PvP. MW: range, handling, reload
+dimwishlist:item=2807687156&perks=1840239774,1087426260,2848615171,957782887  #1322 PvP. MW: range, handling, reload
 dimwishlist:item=2807687156&perks=202670084,3142289711,2848615171,957782887  #2122 PvP. MW: range, handling, reload
 dimwishlist:item=2807687156&perks=202670084,106909392,2848615171,957782887  #2222 PvP. MW: range, handling, reload
+dimwishlist:item=2807687156&perks=202670084,1087426260,2848615171,957782887  #2322 PvP. MW: range, handling, reload
 dimwishlist:item=2807687156&perks=3250034553,3142289711,2848615171,957782887  #3122 PvP. MW: range, handling, reload
 dimwishlist:item=2807687156&perks=3250034553,106909392,2848615171,957782887  #3222 PvP. MW: range, handling, reload
+dimwishlist:item=2807687156&perks=3250034553,1087426260,2848615171,957782887  #3322 PvP. MW: range, handling, reload
 dimwishlist:item=2807687156&perks=1467527085,3142289711,2848615171,957782887  #4122 PvP. MW: range, handling, reload
 dimwishlist:item=2807687156&perks=1467527085,106909392,2848615171,957782887  #4222 PvP. MW: range, handling, reload
+dimwishlist:item=2807687156&perks=1467527085,1087426260,2848615171,957782887  #4322 PvP. MW: range, handling, reload
 dimwishlist:item=2807687156&perks=1482024992,3142289711,2848615171,957782887  #5122 PvP. MW: range, handling, reload
 dimwishlist:item=2807687156&perks=1482024992,106909392,2848615171,957782887  #5222 PvP. MW: range, handling, reload
+dimwishlist:item=2807687156&perks=1482024992,1087426260,2848615171,957782887  #5322 PvP. MW: range, handling, reload
 dimwishlist:item=2807687156&perks=4090651448,3142289711,2848615171,957782887  #6122 PvP. MW: range, handling, reload
 dimwishlist:item=2807687156&perks=4090651448,106909392,2848615171,957782887  #6222 PvP. MW: range, handling, reload
+dimwishlist:item=2807687156&perks=4090651448,1087426260,2848615171,957782887  #6322 PvP. MW: range, handling, reload
 // Dragonfly, Opening Shot
 dimwishlist:item=2807687156&perks=1840239774,3142289711,2848615171,47981717  #1123 PvP. MW: range, handling, reload
 dimwishlist:item=2807687156&perks=1840239774,106909392,2848615171,47981717  #1223 PvP. MW: range, handling, reload
+dimwishlist:item=2807687156&perks=1840239774,1087426260,2848615171,47981717  #1323 PvP. MW: range, handling, reload
 dimwishlist:item=2807687156&perks=202670084,3142289711,2848615171,47981717  #2123 PvP. MW: range, handling, reload
 dimwishlist:item=2807687156&perks=202670084,106909392,2848615171,47981717  #2223 PvP. MW: range, handling, reload
+dimwishlist:item=2807687156&perks=202670084,1087426260,2848615171,47981717  #2323 PvP. MW: range, handling, reload
 dimwishlist:item=2807687156&perks=3250034553,3142289711,2848615171,47981717  #3123 PvP. MW: range, handling, reload
 dimwishlist:item=2807687156&perks=3250034553,106909392,2848615171,47981717  #3223 PvP. MW: range, handling, reload
+dimwishlist:item=2807687156&perks=3250034553,1087426260,2848615171,47981717  #3323 PvP. MW: range, handling, reload
 dimwishlist:item=2807687156&perks=1467527085,3142289711,2848615171,47981717  #4123 PvP. MW: range, handling, reload
 dimwishlist:item=2807687156&perks=1467527085,106909392,2848615171,47981717  #4223 PvP. MW: range, handling, reload
+dimwishlist:item=2807687156&perks=1467527085,1087426260,2848615171,47981717  #4323 PvP. MW: range, handling, reload
 dimwishlist:item=2807687156&perks=1482024992,3142289711,2848615171,47981717  #5123 PvP. MW: range, handling, reload
 dimwishlist:item=2807687156&perks=1482024992,106909392,2848615171,47981717  #5223 PvP. MW: range, handling, reload
+dimwishlist:item=2807687156&perks=1482024992,1087426260,2848615171,47981717  #5323 PvP. MW: range, handling, reload
 dimwishlist:item=2807687156&perks=4090651448,3142289711,2848615171,47981717  #6123 PvP. MW: range, handling, reload
 dimwishlist:item=2807687156&perks=4090651448,106909392,2848615171,47981717  #6223 PvP. MW: range, handling, reload
+dimwishlist:item=2807687156&perks=4090651448,1087426260,2848615171,47981717  #6323 PvP. MW: range, handling, reload
 // Dragonfly, Firing Line
 dimwishlist:item=2807687156&perks=1840239774,3142289711,2848615171,1771339417  #1124 PvP. MW: range, handling, reload
 dimwishlist:item=2807687156&perks=1840239774,106909392,2848615171,1771339417  #1224 PvP. MW: range, handling, reload
+dimwishlist:item=2807687156&perks=1840239774,1087426260,2848615171,1771339417  #1324 PvP. MW: range, handling, reload
 dimwishlist:item=2807687156&perks=202670084,3142289711,2848615171,1771339417  #2124 PvP. MW: range, handling, reload
 dimwishlist:item=2807687156&perks=202670084,106909392,2848615171,1771339417  #2224 PvP. MW: range, handling, reload
+dimwishlist:item=2807687156&perks=202670084,1087426260,2848615171,1771339417  #2324 PvP. MW: range, handling, reload
 dimwishlist:item=2807687156&perks=3250034553,3142289711,2848615171,1771339417  #3124 PvP. MW: range, handling, reload
 dimwishlist:item=2807687156&perks=3250034553,106909392,2848615171,1771339417  #3224 PvP. MW: range, handling, reload
+dimwishlist:item=2807687156&perks=3250034553,1087426260,2848615171,1771339417  #3324 PvP. MW: range, handling, reload
 dimwishlist:item=2807687156&perks=1467527085,3142289711,2848615171,1771339417  #4124 PvP. MW: range, handling, reload
 dimwishlist:item=2807687156&perks=1467527085,106909392,2848615171,1771339417  #4224 PvP. MW: range, handling, reload
+dimwishlist:item=2807687156&perks=1467527085,1087426260,2848615171,1771339417  #4324 PvP. MW: range, handling, reload
 dimwishlist:item=2807687156&perks=1482024992,3142289711,2848615171,1771339417  #5124 PvP. MW: range, handling, reload
 dimwishlist:item=2807687156&perks=1482024992,106909392,2848615171,1771339417  #5224 PvP. MW: range, handling, reload
+dimwishlist:item=2807687156&perks=1482024992,1087426260,2848615171,1771339417  #5324 PvP. MW: range, handling, reload
 dimwishlist:item=2807687156&perks=4090651448,3142289711,2848615171,1771339417  #6124 PvP. MW: range, handling, reload
 dimwishlist:item=2807687156&perks=4090651448,106909392,2848615171,1771339417  #6224 PvP. MW: range, handling, reload
+dimwishlist:item=2807687156&perks=4090651448,1087426260,2848615171,1771339417  #6324 PvP. MW: range, handling, reload
 // Distant Tumulus
 // Clown Cartridge, Outlaw
 dimwishlist:item=2807687156&perks=1840239774,106909392,2284787283,1168162263  #1111 PvE. MW: range, handling, reload
 dimwishlist:item=2807687156&perks=1840239774,3142289711,2284787283,1168162263  #1211 PvE. MW: range, handling, reload
+dimwishlist:item=2807687156&perks=1840239774,1087426260,2284787283,1168162263  #1311 PvE. MW: range, handling, reload
 dimwishlist:item=2807687156&perks=202670084,106909392,2284787283,1168162263  #2111 PvE. MW: range, handling, reload
 dimwishlist:item=2807687156&perks=202670084,3142289711,2284787283,1168162263  #2211 PvE. MW: range, handling, reload
+dimwishlist:item=2807687156&perks=202670084,1087426260,2284787283,1168162263  #2311 PvE. MW: range, handling, reload
 dimwishlist:item=2807687156&perks=3250034553,106909392,2284787283,1168162263  #3111 PvE. MW: range, handling, reload
 dimwishlist:item=2807687156&perks=3250034553,3142289711,2284787283,1168162263  #3211 PvE. MW: range, handling, reload
+dimwishlist:item=2807687156&perks=3250034553,1087426260,2284787283,1168162263  #3311 PvE. MW: range, handling, reload
 dimwishlist:item=2807687156&perks=1467527085,106909392,2284787283,1168162263  #4111 PvE. MW: range, handling, reload
 dimwishlist:item=2807687156&perks=1467527085,3142289711,2284787283,1168162263  #4211 PvE. MW: range, handling, reload
+dimwishlist:item=2807687156&perks=1467527085,1087426260,2284787283,1168162263  #4311 PvE. MW: range, handling, reload
 dimwishlist:item=2807687156&perks=1482024992,106909392,2284787283,1168162263  #5111 PvE. MW: range, handling, reload
 dimwishlist:item=2807687156&perks=1482024992,3142289711,2284787283,1168162263  #5211 PvE. MW: range, handling, reload
+dimwishlist:item=2807687156&perks=1482024992,1087426260,2284787283,1168162263  #5311 PvE. MW: range, handling, reload
 dimwishlist:item=2807687156&perks=4090651448,106909392,2284787283,1168162263  #6111 PvE. MW: range, handling, reload
 dimwishlist:item=2807687156&perks=4090651448,3142289711,2284787283,1168162263  #6211 PvE. MW: range, handling, reload
+dimwishlist:item=2807687156&perks=4090651448,1087426260,2284787283,1168162263  #6311 PvE. MW: range, handling, reload
 // Clown Cartridge, Firing Line
 dimwishlist:item=2807687156&perks=1840239774,106909392,2284787283,1771339417  #1112 PvE. MW: range, handling, reload
 dimwishlist:item=2807687156&perks=1840239774,3142289711,2284787283,1771339417  #1212 PvE. MW: range, handling, reload
+dimwishlist:item=2807687156&perks=1840239774,1087426260,2284787283,1771339417  #1312 PvE. MW: range, handling, reload
 dimwishlist:item=2807687156&perks=202670084,106909392,2284787283,1771339417  #2112 PvE. MW: range, handling, reload
 dimwishlist:item=2807687156&perks=202670084,3142289711,2284787283,1771339417  #2212 PvE. MW: range, handling, reload
+dimwishlist:item=2807687156&perks=202670084,1087426260,2284787283,1771339417  #2312 PvE. MW: range, handling, reload
 dimwishlist:item=2807687156&perks=3250034553,106909392,2284787283,1771339417  #3112 PvE. MW: range, handling, reload
 dimwishlist:item=2807687156&perks=3250034553,3142289711,2284787283,1771339417  #3212 PvE. MW: range, handling, reload
+dimwishlist:item=2807687156&perks=3250034553,1087426260,2284787283,1771339417  #3312 PvE. MW: range, handling, reload
 dimwishlist:item=2807687156&perks=1467527085,106909392,2284787283,1771339417  #4112 PvE. MW: range, handling, reload
 dimwishlist:item=2807687156&perks=1467527085,3142289711,2284787283,1771339417  #4212 PvE. MW: range, handling, reload
+dimwishlist:item=2807687156&perks=1467527085,1087426260,2284787283,1771339417  #4312 PvE. MW: range, handling, reload
 dimwishlist:item=2807687156&perks=1482024992,106909392,2284787283,1771339417  #5112 PvE. MW: range, handling, reload
 dimwishlist:item=2807687156&perks=1482024992,3142289711,2284787283,1771339417  #5212 PvE. MW: range, handling, reload
+dimwishlist:item=2807687156&perks=1482024992,1087426260,2284787283,1771339417  #5312 PvE. MW: range, handling, reload
 dimwishlist:item=2807687156&perks=4090651448,106909392,2284787283,1771339417  #6112 PvE. MW: range, handling, reload
 dimwishlist:item=2807687156&perks=4090651448,3142289711,2284787283,1771339417  #6212 PvE. MW: range, handling, reload
+dimwishlist:item=2807687156&perks=4090651448,1087426260,2284787283,1771339417  #6312 PvE. MW: range, handling, reload
 // Dragonfly, Outlaw
 dimwishlist:item=2807687156&perks=1840239774,106909392,2848615171,1168162263  #1121 PvE. MW: range, handling, reload
 dimwishlist:item=2807687156&perks=1840239774,3142289711,2848615171,1168162263  #1221 PvE. MW: range, handling, reload
+dimwishlist:item=2807687156&perks=1840239774,1087426260,2848615171,1168162263  #1321 PvE. MW: range, handling, reload
 dimwishlist:item=2807687156&perks=202670084,106909392,2848615171,1168162263  #2121 PvE. MW: range, handling, reload
 dimwishlist:item=2807687156&perks=202670084,3142289711,2848615171,1168162263  #2221 PvE. MW: range, handling, reload
+dimwishlist:item=2807687156&perks=202670084,1087426260,2848615171,1168162263  #2321 PvE. MW: range, handling, reload
 dimwishlist:item=2807687156&perks=3250034553,106909392,2848615171,1168162263  #3121 PvE. MW: range, handling, reload
 dimwishlist:item=2807687156&perks=3250034553,3142289711,2848615171,1168162263  #3221 PvE. MW: range, handling, reload
+dimwishlist:item=2807687156&perks=3250034553,1087426260,2848615171,1168162263  #3321 PvE. MW: range, handling, reload
 dimwishlist:item=2807687156&perks=1467527085,106909392,2848615171,1168162263  #4121 PvE. MW: range, handling, reload
 dimwishlist:item=2807687156&perks=1467527085,3142289711,2848615171,1168162263  #4221 PvE. MW: range, handling, reload
+dimwishlist:item=2807687156&perks=1467527085,1087426260,2848615171,1168162263  #4321 PvE. MW: range, handling, reload
 dimwishlist:item=2807687156&perks=1482024992,106909392,2848615171,1168162263  #5121 PvE. MW: range, handling, reload
 dimwishlist:item=2807687156&perks=1482024992,3142289711,2848615171,1168162263  #5221 PvE. MW: range, handling, reload
+dimwishlist:item=2807687156&perks=1482024992,1087426260,2848615171,1168162263  #5321 PvE. MW: range, handling, reload
 dimwishlist:item=2807687156&perks=4090651448,106909392,2848615171,1168162263  #6121 PvE. MW: range, handling, reload
 dimwishlist:item=2807687156&perks=4090651448,3142289711,2848615171,1168162263  #6221 PvE. MW: range, handling, reload
+dimwishlist:item=2807687156&perks=4090651448,1087426260,2848615171,1168162263  #6321 PvE. MW: range, handling, reload
 // Dragonfly, Firing Line
 dimwishlist:item=2807687156&perks=1840239774,106909392,2848615171,1771339417  #1122 PvE. MW: range, handling, reload
 dimwishlist:item=2807687156&perks=1840239774,3142289711,2848615171,1771339417  #1222 PvE. MW: range, handling, reload
+dimwishlist:item=2807687156&perks=1840239774,1087426260,2848615171,1771339417  #1322 PvE. MW: range, handling, reload
 dimwishlist:item=2807687156&perks=202670084,106909392,2848615171,1771339417  #2122 PvE. MW: range, handling, reload
 dimwishlist:item=2807687156&perks=202670084,3142289711,2848615171,1771339417  #2222 PvE. MW: range, handling, reload
+dimwishlist:item=2807687156&perks=202670084,1087426260,2848615171,1771339417  #2322 PvE. MW: range, handling, reload
 dimwishlist:item=2807687156&perks=3250034553,106909392,2848615171,1771339417  #3122 PvE. MW: range, handling, reload
 dimwishlist:item=2807687156&perks=3250034553,3142289711,2848615171,1771339417  #3222 PvE. MW: range, handling, reload
+dimwishlist:item=2807687156&perks=3250034553,1087426260,2848615171,1771339417  #3322 PvE. MW: range, handling, reload
 dimwishlist:item=2807687156&perks=1467527085,106909392,2848615171,1771339417  #4122 PvE. MW: range, handling, reload
 dimwishlist:item=2807687156&perks=1467527085,3142289711,2848615171,1771339417  #4222 PvE. MW: range, handling, reload
+dimwishlist:item=2807687156&perks=1467527085,1087426260,2848615171,1771339417  #4322 PvE. MW: range, handling, reload
 dimwishlist:item=2807687156&perks=1482024992,106909392,2848615171,1771339417  #5122 PvE. MW: range, handling, reload
 dimwishlist:item=2807687156&perks=1482024992,3142289711,2848615171,1771339417  #5222 PvE. MW: range, handling, reload
+dimwishlist:item=2807687156&perks=1482024992,1087426260,2848615171,1771339417  #5322 PvE. MW: range, handling, reload
 dimwishlist:item=2807687156&perks=4090651448,106909392,2848615171,1771339417  #6122 PvE. MW: range, handling, reload
 dimwishlist:item=2807687156&perks=4090651448,3142289711,2848615171,1771339417  #6222 PvE. MW: range, handling, reload
+dimwishlist:item=2807687156&perks=4090651448,1087426260,2848615171,1771339417  #6322 PvE. MW: range, handling, reload
 // Lead From Gold, Outlaw
 dimwishlist:item=2807687156&perks=1840239774,106909392,1556840489,1168162263  #1131 PvE. MW: range, handling, reload
 dimwishlist:item=2807687156&perks=1840239774,3142289711,1556840489,1168162263  #1231 PvE. MW: range, handling, reload
+dimwishlist:item=2807687156&perks=1840239774,1087426260,1556840489,1168162263  #1331 PvE. MW: range, handling, reload
 dimwishlist:item=2807687156&perks=202670084,106909392,1556840489,1168162263  #2131 PvE. MW: range, handling, reload
 dimwishlist:item=2807687156&perks=202670084,3142289711,1556840489,1168162263  #2231 PvE. MW: range, handling, reload
+dimwishlist:item=2807687156&perks=202670084,1087426260,1556840489,1168162263  #2331 PvE. MW: range, handling, reload
 dimwishlist:item=2807687156&perks=3250034553,106909392,1556840489,1168162263  #3131 PvE. MW: range, handling, reload
 dimwishlist:item=2807687156&perks=3250034553,3142289711,1556840489,1168162263  #3231 PvE. MW: range, handling, reload
+dimwishlist:item=2807687156&perks=3250034553,1087426260,1556840489,1168162263  #3331 PvE. MW: range, handling, reload
 dimwishlist:item=2807687156&perks=1467527085,106909392,1556840489,1168162263  #4131 PvE. MW: range, handling, reload
 dimwishlist:item=2807687156&perks=1467527085,3142289711,1556840489,1168162263  #4231 PvE. MW: range, handling, reload
+dimwishlist:item=2807687156&perks=1467527085,1087426260,1556840489,1168162263  #4331 PvE. MW: range, handling, reload
 dimwishlist:item=2807687156&perks=1482024992,106909392,1556840489,1168162263  #5131 PvE. MW: range, handling, reload
 dimwishlist:item=2807687156&perks=1482024992,3142289711,1556840489,1168162263  #5231 PvE. MW: range, handling, reload
+dimwishlist:item=2807687156&perks=1482024992,1087426260,1556840489,1168162263  #5331 PvE. MW: range, handling, reload
 dimwishlist:item=2807687156&perks=4090651448,106909392,1556840489,1168162263  #6131 PvE. MW: range, handling, reload
 dimwishlist:item=2807687156&perks=4090651448,3142289711,1556840489,1168162263  #6231 PvE. MW: range, handling, reload
+dimwishlist:item=2807687156&perks=4090651448,1087426260,1556840489,1168162263  #6331 PvE. MW: range, handling, reload
 // Lead From Gold, Firing Line
 dimwishlist:item=2807687156&perks=1840239774,106909392,1556840489,1771339417  #1132 PvE. MW: range, handling, reload
 dimwishlist:item=2807687156&perks=1840239774,3142289711,1556840489,1771339417  #1232 PvE. MW: range, handling, reload
+dimwishlist:item=2807687156&perks=1840239774,1087426260,1556840489,1771339417  #1332 PvE. MW: range, handling, reload
 dimwishlist:item=2807687156&perks=202670084,106909392,1556840489,1771339417  #2132 PvE. MW: range, handling, reload
 dimwishlist:item=2807687156&perks=202670084,3142289711,1556840489,1771339417  #2232 PvE. MW: range, handling, reload
+dimwishlist:item=2807687156&perks=202670084,1087426260,1556840489,1771339417  #2332 PvE. MW: range, handling, reload
 dimwishlist:item=2807687156&perks=3250034553,106909392,1556840489,1771339417  #3132 PvE. MW: range, handling, reload
 dimwishlist:item=2807687156&perks=3250034553,3142289711,1556840489,1771339417  #3232 PvE. MW: range, handling, reload
+dimwishlist:item=2807687156&perks=3250034553,1087426260,1556840489,1771339417  #3332 PvE. MW: range, handling, reload
 dimwishlist:item=2807687156&perks=1467527085,106909392,1556840489,1771339417  #4132 PvE. MW: range, handling, reload
 dimwishlist:item=2807687156&perks=1467527085,3142289711,1556840489,1771339417  #4232 PvE. MW: range, handling, reload
+dimwishlist:item=2807687156&perks=1467527085,1087426260,1556840489,1771339417  #4332 PvE. MW: range, handling, reload
 dimwishlist:item=2807687156&perks=1482024992,106909392,1556840489,1771339417  #5132 PvE. MW: range, handling, reload
 dimwishlist:item=2807687156&perks=1482024992,3142289711,1556840489,1771339417  #5232 PvE. MW: range, handling, reload
+dimwishlist:item=2807687156&perks=1482024992,1087426260,1556840489,1771339417  #5332 PvE. MW: range, handling, reload
 dimwishlist:item=2807687156&perks=4090651448,106909392,1556840489,1771339417  #6132 PvE. MW: range, handling, reload
 dimwishlist:item=2807687156&perks=4090651448,3142289711,1556840489,1771339417  #6232 PvE. MW: range, handling, reload
+dimwishlist:item=2807687156&perks=4090651448,1087426260,1556840489,1771339417  #6332 PvE. MW: range, handling, reload
 // Genesis, Outlaw
 dimwishlist:item=2807687156&perks=1840239774,106909392,3096702027,1168162263  #1111 PvE. Nightfall. MW: range, handling, reload
 dimwishlist:item=2807687156&perks=1840239774,3142289711,3096702027,1168162263  #1211 PvE. Nightfall. MW: range, handling, reload
+dimwishlist:item=2807687156&perks=1840239774,1087426260,3096702027,1168162263  #1311 PvE. Nightfall. MW: range, handling, reload
 dimwishlist:item=2807687156&perks=202670084,106909392,3096702027,1168162263  #2111 PvE. Nightfall. MW: range, handling, reload
 dimwishlist:item=2807687156&perks=202670084,3142289711,3096702027,1168162263  #2211 PvE. Nightfall. MW: range, handling, reload
+dimwishlist:item=2807687156&perks=202670084,1087426260,3096702027,1168162263  #2311 PvE. Nightfall. MW: range, handling, reload
 dimwishlist:item=2807687156&perks=3250034553,106909392,3096702027,1168162263  #3111 PvE. Nightfall. MW: range, handling, reload
 dimwishlist:item=2807687156&perks=3250034553,3142289711,3096702027,1168162263  #3211 PvE. Nightfall. MW: range, handling, reload
+dimwishlist:item=2807687156&perks=3250034553,1087426260,3096702027,1168162263  #3311 PvE. Nightfall. MW: range, handling, reload
 dimwishlist:item=2807687156&perks=1467527085,106909392,3096702027,1168162263  #4111 PvE. Nightfall. MW: range, handling, reload
 dimwishlist:item=2807687156&perks=1467527085,3142289711,3096702027,1168162263  #4211 PvE. Nightfall. MW: range, handling, reload
+dimwishlist:item=2807687156&perks=1467527085,1087426260,3096702027,1168162263  #4311 PvE. Nightfall. MW: range, handling, reload
 dimwishlist:item=2807687156&perks=1482024992,106909392,3096702027,1168162263  #5111 PvE. Nightfall. MW: range, handling, reload
 dimwishlist:item=2807687156&perks=1482024992,3142289711,3096702027,1168162263  #5211 PvE. Nightfall. MW: range, handling, reload
+dimwishlist:item=2807687156&perks=1482024992,1087426260,3096702027,1168162263  #5311 PvE. Nightfall. MW: range, handling, reload
 dimwishlist:item=2807687156&perks=4090651448,106909392,3096702027,1168162263  #6111 PvE. Nightfall. MW: range, handling, reload
 dimwishlist:item=2807687156&perks=4090651448,3142289711,3096702027,1168162263  #6211 PvE. Nightfall. MW: range, handling, reload
+dimwishlist:item=2807687156&perks=4090651448,1087426260,3096702027,1168162263  #6311 PvE. Nightfall. MW: range, handling, reload
 // Genesis, Firing Line
 dimwishlist:item=2807687156&perks=1840239774,106909392,3096702027,1771339417  #1112 PvE. Nightfall. MW: range, handling, reload
 dimwishlist:item=2807687156&perks=1840239774,3142289711,3096702027,1771339417  #1212 PvE. Nightfall. MW: range, handling, reload
+dimwishlist:item=2807687156&perks=1840239774,1087426260,3096702027,1771339417  #1312 PvE. Nightfall. MW: range, handling, reload
 dimwishlist:item=2807687156&perks=202670084,106909392,3096702027,1771339417  #2112 PvE. Nightfall. MW: range, handling, reload
 dimwishlist:item=2807687156&perks=202670084,3142289711,3096702027,1771339417  #2212 PvE. Nightfall. MW: range, handling, reload
+dimwishlist:item=2807687156&perks=202670084,1087426260,3096702027,1771339417  #2312 PvE. Nightfall. MW: range, handling, reload
 dimwishlist:item=2807687156&perks=3250034553,106909392,3096702027,1771339417  #3112 PvE. Nightfall. MW: range, handling, reload
 dimwishlist:item=2807687156&perks=3250034553,3142289711,3096702027,1771339417  #3212 PvE. Nightfall. MW: range, handling, reload
+dimwishlist:item=2807687156&perks=3250034553,1087426260,3096702027,1771339417  #3312 PvE. Nightfall. MW: range, handling, reload
 dimwishlist:item=2807687156&perks=1467527085,106909392,3096702027,1771339417  #4112 PvE. Nightfall. MW: range, handling, reload
 dimwishlist:item=2807687156&perks=1467527085,3142289711,3096702027,1771339417  #4212 PvE. Nightfall. MW: range, handling, reload
+dimwishlist:item=2807687156&perks=1467527085,1087426260,3096702027,1771339417  #4312 PvE. Nightfall. MW: range, handling, reload
 dimwishlist:item=2807687156&perks=1482024992,106909392,3096702027,1771339417  #5112 PvE. Nightfall. MW: range, handling, reload
 dimwishlist:item=2807687156&perks=1482024992,3142289711,3096702027,1771339417  #5212 PvE. Nightfall. MW: range, handling, reload
+dimwishlist:item=2807687156&perks=1482024992,1087426260,3096702027,1771339417  #5312 PvE. Nightfall. MW: range, handling, reload
 dimwishlist:item=2807687156&perks=4090651448,106909392,3096702027,1771339417  #6112 PvE. Nightfall. MW: range, handling, reload
 dimwishlist:item=2807687156&perks=4090651448,3142289711,3096702027,1771339417  #6212 PvE. Nightfall. MW: range, handling, reload
+dimwishlist:item=2807687156&perks=4090651448,1087426260,3096702027,1771339417  #6312 PvE. Nightfall. MW: range, handling, reload
 
 
 // Ikelos Sr V102
