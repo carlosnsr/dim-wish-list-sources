@@ -7390,404 +7390,518 @@ dimwishlist:item=1162247618&perks=965619220,679225683,1631667848,4082225868  #53
 
 // Bad Omens
 // Tracking Module, Cluster Bomb
-dimwishlist:item=991314988&perks=1478423395,3796465595,3977735242,1275731761  #1111 PvE. God Roll. Received from resetting one's Gambit rank twice. MW: velocity, blast_radius, reload
+dimwishlist:item=991314988&perks=1478423395,3796465595,3977735242,1275731761  #1111 PvE. God Roll. Curated. Received from resetting one's Gambit rank twice. MW: blast_radius, handling, reload
 // Bad Omens
-//notes: Implosion Rounds concentrates the blast (and cluster bombs) to do the most damage on bosses
+//notes: Smaller blast radius to concentrate the blast (and cluster bombs) to do the most damage on bosses
 // Field Prep, Cluster Bomb
-dimwishlist:item=991314988&perks=981914802,3492396210,2869569095,1275731761  #1111 PvE. Max Boss DPS. Field Prep for the extra ammo reserves and faster reload when crouching.  Fallout Plays recommended {https://www.youtube.com/watch?v=KGECTCBY_Zg). MW: velocity, handling, reload
+dimwishlist:item=991314988&perks=981914802,3492396210,2869569095,1275731761  #1111 PvE. Max Boss DPS. Field Prep for the extra ammo reserves and faster reload when crouching.  Fallout Plays recommended {https://www.youtube.com/watch?v=KGECTCBY_Zg). MW: blast_radius, handling, reload
+// Field Prep, Cluster Bomb
+dimwishlist:item=991314988&perks=981914802,3492396210,2869569095,1275731761  #1111 PvE. Boss DPS. MW: blast_radius, handling, reload
 // Auto Loading Holster, Cluster Bomb
-dimwishlist:item=991314988&perks=981914802,3492396210,3300816228,1275731761  #1111 PvE. Boss DPS. MW: velocity, handling, reload
+dimwishlist:item=991314988&perks=981914802,3492396210,3300816228,1275731761  #1121 PvE. Boss DPS. MW: blast_radius, handling, reload
 // Tracking Module, Cluster Bomb
-dimwishlist:item=991314988&perks=981914802,3492396210,3977735242,1275731761  #1121 PvE. Boss DPS. MW: velocity, handling, reload
+dimwishlist:item=991314988&perks=981914802,3492396210,3977735242,1275731761  #1131 PvE. Boss DPS. MW: blast_radius, handling, reload
 // Bad Omens
 //notes: Black Powder for largest Blast Radius, or High Velocity Rounds to speed up the rockets
 // Tracking Module, Cluster Bomb
-dimwishlist:item=991314988&perks=1478423395,1996142143,3977735242,1275731761  #1111 PvE. PvP. Max Blast Radius. MW: blast_radius, velocity, reload
-dimwishlist:item=991314988&perks=1478423395,2822142346,3977735242,1275731761  #1211 PvE. PvP. Max Blast Radius. MW: blast_radius, velocity, reload
-dimwishlist:item=991314988&perks=1844523823,1996142143,3977735242,1275731761  #2111 PvE. PvP. Max Blast Radius. MW: blast_radius, velocity, reload
-dimwishlist:item=991314988&perks=1844523823,2822142346,3977735242,1275731761  #2211 PvE. PvP. Max Blast Radius. MW: blast_radius, velocity, reload
-dimwishlist:item=991314988&perks=1441682018,1996142143,3977735242,1275731761  #3111 PvE. PvP. Max Blast Radius. MW: blast_radius, velocity, reload
-dimwishlist:item=991314988&perks=1441682018,2822142346,3977735242,1275731761  #3211 PvE. PvP. Max Blast Radius. MW: blast_radius, velocity, reload
+dimwishlist:item=991314988&perks=1478423395,1996142143,3977735242,1275731761  #1111 PvE. PvP. Max Blast Radius. MW: blast_radius, handling, reload
+dimwishlist:item=991314988&perks=1478423395,2822142346,3977735242,1275731761  #1211 PvE. PvP. Max Blast Radius. MW: blast_radius, handling, reload
+dimwishlist:item=991314988&perks=1844523823,1996142143,3977735242,1275731761  #2111 PvE. PvP. Max Blast Radius. MW: blast_radius, handling, reload
+dimwishlist:item=991314988&perks=1844523823,2822142346,3977735242,1275731761  #2211 PvE. PvP. Max Blast Radius. MW: blast_radius, handling, reload
+dimwishlist:item=991314988&perks=1441682018,1996142143,3977735242,1275731761  #3111 PvE. PvP. Max Blast Radius. MW: blast_radius, handling, reload
+dimwishlist:item=991314988&perks=1441682018,2822142346,3977735242,1275731761  #3211 PvE. PvP. Max Blast Radius. MW: blast_radius, handling, reload
 // Auto Loading Holster, Cluster Bomb
-dimwishlist:item=991314988&perks=1478423395,1996142143,3300816228,1275731761  #1121 PvE. PvP. Max Blast Radius. MW: blast_radius, velocity, reload
-dimwishlist:item=991314988&perks=1478423395,2822142346,3300816228,1275731761  #1221 PvE. PvP. Max Blast Radius. MW: blast_radius, velocity, reload
-dimwishlist:item=991314988&perks=1844523823,1996142143,3300816228,1275731761  #2121 PvE. PvP. Max Blast Radius. MW: blast_radius, velocity, reload
-dimwishlist:item=991314988&perks=1844523823,2822142346,3300816228,1275731761  #2221 PvE. PvP. Max Blast Radius. MW: blast_radius, velocity, reload
-dimwishlist:item=991314988&perks=1441682018,1996142143,3300816228,1275731761  #3121 PvE. PvP. Max Blast Radius. MW: blast_radius, velocity, reload
-dimwishlist:item=991314988&perks=1441682018,2822142346,3300816228,1275731761  #3221 PvE. PvP. Max Blast Radius. MW: blast_radius, velocity, reload
+dimwishlist:item=991314988&perks=1478423395,1996142143,3300816228,1275731761  #1121 PvE. PvP. Max Blast Radius. MW: blast_radius, handling, reload
+dimwishlist:item=991314988&perks=1478423395,2822142346,3300816228,1275731761  #1221 PvE. PvP. Max Blast Radius. MW: blast_radius, handling, reload
+dimwishlist:item=991314988&perks=1844523823,1996142143,3300816228,1275731761  #2121 PvE. PvP. Max Blast Radius. MW: blast_radius, handling, reload
+dimwishlist:item=991314988&perks=1844523823,2822142346,3300816228,1275731761  #2221 PvE. PvP. Max Blast Radius. MW: blast_radius, handling, reload
+dimwishlist:item=991314988&perks=1441682018,1996142143,3300816228,1275731761  #3121 PvE. PvP. Max Blast Radius. MW: blast_radius, handling, reload
+dimwishlist:item=991314988&perks=1441682018,2822142346,3300816228,1275731761  #3221 PvE. PvP. Max Blast Radius. MW: blast_radius, handling, reload
 // Tracking Module, Cluster Bomb
-dimwishlist:item=991314988&perks=1478423395,1996142143,3977735242,1275731761  #1111 PvP. Max Blast Radius. MW: blast_radius, velocity, reload
-dimwishlist:item=991314988&perks=1478423395,2822142346,3977735242,1275731761  #1211 PvP. Max Blast Radius. MW: blast_radius, velocity, reload
-dimwishlist:item=991314988&perks=1844523823,1996142143,3977735242,1275731761  #2111 PvP. Max Blast Radius. MW: blast_radius, velocity, reload
-dimwishlist:item=991314988&perks=1844523823,2822142346,3977735242,1275731761  #2211 PvP. Max Blast Radius. MW: blast_radius, velocity, reload
-dimwishlist:item=991314988&perks=1441682018,1996142143,3977735242,1275731761  #3111 PvP. Max Blast Radius. MW: blast_radius, velocity, reload
-dimwishlist:item=991314988&perks=1441682018,2822142346,3977735242,1275731761  #3211 PvP. Max Blast Radius. MW: blast_radius, velocity, reload
+dimwishlist:item=991314988&perks=1478423395,1996142143,3977735242,1275731761  #1111 PvP. Max Blast Radius. MW: blast_radius, handling, reload
+dimwishlist:item=991314988&perks=1478423395,2822142346,3977735242,1275731761  #1211 PvP. Max Blast Radius. MW: blast_radius, handling, reload
+dimwishlist:item=991314988&perks=1844523823,1996142143,3977735242,1275731761  #2111 PvP. Max Blast Radius. MW: blast_radius, handling, reload
+dimwishlist:item=991314988&perks=1844523823,2822142346,3977735242,1275731761  #2211 PvP. Max Blast Radius. MW: blast_radius, handling, reload
+dimwishlist:item=991314988&perks=1441682018,1996142143,3977735242,1275731761  #3111 PvP. Max Blast Radius. MW: blast_radius, handling, reload
+dimwishlist:item=991314988&perks=1441682018,2822142346,3977735242,1275731761  #3211 PvP. Max Blast Radius. MW: blast_radius, handling, reload
 // Tracking Module, Quickdraw
-dimwishlist:item=991314988&perks=1478423395,1996142143,3977735242,706527188  #1112 PvP. Max Blast Radius. MW: blast_radius, velocity, reload
-dimwishlist:item=991314988&perks=1478423395,2822142346,3977735242,706527188  #1212 PvP. Max Blast Radius. MW: blast_radius, velocity, reload
-dimwishlist:item=991314988&perks=1844523823,1996142143,3977735242,706527188  #2112 PvP. Max Blast Radius. MW: blast_radius, velocity, reload
-dimwishlist:item=991314988&perks=1844523823,2822142346,3977735242,706527188  #2212 PvP. Max Blast Radius. MW: blast_radius, velocity, reload
-dimwishlist:item=991314988&perks=1441682018,1996142143,3977735242,706527188  #3112 PvP. Max Blast Radius. MW: blast_radius, velocity, reload
-dimwishlist:item=991314988&perks=1441682018,2822142346,3977735242,706527188  #3212 PvP. Max Blast Radius. MW: blast_radius, velocity, reload
+dimwishlist:item=991314988&perks=1478423395,1996142143,3977735242,706527188  #1112 PvP. Max Blast Radius. MW: blast_radius, handling, reload
+dimwishlist:item=991314988&perks=1478423395,2822142346,3977735242,706527188  #1212 PvP. Max Blast Radius. MW: blast_radius, handling, reload
+dimwishlist:item=991314988&perks=1844523823,1996142143,3977735242,706527188  #2112 PvP. Max Blast Radius. MW: blast_radius, handling, reload
+dimwishlist:item=991314988&perks=1844523823,2822142346,3977735242,706527188  #2212 PvP. Max Blast Radius. MW: blast_radius, handling, reload
+dimwishlist:item=991314988&perks=1441682018,1996142143,3977735242,706527188  #3112 PvP. Max Blast Radius. MW: blast_radius, handling, reload
+dimwishlist:item=991314988&perks=1441682018,2822142346,3977735242,706527188  #3212 PvP. Max Blast Radius. MW: blast_radius, handling, reload
 // Auto Loading Holster, Cluster Bomb
-dimwishlist:item=991314988&perks=1478423395,1996142143,3300816228,1275731761  #1121 PvP. Max Blast Radius. MW: blast_radius, velocity, reload
-dimwishlist:item=991314988&perks=1478423395,2822142346,3300816228,1275731761  #1221 PvP. Max Blast Radius. MW: blast_radius, velocity, reload
-dimwishlist:item=991314988&perks=1844523823,1996142143,3300816228,1275731761  #2121 PvP. Max Blast Radius. MW: blast_radius, velocity, reload
-dimwishlist:item=991314988&perks=1844523823,2822142346,3300816228,1275731761  #2221 PvP. Max Blast Radius. MW: blast_radius, velocity, reload
-dimwishlist:item=991314988&perks=1441682018,1996142143,3300816228,1275731761  #3121 PvP. Max Blast Radius. MW: blast_radius, velocity, reload
-dimwishlist:item=991314988&perks=1441682018,2822142346,3300816228,1275731761  #3221 PvP. Max Blast Radius. MW: blast_radius, velocity, reload
+dimwishlist:item=991314988&perks=1478423395,1996142143,3300816228,1275731761  #1121 PvP. Max Blast Radius. MW: blast_radius, handling, reload
+dimwishlist:item=991314988&perks=1478423395,2822142346,3300816228,1275731761  #1221 PvP. Max Blast Radius. MW: blast_radius, handling, reload
+dimwishlist:item=991314988&perks=1844523823,1996142143,3300816228,1275731761  #2121 PvP. Max Blast Radius. MW: blast_radius, handling, reload
+dimwishlist:item=991314988&perks=1844523823,2822142346,3300816228,1275731761  #2221 PvP. Max Blast Radius. MW: blast_radius, handling, reload
+dimwishlist:item=991314988&perks=1441682018,1996142143,3300816228,1275731761  #3121 PvP. Max Blast Radius. MW: blast_radius, handling, reload
+dimwishlist:item=991314988&perks=1441682018,2822142346,3300816228,1275731761  #3221 PvP. Max Blast Radius. MW: blast_radius, handling, reload
 // Auto Loading Holster, Quickdraw
-dimwishlist:item=991314988&perks=1478423395,1996142143,3300816228,706527188  #1122 PvP. Max Blast Radius. MW: blast_radius, velocity, reload
-dimwishlist:item=991314988&perks=1478423395,2822142346,3300816228,706527188  #1222 PvP. Max Blast Radius. MW: blast_radius, velocity, reload
-dimwishlist:item=991314988&perks=1844523823,1996142143,3300816228,706527188  #2122 PvP. Max Blast Radius. MW: blast_radius, velocity, reload
-dimwishlist:item=991314988&perks=1844523823,2822142346,3300816228,706527188  #2222 PvP. Max Blast Radius. MW: blast_radius, velocity, reload
-dimwishlist:item=991314988&perks=1441682018,1996142143,3300816228,706527188  #3122 PvP. Max Blast Radius. MW: blast_radius, velocity, reload
-dimwishlist:item=991314988&perks=1441682018,2822142346,3300816228,706527188  #3222 PvP. Max Blast Radius. MW: blast_radius, velocity, reload
+dimwishlist:item=991314988&perks=1478423395,1996142143,3300816228,706527188  #1122 PvP. Max Blast Radius. MW: blast_radius, handling, reload
+dimwishlist:item=991314988&perks=1478423395,2822142346,3300816228,706527188  #1222 PvP. Max Blast Radius. MW: blast_radius, handling, reload
+dimwishlist:item=991314988&perks=1844523823,1996142143,3300816228,706527188  #2122 PvP. Max Blast Radius. MW: blast_radius, handling, reload
+dimwishlist:item=991314988&perks=1844523823,2822142346,3300816228,706527188  #2222 PvP. Max Blast Radius. MW: blast_radius, handling, reload
+dimwishlist:item=991314988&perks=1441682018,1996142143,3300816228,706527188  #3122 PvP. Max Blast Radius. MW: blast_radius, handling, reload
+dimwishlist:item=991314988&perks=1441682018,2822142346,3300816228,706527188  #3222 PvP. Max Blast Radius. MW: blast_radius, handling, reload
 // Snapshot Sights, Cluster Bomb
-dimwishlist:item=991314988&perks=1478423395,1996142143,957782887,1275731761  #1131 PvP. Max Blast Radius. MW: blast_radius, velocity, reload
-dimwishlist:item=991314988&perks=1478423395,2822142346,957782887,1275731761  #1231 PvP. Max Blast Radius. MW: blast_radius, velocity, reload
-dimwishlist:item=991314988&perks=1844523823,1996142143,957782887,1275731761  #2131 PvP. Max Blast Radius. MW: blast_radius, velocity, reload
-dimwishlist:item=991314988&perks=1844523823,2822142346,957782887,1275731761  #2231 PvP. Max Blast Radius. MW: blast_radius, velocity, reload
-dimwishlist:item=991314988&perks=1441682018,1996142143,957782887,1275731761  #3131 PvP. Max Blast Radius. MW: blast_radius, velocity, reload
-dimwishlist:item=991314988&perks=1441682018,2822142346,957782887,1275731761  #3231 PvP. Max Blast Radius. MW: blast_radius, velocity, reload
+dimwishlist:item=991314988&perks=1478423395,1996142143,957782887,1275731761  #1131 PvP. Max Blast Radius. MW: blast_radius, handling, reload
+dimwishlist:item=991314988&perks=1478423395,2822142346,957782887,1275731761  #1231 PvP. Max Blast Radius. MW: blast_radius, handling, reload
+dimwishlist:item=991314988&perks=1844523823,1996142143,957782887,1275731761  #2131 PvP. Max Blast Radius. MW: blast_radius, handling, reload
+dimwishlist:item=991314988&perks=1844523823,2822142346,957782887,1275731761  #2231 PvP. Max Blast Radius. MW: blast_radius, handling, reload
+dimwishlist:item=991314988&perks=1441682018,1996142143,957782887,1275731761  #3131 PvP. Max Blast Radius. MW: blast_radius, handling, reload
+dimwishlist:item=991314988&perks=1441682018,2822142346,957782887,1275731761  #3231 PvP. Max Blast Radius. MW: blast_radius, handling, reload
 // Snapshot Sights, Quickdraw
-dimwishlist:item=991314988&perks=1478423395,1996142143,957782887,706527188  #1132 PvP. Max Blast Radius. MW: blast_radius, velocity, reload
-dimwishlist:item=991314988&perks=1478423395,2822142346,957782887,706527188  #1232 PvP. Max Blast Radius. MW: blast_radius, velocity, reload
-dimwishlist:item=991314988&perks=1844523823,1996142143,957782887,706527188  #2132 PvP. Max Blast Radius. MW: blast_radius, velocity, reload
-dimwishlist:item=991314988&perks=1844523823,2822142346,957782887,706527188  #2232 PvP. Max Blast Radius. MW: blast_radius, velocity, reload
-dimwishlist:item=991314988&perks=1441682018,1996142143,957782887,706527188  #3132 PvP. Max Blast Radius. MW: blast_radius, velocity, reload
-dimwishlist:item=991314988&perks=1441682018,2822142346,957782887,706527188  #3232 PvP. Max Blast Radius. MW: blast_radius, velocity, reload
+dimwishlist:item=991314988&perks=1478423395,1996142143,957782887,706527188  #1132 PvP. Max Blast Radius. MW: blast_radius, handling, reload
+dimwishlist:item=991314988&perks=1478423395,2822142346,957782887,706527188  #1232 PvP. Max Blast Radius. MW: blast_radius, handling, reload
+dimwishlist:item=991314988&perks=1844523823,1996142143,957782887,706527188  #2132 PvP. Max Blast Radius. MW: blast_radius, handling, reload
+dimwishlist:item=991314988&perks=1844523823,2822142346,957782887,706527188  #2232 PvP. Max Blast Radius. MW: blast_radius, handling, reload
+dimwishlist:item=991314988&perks=1441682018,1996142143,957782887,706527188  #3132 PvP. Max Blast Radius. MW: blast_radius, handling, reload
+dimwishlist:item=991314988&perks=1441682018,2822142346,957782887,706527188  #3232 PvP. Max Blast Radius. MW: blast_radius, handling, reload
 // Tracking Module, Genesis
-dimwishlist:item=991314988&perks=1478423395,1996142143,3977735242,3096702027  #1111 PvE. Max Blast Radius. MW: blast_radius, velocity, reload
-dimwishlist:item=991314988&perks=1478423395,2822142346,3977735242,3096702027  #1211 PvE. Max Blast Radius. MW: blast_radius, velocity, reload
-dimwishlist:item=991314988&perks=1844523823,1996142143,3977735242,3096702027  #2111 PvE. Max Blast Radius. MW: blast_radius, velocity, reload
-dimwishlist:item=991314988&perks=1844523823,2822142346,3977735242,3096702027  #2211 PvE. Max Blast Radius. MW: blast_radius, velocity, reload
-dimwishlist:item=991314988&perks=1441682018,1996142143,3977735242,3096702027  #3111 PvE. Max Blast Radius. MW: blast_radius, velocity, reload
-dimwishlist:item=991314988&perks=1441682018,2822142346,3977735242,3096702027  #3211 PvE. Max Blast Radius. MW: blast_radius, velocity, reload
+dimwishlist:item=991314988&perks=1478423395,1996142143,3977735242,3096702027  #1111 PvE. Max Blast Radius. MW: blast_radius, handling, reload
+dimwishlist:item=991314988&perks=1478423395,2822142346,3977735242,3096702027  #1211 PvE. Max Blast Radius. MW: blast_radius, handling, reload
+dimwishlist:item=991314988&perks=1844523823,1996142143,3977735242,3096702027  #2111 PvE. Max Blast Radius. MW: blast_radius, handling, reload
+dimwishlist:item=991314988&perks=1844523823,2822142346,3977735242,3096702027  #2211 PvE. Max Blast Radius. MW: blast_radius, handling, reload
+dimwishlist:item=991314988&perks=1441682018,1996142143,3977735242,3096702027  #3111 PvE. Max Blast Radius. MW: blast_radius, handling, reload
+dimwishlist:item=991314988&perks=1441682018,2822142346,3977735242,3096702027  #3211 PvE. Max Blast Radius. MW: blast_radius, handling, reload
 // Auto Loading Holster, Genesis
-dimwishlist:item=991314988&perks=1478423395,1996142143,3300816228,3096702027  #1121 PvE. Max Blast Radius. MW: blast_radius, velocity, reload
-dimwishlist:item=991314988&perks=1478423395,2822142346,3300816228,3096702027  #1221 PvE. Max Blast Radius. MW: blast_radius, velocity, reload
-dimwishlist:item=991314988&perks=1844523823,1996142143,3300816228,3096702027  #2121 PvE. Max Blast Radius. MW: blast_radius, velocity, reload
-dimwishlist:item=991314988&perks=1844523823,2822142346,3300816228,3096702027  #2221 PvE. Max Blast Radius. MW: blast_radius, velocity, reload
-dimwishlist:item=991314988&perks=1441682018,1996142143,3300816228,3096702027  #3121 PvE. Max Blast Radius. MW: blast_radius, velocity, reload
-dimwishlist:item=991314988&perks=1441682018,2822142346,3300816228,3096702027  #3221 PvE. Max Blast Radius. MW: blast_radius, velocity, reload
+dimwishlist:item=991314988&perks=1478423395,1996142143,3300816228,3096702027  #1121 PvE. Max Blast Radius. MW: blast_radius, handling, reload
+dimwishlist:item=991314988&perks=1478423395,2822142346,3300816228,3096702027  #1221 PvE. Max Blast Radius. MW: blast_radius, handling, reload
+dimwishlist:item=991314988&perks=1844523823,1996142143,3300816228,3096702027  #2121 PvE. Max Blast Radius. MW: blast_radius, handling, reload
+dimwishlist:item=991314988&perks=1844523823,2822142346,3300816228,3096702027  #2221 PvE. Max Blast Radius. MW: blast_radius, handling, reload
+dimwishlist:item=991314988&perks=1441682018,1996142143,3300816228,3096702027  #3121 PvE. Max Blast Radius. MW: blast_radius, handling, reload
+dimwishlist:item=991314988&perks=1441682018,2822142346,3300816228,3096702027  #3221 PvE. Max Blast Radius. MW: blast_radius, handling, reload
 // Bad Omens
 // Tracking Module, Cluster Bomb
-dimwishlist:item=991314988&perks=981914802,2822142346,3977735242,1275731761  #1111 PvP. Max Velocity. MW: velocity, blast_radius, reload
-dimwishlist:item=991314988&perks=981914802,3492396210,3977735242,1275731761  #1211 PvP. Max Velocity. MW: velocity, blast_radius, reload
-dimwishlist:item=991314988&perks=3525010810,2822142346,3977735242,1275731761  #2111 PvP. Max Velocity. MW: velocity, blast_radius, reload
-dimwishlist:item=991314988&perks=3525010810,3492396210,3977735242,1275731761  #2211 PvP. Max Velocity. MW: velocity, blast_radius, reload
-dimwishlist:item=991314988&perks=3798852852,2822142346,3977735242,1275731761  #3111 PvP. Max Velocity. MW: velocity, blast_radius, reload
-dimwishlist:item=991314988&perks=3798852852,3492396210,3977735242,1275731761  #3211 PvP. Max Velocity. MW: velocity, blast_radius, reload
+dimwishlist:item=991314988&perks=3525010810,2822142346,3977735242,1275731761  #1111 PvP. Max Velocity. MW: blast_radius, handling, reload
+dimwishlist:item=991314988&perks=3525010810,3492396210,3977735242,1275731761  #1211 PvP. Max Velocity. MW: blast_radius, handling, reload
+dimwishlist:item=991314988&perks=3798852852,2822142346,3977735242,1275731761  #2111 PvP. Max Velocity. MW: blast_radius, handling, reload
+dimwishlist:item=991314988&perks=3798852852,3492396210,3977735242,1275731761  #2211 PvP. Max Velocity. MW: blast_radius, handling, reload
 // Tracking Module, Quickdraw
-dimwishlist:item=991314988&perks=981914802,2822142346,3977735242,706527188  #1112 PvP. Max Velocity. MW: velocity, blast_radius, reload
-dimwishlist:item=991314988&perks=981914802,3492396210,3977735242,706527188  #1212 PvP. Max Velocity. MW: velocity, blast_radius, reload
-dimwishlist:item=991314988&perks=3525010810,2822142346,3977735242,706527188  #2112 PvP. Max Velocity. MW: velocity, blast_radius, reload
-dimwishlist:item=991314988&perks=3525010810,3492396210,3977735242,706527188  #2212 PvP. Max Velocity. MW: velocity, blast_radius, reload
-dimwishlist:item=991314988&perks=3798852852,2822142346,3977735242,706527188  #3112 PvP. Max Velocity. MW: velocity, blast_radius, reload
-dimwishlist:item=991314988&perks=3798852852,3492396210,3977735242,706527188  #3212 PvP. Max Velocity. MW: velocity, blast_radius, reload
+dimwishlist:item=991314988&perks=3525010810,2822142346,3977735242,706527188  #1112 PvP. Max Velocity. MW: blast_radius, handling, reload
+dimwishlist:item=991314988&perks=3525010810,3492396210,3977735242,706527188  #1212 PvP. Max Velocity. MW: blast_radius, handling, reload
+dimwishlist:item=991314988&perks=3798852852,2822142346,3977735242,706527188  #2112 PvP. Max Velocity. MW: blast_radius, handling, reload
+dimwishlist:item=991314988&perks=3798852852,3492396210,3977735242,706527188  #2212 PvP. Max Velocity. MW: blast_radius, handling, reload
 // Auto Loading Holster, Cluster Bomb
-dimwishlist:item=991314988&perks=981914802,2822142346,3300816228,1275731761  #1121 PvP. Max Velocity. MW: velocity, blast_radius, reload
-dimwishlist:item=991314988&perks=981914802,3492396210,3300816228,1275731761  #1221 PvP. Max Velocity. MW: velocity, blast_radius, reload
-dimwishlist:item=991314988&perks=3525010810,2822142346,3300816228,1275731761  #2121 PvP. Max Velocity. MW: velocity, blast_radius, reload
-dimwishlist:item=991314988&perks=3525010810,3492396210,3300816228,1275731761  #2221 PvP. Max Velocity. MW: velocity, blast_radius, reload
-dimwishlist:item=991314988&perks=3798852852,2822142346,3300816228,1275731761  #3121 PvP. Max Velocity. MW: velocity, blast_radius, reload
-dimwishlist:item=991314988&perks=3798852852,3492396210,3300816228,1275731761  #3221 PvP. Max Velocity. MW: velocity, blast_radius, reload
+dimwishlist:item=991314988&perks=3525010810,2822142346,3300816228,1275731761  #1121 PvP. Max Velocity. MW: blast_radius, handling, reload
+dimwishlist:item=991314988&perks=3525010810,3492396210,3300816228,1275731761  #1221 PvP. Max Velocity. MW: blast_radius, handling, reload
+dimwishlist:item=991314988&perks=3798852852,2822142346,3300816228,1275731761  #2121 PvP. Max Velocity. MW: blast_radius, handling, reload
+dimwishlist:item=991314988&perks=3798852852,3492396210,3300816228,1275731761  #2221 PvP. Max Velocity. MW: blast_radius, handling, reload
 // Auto Loading Holster, Quickdraw
-dimwishlist:item=991314988&perks=981914802,2822142346,3300816228,706527188  #1122 PvP. Max Velocity. MW: velocity, blast_radius, reload
-dimwishlist:item=991314988&perks=981914802,3492396210,3300816228,706527188  #1222 PvP. Max Velocity. MW: velocity, blast_radius, reload
-dimwishlist:item=991314988&perks=3525010810,2822142346,3300816228,706527188  #2122 PvP. Max Velocity. MW: velocity, blast_radius, reload
-dimwishlist:item=991314988&perks=3525010810,3492396210,3300816228,706527188  #2222 PvP. Max Velocity. MW: velocity, blast_radius, reload
-dimwishlist:item=991314988&perks=3798852852,2822142346,3300816228,706527188  #3122 PvP. Max Velocity. MW: velocity, blast_radius, reload
-dimwishlist:item=991314988&perks=3798852852,3492396210,3300816228,706527188  #3222 PvP. Max Velocity. MW: velocity, blast_radius, reload
+dimwishlist:item=991314988&perks=3525010810,2822142346,3300816228,706527188  #1122 PvP. Max Velocity. MW: blast_radius, handling, reload
+dimwishlist:item=991314988&perks=3525010810,3492396210,3300816228,706527188  #1222 PvP. Max Velocity. MW: blast_radius, handling, reload
+dimwishlist:item=991314988&perks=3798852852,2822142346,3300816228,706527188  #2122 PvP. Max Velocity. MW: blast_radius, handling, reload
+dimwishlist:item=991314988&perks=3798852852,3492396210,3300816228,706527188  #2222 PvP. Max Velocity. MW: blast_radius, handling, reload
 // Snapshot Sights, Cluster Bomb
-dimwishlist:item=991314988&perks=981914802,2822142346,957782887,1275731761  #1131 PvP. Max Velocity. MW: velocity, blast_radius, reload
-dimwishlist:item=991314988&perks=981914802,3492396210,957782887,1275731761  #1231 PvP. Max Velocity. MW: velocity, blast_radius, reload
-dimwishlist:item=991314988&perks=3525010810,2822142346,957782887,1275731761  #2131 PvP. Max Velocity. MW: velocity, blast_radius, reload
-dimwishlist:item=991314988&perks=3525010810,3492396210,957782887,1275731761  #2231 PvP. Max Velocity. MW: velocity, blast_radius, reload
-dimwishlist:item=991314988&perks=3798852852,2822142346,957782887,1275731761  #3131 PvP. Max Velocity. MW: velocity, blast_radius, reload
-dimwishlist:item=991314988&perks=3798852852,3492396210,957782887,1275731761  #3231 PvP. Max Velocity. MW: velocity, blast_radius, reload
+dimwishlist:item=991314988&perks=3525010810,2822142346,957782887,1275731761  #1131 PvP. Max Velocity. MW: blast_radius, handling, reload
+dimwishlist:item=991314988&perks=3525010810,3492396210,957782887,1275731761  #1231 PvP. Max Velocity. MW: blast_radius, handling, reload
+dimwishlist:item=991314988&perks=3798852852,2822142346,957782887,1275731761  #2131 PvP. Max Velocity. MW: blast_radius, handling, reload
+dimwishlist:item=991314988&perks=3798852852,3492396210,957782887,1275731761  #2231 PvP. Max Velocity. MW: blast_radius, handling, reload
 // Snapshot Sights, Quickdraw
-dimwishlist:item=991314988&perks=981914802,2822142346,957782887,706527188  #1132 PvP. Max Velocity. MW: velocity, blast_radius, reload
-dimwishlist:item=991314988&perks=981914802,3492396210,957782887,706527188  #1232 PvP. Max Velocity. MW: velocity, blast_radius, reload
-dimwishlist:item=991314988&perks=3525010810,2822142346,957782887,706527188  #2132 PvP. Max Velocity. MW: velocity, blast_radius, reload
-dimwishlist:item=991314988&perks=3525010810,3492396210,957782887,706527188  #2232 PvP. Max Velocity. MW: velocity, blast_radius, reload
-dimwishlist:item=991314988&perks=3798852852,2822142346,957782887,706527188  #3132 PvP. Max Velocity. MW: velocity, blast_radius, reload
-dimwishlist:item=991314988&perks=3798852852,3492396210,957782887,706527188  #3232 PvP. Max Velocity. MW: velocity, blast_radius, reload
+dimwishlist:item=991314988&perks=3525010810,2822142346,957782887,706527188  #1132 PvP. Max Velocity. MW: blast_radius, handling, reload
+dimwishlist:item=991314988&perks=3525010810,3492396210,957782887,706527188  #1232 PvP. Max Velocity. MW: blast_radius, handling, reload
+dimwishlist:item=991314988&perks=3798852852,2822142346,957782887,706527188  #2132 PvP. Max Velocity. MW: blast_radius, handling, reload
+dimwishlist:item=991314988&perks=3798852852,3492396210,957782887,706527188  #2232 PvP. Max Velocity. MW: blast_radius, handling, reload
 // Bad Omens
 // Tracking Module, Cluster Bomb
-dimwishlist:item=991314988&perks=1478423395,2985827016,3977735242,1275731761  #1111 PvE. PvP. Fastest Reload. MW: blast_radius, velocity, reload
-dimwishlist:item=991314988&perks=1478423395,2822142346,3977735242,1275731761  #1211 PvE. PvP. Fastest Reload. MW: blast_radius, velocity, reload
-dimwishlist:item=991314988&perks=1441682018,2985827016,3977735242,1275731761  #2111 PvE. PvP. Fastest Reload. MW: blast_radius, velocity, reload
-dimwishlist:item=991314988&perks=1441682018,2822142346,3977735242,1275731761  #2211 PvE. PvP. Fastest Reload. MW: blast_radius, velocity, reload
-dimwishlist:item=991314988&perks=981914802,2985827016,3977735242,1275731761  #3111 PvE. PvP. Fastest Reload. MW: blast_radius, velocity, reload
-dimwishlist:item=991314988&perks=981914802,2822142346,3977735242,1275731761  #3211 PvE. PvP. Fastest Reload. MW: blast_radius, velocity, reload
-dimwishlist:item=991314988&perks=3525010810,2985827016,3977735242,1275731761  #4111 PvE. PvP. Fastest Reload. MW: blast_radius, velocity, reload
-dimwishlist:item=991314988&perks=3525010810,2822142346,3977735242,1275731761  #4211 PvE. PvP. Fastest Reload. MW: blast_radius, velocity, reload
-dimwishlist:item=991314988&perks=3798852852,2985827016,3977735242,1275731761  #5111 PvE. PvP. Fastest Reload. MW: blast_radius, velocity, reload
-dimwishlist:item=991314988&perks=3798852852,2822142346,3977735242,1275731761  #5211 PvE. PvP. Fastest Reload. MW: blast_radius, velocity, reload
+dimwishlist:item=991314988&perks=3525010810,2985827016,3977735242,1275731761  #1111 PvE. PvP. Fastest Reload. MW: blast_radius, handling, reload
+dimwishlist:item=991314988&perks=3525010810,2822142346,3977735242,1275731761  #1211 PvE. PvP. Fastest Reload. MW: blast_radius, handling, reload
+dimwishlist:item=991314988&perks=3798852852,2985827016,3977735242,1275731761  #2111 PvE. PvP. Fastest Reload. MW: blast_radius, handling, reload
+dimwishlist:item=991314988&perks=3798852852,2822142346,3977735242,1275731761  #2211 PvE. PvP. Fastest Reload. MW: blast_radius, handling, reload
+dimwishlist:item=991314988&perks=1478423395,2985827016,3977735242,1275731761  #3111 PvE. PvP. Fastest Reload. MW: blast_radius, handling, reload
+dimwishlist:item=991314988&perks=1478423395,2822142346,3977735242,1275731761  #3211 PvE. PvP. Fastest Reload. MW: blast_radius, handling, reload
+dimwishlist:item=991314988&perks=1844523823,2985827016,3977735242,1275731761  #4111 PvE. PvP. Fastest Reload. MW: blast_radius, handling, reload
+dimwishlist:item=991314988&perks=1844523823,2822142346,3977735242,1275731761  #4211 PvE. PvP. Fastest Reload. MW: blast_radius, handling, reload
+dimwishlist:item=991314988&perks=1441682018,2985827016,3977735242,1275731761  #5111 PvE. PvP. Fastest Reload. MW: blast_radius, handling, reload
+dimwishlist:item=991314988&perks=1441682018,2822142346,3977735242,1275731761  #5211 PvE. PvP. Fastest Reload. MW: blast_radius, handling, reload
 // Auto Loading Holster, Cluster Bomb
-dimwishlist:item=991314988&perks=1478423395,2985827016,3300816228,1275731761  #1121 PvE. PvP. Fastest Reload. MW: blast_radius, velocity, reload
-dimwishlist:item=991314988&perks=1478423395,2822142346,3300816228,1275731761  #1221 PvE. PvP. Fastest Reload. MW: blast_radius, velocity, reload
-dimwishlist:item=991314988&perks=1441682018,2985827016,3300816228,1275731761  #2121 PvE. PvP. Fastest Reload. MW: blast_radius, velocity, reload
-dimwishlist:item=991314988&perks=1441682018,2822142346,3300816228,1275731761  #2221 PvE. PvP. Fastest Reload. MW: blast_radius, velocity, reload
-dimwishlist:item=991314988&perks=981914802,2985827016,3300816228,1275731761  #3121 PvE. PvP. Fastest Reload. MW: blast_radius, velocity, reload
-dimwishlist:item=991314988&perks=981914802,2822142346,3300816228,1275731761  #3221 PvE. PvP. Fastest Reload. MW: blast_radius, velocity, reload
-dimwishlist:item=991314988&perks=3525010810,2985827016,3300816228,1275731761  #4121 PvE. PvP. Fastest Reload. MW: blast_radius, velocity, reload
-dimwishlist:item=991314988&perks=3525010810,2822142346,3300816228,1275731761  #4221 PvE. PvP. Fastest Reload. MW: blast_radius, velocity, reload
-dimwishlist:item=991314988&perks=3798852852,2985827016,3300816228,1275731761  #5121 PvE. PvP. Fastest Reload. MW: blast_radius, velocity, reload
-dimwishlist:item=991314988&perks=3798852852,2822142346,3300816228,1275731761  #5221 PvE. PvP. Fastest Reload. MW: blast_radius, velocity, reload
+dimwishlist:item=991314988&perks=3525010810,2985827016,3300816228,1275731761  #1121 PvE. PvP. Fastest Reload. MW: blast_radius, handling, reload
+dimwishlist:item=991314988&perks=3525010810,2822142346,3300816228,1275731761  #1221 PvE. PvP. Fastest Reload. MW: blast_radius, handling, reload
+dimwishlist:item=991314988&perks=3798852852,2985827016,3300816228,1275731761  #2121 PvE. PvP. Fastest Reload. MW: blast_radius, handling, reload
+dimwishlist:item=991314988&perks=3798852852,2822142346,3300816228,1275731761  #2221 PvE. PvP. Fastest Reload. MW: blast_radius, handling, reload
+dimwishlist:item=991314988&perks=1478423395,2985827016,3300816228,1275731761  #3121 PvE. PvP. Fastest Reload. MW: blast_radius, handling, reload
+dimwishlist:item=991314988&perks=1478423395,2822142346,3300816228,1275731761  #3221 PvE. PvP. Fastest Reload. MW: blast_radius, handling, reload
+dimwishlist:item=991314988&perks=1844523823,2985827016,3300816228,1275731761  #4121 PvE. PvP. Fastest Reload. MW: blast_radius, handling, reload
+dimwishlist:item=991314988&perks=1844523823,2822142346,3300816228,1275731761  #4221 PvE. PvP. Fastest Reload. MW: blast_radius, handling, reload
+dimwishlist:item=991314988&perks=1441682018,2985827016,3300816228,1275731761  #5121 PvE. PvP. Fastest Reload. MW: blast_radius, handling, reload
+dimwishlist:item=991314988&perks=1441682018,2822142346,3300816228,1275731761  #5221 PvE. PvP. Fastest Reload. MW: blast_radius, handling, reload
 // Tracking Module, Quickdraw
-dimwishlist:item=991314988&perks=1478423395,2985827016,3977735242,706527188  #1111 PvP. Fastest Reload. MW: blast_radius, velocity, reload
-dimwishlist:item=991314988&perks=1478423395,2822142346,3977735242,706527188  #1211 PvP. Fastest Reload. MW: blast_radius, velocity, reload
-dimwishlist:item=991314988&perks=1441682018,2985827016,3977735242,706527188  #2111 PvP. Fastest Reload. MW: blast_radius, velocity, reload
-dimwishlist:item=991314988&perks=1441682018,2822142346,3977735242,706527188  #2211 PvP. Fastest Reload. MW: blast_radius, velocity, reload
-dimwishlist:item=991314988&perks=981914802,2985827016,3977735242,706527188  #3111 PvP. Fastest Reload. MW: blast_radius, velocity, reload
-dimwishlist:item=991314988&perks=981914802,2822142346,3977735242,706527188  #3211 PvP. Fastest Reload. MW: blast_radius, velocity, reload
-dimwishlist:item=991314988&perks=3525010810,2985827016,3977735242,706527188  #4111 PvP. Fastest Reload. MW: blast_radius, velocity, reload
-dimwishlist:item=991314988&perks=3525010810,2822142346,3977735242,706527188  #4211 PvP. Fastest Reload. MW: blast_radius, velocity, reload
-dimwishlist:item=991314988&perks=3798852852,2985827016,3977735242,706527188  #5111 PvP. Fastest Reload. MW: blast_radius, velocity, reload
-dimwishlist:item=991314988&perks=3798852852,2822142346,3977735242,706527188  #5211 PvP. Fastest Reload. MW: blast_radius, velocity, reload
+dimwishlist:item=991314988&perks=3525010810,2985827016,3977735242,706527188  #1111 PvP. Fastest Reload. MW: blast_radius, handling, reload
+dimwishlist:item=991314988&perks=3525010810,2822142346,3977735242,706527188  #1211 PvP. Fastest Reload. MW: blast_radius, handling, reload
+dimwishlist:item=991314988&perks=3798852852,2985827016,3977735242,706527188  #2111 PvP. Fastest Reload. MW: blast_radius, handling, reload
+dimwishlist:item=991314988&perks=3798852852,2822142346,3977735242,706527188  #2211 PvP. Fastest Reload. MW: blast_radius, handling, reload
+dimwishlist:item=991314988&perks=1478423395,2985827016,3977735242,706527188  #3111 PvP. Fastest Reload. MW: blast_radius, handling, reload
+dimwishlist:item=991314988&perks=1478423395,2822142346,3977735242,706527188  #3211 PvP. Fastest Reload. MW: blast_radius, handling, reload
+dimwishlist:item=991314988&perks=1844523823,2985827016,3977735242,706527188  #4111 PvP. Fastest Reload. MW: blast_radius, handling, reload
+dimwishlist:item=991314988&perks=1844523823,2822142346,3977735242,706527188  #4211 PvP. Fastest Reload. MW: blast_radius, handling, reload
+dimwishlist:item=991314988&perks=1441682018,2985827016,3977735242,706527188  #5111 PvP. Fastest Reload. MW: blast_radius, handling, reload
+dimwishlist:item=991314988&perks=1441682018,2822142346,3977735242,706527188  #5211 PvP. Fastest Reload. MW: blast_radius, handling, reload
 // Auto Loading Holster, Quickdraw
-dimwishlist:item=991314988&perks=1478423395,2985827016,3300816228,706527188  #1121 PvP. Fastest Reload. MW: blast_radius, velocity, reload
-dimwishlist:item=991314988&perks=1478423395,2822142346,3300816228,706527188  #1221 PvP. Fastest Reload. MW: blast_radius, velocity, reload
-dimwishlist:item=991314988&perks=1441682018,2985827016,3300816228,706527188  #2121 PvP. Fastest Reload. MW: blast_radius, velocity, reload
-dimwishlist:item=991314988&perks=1441682018,2822142346,3300816228,706527188  #2221 PvP. Fastest Reload. MW: blast_radius, velocity, reload
-dimwishlist:item=991314988&perks=981914802,2985827016,3300816228,706527188  #3121 PvP. Fastest Reload. MW: blast_radius, velocity, reload
-dimwishlist:item=991314988&perks=981914802,2822142346,3300816228,706527188  #3221 PvP. Fastest Reload. MW: blast_radius, velocity, reload
-dimwishlist:item=991314988&perks=3525010810,2985827016,3300816228,706527188  #4121 PvP. Fastest Reload. MW: blast_radius, velocity, reload
-dimwishlist:item=991314988&perks=3525010810,2822142346,3300816228,706527188  #4221 PvP. Fastest Reload. MW: blast_radius, velocity, reload
-dimwishlist:item=991314988&perks=3798852852,2985827016,3300816228,706527188  #5121 PvP. Fastest Reload. MW: blast_radius, velocity, reload
-dimwishlist:item=991314988&perks=3798852852,2822142346,3300816228,706527188  #5221 PvP. Fastest Reload. MW: blast_radius, velocity, reload
+dimwishlist:item=991314988&perks=3525010810,2985827016,3300816228,706527188  #1121 PvP. Fastest Reload. MW: blast_radius, handling, reload
+dimwishlist:item=991314988&perks=3525010810,2822142346,3300816228,706527188  #1221 PvP. Fastest Reload. MW: blast_radius, handling, reload
+dimwishlist:item=991314988&perks=3798852852,2985827016,3300816228,706527188  #2121 PvP. Fastest Reload. MW: blast_radius, handling, reload
+dimwishlist:item=991314988&perks=3798852852,2822142346,3300816228,706527188  #2221 PvP. Fastest Reload. MW: blast_radius, handling, reload
+dimwishlist:item=991314988&perks=1478423395,2985827016,3300816228,706527188  #3121 PvP. Fastest Reload. MW: blast_radius, handling, reload
+dimwishlist:item=991314988&perks=1478423395,2822142346,3300816228,706527188  #3221 PvP. Fastest Reload. MW: blast_radius, handling, reload
+dimwishlist:item=991314988&perks=1844523823,2985827016,3300816228,706527188  #4121 PvP. Fastest Reload. MW: blast_radius, handling, reload
+dimwishlist:item=991314988&perks=1844523823,2822142346,3300816228,706527188  #4221 PvP. Fastest Reload. MW: blast_radius, handling, reload
+dimwishlist:item=991314988&perks=1441682018,2985827016,3300816228,706527188  #5121 PvP. Fastest Reload. MW: blast_radius, handling, reload
+dimwishlist:item=991314988&perks=1441682018,2822142346,3300816228,706527188  #5221 PvP. Fastest Reload. MW: blast_radius, handling, reload
 // Snapshot Sights, Quickdraw
-dimwishlist:item=991314988&perks=1478423395,2985827016,957782887,706527188  #1131 PvP. Fastest Reload. MW: blast_radius, velocity, reload
-dimwishlist:item=991314988&perks=1478423395,2822142346,957782887,706527188  #1231 PvP. Fastest Reload. MW: blast_radius, velocity, reload
-dimwishlist:item=991314988&perks=1441682018,2985827016,957782887,706527188  #2131 PvP. Fastest Reload. MW: blast_radius, velocity, reload
-dimwishlist:item=991314988&perks=1441682018,2822142346,957782887,706527188  #2231 PvP. Fastest Reload. MW: blast_radius, velocity, reload
-dimwishlist:item=991314988&perks=981914802,2985827016,957782887,706527188  #3131 PvP. Fastest Reload. MW: blast_radius, velocity, reload
-dimwishlist:item=991314988&perks=981914802,2822142346,957782887,706527188  #3231 PvP. Fastest Reload. MW: blast_radius, velocity, reload
-dimwishlist:item=991314988&perks=3525010810,2985827016,957782887,706527188  #4131 PvP. Fastest Reload. MW: blast_radius, velocity, reload
-dimwishlist:item=991314988&perks=3525010810,2822142346,957782887,706527188  #4231 PvP. Fastest Reload. MW: blast_radius, velocity, reload
-dimwishlist:item=991314988&perks=3798852852,2985827016,957782887,706527188  #5131 PvP. Fastest Reload. MW: blast_radius, velocity, reload
-dimwishlist:item=991314988&perks=3798852852,2822142346,957782887,706527188  #5231 PvP. Fastest Reload. MW: blast_radius, velocity, reload
+dimwishlist:item=991314988&perks=3525010810,2985827016,957782887,706527188  #1131 PvP. Fastest Reload. MW: blast_radius, handling, reload
+dimwishlist:item=991314988&perks=3525010810,2822142346,957782887,706527188  #1231 PvP. Fastest Reload. MW: blast_radius, handling, reload
+dimwishlist:item=991314988&perks=3798852852,2985827016,957782887,706527188  #2131 PvP. Fastest Reload. MW: blast_radius, handling, reload
+dimwishlist:item=991314988&perks=3798852852,2822142346,957782887,706527188  #2231 PvP. Fastest Reload. MW: blast_radius, handling, reload
+dimwishlist:item=991314988&perks=1478423395,2985827016,957782887,706527188  #3131 PvP. Fastest Reload. MW: blast_radius, handling, reload
+dimwishlist:item=991314988&perks=1478423395,2822142346,957782887,706527188  #3231 PvP. Fastest Reload. MW: blast_radius, handling, reload
+dimwishlist:item=991314988&perks=1844523823,2985827016,957782887,706527188  #4131 PvP. Fastest Reload. MW: blast_radius, handling, reload
+dimwishlist:item=991314988&perks=1844523823,2822142346,957782887,706527188  #4231 PvP. Fastest Reload. MW: blast_radius, handling, reload
+dimwishlist:item=991314988&perks=1441682018,2985827016,957782887,706527188  #5131 PvP. Fastest Reload. MW: blast_radius, handling, reload
+dimwishlist:item=991314988&perks=1441682018,2822142346,957782887,706527188  #5231 PvP. Fastest Reload. MW: blast_radius, handling, reload
 // Tracking Module, Genesis
-dimwishlist:item=991314988&perks=1478423395,2985827016,3977735242,3096702027  #1111 PvE. Fastest Reload. MW: blast_radius, velocity, reload
-dimwishlist:item=991314988&perks=1478423395,2822142346,3977735242,3096702027  #1211 PvE. Fastest Reload. MW: blast_radius, velocity, reload
-dimwishlist:item=991314988&perks=1441682018,2985827016,3977735242,3096702027  #2111 PvE. Fastest Reload. MW: blast_radius, velocity, reload
-dimwishlist:item=991314988&perks=1441682018,2822142346,3977735242,3096702027  #2211 PvE. Fastest Reload. MW: blast_radius, velocity, reload
-dimwishlist:item=991314988&perks=981914802,2985827016,3977735242,3096702027  #3111 PvE. Fastest Reload. MW: blast_radius, velocity, reload
-dimwishlist:item=991314988&perks=981914802,2822142346,3977735242,3096702027  #3211 PvE. Fastest Reload. MW: blast_radius, velocity, reload
-dimwishlist:item=991314988&perks=3525010810,2985827016,3977735242,3096702027  #4111 PvE. Fastest Reload. MW: blast_radius, velocity, reload
-dimwishlist:item=991314988&perks=3525010810,2822142346,3977735242,3096702027  #4211 PvE. Fastest Reload. MW: blast_radius, velocity, reload
-dimwishlist:item=991314988&perks=3798852852,2985827016,3977735242,3096702027  #5111 PvE. Fastest Reload. MW: blast_radius, velocity, reload
-dimwishlist:item=991314988&perks=3798852852,2822142346,3977735242,3096702027  #5211 PvE. Fastest Reload. MW: blast_radius, velocity, reload
+dimwishlist:item=991314988&perks=3525010810,2985827016,3977735242,3096702027  #1111 PvE. Fastest Reload. MW: blast_radius, handling, reload
+dimwishlist:item=991314988&perks=3525010810,2822142346,3977735242,3096702027  #1211 PvE. Fastest Reload. MW: blast_radius, handling, reload
+dimwishlist:item=991314988&perks=3798852852,2985827016,3977735242,3096702027  #2111 PvE. Fastest Reload. MW: blast_radius, handling, reload
+dimwishlist:item=991314988&perks=3798852852,2822142346,3977735242,3096702027  #2211 PvE. Fastest Reload. MW: blast_radius, handling, reload
+dimwishlist:item=991314988&perks=1478423395,2985827016,3977735242,3096702027  #3111 PvE. Fastest Reload. MW: blast_radius, handling, reload
+dimwishlist:item=991314988&perks=1478423395,2822142346,3977735242,3096702027  #3211 PvE. Fastest Reload. MW: blast_radius, handling, reload
+dimwishlist:item=991314988&perks=1844523823,2985827016,3977735242,3096702027  #4111 PvE. Fastest Reload. MW: blast_radius, handling, reload
+dimwishlist:item=991314988&perks=1844523823,2822142346,3977735242,3096702027  #4211 PvE. Fastest Reload. MW: blast_radius, handling, reload
+dimwishlist:item=991314988&perks=1441682018,2985827016,3977735242,3096702027  #5111 PvE. Fastest Reload. MW: blast_radius, handling, reload
+dimwishlist:item=991314988&perks=1441682018,2822142346,3977735242,3096702027  #5211 PvE. Fastest Reload. MW: blast_radius, handling, reload
 // Auto Loading Holster, Genesis
-dimwishlist:item=991314988&perks=1478423395,2985827016,3300816228,3096702027  #1121 PvE. Fastest Reload. MW: blast_radius, velocity, reload
-dimwishlist:item=991314988&perks=1478423395,2822142346,3300816228,3096702027  #1221 PvE. Fastest Reload. MW: blast_radius, velocity, reload
-dimwishlist:item=991314988&perks=1441682018,2985827016,3300816228,3096702027  #2121 PvE. Fastest Reload. MW: blast_radius, velocity, reload
-dimwishlist:item=991314988&perks=1441682018,2822142346,3300816228,3096702027  #2221 PvE. Fastest Reload. MW: blast_radius, velocity, reload
-dimwishlist:item=991314988&perks=981914802,2985827016,3300816228,3096702027  #3121 PvE. Fastest Reload. MW: blast_radius, velocity, reload
-dimwishlist:item=991314988&perks=981914802,2822142346,3300816228,3096702027  #3221 PvE. Fastest Reload. MW: blast_radius, velocity, reload
-dimwishlist:item=991314988&perks=3525010810,2985827016,3300816228,3096702027  #4121 PvE. Fastest Reload. MW: blast_radius, velocity, reload
-dimwishlist:item=991314988&perks=3525010810,2822142346,3300816228,3096702027  #4221 PvE. Fastest Reload. MW: blast_radius, velocity, reload
-dimwishlist:item=991314988&perks=3798852852,2985827016,3300816228,3096702027  #5121 PvE. Fastest Reload. MW: blast_radius, velocity, reload
-dimwishlist:item=991314988&perks=3798852852,2822142346,3300816228,3096702027  #5221 PvE. Fastest Reload. MW: blast_radius, velocity, reload
+dimwishlist:item=991314988&perks=3525010810,2985827016,3300816228,3096702027  #1121 PvE. Fastest Reload. MW: blast_radius, handling, reload
+dimwishlist:item=991314988&perks=3525010810,2822142346,3300816228,3096702027  #1221 PvE. Fastest Reload. MW: blast_radius, handling, reload
+dimwishlist:item=991314988&perks=3798852852,2985827016,3300816228,3096702027  #2121 PvE. Fastest Reload. MW: blast_radius, handling, reload
+dimwishlist:item=991314988&perks=3798852852,2822142346,3300816228,3096702027  #2221 PvE. Fastest Reload. MW: blast_radius, handling, reload
+dimwishlist:item=991314988&perks=1478423395,2985827016,3300816228,3096702027  #3121 PvE. Fastest Reload. MW: blast_radius, handling, reload
+dimwishlist:item=991314988&perks=1478423395,2822142346,3300816228,3096702027  #3221 PvE. Fastest Reload. MW: blast_radius, handling, reload
+dimwishlist:item=991314988&perks=1844523823,2985827016,3300816228,3096702027  #4121 PvE. Fastest Reload. MW: blast_radius, handling, reload
+dimwishlist:item=991314988&perks=1844523823,2822142346,3300816228,3096702027  #4221 PvE. Fastest Reload. MW: blast_radius, handling, reload
+dimwishlist:item=991314988&perks=1441682018,2985827016,3300816228,3096702027  #5121 PvE. Fastest Reload. MW: blast_radius, handling, reload
+dimwishlist:item=991314988&perks=1441682018,2822142346,3300816228,3096702027  #5221 PvE. Fastest Reload. MW: blast_radius, handling, reload
 
 
 // Mos Epoch Iii
-//notes: Implosion Rounds concentrates the blast (and cluster bombs) to do the most damage on bosses
+//notes: Smaller blast radius to concentrate the blast (and cluster bombs) to do the most damage on bosses
 // Tracking Module, Cluster Bomb
-dimwishlist:item=1529450902&perks=981914802,3796465595,3977735242,1275731761  #1111 PvE. Max Boss DPS. MW: velocity, handling, reload
-dimwishlist:item=1529450902&perks=981914802,3492396210,3977735242,1275731761  #1211 PvE. Max Boss DPS. MW: velocity, handling, reload
-// Threat Detector, Cluster Bomb
-dimwishlist:item=1529450902&perks=981914802,3796465595,4071163871,1275731761  #1121 PvE. Max Boss DPS. MW: velocity, handling, reload
-dimwishlist:item=1529450902&perks=981914802,3492396210,4071163871,1275731761  #1221 PvE. Max Boss DPS. MW: velocity, handling, reload
+dimwishlist:item=1529450902&perks=981914802,3796465595,3977735242,1275731761  #1111 PvE. Max Boss DPS. MW: blast_radius, handling, reload
+dimwishlist:item=1529450902&perks=981914802,3492396210,3977735242,1275731761  #1211 PvE. Max Boss DPS. MW: blast_radius, handling, reload
 // Auto Loading Holster, Cluster Bomb
-dimwishlist:item=1529450902&perks=981914802,3796465595,3300816228,1275731761  #1111 PvE. Boss DPS. MW: velocity, handling, reload
-dimwishlist:item=1529450902&perks=981914802,3492396210,3300816228,1275731761  #1211 PvE. Boss DPS. MW: velocity, handling, reload
-// Tracking Module, Cluster Bomb
-dimwishlist:item=1529450902&perks=981914802,3796465595,3977735242,1275731761  #1121 PvE. Boss DPS. MW: velocity, handling, reload
-dimwishlist:item=1529450902&perks=981914802,3492396210,3977735242,1275731761  #1221 PvE. Boss DPS. MW: velocity, handling, reload
-// Threat Detector, Cluster Bomb
-dimwishlist:item=1529450902&perks=981914802,3796465595,4071163871,1275731761  #1131 PvE. Boss DPS. MW: velocity, handling, reload
-dimwishlist:item=1529450902&perks=981914802,3492396210,4071163871,1275731761  #1231 PvE. Boss DPS. MW: velocity, handling, reload
+dimwishlist:item=1529450902&perks=981914802,3796465595,3300816228,1275731761  #1121 PvE. Max Boss DPS. MW: blast_radius, handling, reload
+dimwishlist:item=1529450902&perks=981914802,3492396210,3300816228,1275731761  #1221 PvE. Max Boss DPS. MW: blast_radius, handling, reload
 // Mos Epoch Iii
-//notes: Black Powder for largest Blast Radius, or High Velocity Rounds to speed up the rockets
+//notes: Trying to maximise the blast radius
 // Tracking Module, Cluster Bomb
-dimwishlist:item=1529450902&perks=1478423395,1996142143,3977735242,1275731761  #1111 PvE. PvP. Max Blast Radius. MW: blast_radius, velocity, reload
-dimwishlist:item=1529450902&perks=1478423395,3796465595,3977735242,1275731761  #1211 PvE. PvP. Max Blast Radius. MW: blast_radius, velocity, reload
-dimwishlist:item=1529450902&perks=1478423395,2985827016,3977735242,1275731761  #1311 PvE. PvP. Max Blast Radius. MW: blast_radius, velocity, reload
-dimwishlist:item=1529450902&perks=1478423395,2822142346,3977735242,1275731761  #1411 PvE. PvP. Max Blast Radius. MW: blast_radius, velocity, reload
-dimwishlist:item=1529450902&perks=1844523823,1996142143,3977735242,1275731761  #2111 PvE. PvP. Max Blast Radius. MW: blast_radius, velocity, reload
-dimwishlist:item=1529450902&perks=1844523823,3796465595,3977735242,1275731761  #2211 PvE. PvP. Max Blast Radius. MW: blast_radius, velocity, reload
-dimwishlist:item=1529450902&perks=1844523823,2985827016,3977735242,1275731761  #2311 PvE. PvP. Max Blast Radius. MW: blast_radius, velocity, reload
-dimwishlist:item=1529450902&perks=1844523823,2822142346,3977735242,1275731761  #2411 PvE. PvP. Max Blast Radius. MW: blast_radius, velocity, reload
+dimwishlist:item=1529450902&perks=1478423395,1996142143,3977735242,1275731761  #1111 PvE. PvP. Max Blast Radius. MW: blast_radius, handling, reload
+dimwishlist:item=1529450902&perks=1478423395,3796465595,3977735242,1275731761  #1211 PvE. PvP. Max Blast Radius. MW: blast_radius, handling, reload
+dimwishlist:item=1529450902&perks=1478423395,2985827016,3977735242,1275731761  #1311 PvE. PvP. Max Blast Radius. MW: blast_radius, handling, reload
+dimwishlist:item=1529450902&perks=1478423395,2822142346,3977735242,1275731761  #1411 PvE. PvP. Max Blast Radius. MW: blast_radius, handling, reload
+dimwishlist:item=1529450902&perks=1844523823,1996142143,3977735242,1275731761  #2111 PvE. PvP. Max Blast Radius. MW: blast_radius, handling, reload
+dimwishlist:item=1529450902&perks=1844523823,3796465595,3977735242,1275731761  #2211 PvE. PvP. Max Blast Radius. MW: blast_radius, handling, reload
+dimwishlist:item=1529450902&perks=1844523823,2985827016,3977735242,1275731761  #2311 PvE. PvP. Max Blast Radius. MW: blast_radius, handling, reload
+dimwishlist:item=1529450902&perks=1844523823,2822142346,3977735242,1275731761  #2411 PvE. PvP. Max Blast Radius. MW: blast_radius, handling, reload
+dimwishlist:item=1529450902&perks=1441682018,1996142143,3977735242,1275731761  #3111 PvE. PvP. Max Blast Radius. MW: blast_radius, handling, reload
+dimwishlist:item=1529450902&perks=1441682018,3796465595,3977735242,1275731761  #3211 PvE. PvP. Max Blast Radius. MW: blast_radius, handling, reload
+dimwishlist:item=1529450902&perks=1441682018,2985827016,3977735242,1275731761  #3311 PvE. PvP. Max Blast Radius. MW: blast_radius, handling, reload
+dimwishlist:item=1529450902&perks=1441682018,2822142346,3977735242,1275731761  #3411 PvE. PvP. Max Blast Radius. MW: blast_radius, handling, reload
 // Tracking Module, Quickdraw
-dimwishlist:item=1529450902&perks=1478423395,1996142143,3977735242,706527188  #1112 PvE. PvP. Max Blast Radius. MW: blast_radius, velocity, reload
-dimwishlist:item=1529450902&perks=1478423395,3796465595,3977735242,706527188  #1212 PvE. PvP. Max Blast Radius. MW: blast_radius, velocity, reload
-dimwishlist:item=1529450902&perks=1478423395,2985827016,3977735242,706527188  #1312 PvE. PvP. Max Blast Radius. MW: blast_radius, velocity, reload
-dimwishlist:item=1529450902&perks=1478423395,2822142346,3977735242,706527188  #1412 PvE. PvP. Max Blast Radius. MW: blast_radius, velocity, reload
-dimwishlist:item=1529450902&perks=1844523823,1996142143,3977735242,706527188  #2112 PvE. PvP. Max Blast Radius. MW: blast_radius, velocity, reload
-dimwishlist:item=1529450902&perks=1844523823,3796465595,3977735242,706527188  #2212 PvE. PvP. Max Blast Radius. MW: blast_radius, velocity, reload
-dimwishlist:item=1529450902&perks=1844523823,2985827016,3977735242,706527188  #2312 PvE. PvP. Max Blast Radius. MW: blast_radius, velocity, reload
-dimwishlist:item=1529450902&perks=1844523823,2822142346,3977735242,706527188  #2412 PvE. PvP. Max Blast Radius. MW: blast_radius, velocity, reload
+dimwishlist:item=1529450902&perks=1478423395,1996142143,3977735242,706527188  #1112 PvE. PvP. Max Blast Radius. MW: blast_radius, handling, reload
+dimwishlist:item=1529450902&perks=1478423395,3796465595,3977735242,706527188  #1212 PvE. PvP. Max Blast Radius. MW: blast_radius, handling, reload
+dimwishlist:item=1529450902&perks=1478423395,2985827016,3977735242,706527188  #1312 PvE. PvP. Max Blast Radius. MW: blast_radius, handling, reload
+dimwishlist:item=1529450902&perks=1478423395,2822142346,3977735242,706527188  #1412 PvE. PvP. Max Blast Radius. MW: blast_radius, handling, reload
+dimwishlist:item=1529450902&perks=1844523823,1996142143,3977735242,706527188  #2112 PvE. PvP. Max Blast Radius. MW: blast_radius, handling, reload
+dimwishlist:item=1529450902&perks=1844523823,3796465595,3977735242,706527188  #2212 PvE. PvP. Max Blast Radius. MW: blast_radius, handling, reload
+dimwishlist:item=1529450902&perks=1844523823,2985827016,3977735242,706527188  #2312 PvE. PvP. Max Blast Radius. MW: blast_radius, handling, reload
+dimwishlist:item=1529450902&perks=1844523823,2822142346,3977735242,706527188  #2412 PvE. PvP. Max Blast Radius. MW: blast_radius, handling, reload
+dimwishlist:item=1529450902&perks=1441682018,1996142143,3977735242,706527188  #3112 PvE. PvP. Max Blast Radius. MW: blast_radius, handling, reload
+dimwishlist:item=1529450902&perks=1441682018,3796465595,3977735242,706527188  #3212 PvE. PvP. Max Blast Radius. MW: blast_radius, handling, reload
+dimwishlist:item=1529450902&perks=1441682018,2985827016,3977735242,706527188  #3312 PvE. PvP. Max Blast Radius. MW: blast_radius, handling, reload
+dimwishlist:item=1529450902&perks=1441682018,2822142346,3977735242,706527188  #3412 PvE. PvP. Max Blast Radius. MW: blast_radius, handling, reload
 // Tracking Module, Snapshot Sights
-dimwishlist:item=1529450902&perks=1478423395,1996142143,3977735242,957782887  #1113 PvE. PvP. Max Blast Radius. MW: blast_radius, velocity, reload
-dimwishlist:item=1529450902&perks=1478423395,3796465595,3977735242,957782887  #1213 PvE. PvP. Max Blast Radius. MW: blast_radius, velocity, reload
-dimwishlist:item=1529450902&perks=1478423395,2985827016,3977735242,957782887  #1313 PvE. PvP. Max Blast Radius. MW: blast_radius, velocity, reload
-dimwishlist:item=1529450902&perks=1478423395,2822142346,3977735242,957782887  #1413 PvE. PvP. Max Blast Radius. MW: blast_radius, velocity, reload
-dimwishlist:item=1529450902&perks=1844523823,1996142143,3977735242,957782887  #2113 PvE. PvP. Max Blast Radius. MW: blast_radius, velocity, reload
-dimwishlist:item=1529450902&perks=1844523823,3796465595,3977735242,957782887  #2213 PvE. PvP. Max Blast Radius. MW: blast_radius, velocity, reload
-dimwishlist:item=1529450902&perks=1844523823,2985827016,3977735242,957782887  #2313 PvE. PvP. Max Blast Radius. MW: blast_radius, velocity, reload
-dimwishlist:item=1529450902&perks=1844523823,2822142346,3977735242,957782887  #2413 PvE. PvP. Max Blast Radius. MW: blast_radius, velocity, reload
+dimwishlist:item=1529450902&perks=1478423395,1996142143,3977735242,957782887  #1113 PvE. PvP. Max Blast Radius. MW: blast_radius, handling, reload
+dimwishlist:item=1529450902&perks=1478423395,3796465595,3977735242,957782887  #1213 PvE. PvP. Max Blast Radius. MW: blast_radius, handling, reload
+dimwishlist:item=1529450902&perks=1478423395,2985827016,3977735242,957782887  #1313 PvE. PvP. Max Blast Radius. MW: blast_radius, handling, reload
+dimwishlist:item=1529450902&perks=1478423395,2822142346,3977735242,957782887  #1413 PvE. PvP. Max Blast Radius. MW: blast_radius, handling, reload
+dimwishlist:item=1529450902&perks=1844523823,1996142143,3977735242,957782887  #2113 PvE. PvP. Max Blast Radius. MW: blast_radius, handling, reload
+dimwishlist:item=1529450902&perks=1844523823,3796465595,3977735242,957782887  #2213 PvE. PvP. Max Blast Radius. MW: blast_radius, handling, reload
+dimwishlist:item=1529450902&perks=1844523823,2985827016,3977735242,957782887  #2313 PvE. PvP. Max Blast Radius. MW: blast_radius, handling, reload
+dimwishlist:item=1529450902&perks=1844523823,2822142346,3977735242,957782887  #2413 PvE. PvP. Max Blast Radius. MW: blast_radius, handling, reload
+dimwishlist:item=1529450902&perks=1441682018,1996142143,3977735242,957782887  #3113 PvE. PvP. Max Blast Radius. MW: blast_radius, handling, reload
+dimwishlist:item=1529450902&perks=1441682018,3796465595,3977735242,957782887  #3213 PvE. PvP. Max Blast Radius. MW: blast_radius, handling, reload
+dimwishlist:item=1529450902&perks=1441682018,2985827016,3977735242,957782887  #3313 PvE. PvP. Max Blast Radius. MW: blast_radius, handling, reload
+dimwishlist:item=1529450902&perks=1441682018,2822142346,3977735242,957782887  #3413 PvE. PvP. Max Blast Radius. MW: blast_radius, handling, reload
 // Auto Loading Holster, Cluster Bomb
-dimwishlist:item=1529450902&perks=1478423395,1996142143,3300816228,1275731761  #1121 PvE. PvP. Max Blast Radius. MW: blast_radius, velocity, reload
-dimwishlist:item=1529450902&perks=1478423395,3796465595,3300816228,1275731761  #1221 PvE. PvP. Max Blast Radius. MW: blast_radius, velocity, reload
-dimwishlist:item=1529450902&perks=1478423395,2985827016,3300816228,1275731761  #1321 PvE. PvP. Max Blast Radius. MW: blast_radius, velocity, reload
-dimwishlist:item=1529450902&perks=1478423395,2822142346,3300816228,1275731761  #1421 PvE. PvP. Max Blast Radius. MW: blast_radius, velocity, reload
-dimwishlist:item=1529450902&perks=1844523823,1996142143,3300816228,1275731761  #2121 PvE. PvP. Max Blast Radius. MW: blast_radius, velocity, reload
-dimwishlist:item=1529450902&perks=1844523823,3796465595,3300816228,1275731761  #2221 PvE. PvP. Max Blast Radius. MW: blast_radius, velocity, reload
-dimwishlist:item=1529450902&perks=1844523823,2985827016,3300816228,1275731761  #2321 PvE. PvP. Max Blast Radius. MW: blast_radius, velocity, reload
-dimwishlist:item=1529450902&perks=1844523823,2822142346,3300816228,1275731761  #2421 PvE. PvP. Max Blast Radius. MW: blast_radius, velocity, reload
+dimwishlist:item=1529450902&perks=1478423395,1996142143,3300816228,1275731761  #1121 PvE. PvP. Max Blast Radius. MW: blast_radius, handling, reload
+dimwishlist:item=1529450902&perks=1478423395,3796465595,3300816228,1275731761  #1221 PvE. PvP. Max Blast Radius. MW: blast_radius, handling, reload
+dimwishlist:item=1529450902&perks=1478423395,2985827016,3300816228,1275731761  #1321 PvE. PvP. Max Blast Radius. MW: blast_radius, handling, reload
+dimwishlist:item=1529450902&perks=1478423395,2822142346,3300816228,1275731761  #1421 PvE. PvP. Max Blast Radius. MW: blast_radius, handling, reload
+dimwishlist:item=1529450902&perks=1844523823,1996142143,3300816228,1275731761  #2121 PvE. PvP. Max Blast Radius. MW: blast_radius, handling, reload
+dimwishlist:item=1529450902&perks=1844523823,3796465595,3300816228,1275731761  #2221 PvE. PvP. Max Blast Radius. MW: blast_radius, handling, reload
+dimwishlist:item=1529450902&perks=1844523823,2985827016,3300816228,1275731761  #2321 PvE. PvP. Max Blast Radius. MW: blast_radius, handling, reload
+dimwishlist:item=1529450902&perks=1844523823,2822142346,3300816228,1275731761  #2421 PvE. PvP. Max Blast Radius. MW: blast_radius, handling, reload
+dimwishlist:item=1529450902&perks=1441682018,1996142143,3300816228,1275731761  #3121 PvE. PvP. Max Blast Radius. MW: blast_radius, handling, reload
+dimwishlist:item=1529450902&perks=1441682018,3796465595,3300816228,1275731761  #3221 PvE. PvP. Max Blast Radius. MW: blast_radius, handling, reload
+dimwishlist:item=1529450902&perks=1441682018,2985827016,3300816228,1275731761  #3321 PvE. PvP. Max Blast Radius. MW: blast_radius, handling, reload
+dimwishlist:item=1529450902&perks=1441682018,2822142346,3300816228,1275731761  #3421 PvE. PvP. Max Blast Radius. MW: blast_radius, handling, reload
 // Auto Loading Holster, Quickdraw
-dimwishlist:item=1529450902&perks=1478423395,1996142143,3300816228,706527188  #1122 PvE. PvP. Max Blast Radius. MW: blast_radius, velocity, reload
-dimwishlist:item=1529450902&perks=1478423395,3796465595,3300816228,706527188  #1222 PvE. PvP. Max Blast Radius. MW: blast_radius, velocity, reload
-dimwishlist:item=1529450902&perks=1478423395,2985827016,3300816228,706527188  #1322 PvE. PvP. Max Blast Radius. MW: blast_radius, velocity, reload
-dimwishlist:item=1529450902&perks=1478423395,2822142346,3300816228,706527188  #1422 PvE. PvP. Max Blast Radius. MW: blast_radius, velocity, reload
-dimwishlist:item=1529450902&perks=1844523823,1996142143,3300816228,706527188  #2122 PvE. PvP. Max Blast Radius. MW: blast_radius, velocity, reload
-dimwishlist:item=1529450902&perks=1844523823,3796465595,3300816228,706527188  #2222 PvE. PvP. Max Blast Radius. MW: blast_radius, velocity, reload
-dimwishlist:item=1529450902&perks=1844523823,2985827016,3300816228,706527188  #2322 PvE. PvP. Max Blast Radius. MW: blast_radius, velocity, reload
-dimwishlist:item=1529450902&perks=1844523823,2822142346,3300816228,706527188  #2422 PvE. PvP. Max Blast Radius. MW: blast_radius, velocity, reload
+dimwishlist:item=1529450902&perks=1478423395,1996142143,3300816228,706527188  #1122 PvE. PvP. Max Blast Radius. MW: blast_radius, handling, reload
+dimwishlist:item=1529450902&perks=1478423395,3796465595,3300816228,706527188  #1222 PvE. PvP. Max Blast Radius. MW: blast_radius, handling, reload
+dimwishlist:item=1529450902&perks=1478423395,2985827016,3300816228,706527188  #1322 PvE. PvP. Max Blast Radius. MW: blast_radius, handling, reload
+dimwishlist:item=1529450902&perks=1478423395,2822142346,3300816228,706527188  #1422 PvE. PvP. Max Blast Radius. MW: blast_radius, handling, reload
+dimwishlist:item=1529450902&perks=1844523823,1996142143,3300816228,706527188  #2122 PvE. PvP. Max Blast Radius. MW: blast_radius, handling, reload
+dimwishlist:item=1529450902&perks=1844523823,3796465595,3300816228,706527188  #2222 PvE. PvP. Max Blast Radius. MW: blast_radius, handling, reload
+dimwishlist:item=1529450902&perks=1844523823,2985827016,3300816228,706527188  #2322 PvE. PvP. Max Blast Radius. MW: blast_radius, handling, reload
+dimwishlist:item=1529450902&perks=1844523823,2822142346,3300816228,706527188  #2422 PvE. PvP. Max Blast Radius. MW: blast_radius, handling, reload
+dimwishlist:item=1529450902&perks=1441682018,1996142143,3300816228,706527188  #3122 PvE. PvP. Max Blast Radius. MW: blast_radius, handling, reload
+dimwishlist:item=1529450902&perks=1441682018,3796465595,3300816228,706527188  #3222 PvE. PvP. Max Blast Radius. MW: blast_radius, handling, reload
+dimwishlist:item=1529450902&perks=1441682018,2985827016,3300816228,706527188  #3322 PvE. PvP. Max Blast Radius. MW: blast_radius, handling, reload
+dimwishlist:item=1529450902&perks=1441682018,2822142346,3300816228,706527188  #3422 PvE. PvP. Max Blast Radius. MW: blast_radius, handling, reload
 // Auto Loading Holster, Snapshot Sights
-dimwishlist:item=1529450902&perks=1478423395,1996142143,3300816228,957782887  #1123 PvE. PvP. Max Blast Radius. MW: blast_radius, velocity, reload
-dimwishlist:item=1529450902&perks=1478423395,3796465595,3300816228,957782887  #1223 PvE. PvP. Max Blast Radius. MW: blast_radius, velocity, reload
-dimwishlist:item=1529450902&perks=1478423395,2985827016,3300816228,957782887  #1323 PvE. PvP. Max Blast Radius. MW: blast_radius, velocity, reload
-dimwishlist:item=1529450902&perks=1478423395,2822142346,3300816228,957782887  #1423 PvE. PvP. Max Blast Radius. MW: blast_radius, velocity, reload
-dimwishlist:item=1529450902&perks=1844523823,1996142143,3300816228,957782887  #2123 PvE. PvP. Max Blast Radius. MW: blast_radius, velocity, reload
-dimwishlist:item=1529450902&perks=1844523823,3796465595,3300816228,957782887  #2223 PvE. PvP. Max Blast Radius. MW: blast_radius, velocity, reload
-dimwishlist:item=1529450902&perks=1844523823,2985827016,3300816228,957782887  #2323 PvE. PvP. Max Blast Radius. MW: blast_radius, velocity, reload
-dimwishlist:item=1529450902&perks=1844523823,2822142346,3300816228,957782887  #2423 PvE. PvP. Max Blast Radius. MW: blast_radius, velocity, reload
+dimwishlist:item=1529450902&perks=1478423395,1996142143,3300816228,957782887  #1123 PvE. PvP. Max Blast Radius. MW: blast_radius, handling, reload
+dimwishlist:item=1529450902&perks=1478423395,3796465595,3300816228,957782887  #1223 PvE. PvP. Max Blast Radius. MW: blast_radius, handling, reload
+dimwishlist:item=1529450902&perks=1478423395,2985827016,3300816228,957782887  #1323 PvE. PvP. Max Blast Radius. MW: blast_radius, handling, reload
+dimwishlist:item=1529450902&perks=1478423395,2822142346,3300816228,957782887  #1423 PvE. PvP. Max Blast Radius. MW: blast_radius, handling, reload
+dimwishlist:item=1529450902&perks=1844523823,1996142143,3300816228,957782887  #2123 PvE. PvP. Max Blast Radius. MW: blast_radius, handling, reload
+dimwishlist:item=1529450902&perks=1844523823,3796465595,3300816228,957782887  #2223 PvE. PvP. Max Blast Radius. MW: blast_radius, handling, reload
+dimwishlist:item=1529450902&perks=1844523823,2985827016,3300816228,957782887  #2323 PvE. PvP. Max Blast Radius. MW: blast_radius, handling, reload
+dimwishlist:item=1529450902&perks=1844523823,2822142346,3300816228,957782887  #2423 PvE. PvP. Max Blast Radius. MW: blast_radius, handling, reload
+dimwishlist:item=1529450902&perks=1441682018,1996142143,3300816228,957782887  #3123 PvE. PvP. Max Blast Radius. MW: blast_radius, handling, reload
+dimwishlist:item=1529450902&perks=1441682018,3796465595,3300816228,957782887  #3223 PvE. PvP. Max Blast Radius. MW: blast_radius, handling, reload
+dimwishlist:item=1529450902&perks=1441682018,2985827016,3300816228,957782887  #3323 PvE. PvP. Max Blast Radius. MW: blast_radius, handling, reload
+dimwishlist:item=1529450902&perks=1441682018,2822142346,3300816228,957782887  #3423 PvE. PvP. Max Blast Radius. MW: blast_radius, handling, reload
+// Genesis, Cluster Bomb
+dimwishlist:item=1529450902&perks=1478423395,1996142143,3096702027,1275731761  #1111 PvE. Max Blast Radius. Could be interesting. MW: blast_radius, handling, reload
+dimwishlist:item=1529450902&perks=1478423395,3796465595,3096702027,1275731761  #1211 PvE. Max Blast Radius. Could be interesting. MW: blast_radius, handling, reload
+dimwishlist:item=1529450902&perks=1478423395,2985827016,3096702027,1275731761  #1311 PvE. Max Blast Radius. Could be interesting. MW: blast_radius, handling, reload
+dimwishlist:item=1529450902&perks=1478423395,2822142346,3096702027,1275731761  #1411 PvE. Max Blast Radius. Could be interesting. MW: blast_radius, handling, reload
+dimwishlist:item=1529450902&perks=1844523823,1996142143,3096702027,1275731761  #2111 PvE. Max Blast Radius. Could be interesting. MW: blast_radius, handling, reload
+dimwishlist:item=1529450902&perks=1844523823,3796465595,3096702027,1275731761  #2211 PvE. Max Blast Radius. Could be interesting. MW: blast_radius, handling, reload
+dimwishlist:item=1529450902&perks=1844523823,2985827016,3096702027,1275731761  #2311 PvE. Max Blast Radius. Could be interesting. MW: blast_radius, handling, reload
+dimwishlist:item=1529450902&perks=1844523823,2822142346,3096702027,1275731761  #2411 PvE. Max Blast Radius. Could be interesting. MW: blast_radius, handling, reload
+dimwishlist:item=1529450902&perks=1441682018,1996142143,3096702027,1275731761  #3111 PvE. Max Blast Radius. Could be interesting. MW: blast_radius, handling, reload
+dimwishlist:item=1529450902&perks=1441682018,3796465595,3096702027,1275731761  #3211 PvE. Max Blast Radius. Could be interesting. MW: blast_radius, handling, reload
+dimwishlist:item=1529450902&perks=1441682018,2985827016,3096702027,1275731761  #3311 PvE. Max Blast Radius. Could be interesting. MW: blast_radius, handling, reload
+dimwishlist:item=1529450902&perks=1441682018,2822142346,3096702027,1275731761  #3411 PvE. Max Blast Radius. Could be interesting. MW: blast_radius, handling, reload
+// Genesis, Disruption Break
+dimwishlist:item=1529450902&perks=1478423395,1996142143,3096702027,1683379515  #1112 PvE. Max Blast Radius. Could be interesting. MW: blast_radius, handling, reload
+dimwishlist:item=1529450902&perks=1478423395,3796465595,3096702027,1683379515  #1212 PvE. Max Blast Radius. Could be interesting. MW: blast_radius, handling, reload
+dimwishlist:item=1529450902&perks=1478423395,2985827016,3096702027,1683379515  #1312 PvE. Max Blast Radius. Could be interesting. MW: blast_radius, handling, reload
+dimwishlist:item=1529450902&perks=1478423395,2822142346,3096702027,1683379515  #1412 PvE. Max Blast Radius. Could be interesting. MW: blast_radius, handling, reload
+dimwishlist:item=1529450902&perks=1844523823,1996142143,3096702027,1683379515  #2112 PvE. Max Blast Radius. Could be interesting. MW: blast_radius, handling, reload
+dimwishlist:item=1529450902&perks=1844523823,3796465595,3096702027,1683379515  #2212 PvE. Max Blast Radius. Could be interesting. MW: blast_radius, handling, reload
+dimwishlist:item=1529450902&perks=1844523823,2985827016,3096702027,1683379515  #2312 PvE. Max Blast Radius. Could be interesting. MW: blast_radius, handling, reload
+dimwishlist:item=1529450902&perks=1844523823,2822142346,3096702027,1683379515  #2412 PvE. Max Blast Radius. Could be interesting. MW: blast_radius, handling, reload
+dimwishlist:item=1529450902&perks=1441682018,1996142143,3096702027,1683379515  #3112 PvE. Max Blast Radius. Could be interesting. MW: blast_radius, handling, reload
+dimwishlist:item=1529450902&perks=1441682018,3796465595,3096702027,1683379515  #3212 PvE. Max Blast Radius. Could be interesting. MW: blast_radius, handling, reload
+dimwishlist:item=1529450902&perks=1441682018,2985827016,3096702027,1683379515  #3312 PvE. Max Blast Radius. Could be interesting. MW: blast_radius, handling, reload
+dimwishlist:item=1529450902&perks=1441682018,2822142346,3096702027,1683379515  #3412 PvE. Max Blast Radius. Could be interesting. MW: blast_radius, handling, reload
+// Genesis, Shield Disorient
+dimwishlist:item=1529450902&perks=1478423395,1996142143,3096702027,3275789089  #1113 PvE. Max Blast Radius. Could be interesting. MW: blast_radius, handling, reload
+dimwishlist:item=1529450902&perks=1478423395,3796465595,3096702027,3275789089  #1213 PvE. Max Blast Radius. Could be interesting. MW: blast_radius, handling, reload
+dimwishlist:item=1529450902&perks=1478423395,2985827016,3096702027,3275789089  #1313 PvE. Max Blast Radius. Could be interesting. MW: blast_radius, handling, reload
+dimwishlist:item=1529450902&perks=1478423395,2822142346,3096702027,3275789089  #1413 PvE. Max Blast Radius. Could be interesting. MW: blast_radius, handling, reload
+dimwishlist:item=1529450902&perks=1844523823,1996142143,3096702027,3275789089  #2113 PvE. Max Blast Radius. Could be interesting. MW: blast_radius, handling, reload
+dimwishlist:item=1529450902&perks=1844523823,3796465595,3096702027,3275789089  #2213 PvE. Max Blast Radius. Could be interesting. MW: blast_radius, handling, reload
+dimwishlist:item=1529450902&perks=1844523823,2985827016,3096702027,3275789089  #2313 PvE. Max Blast Radius. Could be interesting. MW: blast_radius, handling, reload
+dimwishlist:item=1529450902&perks=1844523823,2822142346,3096702027,3275789089  #2413 PvE. Max Blast Radius. Could be interesting. MW: blast_radius, handling, reload
+dimwishlist:item=1529450902&perks=1441682018,1996142143,3096702027,3275789089  #3113 PvE. Max Blast Radius. Could be interesting. MW: blast_radius, handling, reload
+dimwishlist:item=1529450902&perks=1441682018,3796465595,3096702027,3275789089  #3213 PvE. Max Blast Radius. Could be interesting. MW: blast_radius, handling, reload
+dimwishlist:item=1529450902&perks=1441682018,2985827016,3096702027,3275789089  #3313 PvE. Max Blast Radius. Could be interesting. MW: blast_radius, handling, reload
+dimwishlist:item=1529450902&perks=1441682018,2822142346,3096702027,3275789089  #3413 PvE. Max Blast Radius. Could be interesting. MW: blast_radius, handling, reload
 // Tracking Module, Disruption Break
-dimwishlist:item=1529450902&perks=1478423395,1996142143,3977735242,1683379515  #1111 PvE. Max Blast Radius. MW: blast_radius, velocity, reload
-dimwishlist:item=1529450902&perks=1478423395,3796465595,3977735242,1683379515  #1211 PvE. Max Blast Radius. MW: blast_radius, velocity, reload
-dimwishlist:item=1529450902&perks=1478423395,2985827016,3977735242,1683379515  #1311 PvE. Max Blast Radius. MW: blast_radius, velocity, reload
-dimwishlist:item=1529450902&perks=1478423395,2822142346,3977735242,1683379515  #1411 PvE. Max Blast Radius. MW: blast_radius, velocity, reload
-dimwishlist:item=1529450902&perks=1844523823,1996142143,3977735242,1683379515  #2111 PvE. Max Blast Radius. MW: blast_radius, velocity, reload
-dimwishlist:item=1529450902&perks=1844523823,3796465595,3977735242,1683379515  #2211 PvE. Max Blast Radius. MW: blast_radius, velocity, reload
-dimwishlist:item=1529450902&perks=1844523823,2985827016,3977735242,1683379515  #2311 PvE. Max Blast Radius. MW: blast_radius, velocity, reload
-dimwishlist:item=1529450902&perks=1844523823,2822142346,3977735242,1683379515  #2411 PvE. Max Blast Radius. MW: blast_radius, velocity, reload
+dimwishlist:item=1529450902&perks=1478423395,1996142143,3977735242,1683379515  #1111 PvE. Max Blast Radius. MW: blast_radius, handling, reload
+dimwishlist:item=1529450902&perks=1478423395,3796465595,3977735242,1683379515  #1211 PvE. Max Blast Radius. MW: blast_radius, handling, reload
+dimwishlist:item=1529450902&perks=1478423395,2985827016,3977735242,1683379515  #1311 PvE. Max Blast Radius. MW: blast_radius, handling, reload
+dimwishlist:item=1529450902&perks=1478423395,2822142346,3977735242,1683379515  #1411 PvE. Max Blast Radius. MW: blast_radius, handling, reload
+dimwishlist:item=1529450902&perks=1844523823,1996142143,3977735242,1683379515  #2111 PvE. Max Blast Radius. MW: blast_radius, handling, reload
+dimwishlist:item=1529450902&perks=1844523823,3796465595,3977735242,1683379515  #2211 PvE. Max Blast Radius. MW: blast_radius, handling, reload
+dimwishlist:item=1529450902&perks=1844523823,2985827016,3977735242,1683379515  #2311 PvE. Max Blast Radius. MW: blast_radius, handling, reload
+dimwishlist:item=1529450902&perks=1844523823,2822142346,3977735242,1683379515  #2411 PvE. Max Blast Radius. MW: blast_radius, handling, reload
+dimwishlist:item=1529450902&perks=1441682018,1996142143,3977735242,1683379515  #3111 PvE. Max Blast Radius. MW: blast_radius, handling, reload
+dimwishlist:item=1529450902&perks=1441682018,3796465595,3977735242,1683379515  #3211 PvE. Max Blast Radius. MW: blast_radius, handling, reload
+dimwishlist:item=1529450902&perks=1441682018,2985827016,3977735242,1683379515  #3311 PvE. Max Blast Radius. MW: blast_radius, handling, reload
+dimwishlist:item=1529450902&perks=1441682018,2822142346,3977735242,1683379515  #3411 PvE. Max Blast Radius. MW: blast_radius, handling, reload
 // Auto Loading Holster, Disruption Break
-dimwishlist:item=1529450902&perks=1478423395,1996142143,3300816228,1683379515  #1121 PvE. Max Blast Radius. MW: blast_radius, velocity, reload
-dimwishlist:item=1529450902&perks=1478423395,3796465595,3300816228,1683379515  #1221 PvE. Max Blast Radius. MW: blast_radius, velocity, reload
-dimwishlist:item=1529450902&perks=1478423395,2985827016,3300816228,1683379515  #1321 PvE. Max Blast Radius. MW: blast_radius, velocity, reload
-dimwishlist:item=1529450902&perks=1478423395,2822142346,3300816228,1683379515  #1421 PvE. Max Blast Radius. MW: blast_radius, velocity, reload
-dimwishlist:item=1529450902&perks=1844523823,1996142143,3300816228,1683379515  #2121 PvE. Max Blast Radius. MW: blast_radius, velocity, reload
-dimwishlist:item=1529450902&perks=1844523823,3796465595,3300816228,1683379515  #2221 PvE. Max Blast Radius. MW: blast_radius, velocity, reload
-dimwishlist:item=1529450902&perks=1844523823,2985827016,3300816228,1683379515  #2321 PvE. Max Blast Radius. MW: blast_radius, velocity, reload
-dimwishlist:item=1529450902&perks=1844523823,2822142346,3300816228,1683379515  #2421 PvE. Max Blast Radius. MW: blast_radius, velocity, reload
+dimwishlist:item=1529450902&perks=1478423395,1996142143,3300816228,1683379515  #1121 PvE. Max Blast Radius. MW: blast_radius, handling, reload
+dimwishlist:item=1529450902&perks=1478423395,3796465595,3300816228,1683379515  #1221 PvE. Max Blast Radius. MW: blast_radius, handling, reload
+dimwishlist:item=1529450902&perks=1478423395,2985827016,3300816228,1683379515  #1321 PvE. Max Blast Radius. MW: blast_radius, handling, reload
+dimwishlist:item=1529450902&perks=1478423395,2822142346,3300816228,1683379515  #1421 PvE. Max Blast Radius. MW: blast_radius, handling, reload
+dimwishlist:item=1529450902&perks=1844523823,1996142143,3300816228,1683379515  #2121 PvE. Max Blast Radius. MW: blast_radius, handling, reload
+dimwishlist:item=1529450902&perks=1844523823,3796465595,3300816228,1683379515  #2221 PvE. Max Blast Radius. MW: blast_radius, handling, reload
+dimwishlist:item=1529450902&perks=1844523823,2985827016,3300816228,1683379515  #2321 PvE. Max Blast Radius. MW: blast_radius, handling, reload
+dimwishlist:item=1529450902&perks=1844523823,2822142346,3300816228,1683379515  #2421 PvE. Max Blast Radius. MW: blast_radius, handling, reload
+dimwishlist:item=1529450902&perks=1441682018,1996142143,3300816228,1683379515  #3121 PvE. Max Blast Radius. MW: blast_radius, handling, reload
+dimwishlist:item=1529450902&perks=1441682018,3796465595,3300816228,1683379515  #3221 PvE. Max Blast Radius. MW: blast_radius, handling, reload
+dimwishlist:item=1529450902&perks=1441682018,2985827016,3300816228,1683379515  #3321 PvE. Max Blast Radius. MW: blast_radius, handling, reload
+dimwishlist:item=1529450902&perks=1441682018,2822142346,3300816228,1683379515  #3421 PvE. Max Blast Radius. MW: blast_radius, handling, reload
 // Mos Epoch Iii
 // Tracking Module, Cluster Bomb
-dimwishlist:item=1529450902&perks=981914802,2822142346,3977735242,1275731761  #1111 PvP. Max Velocity. MW: velocity, blast_radius, reload
-dimwishlist:item=1529450902&perks=3525010810,2822142346,3977735242,1275731761  #2111 PvP. Max Velocity. MW: velocity, blast_radius, reload
-dimwishlist:item=1529450902&perks=3798852852,2822142346,3977735242,1275731761  #3111 PvP. Max Velocity. MW: velocity, blast_radius, reload
+dimwishlist:item=1529450902&perks=3525010810,2985827016,3977735242,1275731761  #1111 PvP. Max Handling/Reload. MW: blast_radius, handling, reload
+dimwishlist:item=1529450902&perks=3525010810,2822142346,3977735242,1275731761  #1211 PvP. Max Handling/Reload. MW: blast_radius, handling, reload
+dimwishlist:item=1529450902&perks=3525010810,3796465595,3977735242,1275731761  #1311 PvP. Max Handling/Reload. MW: blast_radius, handling, reload
+dimwishlist:item=1529450902&perks=3798852852,2985827016,3977735242,1275731761  #2111 PvP. Max Handling/Reload. MW: blast_radius, handling, reload
+dimwishlist:item=1529450902&perks=3798852852,2822142346,3977735242,1275731761  #2211 PvP. Max Handling/Reload. MW: blast_radius, handling, reload
+dimwishlist:item=1529450902&perks=3798852852,3796465595,3977735242,1275731761  #2311 PvP. Max Handling/Reload. MW: blast_radius, handling, reload
 // Tracking Module, Quickdraw
-dimwishlist:item=1529450902&perks=981914802,2822142346,3977735242,706527188  #1112 PvP. Max Velocity. MW: velocity, blast_radius, reload
-dimwishlist:item=1529450902&perks=3525010810,2822142346,3977735242,706527188  #2112 PvP. Max Velocity. MW: velocity, blast_radius, reload
-dimwishlist:item=1529450902&perks=3798852852,2822142346,3977735242,706527188  #3112 PvP. Max Velocity. MW: velocity, blast_radius, reload
+dimwishlist:item=1529450902&perks=3525010810,2985827016,3977735242,706527188  #1112 PvP. Max Handling/Reload. MW: blast_radius, handling, reload
+dimwishlist:item=1529450902&perks=3525010810,2822142346,3977735242,706527188  #1212 PvP. Max Handling/Reload. MW: blast_radius, handling, reload
+dimwishlist:item=1529450902&perks=3525010810,3796465595,3977735242,706527188  #1312 PvP. Max Handling/Reload. MW: blast_radius, handling, reload
+dimwishlist:item=1529450902&perks=3798852852,2985827016,3977735242,706527188  #2112 PvP. Max Handling/Reload. MW: blast_radius, handling, reload
+dimwishlist:item=1529450902&perks=3798852852,2822142346,3977735242,706527188  #2212 PvP. Max Handling/Reload. MW: blast_radius, handling, reload
+dimwishlist:item=1529450902&perks=3798852852,3796465595,3977735242,706527188  #2312 PvP. Max Handling/Reload. MW: blast_radius, handling, reload
 // Auto Loading Holster, Cluster Bomb
-dimwishlist:item=1529450902&perks=981914802,2822142346,3300816228,1275731761  #1121 PvP. Max Velocity. MW: velocity, blast_radius, reload
-dimwishlist:item=1529450902&perks=3525010810,2822142346,3300816228,1275731761  #2121 PvP. Max Velocity. MW: velocity, blast_radius, reload
-dimwishlist:item=1529450902&perks=3798852852,2822142346,3300816228,1275731761  #3121 PvP. Max Velocity. MW: velocity, blast_radius, reload
+dimwishlist:item=1529450902&perks=3525010810,2985827016,3300816228,1275731761  #1121 PvP. Max Handling/Reload. MW: blast_radius, handling, reload
+dimwishlist:item=1529450902&perks=3525010810,2822142346,3300816228,1275731761  #1221 PvP. Max Handling/Reload. MW: blast_radius, handling, reload
+dimwishlist:item=1529450902&perks=3525010810,3796465595,3300816228,1275731761  #1321 PvP. Max Handling/Reload. MW: blast_radius, handling, reload
+dimwishlist:item=1529450902&perks=3798852852,2985827016,3300816228,1275731761  #2121 PvP. Max Handling/Reload. MW: blast_radius, handling, reload
+dimwishlist:item=1529450902&perks=3798852852,2822142346,3300816228,1275731761  #2221 PvP. Max Handling/Reload. MW: blast_radius, handling, reload
+dimwishlist:item=1529450902&perks=3798852852,3796465595,3300816228,1275731761  #2321 PvP. Max Handling/Reload. MW: blast_radius, handling, reload
 // Auto Loading Holster, Quickdraw
-dimwishlist:item=1529450902&perks=981914802,2822142346,3300816228,706527188  #1122 PvP. Max Velocity. MW: velocity, blast_radius, reload
-dimwishlist:item=1529450902&perks=3525010810,2822142346,3300816228,706527188  #2122 PvP. Max Velocity. MW: velocity, blast_radius, reload
-dimwishlist:item=1529450902&perks=3798852852,2822142346,3300816228,706527188  #3122 PvP. Max Velocity. MW: velocity, blast_radius, reload
+dimwishlist:item=1529450902&perks=3525010810,2985827016,3300816228,706527188  #1122 PvP. Max Handling/Reload. MW: blast_radius, handling, reload
+dimwishlist:item=1529450902&perks=3525010810,2822142346,3300816228,706527188  #1222 PvP. Max Handling/Reload. MW: blast_radius, handling, reload
+dimwishlist:item=1529450902&perks=3525010810,3796465595,3300816228,706527188  #1322 PvP. Max Handling/Reload. MW: blast_radius, handling, reload
+dimwishlist:item=1529450902&perks=3798852852,2985827016,3300816228,706527188  #2122 PvP. Max Handling/Reload. MW: blast_radius, handling, reload
+dimwishlist:item=1529450902&perks=3798852852,2822142346,3300816228,706527188  #2222 PvP. Max Handling/Reload. MW: blast_radius, handling, reload
+dimwishlist:item=1529450902&perks=3798852852,3796465595,3300816228,706527188  #2322 PvP. Max Handling/Reload. MW: blast_radius, handling, reload
 // Snapshot Sights, Cluster Bomb
-dimwishlist:item=1529450902&perks=981914802,2822142346,957782887,1275731761  #1131 PvP. Max Velocity. MW: velocity, blast_radius, reload
-dimwishlist:item=1529450902&perks=3525010810,2822142346,957782887,1275731761  #2131 PvP. Max Velocity. MW: velocity, blast_radius, reload
-dimwishlist:item=1529450902&perks=3798852852,2822142346,957782887,1275731761  #3131 PvP. Max Velocity. MW: velocity, blast_radius, reload
+dimwishlist:item=1529450902&perks=3525010810,2985827016,957782887,1275731761  #1131 PvP. Max Handling/Reload. MW: blast_radius, handling, reload
+dimwishlist:item=1529450902&perks=3525010810,2822142346,957782887,1275731761  #1231 PvP. Max Handling/Reload. MW: blast_radius, handling, reload
+dimwishlist:item=1529450902&perks=3525010810,3796465595,957782887,1275731761  #1331 PvP. Max Handling/Reload. MW: blast_radius, handling, reload
+dimwishlist:item=1529450902&perks=3798852852,2985827016,957782887,1275731761  #2131 PvP. Max Handling/Reload. MW: blast_radius, handling, reload
+dimwishlist:item=1529450902&perks=3798852852,2822142346,957782887,1275731761  #2231 PvP. Max Handling/Reload. MW: blast_radius, handling, reload
+dimwishlist:item=1529450902&perks=3798852852,3796465595,957782887,1275731761  #2331 PvP. Max Handling/Reload. MW: blast_radius, handling, reload
 // Snapshot Sights, Quickdraw
-dimwishlist:item=1529450902&perks=981914802,2822142346,957782887,706527188  #1132 PvP. Max Velocity. MW: velocity, blast_radius, reload
-dimwishlist:item=1529450902&perks=3525010810,2822142346,957782887,706527188  #2132 PvP. Max Velocity. MW: velocity, blast_radius, reload
-dimwishlist:item=1529450902&perks=3798852852,2822142346,957782887,706527188  #3132 PvP. Max Velocity. MW: velocity, blast_radius, reload
+dimwishlist:item=1529450902&perks=3525010810,2985827016,957782887,706527188  #1132 PvP. Max Handling/Reload. MW: blast_radius, handling, reload
+dimwishlist:item=1529450902&perks=3525010810,2822142346,957782887,706527188  #1232 PvP. Max Handling/Reload. MW: blast_radius, handling, reload
+dimwishlist:item=1529450902&perks=3525010810,3796465595,957782887,706527188  #1332 PvP. Max Handling/Reload. MW: blast_radius, handling, reload
+dimwishlist:item=1529450902&perks=3798852852,2985827016,957782887,706527188  #2132 PvP. Max Handling/Reload. MW: blast_radius, handling, reload
+dimwishlist:item=1529450902&perks=3798852852,2822142346,957782887,706527188  #2232 PvP. Max Handling/Reload. MW: blast_radius, handling, reload
+dimwishlist:item=1529450902&perks=3798852852,3796465595,957782887,706527188  #2332 PvP. Max Handling/Reload. MW: blast_radius, handling, reload
 // Mos Epoch Iii
 // Tracking Module, Cluster Bomb
-dimwishlist:item=1529450902&perks=1478423395,2985827016,3977735242,1275731761  #1111 PvE. PvP. Fastest Reload. MW: blast_radius, velocity, reload
-dimwishlist:item=1529450902&perks=1478423395,2822142346,3977735242,1275731761  #1211 PvE. PvP. Fastest Reload. MW: blast_radius, velocity, reload
-dimwishlist:item=1529450902&perks=1441682018,2985827016,3977735242,1275731761  #2111 PvE. PvP. Fastest Reload. MW: blast_radius, velocity, reload
-dimwishlist:item=1529450902&perks=1441682018,2822142346,3977735242,1275731761  #2211 PvE. PvP. Fastest Reload. MW: blast_radius, velocity, reload
-dimwishlist:item=1529450902&perks=981914802,2985827016,3977735242,1275731761  #3111 PvE. PvP. Fastest Reload. MW: blast_radius, velocity, reload
-dimwishlist:item=1529450902&perks=981914802,2822142346,3977735242,1275731761  #3211 PvE. PvP. Fastest Reload. MW: blast_radius, velocity, reload
-dimwishlist:item=1529450902&perks=3525010810,2985827016,3977735242,1275731761  #4111 PvE. PvP. Fastest Reload. MW: blast_radius, velocity, reload
-dimwishlist:item=1529450902&perks=3525010810,2822142346,3977735242,1275731761  #4211 PvE. PvP. Fastest Reload. MW: blast_radius, velocity, reload
-dimwishlist:item=1529450902&perks=3798852852,2985827016,3977735242,1275731761  #5111 PvE. PvP. Fastest Reload. MW: blast_radius, velocity, reload
-dimwishlist:item=1529450902&perks=3798852852,2822142346,3977735242,1275731761  #5211 PvE. PvP. Fastest Reload. MW: blast_radius, velocity, reload
-// Auto Loading Holster, Cluster Bomb
-dimwishlist:item=1529450902&perks=1478423395,2985827016,3300816228,1275731761  #1121 PvE. PvP. Fastest Reload. MW: blast_radius, velocity, reload
-dimwishlist:item=1529450902&perks=1478423395,2822142346,3300816228,1275731761  #1221 PvE. PvP. Fastest Reload. MW: blast_radius, velocity, reload
-dimwishlist:item=1529450902&perks=1441682018,2985827016,3300816228,1275731761  #2121 PvE. PvP. Fastest Reload. MW: blast_radius, velocity, reload
-dimwishlist:item=1529450902&perks=1441682018,2822142346,3300816228,1275731761  #2221 PvE. PvP. Fastest Reload. MW: blast_radius, velocity, reload
-dimwishlist:item=1529450902&perks=981914802,2985827016,3300816228,1275731761  #3121 PvE. PvP. Fastest Reload. MW: blast_radius, velocity, reload
-dimwishlist:item=1529450902&perks=981914802,2822142346,3300816228,1275731761  #3221 PvE. PvP. Fastest Reload. MW: blast_radius, velocity, reload
-dimwishlist:item=1529450902&perks=3525010810,2985827016,3300816228,1275731761  #4121 PvE. PvP. Fastest Reload. MW: blast_radius, velocity, reload
-dimwishlist:item=1529450902&perks=3525010810,2822142346,3300816228,1275731761  #4221 PvE. PvP. Fastest Reload. MW: blast_radius, velocity, reload
-dimwishlist:item=1529450902&perks=3798852852,2985827016,3300816228,1275731761  #5121 PvE. PvP. Fastest Reload. MW: blast_radius, velocity, reload
-dimwishlist:item=1529450902&perks=3798852852,2822142346,3300816228,1275731761  #5221 PvE. PvP. Fastest Reload. MW: blast_radius, velocity, reload
+dimwishlist:item=1529450902&perks=3525010810,2985827016,3977735242,1275731761  #1111 PvE. PvP. Fastest Reload. MW: blast_radius, handling, reload
+dimwishlist:item=1529450902&perks=3525010810,2822142346,3977735242,1275731761  #1211 PvE. PvP. Fastest Reload. MW: blast_radius, handling, reload
+dimwishlist:item=1529450902&perks=3798852852,2985827016,3977735242,1275731761  #2111 PvE. PvP. Fastest Reload. MW: blast_radius, handling, reload
+dimwishlist:item=1529450902&perks=3798852852,2822142346,3977735242,1275731761  #2211 PvE. PvP. Fastest Reload. MW: blast_radius, handling, reload
+dimwishlist:item=1529450902&perks=1478423395,2985827016,3977735242,1275731761  #3111 PvE. PvP. Fastest Reload. MW: blast_radius, handling, reload
+dimwishlist:item=1529450902&perks=1478423395,2822142346,3977735242,1275731761  #3211 PvE. PvP. Fastest Reload. MW: blast_radius, handling, reload
+dimwishlist:item=1529450902&perks=1844523823,2985827016,3977735242,1275731761  #4111 PvE. PvP. Fastest Reload. MW: blast_radius, handling, reload
+dimwishlist:item=1529450902&perks=1844523823,2822142346,3977735242,1275731761  #4211 PvE. PvP. Fastest Reload. MW: blast_radius, handling, reload
+dimwishlist:item=1529450902&perks=1441682018,2985827016,3977735242,1275731761  #5111 PvE. PvP. Fastest Reload. MW: blast_radius, handling, reload
+dimwishlist:item=1529450902&perks=1441682018,2822142346,3977735242,1275731761  #5211 PvE. PvP. Fastest Reload. MW: blast_radius, handling, reload
 // Tracking Module, Quickdraw
-dimwishlist:item=1529450902&perks=1478423395,2985827016,3977735242,706527188  #1111 PvP. Fastest Reload. MW: blast_radius, velocity, reload
-dimwishlist:item=1529450902&perks=1478423395,2822142346,3977735242,706527188  #1211 PvP. Fastest Reload. MW: blast_radius, velocity, reload
-dimwishlist:item=1529450902&perks=1441682018,2985827016,3977735242,706527188  #2111 PvP. Fastest Reload. MW: blast_radius, velocity, reload
-dimwishlist:item=1529450902&perks=1441682018,2822142346,3977735242,706527188  #2211 PvP. Fastest Reload. MW: blast_radius, velocity, reload
-dimwishlist:item=1529450902&perks=981914802,2985827016,3977735242,706527188  #3111 PvP. Fastest Reload. MW: blast_radius, velocity, reload
-dimwishlist:item=1529450902&perks=981914802,2822142346,3977735242,706527188  #3211 PvP. Fastest Reload. MW: blast_radius, velocity, reload
-dimwishlist:item=1529450902&perks=3525010810,2985827016,3977735242,706527188  #4111 PvP. Fastest Reload. MW: blast_radius, velocity, reload
-dimwishlist:item=1529450902&perks=3525010810,2822142346,3977735242,706527188  #4211 PvP. Fastest Reload. MW: blast_radius, velocity, reload
-dimwishlist:item=1529450902&perks=3798852852,2985827016,3977735242,706527188  #5111 PvP. Fastest Reload. MW: blast_radius, velocity, reload
-dimwishlist:item=1529450902&perks=3798852852,2822142346,3977735242,706527188  #5211 PvP. Fastest Reload. MW: blast_radius, velocity, reload
+dimwishlist:item=1529450902&perks=3525010810,2985827016,3977735242,706527188  #1112 PvE. PvP. Fastest Reload. MW: blast_radius, handling, reload
+dimwishlist:item=1529450902&perks=3525010810,2822142346,3977735242,706527188  #1212 PvE. PvP. Fastest Reload. MW: blast_radius, handling, reload
+dimwishlist:item=1529450902&perks=3798852852,2985827016,3977735242,706527188  #2112 PvE. PvP. Fastest Reload. MW: blast_radius, handling, reload
+dimwishlist:item=1529450902&perks=3798852852,2822142346,3977735242,706527188  #2212 PvE. PvP. Fastest Reload. MW: blast_radius, handling, reload
+dimwishlist:item=1529450902&perks=1478423395,2985827016,3977735242,706527188  #3112 PvE. PvP. Fastest Reload. MW: blast_radius, handling, reload
+dimwishlist:item=1529450902&perks=1478423395,2822142346,3977735242,706527188  #3212 PvE. PvP. Fastest Reload. MW: blast_radius, handling, reload
+dimwishlist:item=1529450902&perks=1844523823,2985827016,3977735242,706527188  #4112 PvE. PvP. Fastest Reload. MW: blast_radius, handling, reload
+dimwishlist:item=1529450902&perks=1844523823,2822142346,3977735242,706527188  #4212 PvE. PvP. Fastest Reload. MW: blast_radius, handling, reload
+dimwishlist:item=1529450902&perks=1441682018,2985827016,3977735242,706527188  #5112 PvE. PvP. Fastest Reload. MW: blast_radius, handling, reload
+dimwishlist:item=1529450902&perks=1441682018,2822142346,3977735242,706527188  #5212 PvE. PvP. Fastest Reload. MW: blast_radius, handling, reload
+// Tracking Module, Snapshot Sights
+dimwishlist:item=1529450902&perks=3525010810,2985827016,3977735242,957782887  #1113 PvE. PvP. Fastest Reload. MW: blast_radius, handling, reload
+dimwishlist:item=1529450902&perks=3525010810,2822142346,3977735242,957782887  #1213 PvE. PvP. Fastest Reload. MW: blast_radius, handling, reload
+dimwishlist:item=1529450902&perks=3798852852,2985827016,3977735242,957782887  #2113 PvE. PvP. Fastest Reload. MW: blast_radius, handling, reload
+dimwishlist:item=1529450902&perks=3798852852,2822142346,3977735242,957782887  #2213 PvE. PvP. Fastest Reload. MW: blast_radius, handling, reload
+dimwishlist:item=1529450902&perks=1478423395,2985827016,3977735242,957782887  #3113 PvE. PvP. Fastest Reload. MW: blast_radius, handling, reload
+dimwishlist:item=1529450902&perks=1478423395,2822142346,3977735242,957782887  #3213 PvE. PvP. Fastest Reload. MW: blast_radius, handling, reload
+dimwishlist:item=1529450902&perks=1844523823,2985827016,3977735242,957782887  #4113 PvE. PvP. Fastest Reload. MW: blast_radius, handling, reload
+dimwishlist:item=1529450902&perks=1844523823,2822142346,3977735242,957782887  #4213 PvE. PvP. Fastest Reload. MW: blast_radius, handling, reload
+dimwishlist:item=1529450902&perks=1441682018,2985827016,3977735242,957782887  #5113 PvE. PvP. Fastest Reload. MW: blast_radius, handling, reload
+dimwishlist:item=1529450902&perks=1441682018,2822142346,3977735242,957782887  #5213 PvE. PvP. Fastest Reload. MW: blast_radius, handling, reload
+// Auto Loading Holster, Cluster Bomb
+dimwishlist:item=1529450902&perks=3525010810,2985827016,3300816228,1275731761  #1121 PvE. PvP. Fastest Reload. MW: blast_radius, handling, reload
+dimwishlist:item=1529450902&perks=3525010810,2822142346,3300816228,1275731761  #1221 PvE. PvP. Fastest Reload. MW: blast_radius, handling, reload
+dimwishlist:item=1529450902&perks=3798852852,2985827016,3300816228,1275731761  #2121 PvE. PvP. Fastest Reload. MW: blast_radius, handling, reload
+dimwishlist:item=1529450902&perks=3798852852,2822142346,3300816228,1275731761  #2221 PvE. PvP. Fastest Reload. MW: blast_radius, handling, reload
+dimwishlist:item=1529450902&perks=1478423395,2985827016,3300816228,1275731761  #3121 PvE. PvP. Fastest Reload. MW: blast_radius, handling, reload
+dimwishlist:item=1529450902&perks=1478423395,2822142346,3300816228,1275731761  #3221 PvE. PvP. Fastest Reload. MW: blast_radius, handling, reload
+dimwishlist:item=1529450902&perks=1844523823,2985827016,3300816228,1275731761  #4121 PvE. PvP. Fastest Reload. MW: blast_radius, handling, reload
+dimwishlist:item=1529450902&perks=1844523823,2822142346,3300816228,1275731761  #4221 PvE. PvP. Fastest Reload. MW: blast_radius, handling, reload
+dimwishlist:item=1529450902&perks=1441682018,2985827016,3300816228,1275731761  #5121 PvE. PvP. Fastest Reload. MW: blast_radius, handling, reload
+dimwishlist:item=1529450902&perks=1441682018,2822142346,3300816228,1275731761  #5221 PvE. PvP. Fastest Reload. MW: blast_radius, handling, reload
 // Auto Loading Holster, Quickdraw
-dimwishlist:item=1529450902&perks=1478423395,2985827016,3300816228,706527188  #1121 PvP. Fastest Reload. MW: blast_radius, velocity, reload
-dimwishlist:item=1529450902&perks=1478423395,2822142346,3300816228,706527188  #1221 PvP. Fastest Reload. MW: blast_radius, velocity, reload
-dimwishlist:item=1529450902&perks=1441682018,2985827016,3300816228,706527188  #2121 PvP. Fastest Reload. MW: blast_radius, velocity, reload
-dimwishlist:item=1529450902&perks=1441682018,2822142346,3300816228,706527188  #2221 PvP. Fastest Reload. MW: blast_radius, velocity, reload
-dimwishlist:item=1529450902&perks=981914802,2985827016,3300816228,706527188  #3121 PvP. Fastest Reload. MW: blast_radius, velocity, reload
-dimwishlist:item=1529450902&perks=981914802,2822142346,3300816228,706527188  #3221 PvP. Fastest Reload. MW: blast_radius, velocity, reload
-dimwishlist:item=1529450902&perks=3525010810,2985827016,3300816228,706527188  #4121 PvP. Fastest Reload. MW: blast_radius, velocity, reload
-dimwishlist:item=1529450902&perks=3525010810,2822142346,3300816228,706527188  #4221 PvP. Fastest Reload. MW: blast_radius, velocity, reload
-dimwishlist:item=1529450902&perks=3798852852,2985827016,3300816228,706527188  #5121 PvP. Fastest Reload. MW: blast_radius, velocity, reload
-dimwishlist:item=1529450902&perks=3798852852,2822142346,3300816228,706527188  #5221 PvP. Fastest Reload. MW: blast_radius, velocity, reload
-// Snapshot Sights, Quickdraw
-dimwishlist:item=1529450902&perks=1478423395,2985827016,957782887,706527188  #1131 PvP. Fastest Reload. MW: blast_radius, velocity, reload
-dimwishlist:item=1529450902&perks=1478423395,2822142346,957782887,706527188  #1231 PvP. Fastest Reload. MW: blast_radius, velocity, reload
-dimwishlist:item=1529450902&perks=1441682018,2985827016,957782887,706527188  #2131 PvP. Fastest Reload. MW: blast_radius, velocity, reload
-dimwishlist:item=1529450902&perks=1441682018,2822142346,957782887,706527188  #2231 PvP. Fastest Reload. MW: blast_radius, velocity, reload
-dimwishlist:item=1529450902&perks=981914802,2985827016,957782887,706527188  #3131 PvP. Fastest Reload. MW: blast_radius, velocity, reload
-dimwishlist:item=1529450902&perks=981914802,2822142346,957782887,706527188  #3231 PvP. Fastest Reload. MW: blast_radius, velocity, reload
-dimwishlist:item=1529450902&perks=3525010810,2985827016,957782887,706527188  #4131 PvP. Fastest Reload. MW: blast_radius, velocity, reload
-dimwishlist:item=1529450902&perks=3525010810,2822142346,957782887,706527188  #4231 PvP. Fastest Reload. MW: blast_radius, velocity, reload
-dimwishlist:item=1529450902&perks=3798852852,2985827016,957782887,706527188  #5131 PvP. Fastest Reload. MW: blast_radius, velocity, reload
-dimwishlist:item=1529450902&perks=3798852852,2822142346,957782887,706527188  #5231 PvP. Fastest Reload. MW: blast_radius, velocity, reload
-// Tracking Module, Genesis
-dimwishlist:item=1529450902&perks=1478423395,2985827016,3977735242,3096702027  #1111 PvE. Fastest Reload. MW: blast_radius, velocity, reload
-dimwishlist:item=1529450902&perks=1478423395,2822142346,3977735242,3096702027  #1211 PvE. Fastest Reload. MW: blast_radius, velocity, reload
-dimwishlist:item=1529450902&perks=1441682018,2985827016,3977735242,3096702027  #2111 PvE. Fastest Reload. MW: blast_radius, velocity, reload
-dimwishlist:item=1529450902&perks=1441682018,2822142346,3977735242,3096702027  #2211 PvE. Fastest Reload. MW: blast_radius, velocity, reload
-dimwishlist:item=1529450902&perks=981914802,2985827016,3977735242,3096702027  #3111 PvE. Fastest Reload. MW: blast_radius, velocity, reload
-dimwishlist:item=1529450902&perks=981914802,2822142346,3977735242,3096702027  #3211 PvE. Fastest Reload. MW: blast_radius, velocity, reload
-dimwishlist:item=1529450902&perks=3525010810,2985827016,3977735242,3096702027  #4111 PvE. Fastest Reload. MW: blast_radius, velocity, reload
-dimwishlist:item=1529450902&perks=3525010810,2822142346,3977735242,3096702027  #4211 PvE. Fastest Reload. MW: blast_radius, velocity, reload
-dimwishlist:item=1529450902&perks=3798852852,2985827016,3977735242,3096702027  #5111 PvE. Fastest Reload. MW: blast_radius, velocity, reload
-dimwishlist:item=1529450902&perks=3798852852,2822142346,3977735242,3096702027  #5211 PvE. Fastest Reload. MW: blast_radius, velocity, reload
-// Auto Loading Holster, Genesis
-dimwishlist:item=1529450902&perks=1478423395,2985827016,3300816228,3096702027  #1121 PvE. Fastest Reload. MW: blast_radius, velocity, reload
-dimwishlist:item=1529450902&perks=1478423395,2822142346,3300816228,3096702027  #1221 PvE. Fastest Reload. MW: blast_radius, velocity, reload
-dimwishlist:item=1529450902&perks=1441682018,2985827016,3300816228,3096702027  #2121 PvE. Fastest Reload. MW: blast_radius, velocity, reload
-dimwishlist:item=1529450902&perks=1441682018,2822142346,3300816228,3096702027  #2221 PvE. Fastest Reload. MW: blast_radius, velocity, reload
-dimwishlist:item=1529450902&perks=981914802,2985827016,3300816228,3096702027  #3121 PvE. Fastest Reload. MW: blast_radius, velocity, reload
-dimwishlist:item=1529450902&perks=981914802,2822142346,3300816228,3096702027  #3221 PvE. Fastest Reload. MW: blast_radius, velocity, reload
-dimwishlist:item=1529450902&perks=3525010810,2985827016,3300816228,3096702027  #4121 PvE. Fastest Reload. MW: blast_radius, velocity, reload
-dimwishlist:item=1529450902&perks=3525010810,2822142346,3300816228,3096702027  #4221 PvE. Fastest Reload. MW: blast_radius, velocity, reload
-dimwishlist:item=1529450902&perks=3798852852,2985827016,3300816228,3096702027  #5121 PvE. Fastest Reload. MW: blast_radius, velocity, reload
-dimwishlist:item=1529450902&perks=3798852852,2822142346,3300816228,3096702027  #5221 PvE. Fastest Reload. MW: blast_radius, velocity, reload
+dimwishlist:item=1529450902&perks=3525010810,2985827016,3300816228,706527188  #1122 PvE. PvP. Fastest Reload. MW: blast_radius, handling, reload
+dimwishlist:item=1529450902&perks=3525010810,2822142346,3300816228,706527188  #1222 PvE. PvP. Fastest Reload. MW: blast_radius, handling, reload
+dimwishlist:item=1529450902&perks=3798852852,2985827016,3300816228,706527188  #2122 PvE. PvP. Fastest Reload. MW: blast_radius, handling, reload
+dimwishlist:item=1529450902&perks=3798852852,2822142346,3300816228,706527188  #2222 PvE. PvP. Fastest Reload. MW: blast_radius, handling, reload
+dimwishlist:item=1529450902&perks=1478423395,2985827016,3300816228,706527188  #3122 PvE. PvP. Fastest Reload. MW: blast_radius, handling, reload
+dimwishlist:item=1529450902&perks=1478423395,2822142346,3300816228,706527188  #3222 PvE. PvP. Fastest Reload. MW: blast_radius, handling, reload
+dimwishlist:item=1529450902&perks=1844523823,2985827016,3300816228,706527188  #4122 PvE. PvP. Fastest Reload. MW: blast_radius, handling, reload
+dimwishlist:item=1529450902&perks=1844523823,2822142346,3300816228,706527188  #4222 PvE. PvP. Fastest Reload. MW: blast_radius, handling, reload
+dimwishlist:item=1529450902&perks=1441682018,2985827016,3300816228,706527188  #5122 PvE. PvP. Fastest Reload. MW: blast_radius, handling, reload
+dimwishlist:item=1529450902&perks=1441682018,2822142346,3300816228,706527188  #5222 PvE. PvP. Fastest Reload. MW: blast_radius, handling, reload
+// Auto Loading Holster, Snapshot Sights
+dimwishlist:item=1529450902&perks=3525010810,2985827016,3300816228,957782887  #1123 PvE. PvP. Fastest Reload. MW: blast_radius, handling, reload
+dimwishlist:item=1529450902&perks=3525010810,2822142346,3300816228,957782887  #1223 PvE. PvP. Fastest Reload. MW: blast_radius, handling, reload
+dimwishlist:item=1529450902&perks=3798852852,2985827016,3300816228,957782887  #2123 PvE. PvP. Fastest Reload. MW: blast_radius, handling, reload
+dimwishlist:item=1529450902&perks=3798852852,2822142346,3300816228,957782887  #2223 PvE. PvP. Fastest Reload. MW: blast_radius, handling, reload
+dimwishlist:item=1529450902&perks=1478423395,2985827016,3300816228,957782887  #3123 PvE. PvP. Fastest Reload. MW: blast_radius, handling, reload
+dimwishlist:item=1529450902&perks=1478423395,2822142346,3300816228,957782887  #3223 PvE. PvP. Fastest Reload. MW: blast_radius, handling, reload
+dimwishlist:item=1529450902&perks=1844523823,2985827016,3300816228,957782887  #4123 PvE. PvP. Fastest Reload. MW: blast_radius, handling, reload
+dimwishlist:item=1529450902&perks=1844523823,2822142346,3300816228,957782887  #4223 PvE. PvP. Fastest Reload. MW: blast_radius, handling, reload
+dimwishlist:item=1529450902&perks=1441682018,2985827016,3300816228,957782887  #5123 PvE. PvP. Fastest Reload. MW: blast_radius, handling, reload
+dimwishlist:item=1529450902&perks=1441682018,2822142346,3300816228,957782887  #5223 PvE. PvP. Fastest Reload. MW: blast_radius, handling, reload
+// Genesis, Cluster Bomb
+dimwishlist:item=1529450902&perks=3525010810,2985827016,3096702027,1275731761  #1111 PvE. Fastest Reload. Could be interesting. MW: blast_radius, handling, reload
+dimwishlist:item=1529450902&perks=3525010810,2822142346,3096702027,1275731761  #1211 PvE. Fastest Reload. Could be interesting. MW: blast_radius, handling, reload
+dimwishlist:item=1529450902&perks=3798852852,2985827016,3096702027,1275731761  #2111 PvE. Fastest Reload. Could be interesting. MW: blast_radius, handling, reload
+dimwishlist:item=1529450902&perks=3798852852,2822142346,3096702027,1275731761  #2211 PvE. Fastest Reload. Could be interesting. MW: blast_radius, handling, reload
+dimwishlist:item=1529450902&perks=1478423395,2985827016,3096702027,1275731761  #3111 PvE. Fastest Reload. Could be interesting. MW: blast_radius, handling, reload
+dimwishlist:item=1529450902&perks=1478423395,2822142346,3096702027,1275731761  #3211 PvE. Fastest Reload. Could be interesting. MW: blast_radius, handling, reload
+dimwishlist:item=1529450902&perks=1844523823,2985827016,3096702027,1275731761  #4111 PvE. Fastest Reload. Could be interesting. MW: blast_radius, handling, reload
+dimwishlist:item=1529450902&perks=1844523823,2822142346,3096702027,1275731761  #4211 PvE. Fastest Reload. Could be interesting. MW: blast_radius, handling, reload
+dimwishlist:item=1529450902&perks=1441682018,2985827016,3096702027,1275731761  #5111 PvE. Fastest Reload. Could be interesting. MW: blast_radius, handling, reload
+dimwishlist:item=1529450902&perks=1441682018,2822142346,3096702027,1275731761  #5211 PvE. Fastest Reload. Could be interesting. MW: blast_radius, handling, reload
+// Genesis, Disruption Break
+dimwishlist:item=1529450902&perks=3525010810,2985827016,3096702027,1683379515  #1112 PvE. Fastest Reload. Could be interesting. MW: blast_radius, handling, reload
+dimwishlist:item=1529450902&perks=3525010810,2822142346,3096702027,1683379515  #1212 PvE. Fastest Reload. Could be interesting. MW: blast_radius, handling, reload
+dimwishlist:item=1529450902&perks=3798852852,2985827016,3096702027,1683379515  #2112 PvE. Fastest Reload. Could be interesting. MW: blast_radius, handling, reload
+dimwishlist:item=1529450902&perks=3798852852,2822142346,3096702027,1683379515  #2212 PvE. Fastest Reload. Could be interesting. MW: blast_radius, handling, reload
+dimwishlist:item=1529450902&perks=1478423395,2985827016,3096702027,1683379515  #3112 PvE. Fastest Reload. Could be interesting. MW: blast_radius, handling, reload
+dimwishlist:item=1529450902&perks=1478423395,2822142346,3096702027,1683379515  #3212 PvE. Fastest Reload. Could be interesting. MW: blast_radius, handling, reload
+dimwishlist:item=1529450902&perks=1844523823,2985827016,3096702027,1683379515  #4112 PvE. Fastest Reload. Could be interesting. MW: blast_radius, handling, reload
+dimwishlist:item=1529450902&perks=1844523823,2822142346,3096702027,1683379515  #4212 PvE. Fastest Reload. Could be interesting. MW: blast_radius, handling, reload
+dimwishlist:item=1529450902&perks=1441682018,2985827016,3096702027,1683379515  #5112 PvE. Fastest Reload. Could be interesting. MW: blast_radius, handling, reload
+dimwishlist:item=1529450902&perks=1441682018,2822142346,3096702027,1683379515  #5212 PvE. Fastest Reload. Could be interesting. MW: blast_radius, handling, reload
+// Genesis, Shield Disorient
+dimwishlist:item=1529450902&perks=3525010810,2985827016,3096702027,3275789089  #1113 PvE. Fastest Reload. Could be interesting. MW: blast_radius, handling, reload
+dimwishlist:item=1529450902&perks=3525010810,2822142346,3096702027,3275789089  #1213 PvE. Fastest Reload. Could be interesting. MW: blast_radius, handling, reload
+dimwishlist:item=1529450902&perks=3798852852,2985827016,3096702027,3275789089  #2113 PvE. Fastest Reload. Could be interesting. MW: blast_radius, handling, reload
+dimwishlist:item=1529450902&perks=3798852852,2822142346,3096702027,3275789089  #2213 PvE. Fastest Reload. Could be interesting. MW: blast_radius, handling, reload
+dimwishlist:item=1529450902&perks=1478423395,2985827016,3096702027,3275789089  #3113 PvE. Fastest Reload. Could be interesting. MW: blast_radius, handling, reload
+dimwishlist:item=1529450902&perks=1478423395,2822142346,3096702027,3275789089  #3213 PvE. Fastest Reload. Could be interesting. MW: blast_radius, handling, reload
+dimwishlist:item=1529450902&perks=1844523823,2985827016,3096702027,3275789089  #4113 PvE. Fastest Reload. Could be interesting. MW: blast_radius, handling, reload
+dimwishlist:item=1529450902&perks=1844523823,2822142346,3096702027,3275789089  #4213 PvE. Fastest Reload. Could be interesting. MW: blast_radius, handling, reload
+dimwishlist:item=1529450902&perks=1441682018,2985827016,3096702027,3275789089  #5113 PvE. Fastest Reload. Could be interesting. MW: blast_radius, handling, reload
+dimwishlist:item=1529450902&perks=1441682018,2822142346,3096702027,3275789089  #5213 PvE. Fastest Reload. Could be interesting. MW: blast_radius, handling, reload
+// Tracking Module, Disruption Break
+dimwishlist:item=1529450902&perks=3525010810,2985827016,3977735242,1683379515  #1111 PvE. Fastest Reload. MW: blast_radius, handling, reload
+dimwishlist:item=1529450902&perks=3525010810,2822142346,3977735242,1683379515  #1211 PvE. Fastest Reload. MW: blast_radius, handling, reload
+dimwishlist:item=1529450902&perks=3798852852,2985827016,3977735242,1683379515  #2111 PvE. Fastest Reload. MW: blast_radius, handling, reload
+dimwishlist:item=1529450902&perks=3798852852,2822142346,3977735242,1683379515  #2211 PvE. Fastest Reload. MW: blast_radius, handling, reload
+dimwishlist:item=1529450902&perks=1478423395,2985827016,3977735242,1683379515  #3111 PvE. Fastest Reload. MW: blast_radius, handling, reload
+dimwishlist:item=1529450902&perks=1478423395,2822142346,3977735242,1683379515  #3211 PvE. Fastest Reload. MW: blast_radius, handling, reload
+dimwishlist:item=1529450902&perks=1844523823,2985827016,3977735242,1683379515  #4111 PvE. Fastest Reload. MW: blast_radius, handling, reload
+dimwishlist:item=1529450902&perks=1844523823,2822142346,3977735242,1683379515  #4211 PvE. Fastest Reload. MW: blast_radius, handling, reload
+dimwishlist:item=1529450902&perks=1441682018,2985827016,3977735242,1683379515  #5111 PvE. Fastest Reload. MW: blast_radius, handling, reload
+dimwishlist:item=1529450902&perks=1441682018,2822142346,3977735242,1683379515  #5211 PvE. Fastest Reload. MW: blast_radius, handling, reload
+// Auto Loading Holster, Disruption Break
+dimwishlist:item=1529450902&perks=3525010810,2985827016,3300816228,1683379515  #1121 PvE. Fastest Reload. MW: blast_radius, handling, reload
+dimwishlist:item=1529450902&perks=3525010810,2822142346,3300816228,1683379515  #1221 PvE. Fastest Reload. MW: blast_radius, handling, reload
+dimwishlist:item=1529450902&perks=3798852852,2985827016,3300816228,1683379515  #2121 PvE. Fastest Reload. MW: blast_radius, handling, reload
+dimwishlist:item=1529450902&perks=3798852852,2822142346,3300816228,1683379515  #2221 PvE. Fastest Reload. MW: blast_radius, handling, reload
+dimwishlist:item=1529450902&perks=1478423395,2985827016,3300816228,1683379515  #3121 PvE. Fastest Reload. MW: blast_radius, handling, reload
+dimwishlist:item=1529450902&perks=1478423395,2822142346,3300816228,1683379515  #3221 PvE. Fastest Reload. MW: blast_radius, handling, reload
+dimwishlist:item=1529450902&perks=1844523823,2985827016,3300816228,1683379515  #4121 PvE. Fastest Reload. MW: blast_radius, handling, reload
+dimwishlist:item=1529450902&perks=1844523823,2822142346,3300816228,1683379515  #4221 PvE. Fastest Reload. MW: blast_radius, handling, reload
+dimwishlist:item=1529450902&perks=1441682018,2985827016,3300816228,1683379515  #5121 PvE. Fastest Reload. MW: blast_radius, handling, reload
+dimwishlist:item=1529450902&perks=1441682018,2822142346,3300816228,1683379515  #5221 PvE. Fastest Reload. MW: blast_radius, handling, reload
 
 
 // Night Watch
