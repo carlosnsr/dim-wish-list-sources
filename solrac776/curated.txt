@@ -3129,6 +3129,413 @@ dimwishlist:item=2257180473&perks=1441682018,2822142346,1631667848,4082225868  #
 dimwishlist:item=2257180473&perks=1441682018,2985827016,1631667848,4082225868  #3311 PvE. Melee. Max Blast Radius. MW: blast_radius, velocity, reload
 
 
+// Martyrs Retribution
+// Auto Loading Holster, Moving Target
+dimwishlist:item=3850168899&perks=3525010810,2822142346,3300816228,588594999  #1111 PvP. Velocity-focused. MW: blast_radius, reload, velocity
+dimwishlist:item=3850168899&perks=3525010810,3492396210,3300816228,588594999  #1211 PvP. Velocity-focused. MW: blast_radius, reload, velocity
+dimwishlist:item=3850168899&perks=1441682018,2822142346,3300816228,588594999  #2111 PvP. Velocity-focused. MW: blast_radius, reload, velocity
+dimwishlist:item=3850168899&perks=1441682018,3492396210,3300816228,588594999  #2211 PvP. Velocity-focused. MW: blast_radius, reload, velocity
+dimwishlist:item=3850168899&perks=3798852852,2822142346,3300816228,588594999  #3111 PvP. Velocity-focused. MW: blast_radius, reload, velocity
+dimwishlist:item=3850168899&perks=3798852852,3492396210,3300816228,588594999  #3211 PvP. Velocity-focused. MW: blast_radius, reload, velocity
+dimwishlist:item=3850168899&perks=981914802,2822142346,3300816228,588594999  #4111 PvP. Velocity-focused. MW: blast_radius, reload, velocity
+dimwishlist:item=3850168899&perks=981914802,3492396210,3300816228,588594999  #4211 PvP. Velocity-focused. MW: blast_radius, reload, velocity
+// Auto Loading Holster, Elemental Capacitor
+dimwishlist:item=3850168899&perks=3525010810,2822142346,3300816228,3511092054  #1112 PvP. Velocity-focused. MW: blast_radius, reload, velocity
+dimwishlist:item=3850168899&perks=3525010810,3492396210,3300816228,3511092054  #1212 PvP. Velocity-focused. MW: blast_radius, reload, velocity
+dimwishlist:item=3850168899&perks=1441682018,2822142346,3300816228,3511092054  #2112 PvP. Velocity-focused. MW: blast_radius, reload, velocity
+dimwishlist:item=3850168899&perks=1441682018,3492396210,3300816228,3511092054  #2212 PvP. Velocity-focused. MW: blast_radius, reload, velocity
+dimwishlist:item=3850168899&perks=3798852852,2822142346,3300816228,3511092054  #3112 PvP. Velocity-focused. MW: blast_radius, reload, velocity
+dimwishlist:item=3850168899&perks=3798852852,3492396210,3300816228,3511092054  #3212 PvP. Velocity-focused. MW: blast_radius, reload, velocity
+dimwishlist:item=3850168899&perks=981914802,2822142346,3300816228,3511092054  #4112 PvP. Velocity-focused. MW: blast_radius, reload, velocity
+dimwishlist:item=3850168899&perks=981914802,3492396210,3300816228,3511092054  #4212 PvP. Velocity-focused. MW: blast_radius, reload, velocity
+// Auto Loading Holster, Rangefinder
+dimwishlist:item=3850168899&perks=3525010810,2822142346,3300816228,2846385770  #1113 PvP. Velocity-focused. MW: blast_radius, reload, velocity
+dimwishlist:item=3850168899&perks=3525010810,3492396210,3300816228,2846385770  #1213 PvP. Velocity-focused. MW: blast_radius, reload, velocity
+dimwishlist:item=3850168899&perks=1441682018,2822142346,3300816228,2846385770  #2113 PvP. Velocity-focused. MW: blast_radius, reload, velocity
+dimwishlist:item=3850168899&perks=1441682018,3492396210,3300816228,2846385770  #2213 PvP. Velocity-focused. MW: blast_radius, reload, velocity
+dimwishlist:item=3850168899&perks=3798852852,2822142346,3300816228,2846385770  #3113 PvP. Velocity-focused. MW: blast_radius, reload, velocity
+dimwishlist:item=3850168899&perks=3798852852,3492396210,3300816228,2846385770  #3213 PvP. Velocity-focused. MW: blast_radius, reload, velocity
+dimwishlist:item=3850168899&perks=981914802,2822142346,3300816228,2846385770  #4113 PvP. Velocity-focused. MW: blast_radius, reload, velocity
+dimwishlist:item=3850168899&perks=981914802,3492396210,3300816228,2846385770  #4213 PvP. Velocity-focused. MW: blast_radius, reload, velocity
+// Field Prep, Moving Target
+dimwishlist:item=3850168899&perks=3525010810,2822142346,2869569095,588594999  #1121 PvP. Velocity-focused. MW: blast_radius, reload, velocity
+dimwishlist:item=3850168899&perks=3525010810,3492396210,2869569095,588594999  #1221 PvP. Velocity-focused. MW: blast_radius, reload, velocity
+dimwishlist:item=3850168899&perks=1441682018,2822142346,2869569095,588594999  #2121 PvP. Velocity-focused. MW: blast_radius, reload, velocity
+dimwishlist:item=3850168899&perks=1441682018,3492396210,2869569095,588594999  #2221 PvP. Velocity-focused. MW: blast_radius, reload, velocity
+dimwishlist:item=3850168899&perks=3798852852,2822142346,2869569095,588594999  #3121 PvP. Velocity-focused. MW: blast_radius, reload, velocity
+dimwishlist:item=3850168899&perks=3798852852,3492396210,2869569095,588594999  #3221 PvP. Velocity-focused. MW: blast_radius, reload, velocity
+dimwishlist:item=3850168899&perks=981914802,2822142346,2869569095,588594999  #4121 PvP. Velocity-focused. MW: blast_radius, reload, velocity
+dimwishlist:item=3850168899&perks=981914802,3492396210,2869569095,588594999  #4221 PvP. Velocity-focused. MW: blast_radius, reload, velocity
+// Field Prep, Elemental Capacitor
+dimwishlist:item=3850168899&perks=3525010810,2822142346,2869569095,3511092054  #1122 PvP. Velocity-focused. MW: blast_radius, reload, velocity
+dimwishlist:item=3850168899&perks=3525010810,3492396210,2869569095,3511092054  #1222 PvP. Velocity-focused. MW: blast_radius, reload, velocity
+dimwishlist:item=3850168899&perks=1441682018,2822142346,2869569095,3511092054  #2122 PvP. Velocity-focused. MW: blast_radius, reload, velocity
+dimwishlist:item=3850168899&perks=1441682018,3492396210,2869569095,3511092054  #2222 PvP. Velocity-focused. MW: blast_radius, reload, velocity
+dimwishlist:item=3850168899&perks=3798852852,2822142346,2869569095,3511092054  #3122 PvP. Velocity-focused. MW: blast_radius, reload, velocity
+dimwishlist:item=3850168899&perks=3798852852,3492396210,2869569095,3511092054  #3222 PvP. Velocity-focused. MW: blast_radius, reload, velocity
+dimwishlist:item=3850168899&perks=981914802,2822142346,2869569095,3511092054  #4122 PvP. Velocity-focused. MW: blast_radius, reload, velocity
+dimwishlist:item=3850168899&perks=981914802,3492396210,2869569095,3511092054  #4222 PvP. Velocity-focused. MW: blast_radius, reload, velocity
+// Field Prep, Rangefinder
+dimwishlist:item=3850168899&perks=3525010810,2822142346,2869569095,2846385770  #1123 PvP. Velocity-focused. MW: blast_radius, reload, velocity
+dimwishlist:item=3850168899&perks=3525010810,3492396210,2869569095,2846385770  #1223 PvP. Velocity-focused. MW: blast_radius, reload, velocity
+dimwishlist:item=3850168899&perks=1441682018,2822142346,2869569095,2846385770  #2123 PvP. Velocity-focused. MW: blast_radius, reload, velocity
+dimwishlist:item=3850168899&perks=1441682018,3492396210,2869569095,2846385770  #2223 PvP. Velocity-focused. MW: blast_radius, reload, velocity
+dimwishlist:item=3850168899&perks=3798852852,2822142346,2869569095,2846385770  #3123 PvP. Velocity-focused. MW: blast_radius, reload, velocity
+dimwishlist:item=3850168899&perks=3798852852,3492396210,2869569095,2846385770  #3223 PvP. Velocity-focused. MW: blast_radius, reload, velocity
+dimwishlist:item=3850168899&perks=981914802,2822142346,2869569095,2846385770  #4123 PvP. Velocity-focused. MW: blast_radius, reload, velocity
+dimwishlist:item=3850168899&perks=981914802,3492396210,2869569095,2846385770  #4223 PvP. Velocity-focused. MW: blast_radius, reload, velocity
+// Threat Detector, Moving Target
+dimwishlist:item=3850168899&perks=3525010810,2822142346,4071163871,588594999  #1131 PvP. Velocity-focused. MW: blast_radius, reload, velocity
+dimwishlist:item=3850168899&perks=3525010810,3492396210,4071163871,588594999  #1231 PvP. Velocity-focused. MW: blast_radius, reload, velocity
+dimwishlist:item=3850168899&perks=1441682018,2822142346,4071163871,588594999  #2131 PvP. Velocity-focused. MW: blast_radius, reload, velocity
+dimwishlist:item=3850168899&perks=1441682018,3492396210,4071163871,588594999  #2231 PvP. Velocity-focused. MW: blast_radius, reload, velocity
+dimwishlist:item=3850168899&perks=3798852852,2822142346,4071163871,588594999  #3131 PvP. Velocity-focused. MW: blast_radius, reload, velocity
+dimwishlist:item=3850168899&perks=3798852852,3492396210,4071163871,588594999  #3231 PvP. Velocity-focused. MW: blast_radius, reload, velocity
+dimwishlist:item=3850168899&perks=981914802,2822142346,4071163871,588594999  #4131 PvP. Velocity-focused. MW: blast_radius, reload, velocity
+dimwishlist:item=3850168899&perks=981914802,3492396210,4071163871,588594999  #4231 PvP. Velocity-focused. MW: blast_radius, reload, velocity
+// Threat Detector, Elemental Capacitor
+dimwishlist:item=3850168899&perks=3525010810,2822142346,4071163871,3511092054  #1132 PvP. Velocity-focused. MW: blast_radius, reload, velocity
+dimwishlist:item=3850168899&perks=3525010810,3492396210,4071163871,3511092054  #1232 PvP. Velocity-focused. MW: blast_radius, reload, velocity
+dimwishlist:item=3850168899&perks=1441682018,2822142346,4071163871,3511092054  #2132 PvP. Velocity-focused. MW: blast_radius, reload, velocity
+dimwishlist:item=3850168899&perks=1441682018,3492396210,4071163871,3511092054  #2232 PvP. Velocity-focused. MW: blast_radius, reload, velocity
+dimwishlist:item=3850168899&perks=3798852852,2822142346,4071163871,3511092054  #3132 PvP. Velocity-focused. MW: blast_radius, reload, velocity
+dimwishlist:item=3850168899&perks=3798852852,3492396210,4071163871,3511092054  #3232 PvP. Velocity-focused. MW: blast_radius, reload, velocity
+dimwishlist:item=3850168899&perks=981914802,2822142346,4071163871,3511092054  #4132 PvP. Velocity-focused. MW: blast_radius, reload, velocity
+dimwishlist:item=3850168899&perks=981914802,3492396210,4071163871,3511092054  #4232 PvP. Velocity-focused. MW: blast_radius, reload, velocity
+// Threat Detector, Rangefinder
+dimwishlist:item=3850168899&perks=3525010810,2822142346,4071163871,2846385770  #1133 PvP. Velocity-focused. MW: blast_radius, reload, velocity
+dimwishlist:item=3850168899&perks=3525010810,3492396210,4071163871,2846385770  #1233 PvP. Velocity-focused. MW: blast_radius, reload, velocity
+dimwishlist:item=3850168899&perks=1441682018,2822142346,4071163871,2846385770  #2133 PvP. Velocity-focused. MW: blast_radius, reload, velocity
+dimwishlist:item=3850168899&perks=1441682018,3492396210,4071163871,2846385770  #2233 PvP. Velocity-focused. MW: blast_radius, reload, velocity
+dimwishlist:item=3850168899&perks=3798852852,2822142346,4071163871,2846385770  #3133 PvP. Velocity-focused. MW: blast_radius, reload, velocity
+dimwishlist:item=3850168899&perks=3798852852,3492396210,4071163871,2846385770  #3233 PvP. Velocity-focused. MW: blast_radius, reload, velocity
+dimwishlist:item=3850168899&perks=981914802,2822142346,4071163871,2846385770  #4133 PvP. Velocity-focused. MW: blast_radius, reload, velocity
+dimwishlist:item=3850168899&perks=981914802,3492396210,4071163871,2846385770  #4233 PvP. Velocity-focused. MW: blast_radius, reload, velocity
+// Underdog, Moving Target
+dimwishlist:item=3850168899&perks=3525010810,2822142346,205890336,588594999  #1141 PvP. Velocity-focused. MW: blast_radius, reload, velocity
+dimwishlist:item=3850168899&perks=3525010810,3492396210,205890336,588594999  #1241 PvP. Velocity-focused. MW: blast_radius, reload, velocity
+dimwishlist:item=3850168899&perks=1441682018,2822142346,205890336,588594999  #2141 PvP. Velocity-focused. MW: blast_radius, reload, velocity
+dimwishlist:item=3850168899&perks=1441682018,3492396210,205890336,588594999  #2241 PvP. Velocity-focused. MW: blast_radius, reload, velocity
+dimwishlist:item=3850168899&perks=3798852852,2822142346,205890336,588594999  #3141 PvP. Velocity-focused. MW: blast_radius, reload, velocity
+dimwishlist:item=3850168899&perks=3798852852,3492396210,205890336,588594999  #3241 PvP. Velocity-focused. MW: blast_radius, reload, velocity
+dimwishlist:item=3850168899&perks=981914802,2822142346,205890336,588594999  #4141 PvP. Velocity-focused. MW: blast_radius, reload, velocity
+dimwishlist:item=3850168899&perks=981914802,3492396210,205890336,588594999  #4241 PvP. Velocity-focused. MW: blast_radius, reload, velocity
+// Underdog, Elemental Capacitor
+dimwishlist:item=3850168899&perks=3525010810,2822142346,205890336,3511092054  #1142 PvP. Velocity-focused. MW: blast_radius, reload, velocity
+dimwishlist:item=3850168899&perks=3525010810,3492396210,205890336,3511092054  #1242 PvP. Velocity-focused. MW: blast_radius, reload, velocity
+dimwishlist:item=3850168899&perks=1441682018,2822142346,205890336,3511092054  #2142 PvP. Velocity-focused. MW: blast_radius, reload, velocity
+dimwishlist:item=3850168899&perks=1441682018,3492396210,205890336,3511092054  #2242 PvP. Velocity-focused. MW: blast_radius, reload, velocity
+dimwishlist:item=3850168899&perks=3798852852,2822142346,205890336,3511092054  #3142 PvP. Velocity-focused. MW: blast_radius, reload, velocity
+dimwishlist:item=3850168899&perks=3798852852,3492396210,205890336,3511092054  #3242 PvP. Velocity-focused. MW: blast_radius, reload, velocity
+dimwishlist:item=3850168899&perks=981914802,2822142346,205890336,3511092054  #4142 PvP. Velocity-focused. MW: blast_radius, reload, velocity
+dimwishlist:item=3850168899&perks=981914802,3492396210,205890336,3511092054  #4242 PvP. Velocity-focused. MW: blast_radius, reload, velocity
+// Underdog, Rangefinder
+dimwishlist:item=3850168899&perks=3525010810,2822142346,205890336,2846385770  #1143 PvP. Velocity-focused. MW: blast_radius, reload, velocity
+dimwishlist:item=3850168899&perks=3525010810,3492396210,205890336,2846385770  #1243 PvP. Velocity-focused. MW: blast_radius, reload, velocity
+dimwishlist:item=3850168899&perks=1441682018,2822142346,205890336,2846385770  #2143 PvP. Velocity-focused. MW: blast_radius, reload, velocity
+dimwishlist:item=3850168899&perks=1441682018,3492396210,205890336,2846385770  #2243 PvP. Velocity-focused. MW: blast_radius, reload, velocity
+dimwishlist:item=3850168899&perks=3798852852,2822142346,205890336,2846385770  #3143 PvP. Velocity-focused. MW: blast_radius, reload, velocity
+dimwishlist:item=3850168899&perks=3798852852,3492396210,205890336,2846385770  #3243 PvP. Velocity-focused. MW: blast_radius, reload, velocity
+dimwishlist:item=3850168899&perks=981914802,2822142346,205890336,2846385770  #4143 PvP. Velocity-focused. MW: blast_radius, reload, velocity
+dimwishlist:item=3850168899&perks=981914802,3492396210,205890336,2846385770  #4243 PvP. Velocity-focused. MW: blast_radius, reload, velocity
+// Genesis, Moving Target
+dimwishlist:item=3850168899&perks=3525010810,2822142346,3096702027,588594999  #1111 PvP. Velocity-focused. MW: blast_radius, reload, velocity
+dimwishlist:item=3850168899&perks=3525010810,3492396210,3096702027,588594999  #1211 PvP. Velocity-focused. MW: blast_radius, reload, velocity
+dimwishlist:item=3850168899&perks=1441682018,2822142346,3096702027,588594999  #2111 PvP. Velocity-focused. MW: blast_radius, reload, velocity
+dimwishlist:item=3850168899&perks=1441682018,3492396210,3096702027,588594999  #2211 PvP. Velocity-focused. MW: blast_radius, reload, velocity
+dimwishlist:item=3850168899&perks=3798852852,2822142346,3096702027,588594999  #3111 PvP. Velocity-focused. MW: blast_radius, reload, velocity
+dimwishlist:item=3850168899&perks=3798852852,3492396210,3096702027,588594999  #3211 PvP. Velocity-focused. MW: blast_radius, reload, velocity
+dimwishlist:item=3850168899&perks=981914802,2822142346,3096702027,588594999  #4111 PvP. Velocity-focused. MW: blast_radius, reload, velocity
+dimwishlist:item=3850168899&perks=981914802,3492396210,3096702027,588594999  #4211 PvP. Velocity-focused. MW: blast_radius, reload, velocity
+// Genesis, Elemental Capacitor
+dimwishlist:item=3850168899&perks=3525010810,2822142346,3096702027,3511092054  #1112 PvP. Velocity-focused. MW: blast_radius, reload, velocity
+dimwishlist:item=3850168899&perks=3525010810,3492396210,3096702027,3511092054  #1212 PvP. Velocity-focused. MW: blast_radius, reload, velocity
+dimwishlist:item=3850168899&perks=1441682018,2822142346,3096702027,3511092054  #2112 PvP. Velocity-focused. MW: blast_radius, reload, velocity
+dimwishlist:item=3850168899&perks=1441682018,3492396210,3096702027,3511092054  #2212 PvP. Velocity-focused. MW: blast_radius, reload, velocity
+dimwishlist:item=3850168899&perks=3798852852,2822142346,3096702027,3511092054  #3112 PvP. Velocity-focused. MW: blast_radius, reload, velocity
+dimwishlist:item=3850168899&perks=3798852852,3492396210,3096702027,3511092054  #3212 PvP. Velocity-focused. MW: blast_radius, reload, velocity
+dimwishlist:item=3850168899&perks=981914802,2822142346,3096702027,3511092054  #4112 PvP. Velocity-focused. MW: blast_radius, reload, velocity
+dimwishlist:item=3850168899&perks=981914802,3492396210,3096702027,3511092054  #4212 PvP. Velocity-focused. MW: blast_radius, reload, velocity
+// Genesis, Rangefinder
+dimwishlist:item=3850168899&perks=3525010810,2822142346,3096702027,2846385770  #1113 PvP. Velocity-focused. MW: blast_radius, reload, velocity
+dimwishlist:item=3850168899&perks=3525010810,3492396210,3096702027,2846385770  #1213 PvP. Velocity-focused. MW: blast_radius, reload, velocity
+dimwishlist:item=3850168899&perks=1441682018,2822142346,3096702027,2846385770  #2113 PvP. Velocity-focused. MW: blast_radius, reload, velocity
+dimwishlist:item=3850168899&perks=1441682018,3492396210,3096702027,2846385770  #2213 PvP. Velocity-focused. MW: blast_radius, reload, velocity
+dimwishlist:item=3850168899&perks=3798852852,2822142346,3096702027,2846385770  #3113 PvP. Velocity-focused. MW: blast_radius, reload, velocity
+dimwishlist:item=3850168899&perks=3798852852,3492396210,3096702027,2846385770  #3213 PvP. Velocity-focused. MW: blast_radius, reload, velocity
+dimwishlist:item=3850168899&perks=981914802,2822142346,3096702027,2846385770  #4113 PvP. Velocity-focused. MW: blast_radius, reload, velocity
+dimwishlist:item=3850168899&perks=981914802,3492396210,3096702027,2846385770  #4213 PvP. Velocity-focused. MW: blast_radius, reload, velocity
+// Auto Loading Holster, Demolitionist
+dimwishlist:item=3850168899&perks=3525010810,2822142346,3300816228,3523296417  #1111 PvE. Velocity-focused. MW: blast_radius, reload, velocity
+dimwishlist:item=3850168899&perks=3525010810,3492396210,3300816228,3523296417  #1211 PvE. Velocity-focused. MW: blast_radius, reload, velocity
+dimwishlist:item=3850168899&perks=1441682018,2822142346,3300816228,3523296417  #2111 PvE. Velocity-focused. MW: blast_radius, reload, velocity
+dimwishlist:item=3850168899&perks=1441682018,3492396210,3300816228,3523296417  #2211 PvE. Velocity-focused. MW: blast_radius, reload, velocity
+dimwishlist:item=3850168899&perks=3798852852,2822142346,3300816228,3523296417  #3111 PvE. Velocity-focused. MW: blast_radius, reload, velocity
+dimwishlist:item=3850168899&perks=3798852852,3492396210,3300816228,3523296417  #3211 PvE. Velocity-focused. MW: blast_radius, reload, velocity
+dimwishlist:item=3850168899&perks=981914802,2822142346,3300816228,3523296417  #4111 PvE. Velocity-focused. MW: blast_radius, reload, velocity
+dimwishlist:item=3850168899&perks=981914802,3492396210,3300816228,3523296417  #4211 PvE. Velocity-focused. MW: blast_radius, reload, velocity
+// Auto Loading Holster, Lead From Gold
+dimwishlist:item=3850168899&perks=3525010810,2822142346,3300816228,1556840489  #1112 PvE. Velocity-focused. MW: blast_radius, reload, velocity
+dimwishlist:item=3850168899&perks=3525010810,3492396210,3300816228,1556840489  #1212 PvE. Velocity-focused. MW: blast_radius, reload, velocity
+dimwishlist:item=3850168899&perks=1441682018,2822142346,3300816228,1556840489  #2112 PvE. Velocity-focused. MW: blast_radius, reload, velocity
+dimwishlist:item=3850168899&perks=1441682018,3492396210,3300816228,1556840489  #2212 PvE. Velocity-focused. MW: blast_radius, reload, velocity
+dimwishlist:item=3850168899&perks=3798852852,2822142346,3300816228,1556840489  #3112 PvE. Velocity-focused. MW: blast_radius, reload, velocity
+dimwishlist:item=3850168899&perks=3798852852,3492396210,3300816228,1556840489  #3212 PvE. Velocity-focused. MW: blast_radius, reload, velocity
+dimwishlist:item=3850168899&perks=981914802,2822142346,3300816228,1556840489  #4112 PvE. Velocity-focused. MW: blast_radius, reload, velocity
+dimwishlist:item=3850168899&perks=981914802,3492396210,3300816228,1556840489  #4212 PvE. Velocity-focused. MW: blast_radius, reload, velocity
+// Auto Loading Holster, Elemental Capacitor
+dimwishlist:item=3850168899&perks=3525010810,2822142346,3300816228,3511092054  #1113 PvE. Velocity-focused. MW: blast_radius, reload, velocity
+dimwishlist:item=3850168899&perks=3525010810,3492396210,3300816228,3511092054  #1213 PvE. Velocity-focused. MW: blast_radius, reload, velocity
+dimwishlist:item=3850168899&perks=1441682018,2822142346,3300816228,3511092054  #2113 PvE. Velocity-focused. MW: blast_radius, reload, velocity
+dimwishlist:item=3850168899&perks=1441682018,3492396210,3300816228,3511092054  #2213 PvE. Velocity-focused. MW: blast_radius, reload, velocity
+dimwishlist:item=3850168899&perks=3798852852,2822142346,3300816228,3511092054  #3113 PvE. Velocity-focused. MW: blast_radius, reload, velocity
+dimwishlist:item=3850168899&perks=3798852852,3492396210,3300816228,3511092054  #3213 PvE. Velocity-focused. MW: blast_radius, reload, velocity
+dimwishlist:item=3850168899&perks=981914802,2822142346,3300816228,3511092054  #4113 PvE. Velocity-focused. MW: blast_radius, reload, velocity
+dimwishlist:item=3850168899&perks=981914802,3492396210,3300816228,3511092054  #4213 PvE. Velocity-focused. MW: blast_radius, reload, velocity
+// Auto Loading Holster, Rangefinder
+dimwishlist:item=3850168899&perks=3525010810,2822142346,3300816228,2846385770  #1114 PvE. Velocity-focused. MW: blast_radius, reload, velocity
+dimwishlist:item=3850168899&perks=3525010810,3492396210,3300816228,2846385770  #1214 PvE. Velocity-focused. MW: blast_radius, reload, velocity
+dimwishlist:item=3850168899&perks=1441682018,2822142346,3300816228,2846385770  #2114 PvE. Velocity-focused. MW: blast_radius, reload, velocity
+dimwishlist:item=3850168899&perks=1441682018,3492396210,3300816228,2846385770  #2214 PvE. Velocity-focused. MW: blast_radius, reload, velocity
+dimwishlist:item=3850168899&perks=3798852852,2822142346,3300816228,2846385770  #3114 PvE. Velocity-focused. MW: blast_radius, reload, velocity
+dimwishlist:item=3850168899&perks=3798852852,3492396210,3300816228,2846385770  #3214 PvE. Velocity-focused. MW: blast_radius, reload, velocity
+dimwishlist:item=3850168899&perks=981914802,2822142346,3300816228,2846385770  #4114 PvE. Velocity-focused. MW: blast_radius, reload, velocity
+dimwishlist:item=3850168899&perks=981914802,3492396210,3300816228,2846385770  #4214 PvE. Velocity-focused. MW: blast_radius, reload, velocity
+// Genesis, Demolitionist
+dimwishlist:item=3850168899&perks=3525010810,2822142346,3096702027,3523296417  #1121 PvE. Velocity-focused. MW: blast_radius, reload, velocity
+dimwishlist:item=3850168899&perks=3525010810,3492396210,3096702027,3523296417  #1221 PvE. Velocity-focused. MW: blast_radius, reload, velocity
+dimwishlist:item=3850168899&perks=1441682018,2822142346,3096702027,3523296417  #2121 PvE. Velocity-focused. MW: blast_radius, reload, velocity
+dimwishlist:item=3850168899&perks=1441682018,3492396210,3096702027,3523296417  #2221 PvE. Velocity-focused. MW: blast_radius, reload, velocity
+dimwishlist:item=3850168899&perks=3798852852,2822142346,3096702027,3523296417  #3121 PvE. Velocity-focused. MW: blast_radius, reload, velocity
+dimwishlist:item=3850168899&perks=3798852852,3492396210,3096702027,3523296417  #3221 PvE. Velocity-focused. MW: blast_radius, reload, velocity
+dimwishlist:item=3850168899&perks=981914802,2822142346,3096702027,3523296417  #4121 PvE. Velocity-focused. MW: blast_radius, reload, velocity
+dimwishlist:item=3850168899&perks=981914802,3492396210,3096702027,3523296417  #4221 PvE. Velocity-focused. MW: blast_radius, reload, velocity
+// Genesis, Lead From Gold
+dimwishlist:item=3850168899&perks=3525010810,2822142346,3096702027,1556840489  #1122 PvE. Velocity-focused. MW: blast_radius, reload, velocity
+dimwishlist:item=3850168899&perks=3525010810,3492396210,3096702027,1556840489  #1222 PvE. Velocity-focused. MW: blast_radius, reload, velocity
+dimwishlist:item=3850168899&perks=1441682018,2822142346,3096702027,1556840489  #2122 PvE. Velocity-focused. MW: blast_radius, reload, velocity
+dimwishlist:item=3850168899&perks=1441682018,3492396210,3096702027,1556840489  #2222 PvE. Velocity-focused. MW: blast_radius, reload, velocity
+dimwishlist:item=3850168899&perks=3798852852,2822142346,3096702027,1556840489  #3122 PvE. Velocity-focused. MW: blast_radius, reload, velocity
+dimwishlist:item=3850168899&perks=3798852852,3492396210,3096702027,1556840489  #3222 PvE. Velocity-focused. MW: blast_radius, reload, velocity
+dimwishlist:item=3850168899&perks=981914802,2822142346,3096702027,1556840489  #4122 PvE. Velocity-focused. MW: blast_radius, reload, velocity
+dimwishlist:item=3850168899&perks=981914802,3492396210,3096702027,1556840489  #4222 PvE. Velocity-focused. MW: blast_radius, reload, velocity
+// Genesis, Elemental Capacitor
+dimwishlist:item=3850168899&perks=3525010810,2822142346,3096702027,3511092054  #1123 PvE. Velocity-focused. MW: blast_radius, reload, velocity
+dimwishlist:item=3850168899&perks=3525010810,3492396210,3096702027,3511092054  #1223 PvE. Velocity-focused. MW: blast_radius, reload, velocity
+dimwishlist:item=3850168899&perks=1441682018,2822142346,3096702027,3511092054  #2123 PvE. Velocity-focused. MW: blast_radius, reload, velocity
+dimwishlist:item=3850168899&perks=1441682018,3492396210,3096702027,3511092054  #2223 PvE. Velocity-focused. MW: blast_radius, reload, velocity
+dimwishlist:item=3850168899&perks=3798852852,2822142346,3096702027,3511092054  #3123 PvE. Velocity-focused. MW: blast_radius, reload, velocity
+dimwishlist:item=3850168899&perks=3798852852,3492396210,3096702027,3511092054  #3223 PvE. Velocity-focused. MW: blast_radius, reload, velocity
+dimwishlist:item=3850168899&perks=981914802,2822142346,3096702027,3511092054  #4123 PvE. Velocity-focused. MW: blast_radius, reload, velocity
+dimwishlist:item=3850168899&perks=981914802,3492396210,3096702027,3511092054  #4223 PvE. Velocity-focused. MW: blast_radius, reload, velocity
+// Genesis, Rangefinder
+dimwishlist:item=3850168899&perks=3525010810,2822142346,3096702027,2846385770  #1124 PvE. Velocity-focused. MW: blast_radius, reload, velocity
+dimwishlist:item=3850168899&perks=3525010810,3492396210,3096702027,2846385770  #1224 PvE. Velocity-focused. MW: blast_radius, reload, velocity
+dimwishlist:item=3850168899&perks=1441682018,2822142346,3096702027,2846385770  #2124 PvE. Velocity-focused. MW: blast_radius, reload, velocity
+dimwishlist:item=3850168899&perks=1441682018,3492396210,3096702027,2846385770  #2224 PvE. Velocity-focused. MW: blast_radius, reload, velocity
+dimwishlist:item=3850168899&perks=3798852852,2822142346,3096702027,2846385770  #3124 PvE. Velocity-focused. MW: blast_radius, reload, velocity
+dimwishlist:item=3850168899&perks=3798852852,3492396210,3096702027,2846385770  #3224 PvE. Velocity-focused. MW: blast_radius, reload, velocity
+dimwishlist:item=3850168899&perks=981914802,2822142346,3096702027,2846385770  #4124 PvE. Velocity-focused. MW: blast_radius, reload, velocity
+dimwishlist:item=3850168899&perks=981914802,3492396210,3096702027,2846385770  #4224 PvE. Velocity-focused. MW: blast_radius, reload, velocity
+// Field Prep, Demolitionist
+dimwishlist:item=3850168899&perks=3525010810,2822142346,2869569095,3523296417  #1131 PvE. Velocity-focused. MW: blast_radius, reload, velocity
+dimwishlist:item=3850168899&perks=3525010810,3492396210,2869569095,3523296417  #1231 PvE. Velocity-focused. MW: blast_radius, reload, velocity
+dimwishlist:item=3850168899&perks=1441682018,2822142346,2869569095,3523296417  #2131 PvE. Velocity-focused. MW: blast_radius, reload, velocity
+dimwishlist:item=3850168899&perks=1441682018,3492396210,2869569095,3523296417  #2231 PvE. Velocity-focused. MW: blast_radius, reload, velocity
+dimwishlist:item=3850168899&perks=3798852852,2822142346,2869569095,3523296417  #3131 PvE. Velocity-focused. MW: blast_radius, reload, velocity
+dimwishlist:item=3850168899&perks=3798852852,3492396210,2869569095,3523296417  #3231 PvE. Velocity-focused. MW: blast_radius, reload, velocity
+dimwishlist:item=3850168899&perks=981914802,2822142346,2869569095,3523296417  #4131 PvE. Velocity-focused. MW: blast_radius, reload, velocity
+dimwishlist:item=3850168899&perks=981914802,3492396210,2869569095,3523296417  #4231 PvE. Velocity-focused. MW: blast_radius, reload, velocity
+// Field Prep, Lead From Gold
+dimwishlist:item=3850168899&perks=3525010810,2822142346,2869569095,1556840489  #1132 PvE. Velocity-focused. MW: blast_radius, reload, velocity
+dimwishlist:item=3850168899&perks=3525010810,3492396210,2869569095,1556840489  #1232 PvE. Velocity-focused. MW: blast_radius, reload, velocity
+dimwishlist:item=3850168899&perks=1441682018,2822142346,2869569095,1556840489  #2132 PvE. Velocity-focused. MW: blast_radius, reload, velocity
+dimwishlist:item=3850168899&perks=1441682018,3492396210,2869569095,1556840489  #2232 PvE. Velocity-focused. MW: blast_radius, reload, velocity
+dimwishlist:item=3850168899&perks=3798852852,2822142346,2869569095,1556840489  #3132 PvE. Velocity-focused. MW: blast_radius, reload, velocity
+dimwishlist:item=3850168899&perks=3798852852,3492396210,2869569095,1556840489  #3232 PvE. Velocity-focused. MW: blast_radius, reload, velocity
+dimwishlist:item=3850168899&perks=981914802,2822142346,2869569095,1556840489  #4132 PvE. Velocity-focused. MW: blast_radius, reload, velocity
+dimwishlist:item=3850168899&perks=981914802,3492396210,2869569095,1556840489  #4232 PvE. Velocity-focused. MW: blast_radius, reload, velocity
+// Field Prep, Elemental Capacitor
+dimwishlist:item=3850168899&perks=3525010810,2822142346,2869569095,3511092054  #1133 PvE. Velocity-focused. MW: blast_radius, reload, velocity
+dimwishlist:item=3850168899&perks=3525010810,3492396210,2869569095,3511092054  #1233 PvE. Velocity-focused. MW: blast_radius, reload, velocity
+dimwishlist:item=3850168899&perks=1441682018,2822142346,2869569095,3511092054  #2133 PvE. Velocity-focused. MW: blast_radius, reload, velocity
+dimwishlist:item=3850168899&perks=1441682018,3492396210,2869569095,3511092054  #2233 PvE. Velocity-focused. MW: blast_radius, reload, velocity
+dimwishlist:item=3850168899&perks=3798852852,2822142346,2869569095,3511092054  #3133 PvE. Velocity-focused. MW: blast_radius, reload, velocity
+dimwishlist:item=3850168899&perks=3798852852,3492396210,2869569095,3511092054  #3233 PvE. Velocity-focused. MW: blast_radius, reload, velocity
+dimwishlist:item=3850168899&perks=981914802,2822142346,2869569095,3511092054  #4133 PvE. Velocity-focused. MW: blast_radius, reload, velocity
+dimwishlist:item=3850168899&perks=981914802,3492396210,2869569095,3511092054  #4233 PvE. Velocity-focused. MW: blast_radius, reload, velocity
+// Field Prep, Rangefinder
+dimwishlist:item=3850168899&perks=3525010810,2822142346,2869569095,2846385770  #1134 PvE. Velocity-focused. MW: blast_radius, reload, velocity
+dimwishlist:item=3850168899&perks=3525010810,3492396210,2869569095,2846385770  #1234 PvE. Velocity-focused. MW: blast_radius, reload, velocity
+dimwishlist:item=3850168899&perks=1441682018,2822142346,2869569095,2846385770  #2134 PvE. Velocity-focused. MW: blast_radius, reload, velocity
+dimwishlist:item=3850168899&perks=1441682018,3492396210,2869569095,2846385770  #2234 PvE. Velocity-focused. MW: blast_radius, reload, velocity
+dimwishlist:item=3850168899&perks=3798852852,2822142346,2869569095,2846385770  #3134 PvE. Velocity-focused. MW: blast_radius, reload, velocity
+dimwishlist:item=3850168899&perks=3798852852,3492396210,2869569095,2846385770  #3234 PvE. Velocity-focused. MW: blast_radius, reload, velocity
+dimwishlist:item=3850168899&perks=981914802,2822142346,2869569095,2846385770  #4134 PvE. Velocity-focused. MW: blast_radius, reload, velocity
+dimwishlist:item=3850168899&perks=981914802,3492396210,2869569095,2846385770  #4234 PvE. Velocity-focused. MW: blast_radius, reload, velocity
+// Threat Detector, Demolitionist
+dimwishlist:item=3850168899&perks=3525010810,2822142346,4071163871,3523296417  #1141 PvE. Velocity-focused. MW: blast_radius, reload, velocity
+dimwishlist:item=3850168899&perks=3525010810,3492396210,4071163871,3523296417  #1241 PvE. Velocity-focused. MW: blast_radius, reload, velocity
+dimwishlist:item=3850168899&perks=1441682018,2822142346,4071163871,3523296417  #2141 PvE. Velocity-focused. MW: blast_radius, reload, velocity
+dimwishlist:item=3850168899&perks=1441682018,3492396210,4071163871,3523296417  #2241 PvE. Velocity-focused. MW: blast_radius, reload, velocity
+dimwishlist:item=3850168899&perks=3798852852,2822142346,4071163871,3523296417  #3141 PvE. Velocity-focused. MW: blast_radius, reload, velocity
+dimwishlist:item=3850168899&perks=3798852852,3492396210,4071163871,3523296417  #3241 PvE. Velocity-focused. MW: blast_radius, reload, velocity
+dimwishlist:item=3850168899&perks=981914802,2822142346,4071163871,3523296417  #4141 PvE. Velocity-focused. MW: blast_radius, reload, velocity
+dimwishlist:item=3850168899&perks=981914802,3492396210,4071163871,3523296417  #4241 PvE. Velocity-focused. MW: blast_radius, reload, velocity
+// Threat Detector, Lead From Gold
+dimwishlist:item=3850168899&perks=3525010810,2822142346,4071163871,1556840489  #1142 PvE. Velocity-focused. MW: blast_radius, reload, velocity
+dimwishlist:item=3850168899&perks=3525010810,3492396210,4071163871,1556840489  #1242 PvE. Velocity-focused. MW: blast_radius, reload, velocity
+dimwishlist:item=3850168899&perks=1441682018,2822142346,4071163871,1556840489  #2142 PvE. Velocity-focused. MW: blast_radius, reload, velocity
+dimwishlist:item=3850168899&perks=1441682018,3492396210,4071163871,1556840489  #2242 PvE. Velocity-focused. MW: blast_radius, reload, velocity
+dimwishlist:item=3850168899&perks=3798852852,2822142346,4071163871,1556840489  #3142 PvE. Velocity-focused. MW: blast_radius, reload, velocity
+dimwishlist:item=3850168899&perks=3798852852,3492396210,4071163871,1556840489  #3242 PvE. Velocity-focused. MW: blast_radius, reload, velocity
+dimwishlist:item=3850168899&perks=981914802,2822142346,4071163871,1556840489  #4142 PvE. Velocity-focused. MW: blast_radius, reload, velocity
+dimwishlist:item=3850168899&perks=981914802,3492396210,4071163871,1556840489  #4242 PvE. Velocity-focused. MW: blast_radius, reload, velocity
+// Threat Detector, Elemental Capacitor
+dimwishlist:item=3850168899&perks=3525010810,2822142346,4071163871,3511092054  #1143 PvE. Velocity-focused. MW: blast_radius, reload, velocity
+dimwishlist:item=3850168899&perks=3525010810,3492396210,4071163871,3511092054  #1243 PvE. Velocity-focused. MW: blast_radius, reload, velocity
+dimwishlist:item=3850168899&perks=1441682018,2822142346,4071163871,3511092054  #2143 PvE. Velocity-focused. MW: blast_radius, reload, velocity
+dimwishlist:item=3850168899&perks=1441682018,3492396210,4071163871,3511092054  #2243 PvE. Velocity-focused. MW: blast_radius, reload, velocity
+dimwishlist:item=3850168899&perks=3798852852,2822142346,4071163871,3511092054  #3143 PvE. Velocity-focused. MW: blast_radius, reload, velocity
+dimwishlist:item=3850168899&perks=3798852852,3492396210,4071163871,3511092054  #3243 PvE. Velocity-focused. MW: blast_radius, reload, velocity
+dimwishlist:item=3850168899&perks=981914802,2822142346,4071163871,3511092054  #4143 PvE. Velocity-focused. MW: blast_radius, reload, velocity
+dimwishlist:item=3850168899&perks=981914802,3492396210,4071163871,3511092054  #4243 PvE. Velocity-focused. MW: blast_radius, reload, velocity
+// Threat Detector, Rangefinder
+dimwishlist:item=3850168899&perks=3525010810,2822142346,4071163871,2846385770  #1144 PvE. Velocity-focused. MW: blast_radius, reload, velocity
+dimwishlist:item=3850168899&perks=3525010810,3492396210,4071163871,2846385770  #1244 PvE. Velocity-focused. MW: blast_radius, reload, velocity
+dimwishlist:item=3850168899&perks=1441682018,2822142346,4071163871,2846385770  #2144 PvE. Velocity-focused. MW: blast_radius, reload, velocity
+dimwishlist:item=3850168899&perks=1441682018,3492396210,4071163871,2846385770  #2244 PvE. Velocity-focused. MW: blast_radius, reload, velocity
+dimwishlist:item=3850168899&perks=3798852852,2822142346,4071163871,2846385770  #3144 PvE. Velocity-focused. MW: blast_radius, reload, velocity
+dimwishlist:item=3850168899&perks=3798852852,3492396210,4071163871,2846385770  #3244 PvE. Velocity-focused. MW: blast_radius, reload, velocity
+dimwishlist:item=3850168899&perks=981914802,2822142346,4071163871,2846385770  #4144 PvE. Velocity-focused. MW: blast_radius, reload, velocity
+dimwishlist:item=3850168899&perks=981914802,3492396210,4071163871,2846385770  #4244 PvE. Velocity-focused. MW: blast_radius, reload, velocity
+// Martyrs Retribution
+// Auto Loading Holster, Moving Target
+dimwishlist:item=3850168899&perks=1478423395,2822142346,3300816228,588594999  #1111 PvP. Blast-radius-focused. MW: blast_radius, reload, velocity
+dimwishlist:item=3850168899&perks=1844523823,2822142346,3300816228,588594999  #2111 PvP. Blast-radius-focused. MW: blast_radius, reload, velocity
+dimwishlist:item=3850168899&perks=1441682018,2822142346,3300816228,588594999  #3111 PvP. Blast-radius-focused. MW: blast_radius, reload, velocity
+// Auto Loading Holster, Elemental Capacitor
+dimwishlist:item=3850168899&perks=1478423395,2822142346,3300816228,3511092054  #1112 PvP. Blast-radius-focused. MW: blast_radius, reload, velocity
+dimwishlist:item=3850168899&perks=1844523823,2822142346,3300816228,3511092054  #2112 PvP. Blast-radius-focused. MW: blast_radius, reload, velocity
+dimwishlist:item=3850168899&perks=1441682018,2822142346,3300816228,3511092054  #3112 PvP. Blast-radius-focused. MW: blast_radius, reload, velocity
+// Auto Loading Holster, Rangefinder
+dimwishlist:item=3850168899&perks=1478423395,2822142346,3300816228,2846385770  #1113 PvP. Blast-radius-focused. MW: blast_radius, reload, velocity
+dimwishlist:item=3850168899&perks=1844523823,2822142346,3300816228,2846385770  #2113 PvP. Blast-radius-focused. MW: blast_radius, reload, velocity
+dimwishlist:item=3850168899&perks=1441682018,2822142346,3300816228,2846385770  #3113 PvP. Blast-radius-focused. MW: blast_radius, reload, velocity
+// Field Prep, Moving Target
+dimwishlist:item=3850168899&perks=1478423395,2822142346,2869569095,588594999  #1121 PvP. Blast-radius-focused. MW: blast_radius, reload, velocity
+dimwishlist:item=3850168899&perks=1844523823,2822142346,2869569095,588594999  #2121 PvP. Blast-radius-focused. MW: blast_radius, reload, velocity
+dimwishlist:item=3850168899&perks=1441682018,2822142346,2869569095,588594999  #3121 PvP. Blast-radius-focused. MW: blast_radius, reload, velocity
+// Field Prep, Elemental Capacitor
+dimwishlist:item=3850168899&perks=1478423395,2822142346,2869569095,3511092054  #1122 PvP. Blast-radius-focused. MW: blast_radius, reload, velocity
+dimwishlist:item=3850168899&perks=1844523823,2822142346,2869569095,3511092054  #2122 PvP. Blast-radius-focused. MW: blast_radius, reload, velocity
+dimwishlist:item=3850168899&perks=1441682018,2822142346,2869569095,3511092054  #3122 PvP. Blast-radius-focused. MW: blast_radius, reload, velocity
+// Field Prep, Rangefinder
+dimwishlist:item=3850168899&perks=1478423395,2822142346,2869569095,2846385770  #1123 PvP. Blast-radius-focused. MW: blast_radius, reload, velocity
+dimwishlist:item=3850168899&perks=1844523823,2822142346,2869569095,2846385770  #2123 PvP. Blast-radius-focused. MW: blast_radius, reload, velocity
+dimwishlist:item=3850168899&perks=1441682018,2822142346,2869569095,2846385770  #3123 PvP. Blast-radius-focused. MW: blast_radius, reload, velocity
+// Threat Detector, Moving Target
+dimwishlist:item=3850168899&perks=1478423395,2822142346,4071163871,588594999  #1131 PvP. Blast-radius-focused. MW: blast_radius, reload, velocity
+dimwishlist:item=3850168899&perks=1844523823,2822142346,4071163871,588594999  #2131 PvP. Blast-radius-focused. MW: blast_radius, reload, velocity
+dimwishlist:item=3850168899&perks=1441682018,2822142346,4071163871,588594999  #3131 PvP. Blast-radius-focused. MW: blast_radius, reload, velocity
+// Threat Detector, Elemental Capacitor
+dimwishlist:item=3850168899&perks=1478423395,2822142346,4071163871,3511092054  #1132 PvP. Blast-radius-focused. MW: blast_radius, reload, velocity
+dimwishlist:item=3850168899&perks=1844523823,2822142346,4071163871,3511092054  #2132 PvP. Blast-radius-focused. MW: blast_radius, reload, velocity
+dimwishlist:item=3850168899&perks=1441682018,2822142346,4071163871,3511092054  #3132 PvP. Blast-radius-focused. MW: blast_radius, reload, velocity
+// Threat Detector, Rangefinder
+dimwishlist:item=3850168899&perks=1478423395,2822142346,4071163871,2846385770  #1133 PvP. Blast-radius-focused. MW: blast_radius, reload, velocity
+dimwishlist:item=3850168899&perks=1844523823,2822142346,4071163871,2846385770  #2133 PvP. Blast-radius-focused. MW: blast_radius, reload, velocity
+dimwishlist:item=3850168899&perks=1441682018,2822142346,4071163871,2846385770  #3133 PvP. Blast-radius-focused. MW: blast_radius, reload, velocity
+// Underdog, Moving Target
+dimwishlist:item=3850168899&perks=1478423395,2822142346,205890336,588594999  #1141 PvP. Blast-radius-focused. MW: blast_radius, reload, velocity
+dimwishlist:item=3850168899&perks=1844523823,2822142346,205890336,588594999  #2141 PvP. Blast-radius-focused. MW: blast_radius, reload, velocity
+dimwishlist:item=3850168899&perks=1441682018,2822142346,205890336,588594999  #3141 PvP. Blast-radius-focused. MW: blast_radius, reload, velocity
+// Underdog, Elemental Capacitor
+dimwishlist:item=3850168899&perks=1478423395,2822142346,205890336,3511092054  #1142 PvP. Blast-radius-focused. MW: blast_radius, reload, velocity
+dimwishlist:item=3850168899&perks=1844523823,2822142346,205890336,3511092054  #2142 PvP. Blast-radius-focused. MW: blast_radius, reload, velocity
+dimwishlist:item=3850168899&perks=1441682018,2822142346,205890336,3511092054  #3142 PvP. Blast-radius-focused. MW: blast_radius, reload, velocity
+// Underdog, Rangefinder
+dimwishlist:item=3850168899&perks=1478423395,2822142346,205890336,2846385770  #1143 PvP. Blast-radius-focused. MW: blast_radius, reload, velocity
+dimwishlist:item=3850168899&perks=1844523823,2822142346,205890336,2846385770  #2143 PvP. Blast-radius-focused. MW: blast_radius, reload, velocity
+dimwishlist:item=3850168899&perks=1441682018,2822142346,205890336,2846385770  #3143 PvP. Blast-radius-focused. MW: blast_radius, reload, velocity
+// Genesis, Moving Target
+dimwishlist:item=3850168899&perks=1478423395,2822142346,3096702027,588594999  #1111 PvP. Blast-radius-focused. MW: blast_radius, reload, velocity
+dimwishlist:item=3850168899&perks=1844523823,2822142346,3096702027,588594999  #2111 PvP. Blast-radius-focused. MW: blast_radius, reload, velocity
+dimwishlist:item=3850168899&perks=1441682018,2822142346,3096702027,588594999  #3111 PvP. Blast-radius-focused. MW: blast_radius, reload, velocity
+// Genesis, Elemental Capacitor
+dimwishlist:item=3850168899&perks=1478423395,2822142346,3096702027,3511092054  #1112 PvP. Blast-radius-focused. MW: blast_radius, reload, velocity
+dimwishlist:item=3850168899&perks=1844523823,2822142346,3096702027,3511092054  #2112 PvP. Blast-radius-focused. MW: blast_radius, reload, velocity
+dimwishlist:item=3850168899&perks=1441682018,2822142346,3096702027,3511092054  #3112 PvP. Blast-radius-focused. MW: blast_radius, reload, velocity
+// Genesis, Rangefinder
+dimwishlist:item=3850168899&perks=1478423395,2822142346,3096702027,2846385770  #1113 PvP. Blast-radius-focused. MW: blast_radius, reload, velocity
+dimwishlist:item=3850168899&perks=1844523823,2822142346,3096702027,2846385770  #2113 PvP. Blast-radius-focused. MW: blast_radius, reload, velocity
+dimwishlist:item=3850168899&perks=1441682018,2822142346,3096702027,2846385770  #3113 PvP. Blast-radius-focused. MW: blast_radius, reload, velocity
+// Auto Loading Holster, Demolitionist
+dimwishlist:item=3850168899&perks=1478423395,2822142346,3300816228,3523296417  #1111 PvE. Velocity-focused. MW: blast_radius, reload, velocity
+dimwishlist:item=3850168899&perks=1844523823,2822142346,3300816228,3523296417  #2111 PvE. Velocity-focused. MW: blast_radius, reload, velocity
+dimwishlist:item=3850168899&perks=1441682018,2822142346,3300816228,3523296417  #3111 PvE. Velocity-focused. MW: blast_radius, reload, velocity
+// Auto Loading Holster, Lead From Gold
+dimwishlist:item=3850168899&perks=1478423395,2822142346,3300816228,1556840489  #1112 PvE. Velocity-focused. MW: blast_radius, reload, velocity
+dimwishlist:item=3850168899&perks=1844523823,2822142346,3300816228,1556840489  #2112 PvE. Velocity-focused. MW: blast_radius, reload, velocity
+dimwishlist:item=3850168899&perks=1441682018,2822142346,3300816228,1556840489  #3112 PvE. Velocity-focused. MW: blast_radius, reload, velocity
+// Auto Loading Holster, Elemental Capacitor
+dimwishlist:item=3850168899&perks=1478423395,2822142346,3300816228,3511092054  #1113 PvE. Velocity-focused. MW: blast_radius, reload, velocity
+dimwishlist:item=3850168899&perks=1844523823,2822142346,3300816228,3511092054  #2113 PvE. Velocity-focused. MW: blast_radius, reload, velocity
+dimwishlist:item=3850168899&perks=1441682018,2822142346,3300816228,3511092054  #3113 PvE. Velocity-focused. MW: blast_radius, reload, velocity
+// Auto Loading Holster, Rangefinder
+dimwishlist:item=3850168899&perks=1478423395,2822142346,3300816228,2846385770  #1114 PvE. Velocity-focused. MW: blast_radius, reload, velocity
+dimwishlist:item=3850168899&perks=1844523823,2822142346,3300816228,2846385770  #2114 PvE. Velocity-focused. MW: blast_radius, reload, velocity
+dimwishlist:item=3850168899&perks=1441682018,2822142346,3300816228,2846385770  #3114 PvE. Velocity-focused. MW: blast_radius, reload, velocity
+// Genesis, Demolitionist
+dimwishlist:item=3850168899&perks=1478423395,2822142346,3096702027,3523296417  #1121 PvE. Velocity-focused. MW: blast_radius, reload, velocity
+dimwishlist:item=3850168899&perks=1844523823,2822142346,3096702027,3523296417  #2121 PvE. Velocity-focused. MW: blast_radius, reload, velocity
+dimwishlist:item=3850168899&perks=1441682018,2822142346,3096702027,3523296417  #3121 PvE. Velocity-focused. MW: blast_radius, reload, velocity
+// Genesis, Lead From Gold
+dimwishlist:item=3850168899&perks=1478423395,2822142346,3096702027,1556840489  #1122 PvE. Velocity-focused. MW: blast_radius, reload, velocity
+dimwishlist:item=3850168899&perks=1844523823,2822142346,3096702027,1556840489  #2122 PvE. Velocity-focused. MW: blast_radius, reload, velocity
+dimwishlist:item=3850168899&perks=1441682018,2822142346,3096702027,1556840489  #3122 PvE. Velocity-focused. MW: blast_radius, reload, velocity
+// Genesis, Elemental Capacitor
+dimwishlist:item=3850168899&perks=1478423395,2822142346,3096702027,3511092054  #1123 PvE. Velocity-focused. MW: blast_radius, reload, velocity
+dimwishlist:item=3850168899&perks=1844523823,2822142346,3096702027,3511092054  #2123 PvE. Velocity-focused. MW: blast_radius, reload, velocity
+dimwishlist:item=3850168899&perks=1441682018,2822142346,3096702027,3511092054  #3123 PvE. Velocity-focused. MW: blast_radius, reload, velocity
+// Genesis, Rangefinder
+dimwishlist:item=3850168899&perks=1478423395,2822142346,3096702027,2846385770  #1124 PvE. Velocity-focused. MW: blast_radius, reload, velocity
+dimwishlist:item=3850168899&perks=1844523823,2822142346,3096702027,2846385770  #2124 PvE. Velocity-focused. MW: blast_radius, reload, velocity
+dimwishlist:item=3850168899&perks=1441682018,2822142346,3096702027,2846385770  #3124 PvE. Velocity-focused. MW: blast_radius, reload, velocity
+// Field Prep, Demolitionist
+dimwishlist:item=3850168899&perks=1478423395,2822142346,2869569095,3523296417  #1131 PvE. Velocity-focused. MW: blast_radius, reload, velocity
+dimwishlist:item=3850168899&perks=1844523823,2822142346,2869569095,3523296417  #2131 PvE. Velocity-focused. MW: blast_radius, reload, velocity
+dimwishlist:item=3850168899&perks=1441682018,2822142346,2869569095,3523296417  #3131 PvE. Velocity-focused. MW: blast_radius, reload, velocity
+// Field Prep, Lead From Gold
+dimwishlist:item=3850168899&perks=1478423395,2822142346,2869569095,1556840489  #1132 PvE. Velocity-focused. MW: blast_radius, reload, velocity
+dimwishlist:item=3850168899&perks=1844523823,2822142346,2869569095,1556840489  #2132 PvE. Velocity-focused. MW: blast_radius, reload, velocity
+dimwishlist:item=3850168899&perks=1441682018,2822142346,2869569095,1556840489  #3132 PvE. Velocity-focused. MW: blast_radius, reload, velocity
+// Field Prep, Elemental Capacitor
+dimwishlist:item=3850168899&perks=1478423395,2822142346,2869569095,3511092054  #1133 PvE. Velocity-focused. MW: blast_radius, reload, velocity
+dimwishlist:item=3850168899&perks=1844523823,2822142346,2869569095,3511092054  #2133 PvE. Velocity-focused. MW: blast_radius, reload, velocity
+dimwishlist:item=3850168899&perks=1441682018,2822142346,2869569095,3511092054  #3133 PvE. Velocity-focused. MW: blast_radius, reload, velocity
+// Field Prep, Rangefinder
+dimwishlist:item=3850168899&perks=1478423395,2822142346,2869569095,2846385770  #1134 PvE. Velocity-focused. MW: blast_radius, reload, velocity
+dimwishlist:item=3850168899&perks=1844523823,2822142346,2869569095,2846385770  #2134 PvE. Velocity-focused. MW: blast_radius, reload, velocity
+dimwishlist:item=3850168899&perks=1441682018,2822142346,2869569095,2846385770  #3134 PvE. Velocity-focused. MW: blast_radius, reload, velocity
+// Threat Detector, Demolitionist
+dimwishlist:item=3850168899&perks=1478423395,2822142346,4071163871,3523296417  #1141 PvE. Velocity-focused. MW: blast_radius, reload, velocity
+dimwishlist:item=3850168899&perks=1844523823,2822142346,4071163871,3523296417  #2141 PvE. Velocity-focused. MW: blast_radius, reload, velocity
+dimwishlist:item=3850168899&perks=1441682018,2822142346,4071163871,3523296417  #3141 PvE. Velocity-focused. MW: blast_radius, reload, velocity
+// Threat Detector, Lead From Gold
+dimwishlist:item=3850168899&perks=1478423395,2822142346,4071163871,1556840489  #1142 PvE. Velocity-focused. MW: blast_radius, reload, velocity
+dimwishlist:item=3850168899&perks=1844523823,2822142346,4071163871,1556840489  #2142 PvE. Velocity-focused. MW: blast_radius, reload, velocity
+dimwishlist:item=3850168899&perks=1441682018,2822142346,4071163871,1556840489  #3142 PvE. Velocity-focused. MW: blast_radius, reload, velocity
+// Threat Detector, Elemental Capacitor
+dimwishlist:item=3850168899&perks=1478423395,2822142346,4071163871,3511092054  #1143 PvE. Velocity-focused. MW: blast_radius, reload, velocity
+dimwishlist:item=3850168899&perks=1844523823,2822142346,4071163871,3511092054  #2143 PvE. Velocity-focused. MW: blast_radius, reload, velocity
+dimwishlist:item=3850168899&perks=1441682018,2822142346,4071163871,3511092054  #3143 PvE. Velocity-focused. MW: blast_radius, reload, velocity
+// Threat Detector, Rangefinder
+dimwishlist:item=3850168899&perks=1478423395,2822142346,4071163871,2846385770  #1144 PvE. Velocity-focused. MW: blast_radius, reload, velocity
+dimwishlist:item=3850168899&perks=1844523823,2822142346,4071163871,2846385770  #2144 PvE. Velocity-focused. MW: blast_radius, reload, velocity
+dimwishlist:item=3850168899&perks=1441682018,2822142346,4071163871,2846385770  #3144 PvE. Velocity-focused. MW: blast_radius, reload, velocity
+
+
 // Outrageous Fortune
 //notes: Reducing the blast radius concentrates the blast to do the most damage on bosses
 // Field Prep, Rampage
@@ -9902,6 +10309,391 @@ dimwishlist:item=3356526253&perks=1332244541,1087426260,4071163871,3300816228  #
 dimwishlist:item=3356526253&perks=1332244541,106909392,4071163871,3300816228  #4212 PvE. Melee. MW: range
 dimwishlist:item=3356526253&perks=1332244541,2420895100,4071163871,3300816228  #4312 PvE. Melee. MW: range
 dimwishlist:item=3356526253&perks=1332244541,3142289711,4071163871,3300816228  #4412 PvE. Melee. MW: range
+
+
+// Breachlight
+// Demolitionist, Quickdraw
+dimwishlist:item=1289997971&perks=202670084,3142289711,3523296417,706527188  #1111 PvP. MW: range, stability
+dimwishlist:item=1289997971&perks=202670084,106909392,3523296417,706527188  #1211 PvP. MW: range, stability
+dimwishlist:item=1289997971&perks=202670084,4134353779,3523296417,706527188  #1311 PvP. MW: range, stability
+dimwishlist:item=1289997971&perks=202670084,3230963543,3523296417,706527188  #1411 PvP. MW: range, stability
+dimwishlist:item=1289997971&perks=3250034553,3142289711,3523296417,706527188  #2111 PvP. MW: range, stability
+dimwishlist:item=1289997971&perks=3250034553,106909392,3523296417,706527188  #2211 PvP. MW: range, stability
+dimwishlist:item=1289997971&perks=3250034553,4134353779,3523296417,706527188  #2311 PvP. MW: range, stability
+dimwishlist:item=1289997971&perks=3250034553,3230963543,3523296417,706527188  #2411 PvP. MW: range, stability
+dimwishlist:item=1289997971&perks=1467527085,3142289711,3523296417,706527188  #3111 PvP. MW: range, stability
+dimwishlist:item=1289997971&perks=1467527085,106909392,3523296417,706527188  #3211 PvP. MW: range, stability
+dimwishlist:item=1289997971&perks=1467527085,4134353779,3523296417,706527188  #3311 PvP. MW: range, stability
+dimwishlist:item=1289997971&perks=1467527085,3230963543,3523296417,706527188  #3411 PvP. MW: range, stability
+dimwishlist:item=1289997971&perks=1482024992,3142289711,3523296417,706527188  #4111 PvP. MW: range, stability
+dimwishlist:item=1289997971&perks=1482024992,106909392,3523296417,706527188  #4211 PvP. MW: range, stability
+dimwishlist:item=1289997971&perks=1482024992,4134353779,3523296417,706527188  #4311 PvP. MW: range, stability
+dimwishlist:item=1289997971&perks=1482024992,3230963543,3523296417,706527188  #4411 PvP. MW: range, stability
+dimwishlist:item=1289997971&perks=4090651448,3142289711,3523296417,706527188  #5111 PvP. MW: range, stability
+dimwishlist:item=1289997971&perks=4090651448,106909392,3523296417,706527188  #5211 PvP. MW: range, stability
+dimwishlist:item=1289997971&perks=4090651448,4134353779,3523296417,706527188  #5311 PvP. MW: range, stability
+dimwishlist:item=1289997971&perks=4090651448,3230963543,3523296417,706527188  #5411 PvP. MW: range, stability
+// Demolitionist, Rampage
+dimwishlist:item=1289997971&perks=202670084,3142289711,3523296417,3425386926  #1112 PvP. MW: range, stability
+dimwishlist:item=1289997971&perks=202670084,106909392,3523296417,3425386926  #1212 PvP. MW: range, stability
+dimwishlist:item=1289997971&perks=202670084,4134353779,3523296417,3425386926  #1312 PvP. MW: range, stability
+dimwishlist:item=1289997971&perks=202670084,3230963543,3523296417,3425386926  #1412 PvP. MW: range, stability
+dimwishlist:item=1289997971&perks=3250034553,3142289711,3523296417,3425386926  #2112 PvP. MW: range, stability
+dimwishlist:item=1289997971&perks=3250034553,106909392,3523296417,3425386926  #2212 PvP. MW: range, stability
+dimwishlist:item=1289997971&perks=3250034553,4134353779,3523296417,3425386926  #2312 PvP. MW: range, stability
+dimwishlist:item=1289997971&perks=3250034553,3230963543,3523296417,3425386926  #2412 PvP. MW: range, stability
+dimwishlist:item=1289997971&perks=1467527085,3142289711,3523296417,3425386926  #3112 PvP. MW: range, stability
+dimwishlist:item=1289997971&perks=1467527085,106909392,3523296417,3425386926  #3212 PvP. MW: range, stability
+dimwishlist:item=1289997971&perks=1467527085,4134353779,3523296417,3425386926  #3312 PvP. MW: range, stability
+dimwishlist:item=1289997971&perks=1467527085,3230963543,3523296417,3425386926  #3412 PvP. MW: range, stability
+dimwishlist:item=1289997971&perks=1482024992,3142289711,3523296417,3425386926  #4112 PvP. MW: range, stability
+dimwishlist:item=1289997971&perks=1482024992,106909392,3523296417,3425386926  #4212 PvP. MW: range, stability
+dimwishlist:item=1289997971&perks=1482024992,4134353779,3523296417,3425386926  #4312 PvP. MW: range, stability
+dimwishlist:item=1289997971&perks=1482024992,3230963543,3523296417,3425386926  #4412 PvP. MW: range, stability
+dimwishlist:item=1289997971&perks=4090651448,3142289711,3523296417,3425386926  #5112 PvP. MW: range, stability
+dimwishlist:item=1289997971&perks=4090651448,106909392,3523296417,3425386926  #5212 PvP. MW: range, stability
+dimwishlist:item=1289997971&perks=4090651448,4134353779,3523296417,3425386926  #5312 PvP. MW: range, stability
+dimwishlist:item=1289997971&perks=4090651448,3230963543,3523296417,3425386926  #5412 PvP. MW: range, stability
+// Demolitionist, Elemental Capacitor
+dimwishlist:item=1289997971&perks=202670084,3142289711,3523296417,3511092054  #1113 PvP. MW: range, stability
+dimwishlist:item=1289997971&perks=202670084,106909392,3523296417,3511092054  #1213 PvP. MW: range, stability
+dimwishlist:item=1289997971&perks=202670084,4134353779,3523296417,3511092054  #1313 PvP. MW: range, stability
+dimwishlist:item=1289997971&perks=202670084,3230963543,3523296417,3511092054  #1413 PvP. MW: range, stability
+dimwishlist:item=1289997971&perks=3250034553,3142289711,3523296417,3511092054  #2113 PvP. MW: range, stability
+dimwishlist:item=1289997971&perks=3250034553,106909392,3523296417,3511092054  #2213 PvP. MW: range, stability
+dimwishlist:item=1289997971&perks=3250034553,4134353779,3523296417,3511092054  #2313 PvP. MW: range, stability
+dimwishlist:item=1289997971&perks=3250034553,3230963543,3523296417,3511092054  #2413 PvP. MW: range, stability
+dimwishlist:item=1289997971&perks=1467527085,3142289711,3523296417,3511092054  #3113 PvP. MW: range, stability
+dimwishlist:item=1289997971&perks=1467527085,106909392,3523296417,3511092054  #3213 PvP. MW: range, stability
+dimwishlist:item=1289997971&perks=1467527085,4134353779,3523296417,3511092054  #3313 PvP. MW: range, stability
+dimwishlist:item=1289997971&perks=1467527085,3230963543,3523296417,3511092054  #3413 PvP. MW: range, stability
+dimwishlist:item=1289997971&perks=1482024992,3142289711,3523296417,3511092054  #4113 PvP. MW: range, stability
+dimwishlist:item=1289997971&perks=1482024992,106909392,3523296417,3511092054  #4213 PvP. MW: range, stability
+dimwishlist:item=1289997971&perks=1482024992,4134353779,3523296417,3511092054  #4313 PvP. MW: range, stability
+dimwishlist:item=1289997971&perks=1482024992,3230963543,3523296417,3511092054  #4413 PvP. MW: range, stability
+dimwishlist:item=1289997971&perks=4090651448,3142289711,3523296417,3511092054  #5113 PvP. MW: range, stability
+dimwishlist:item=1289997971&perks=4090651448,106909392,3523296417,3511092054  #5213 PvP. MW: range, stability
+dimwishlist:item=1289997971&perks=4090651448,4134353779,3523296417,3511092054  #5313 PvP. MW: range, stability
+dimwishlist:item=1289997971&perks=4090651448,3230963543,3523296417,3511092054  #5413 PvP. MW: range, stability
+// Underdog, Quickdraw
+dimwishlist:item=1289997971&perks=202670084,3142289711,205890336,706527188  #1121 PvP. MW: range, stability
+dimwishlist:item=1289997971&perks=202670084,106909392,205890336,706527188  #1221 PvP. MW: range, stability
+dimwishlist:item=1289997971&perks=202670084,4134353779,205890336,706527188  #1321 PvP. MW: range, stability
+dimwishlist:item=1289997971&perks=202670084,3230963543,205890336,706527188  #1421 PvP. MW: range, stability
+dimwishlist:item=1289997971&perks=3250034553,3142289711,205890336,706527188  #2121 PvP. MW: range, stability
+dimwishlist:item=1289997971&perks=3250034553,106909392,205890336,706527188  #2221 PvP. MW: range, stability
+dimwishlist:item=1289997971&perks=3250034553,4134353779,205890336,706527188  #2321 PvP. MW: range, stability
+dimwishlist:item=1289997971&perks=3250034553,3230963543,205890336,706527188  #2421 PvP. MW: range, stability
+dimwishlist:item=1289997971&perks=1467527085,3142289711,205890336,706527188  #3121 PvP. MW: range, stability
+dimwishlist:item=1289997971&perks=1467527085,106909392,205890336,706527188  #3221 PvP. MW: range, stability
+dimwishlist:item=1289997971&perks=1467527085,4134353779,205890336,706527188  #3321 PvP. MW: range, stability
+dimwishlist:item=1289997971&perks=1467527085,3230963543,205890336,706527188  #3421 PvP. MW: range, stability
+dimwishlist:item=1289997971&perks=1482024992,3142289711,205890336,706527188  #4121 PvP. MW: range, stability
+dimwishlist:item=1289997971&perks=1482024992,106909392,205890336,706527188  #4221 PvP. MW: range, stability
+dimwishlist:item=1289997971&perks=1482024992,4134353779,205890336,706527188  #4321 PvP. MW: range, stability
+dimwishlist:item=1289997971&perks=1482024992,3230963543,205890336,706527188  #4421 PvP. MW: range, stability
+dimwishlist:item=1289997971&perks=4090651448,3142289711,205890336,706527188  #5121 PvP. MW: range, stability
+dimwishlist:item=1289997971&perks=4090651448,106909392,205890336,706527188  #5221 PvP. MW: range, stability
+dimwishlist:item=1289997971&perks=4090651448,4134353779,205890336,706527188  #5321 PvP. MW: range, stability
+dimwishlist:item=1289997971&perks=4090651448,3230963543,205890336,706527188  #5421 PvP. MW: range, stability
+// Underdog, Rampage
+dimwishlist:item=1289997971&perks=202670084,3142289711,205890336,3425386926  #1122 PvP. MW: range, stability
+dimwishlist:item=1289997971&perks=202670084,106909392,205890336,3425386926  #1222 PvP. MW: range, stability
+dimwishlist:item=1289997971&perks=202670084,4134353779,205890336,3425386926  #1322 PvP. MW: range, stability
+dimwishlist:item=1289997971&perks=202670084,3230963543,205890336,3425386926  #1422 PvP. MW: range, stability
+dimwishlist:item=1289997971&perks=3250034553,3142289711,205890336,3425386926  #2122 PvP. MW: range, stability
+dimwishlist:item=1289997971&perks=3250034553,106909392,205890336,3425386926  #2222 PvP. MW: range, stability
+dimwishlist:item=1289997971&perks=3250034553,4134353779,205890336,3425386926  #2322 PvP. MW: range, stability
+dimwishlist:item=1289997971&perks=3250034553,3230963543,205890336,3425386926  #2422 PvP. MW: range, stability
+dimwishlist:item=1289997971&perks=1467527085,3142289711,205890336,3425386926  #3122 PvP. MW: range, stability
+dimwishlist:item=1289997971&perks=1467527085,106909392,205890336,3425386926  #3222 PvP. MW: range, stability
+dimwishlist:item=1289997971&perks=1467527085,4134353779,205890336,3425386926  #3322 PvP. MW: range, stability
+dimwishlist:item=1289997971&perks=1467527085,3230963543,205890336,3425386926  #3422 PvP. MW: range, stability
+dimwishlist:item=1289997971&perks=1482024992,3142289711,205890336,3425386926  #4122 PvP. MW: range, stability
+dimwishlist:item=1289997971&perks=1482024992,106909392,205890336,3425386926  #4222 PvP. MW: range, stability
+dimwishlist:item=1289997971&perks=1482024992,4134353779,205890336,3425386926  #4322 PvP. MW: range, stability
+dimwishlist:item=1289997971&perks=1482024992,3230963543,205890336,3425386926  #4422 PvP. MW: range, stability
+dimwishlist:item=1289997971&perks=4090651448,3142289711,205890336,3425386926  #5122 PvP. MW: range, stability
+dimwishlist:item=1289997971&perks=4090651448,106909392,205890336,3425386926  #5222 PvP. MW: range, stability
+dimwishlist:item=1289997971&perks=4090651448,4134353779,205890336,3425386926  #5322 PvP. MW: range, stability
+dimwishlist:item=1289997971&perks=4090651448,3230963543,205890336,3425386926  #5422 PvP. MW: range, stability
+// Underdog, Elemental Capacitor
+dimwishlist:item=1289997971&perks=202670084,3142289711,205890336,3511092054  #1123 PvP. MW: range, stability
+dimwishlist:item=1289997971&perks=202670084,106909392,205890336,3511092054  #1223 PvP. MW: range, stability
+dimwishlist:item=1289997971&perks=202670084,4134353779,205890336,3511092054  #1323 PvP. MW: range, stability
+dimwishlist:item=1289997971&perks=202670084,3230963543,205890336,3511092054  #1423 PvP. MW: range, stability
+dimwishlist:item=1289997971&perks=3250034553,3142289711,205890336,3511092054  #2123 PvP. MW: range, stability
+dimwishlist:item=1289997971&perks=3250034553,106909392,205890336,3511092054  #2223 PvP. MW: range, stability
+dimwishlist:item=1289997971&perks=3250034553,4134353779,205890336,3511092054  #2323 PvP. MW: range, stability
+dimwishlist:item=1289997971&perks=3250034553,3230963543,205890336,3511092054  #2423 PvP. MW: range, stability
+dimwishlist:item=1289997971&perks=1467527085,3142289711,205890336,3511092054  #3123 PvP. MW: range, stability
+dimwishlist:item=1289997971&perks=1467527085,106909392,205890336,3511092054  #3223 PvP. MW: range, stability
+dimwishlist:item=1289997971&perks=1467527085,4134353779,205890336,3511092054  #3323 PvP. MW: range, stability
+dimwishlist:item=1289997971&perks=1467527085,3230963543,205890336,3511092054  #3423 PvP. MW: range, stability
+dimwishlist:item=1289997971&perks=1482024992,3142289711,205890336,3511092054  #4123 PvP. MW: range, stability
+dimwishlist:item=1289997971&perks=1482024992,106909392,205890336,3511092054  #4223 PvP. MW: range, stability
+dimwishlist:item=1289997971&perks=1482024992,4134353779,205890336,3511092054  #4323 PvP. MW: range, stability
+dimwishlist:item=1289997971&perks=1482024992,3230963543,205890336,3511092054  #4423 PvP. MW: range, stability
+dimwishlist:item=1289997971&perks=4090651448,3142289711,205890336,3511092054  #5123 PvP. MW: range, stability
+dimwishlist:item=1289997971&perks=4090651448,106909392,205890336,3511092054  #5223 PvP. MW: range, stability
+dimwishlist:item=1289997971&perks=4090651448,4134353779,205890336,3511092054  #5323 PvP. MW: range, stability
+dimwishlist:item=1289997971&perks=4090651448,3230963543,205890336,3511092054  #5423 PvP. MW: range, stability
+// Threat Detector, Quickdraw
+dimwishlist:item=1289997971&perks=202670084,3142289711,4071163871,706527188  #1131 PvP. MW: range, stability
+dimwishlist:item=1289997971&perks=202670084,106909392,4071163871,706527188  #1231 PvP. MW: range, stability
+dimwishlist:item=1289997971&perks=202670084,4134353779,4071163871,706527188  #1331 PvP. MW: range, stability
+dimwishlist:item=1289997971&perks=202670084,3230963543,4071163871,706527188  #1431 PvP. MW: range, stability
+dimwishlist:item=1289997971&perks=3250034553,3142289711,4071163871,706527188  #2131 PvP. MW: range, stability
+dimwishlist:item=1289997971&perks=3250034553,106909392,4071163871,706527188  #2231 PvP. MW: range, stability
+dimwishlist:item=1289997971&perks=3250034553,4134353779,4071163871,706527188  #2331 PvP. MW: range, stability
+dimwishlist:item=1289997971&perks=3250034553,3230963543,4071163871,706527188  #2431 PvP. MW: range, stability
+dimwishlist:item=1289997971&perks=1467527085,3142289711,4071163871,706527188  #3131 PvP. MW: range, stability
+dimwishlist:item=1289997971&perks=1467527085,106909392,4071163871,706527188  #3231 PvP. MW: range, stability
+dimwishlist:item=1289997971&perks=1467527085,4134353779,4071163871,706527188  #3331 PvP. MW: range, stability
+dimwishlist:item=1289997971&perks=1467527085,3230963543,4071163871,706527188  #3431 PvP. MW: range, stability
+dimwishlist:item=1289997971&perks=1482024992,3142289711,4071163871,706527188  #4131 PvP. MW: range, stability
+dimwishlist:item=1289997971&perks=1482024992,106909392,4071163871,706527188  #4231 PvP. MW: range, stability
+dimwishlist:item=1289997971&perks=1482024992,4134353779,4071163871,706527188  #4331 PvP. MW: range, stability
+dimwishlist:item=1289997971&perks=1482024992,3230963543,4071163871,706527188  #4431 PvP. MW: range, stability
+dimwishlist:item=1289997971&perks=4090651448,3142289711,4071163871,706527188  #5131 PvP. MW: range, stability
+dimwishlist:item=1289997971&perks=4090651448,106909392,4071163871,706527188  #5231 PvP. MW: range, stability
+dimwishlist:item=1289997971&perks=4090651448,4134353779,4071163871,706527188  #5331 PvP. MW: range, stability
+dimwishlist:item=1289997971&perks=4090651448,3230963543,4071163871,706527188  #5431 PvP. MW: range, stability
+// Threat Detector, Rampage
+dimwishlist:item=1289997971&perks=202670084,3142289711,4071163871,3425386926  #1132 PvP. MW: range, stability
+dimwishlist:item=1289997971&perks=202670084,106909392,4071163871,3425386926  #1232 PvP. MW: range, stability
+dimwishlist:item=1289997971&perks=202670084,4134353779,4071163871,3425386926  #1332 PvP. MW: range, stability
+dimwishlist:item=1289997971&perks=202670084,3230963543,4071163871,3425386926  #1432 PvP. MW: range, stability
+dimwishlist:item=1289997971&perks=3250034553,3142289711,4071163871,3425386926  #2132 PvP. MW: range, stability
+dimwishlist:item=1289997971&perks=3250034553,106909392,4071163871,3425386926  #2232 PvP. MW: range, stability
+dimwishlist:item=1289997971&perks=3250034553,4134353779,4071163871,3425386926  #2332 PvP. MW: range, stability
+dimwishlist:item=1289997971&perks=3250034553,3230963543,4071163871,3425386926  #2432 PvP. MW: range, stability
+dimwishlist:item=1289997971&perks=1467527085,3142289711,4071163871,3425386926  #3132 PvP. MW: range, stability
+dimwishlist:item=1289997971&perks=1467527085,106909392,4071163871,3425386926  #3232 PvP. MW: range, stability
+dimwishlist:item=1289997971&perks=1467527085,4134353779,4071163871,3425386926  #3332 PvP. MW: range, stability
+dimwishlist:item=1289997971&perks=1467527085,3230963543,4071163871,3425386926  #3432 PvP. MW: range, stability
+dimwishlist:item=1289997971&perks=1482024992,3142289711,4071163871,3425386926  #4132 PvP. MW: range, stability
+dimwishlist:item=1289997971&perks=1482024992,106909392,4071163871,3425386926  #4232 PvP. MW: range, stability
+dimwishlist:item=1289997971&perks=1482024992,4134353779,4071163871,3425386926  #4332 PvP. MW: range, stability
+dimwishlist:item=1289997971&perks=1482024992,3230963543,4071163871,3425386926  #4432 PvP. MW: range, stability
+dimwishlist:item=1289997971&perks=4090651448,3142289711,4071163871,3425386926  #5132 PvP. MW: range, stability
+dimwishlist:item=1289997971&perks=4090651448,106909392,4071163871,3425386926  #5232 PvP. MW: range, stability
+dimwishlist:item=1289997971&perks=4090651448,4134353779,4071163871,3425386926  #5332 PvP. MW: range, stability
+dimwishlist:item=1289997971&perks=4090651448,3230963543,4071163871,3425386926  #5432 PvP. MW: range, stability
+// Threat Detector, Elemental Capacitor
+dimwishlist:item=1289997971&perks=202670084,3142289711,4071163871,3511092054  #1133 PvP. MW: range, stability
+dimwishlist:item=1289997971&perks=202670084,106909392,4071163871,3511092054  #1233 PvP. MW: range, stability
+dimwishlist:item=1289997971&perks=202670084,4134353779,4071163871,3511092054  #1333 PvP. MW: range, stability
+dimwishlist:item=1289997971&perks=202670084,3230963543,4071163871,3511092054  #1433 PvP. MW: range, stability
+dimwishlist:item=1289997971&perks=3250034553,3142289711,4071163871,3511092054  #2133 PvP. MW: range, stability
+dimwishlist:item=1289997971&perks=3250034553,106909392,4071163871,3511092054  #2233 PvP. MW: range, stability
+dimwishlist:item=1289997971&perks=3250034553,4134353779,4071163871,3511092054  #2333 PvP. MW: range, stability
+dimwishlist:item=1289997971&perks=3250034553,3230963543,4071163871,3511092054  #2433 PvP. MW: range, stability
+dimwishlist:item=1289997971&perks=1467527085,3142289711,4071163871,3511092054  #3133 PvP. MW: range, stability
+dimwishlist:item=1289997971&perks=1467527085,106909392,4071163871,3511092054  #3233 PvP. MW: range, stability
+dimwishlist:item=1289997971&perks=1467527085,4134353779,4071163871,3511092054  #3333 PvP. MW: range, stability
+dimwishlist:item=1289997971&perks=1467527085,3230963543,4071163871,3511092054  #3433 PvP. MW: range, stability
+dimwishlist:item=1289997971&perks=1482024992,3142289711,4071163871,3511092054  #4133 PvP. MW: range, stability
+dimwishlist:item=1289997971&perks=1482024992,106909392,4071163871,3511092054  #4233 PvP. MW: range, stability
+dimwishlist:item=1289997971&perks=1482024992,4134353779,4071163871,3511092054  #4333 PvP. MW: range, stability
+dimwishlist:item=1289997971&perks=1482024992,3230963543,4071163871,3511092054  #4433 PvP. MW: range, stability
+dimwishlist:item=1289997971&perks=4090651448,3142289711,4071163871,3511092054  #5133 PvP. MW: range, stability
+dimwishlist:item=1289997971&perks=4090651448,106909392,4071163871,3511092054  #5233 PvP. MW: range, stability
+dimwishlist:item=1289997971&perks=4090651448,4134353779,4071163871,3511092054  #5333 PvP. MW: range, stability
+dimwishlist:item=1289997971&perks=4090651448,3230963543,4071163871,3511092054  #5433 PvP. MW: range, stability
+// Breachlight
+// Outlaw, Rampage
+dimwishlist:item=1289997971&perks=202670084,3142289711,1168162263,3425386926  #1111 PvE. MW: range, stability
+dimwishlist:item=1289997971&perks=202670084,1087426260,1168162263,3425386926  #1211 PvE. MW: range, stability
+dimwishlist:item=1289997971&perks=202670084,106909392,1168162263,3425386926  #1311 PvE. MW: range, stability
+dimwishlist:item=1289997971&perks=3250034553,3142289711,1168162263,3425386926  #2111 PvE. MW: range, stability
+dimwishlist:item=1289997971&perks=3250034553,1087426260,1168162263,3425386926  #2211 PvE. MW: range, stability
+dimwishlist:item=1289997971&perks=3250034553,106909392,1168162263,3425386926  #2311 PvE. MW: range, stability
+dimwishlist:item=1289997971&perks=1467527085,3142289711,1168162263,3425386926  #3111 PvE. MW: range, stability
+dimwishlist:item=1289997971&perks=1467527085,1087426260,1168162263,3425386926  #3211 PvE. MW: range, stability
+dimwishlist:item=1289997971&perks=1467527085,106909392,1168162263,3425386926  #3311 PvE. MW: range, stability
+dimwishlist:item=1289997971&perks=1482024992,3142289711,1168162263,3425386926  #4111 PvE. MW: range, stability
+dimwishlist:item=1289997971&perks=1482024992,1087426260,1168162263,3425386926  #4211 PvE. MW: range, stability
+dimwishlist:item=1289997971&perks=1482024992,106909392,1168162263,3425386926  #4311 PvE. MW: range, stability
+dimwishlist:item=1289997971&perks=4090651448,3142289711,1168162263,3425386926  #5111 PvE. MW: range, stability
+dimwishlist:item=1289997971&perks=4090651448,1087426260,1168162263,3425386926  #5211 PvE. MW: range, stability
+dimwishlist:item=1289997971&perks=4090651448,106909392,1168162263,3425386926  #5311 PvE. MW: range, stability
+// Outlaw, Multikill Clip
+dimwishlist:item=1289997971&perks=202670084,3142289711,1168162263,2458213969  #1112 PvE. MW: range, stability
+dimwishlist:item=1289997971&perks=202670084,1087426260,1168162263,2458213969  #1212 PvE. MW: range, stability
+dimwishlist:item=1289997971&perks=202670084,106909392,1168162263,2458213969  #1312 PvE. MW: range, stability
+dimwishlist:item=1289997971&perks=3250034553,3142289711,1168162263,2458213969  #2112 PvE. MW: range, stability
+dimwishlist:item=1289997971&perks=3250034553,1087426260,1168162263,2458213969  #2212 PvE. MW: range, stability
+dimwishlist:item=1289997971&perks=3250034553,106909392,1168162263,2458213969  #2312 PvE. MW: range, stability
+dimwishlist:item=1289997971&perks=1467527085,3142289711,1168162263,2458213969  #3112 PvE. MW: range, stability
+dimwishlist:item=1289997971&perks=1467527085,1087426260,1168162263,2458213969  #3212 PvE. MW: range, stability
+dimwishlist:item=1289997971&perks=1467527085,106909392,1168162263,2458213969  #3312 PvE. MW: range, stability
+dimwishlist:item=1289997971&perks=1482024992,3142289711,1168162263,2458213969  #4112 PvE. MW: range, stability
+dimwishlist:item=1289997971&perks=1482024992,1087426260,1168162263,2458213969  #4212 PvE. MW: range, stability
+dimwishlist:item=1289997971&perks=1482024992,106909392,1168162263,2458213969  #4312 PvE. MW: range, stability
+dimwishlist:item=1289997971&perks=4090651448,3142289711,1168162263,2458213969  #5112 PvE. MW: range, stability
+dimwishlist:item=1289997971&perks=4090651448,1087426260,1168162263,2458213969  #5212 PvE. MW: range, stability
+dimwishlist:item=1289997971&perks=4090651448,106909392,1168162263,2458213969  #5312 PvE. MW: range, stability
+// Outlaw, Osmosis
+dimwishlist:item=1289997971&perks=202670084,3142289711,1168162263,1774574192  #1113 PvE. MW: range, stability
+dimwishlist:item=1289997971&perks=202670084,1087426260,1168162263,1774574192  #1213 PvE. MW: range, stability
+dimwishlist:item=1289997971&perks=202670084,106909392,1168162263,1774574192  #1313 PvE. MW: range, stability
+dimwishlist:item=1289997971&perks=3250034553,3142289711,1168162263,1774574192  #2113 PvE. MW: range, stability
+dimwishlist:item=1289997971&perks=3250034553,1087426260,1168162263,1774574192  #2213 PvE. MW: range, stability
+dimwishlist:item=1289997971&perks=3250034553,106909392,1168162263,1774574192  #2313 PvE. MW: range, stability
+dimwishlist:item=1289997971&perks=1467527085,3142289711,1168162263,1774574192  #3113 PvE. MW: range, stability
+dimwishlist:item=1289997971&perks=1467527085,1087426260,1168162263,1774574192  #3213 PvE. MW: range, stability
+dimwishlist:item=1289997971&perks=1467527085,106909392,1168162263,1774574192  #3313 PvE. MW: range, stability
+dimwishlist:item=1289997971&perks=1482024992,3142289711,1168162263,1774574192  #4113 PvE. MW: range, stability
+dimwishlist:item=1289997971&perks=1482024992,1087426260,1168162263,1774574192  #4213 PvE. MW: range, stability
+dimwishlist:item=1289997971&perks=1482024992,106909392,1168162263,1774574192  #4313 PvE. MW: range, stability
+dimwishlist:item=1289997971&perks=4090651448,3142289711,1168162263,1774574192  #5113 PvE. MW: range, stability
+dimwishlist:item=1289997971&perks=4090651448,1087426260,1168162263,1774574192  #5213 PvE. MW: range, stability
+dimwishlist:item=1289997971&perks=4090651448,106909392,1168162263,1774574192  #5313 PvE. MW: range, stability
+// Demolitionist, Rampage
+dimwishlist:item=1289997971&perks=202670084,3142289711,3523296417,3425386926  #1121 PvE. MW: range, stability
+dimwishlist:item=1289997971&perks=202670084,1087426260,3523296417,3425386926  #1221 PvE. MW: range, stability
+dimwishlist:item=1289997971&perks=202670084,106909392,3523296417,3425386926  #1321 PvE. MW: range, stability
+dimwishlist:item=1289997971&perks=3250034553,3142289711,3523296417,3425386926  #2121 PvE. MW: range, stability
+dimwishlist:item=1289997971&perks=3250034553,1087426260,3523296417,3425386926  #2221 PvE. MW: range, stability
+dimwishlist:item=1289997971&perks=3250034553,106909392,3523296417,3425386926  #2321 PvE. MW: range, stability
+dimwishlist:item=1289997971&perks=1467527085,3142289711,3523296417,3425386926  #3121 PvE. MW: range, stability
+dimwishlist:item=1289997971&perks=1467527085,1087426260,3523296417,3425386926  #3221 PvE. MW: range, stability
+dimwishlist:item=1289997971&perks=1467527085,106909392,3523296417,3425386926  #3321 PvE. MW: range, stability
+dimwishlist:item=1289997971&perks=1482024992,3142289711,3523296417,3425386926  #4121 PvE. MW: range, stability
+dimwishlist:item=1289997971&perks=1482024992,1087426260,3523296417,3425386926  #4221 PvE. MW: range, stability
+dimwishlist:item=1289997971&perks=1482024992,106909392,3523296417,3425386926  #4321 PvE. MW: range, stability
+dimwishlist:item=1289997971&perks=4090651448,3142289711,3523296417,3425386926  #5121 PvE. MW: range, stability
+dimwishlist:item=1289997971&perks=4090651448,1087426260,3523296417,3425386926  #5221 PvE. MW: range, stability
+dimwishlist:item=1289997971&perks=4090651448,106909392,3523296417,3425386926  #5321 PvE. MW: range, stability
+// Demolitionist, Multikill Clip
+dimwishlist:item=1289997971&perks=202670084,3142289711,3523296417,2458213969  #1122 PvE. MW: range, stability
+dimwishlist:item=1289997971&perks=202670084,1087426260,3523296417,2458213969  #1222 PvE. MW: range, stability
+dimwishlist:item=1289997971&perks=202670084,106909392,3523296417,2458213969  #1322 PvE. MW: range, stability
+dimwishlist:item=1289997971&perks=3250034553,3142289711,3523296417,2458213969  #2122 PvE. MW: range, stability
+dimwishlist:item=1289997971&perks=3250034553,1087426260,3523296417,2458213969  #2222 PvE. MW: range, stability
+dimwishlist:item=1289997971&perks=3250034553,106909392,3523296417,2458213969  #2322 PvE. MW: range, stability
+dimwishlist:item=1289997971&perks=1467527085,3142289711,3523296417,2458213969  #3122 PvE. MW: range, stability
+dimwishlist:item=1289997971&perks=1467527085,1087426260,3523296417,2458213969  #3222 PvE. MW: range, stability
+dimwishlist:item=1289997971&perks=1467527085,106909392,3523296417,2458213969  #3322 PvE. MW: range, stability
+dimwishlist:item=1289997971&perks=1482024992,3142289711,3523296417,2458213969  #4122 PvE. MW: range, stability
+dimwishlist:item=1289997971&perks=1482024992,1087426260,3523296417,2458213969  #4222 PvE. MW: range, stability
+dimwishlist:item=1289997971&perks=1482024992,106909392,3523296417,2458213969  #4322 PvE. MW: range, stability
+dimwishlist:item=1289997971&perks=4090651448,3142289711,3523296417,2458213969  #5122 PvE. MW: range, stability
+dimwishlist:item=1289997971&perks=4090651448,1087426260,3523296417,2458213969  #5222 PvE. MW: range, stability
+dimwishlist:item=1289997971&perks=4090651448,106909392,3523296417,2458213969  #5322 PvE. MW: range, stability
+// Demolitionist, Osmosis
+dimwishlist:item=1289997971&perks=202670084,3142289711,3523296417,1774574192  #1123 PvE. MW: range, stability
+dimwishlist:item=1289997971&perks=202670084,1087426260,3523296417,1774574192  #1223 PvE. MW: range, stability
+dimwishlist:item=1289997971&perks=202670084,106909392,3523296417,1774574192  #1323 PvE. MW: range, stability
+dimwishlist:item=1289997971&perks=3250034553,3142289711,3523296417,1774574192  #2123 PvE. MW: range, stability
+dimwishlist:item=1289997971&perks=3250034553,1087426260,3523296417,1774574192  #2223 PvE. MW: range, stability
+dimwishlist:item=1289997971&perks=3250034553,106909392,3523296417,1774574192  #2323 PvE. MW: range, stability
+dimwishlist:item=1289997971&perks=1467527085,3142289711,3523296417,1774574192  #3123 PvE. MW: range, stability
+dimwishlist:item=1289997971&perks=1467527085,1087426260,3523296417,1774574192  #3223 PvE. MW: range, stability
+dimwishlist:item=1289997971&perks=1467527085,106909392,3523296417,1774574192  #3323 PvE. MW: range, stability
+dimwishlist:item=1289997971&perks=1482024992,3142289711,3523296417,1774574192  #4123 PvE. MW: range, stability
+dimwishlist:item=1289997971&perks=1482024992,1087426260,3523296417,1774574192  #4223 PvE. MW: range, stability
+dimwishlist:item=1289997971&perks=1482024992,106909392,3523296417,1774574192  #4323 PvE. MW: range, stability
+dimwishlist:item=1289997971&perks=4090651448,3142289711,3523296417,1774574192  #5123 PvE. MW: range, stability
+dimwishlist:item=1289997971&perks=4090651448,1087426260,3523296417,1774574192  #5223 PvE. MW: range, stability
+dimwishlist:item=1289997971&perks=4090651448,106909392,3523296417,1774574192  #5323 PvE. MW: range, stability
+// Threat Detector, Rampage
+dimwishlist:item=1289997971&perks=202670084,3142289711,4071163871,3425386926  #1131 PvE. MW: range, stability
+dimwishlist:item=1289997971&perks=202670084,1087426260,4071163871,3425386926  #1231 PvE. MW: range, stability
+dimwishlist:item=1289997971&perks=202670084,106909392,4071163871,3425386926  #1331 PvE. MW: range, stability
+dimwishlist:item=1289997971&perks=3250034553,3142289711,4071163871,3425386926  #2131 PvE. MW: range, stability
+dimwishlist:item=1289997971&perks=3250034553,1087426260,4071163871,3425386926  #2231 PvE. MW: range, stability
+dimwishlist:item=1289997971&perks=3250034553,106909392,4071163871,3425386926  #2331 PvE. MW: range, stability
+dimwishlist:item=1289997971&perks=1467527085,3142289711,4071163871,3425386926  #3131 PvE. MW: range, stability
+dimwishlist:item=1289997971&perks=1467527085,1087426260,4071163871,3425386926  #3231 PvE. MW: range, stability
+dimwishlist:item=1289997971&perks=1467527085,106909392,4071163871,3425386926  #3331 PvE. MW: range, stability
+dimwishlist:item=1289997971&perks=1482024992,3142289711,4071163871,3425386926  #4131 PvE. MW: range, stability
+dimwishlist:item=1289997971&perks=1482024992,1087426260,4071163871,3425386926  #4231 PvE. MW: range, stability
+dimwishlist:item=1289997971&perks=1482024992,106909392,4071163871,3425386926  #4331 PvE. MW: range, stability
+dimwishlist:item=1289997971&perks=4090651448,3142289711,4071163871,3425386926  #5131 PvE. MW: range, stability
+dimwishlist:item=1289997971&perks=4090651448,1087426260,4071163871,3425386926  #5231 PvE. MW: range, stability
+dimwishlist:item=1289997971&perks=4090651448,106909392,4071163871,3425386926  #5331 PvE. MW: range, stability
+// Threat Detector, Multikill Clip
+dimwishlist:item=1289997971&perks=202670084,3142289711,4071163871,2458213969  #1132 PvE. MW: range, stability
+dimwishlist:item=1289997971&perks=202670084,1087426260,4071163871,2458213969  #1232 PvE. MW: range, stability
+dimwishlist:item=1289997971&perks=202670084,106909392,4071163871,2458213969  #1332 PvE. MW: range, stability
+dimwishlist:item=1289997971&perks=3250034553,3142289711,4071163871,2458213969  #2132 PvE. MW: range, stability
+dimwishlist:item=1289997971&perks=3250034553,1087426260,4071163871,2458213969  #2232 PvE. MW: range, stability
+dimwishlist:item=1289997971&perks=3250034553,106909392,4071163871,2458213969  #2332 PvE. MW: range, stability
+dimwishlist:item=1289997971&perks=1467527085,3142289711,4071163871,2458213969  #3132 PvE. MW: range, stability
+dimwishlist:item=1289997971&perks=1467527085,1087426260,4071163871,2458213969  #3232 PvE. MW: range, stability
+dimwishlist:item=1289997971&perks=1467527085,106909392,4071163871,2458213969  #3332 PvE. MW: range, stability
+dimwishlist:item=1289997971&perks=1482024992,3142289711,4071163871,2458213969  #4132 PvE. MW: range, stability
+dimwishlist:item=1289997971&perks=1482024992,1087426260,4071163871,2458213969  #4232 PvE. MW: range, stability
+dimwishlist:item=1289997971&perks=1482024992,106909392,4071163871,2458213969  #4332 PvE. MW: range, stability
+dimwishlist:item=1289997971&perks=4090651448,3142289711,4071163871,2458213969  #5132 PvE. MW: range, stability
+dimwishlist:item=1289997971&perks=4090651448,1087426260,4071163871,2458213969  #5232 PvE. MW: range, stability
+dimwishlist:item=1289997971&perks=4090651448,106909392,4071163871,2458213969  #5332 PvE. MW: range, stability
+// Threat Detector, Osmosis
+dimwishlist:item=1289997971&perks=202670084,3142289711,4071163871,1774574192  #1133 PvE. MW: range, stability
+dimwishlist:item=1289997971&perks=202670084,1087426260,4071163871,1774574192  #1233 PvE. MW: range, stability
+dimwishlist:item=1289997971&perks=202670084,106909392,4071163871,1774574192  #1333 PvE. MW: range, stability
+dimwishlist:item=1289997971&perks=3250034553,3142289711,4071163871,1774574192  #2133 PvE. MW: range, stability
+dimwishlist:item=1289997971&perks=3250034553,1087426260,4071163871,1774574192  #2233 PvE. MW: range, stability
+dimwishlist:item=1289997971&perks=3250034553,106909392,4071163871,1774574192  #2333 PvE. MW: range, stability
+dimwishlist:item=1289997971&perks=1467527085,3142289711,4071163871,1774574192  #3133 PvE. MW: range, stability
+dimwishlist:item=1289997971&perks=1467527085,1087426260,4071163871,1774574192  #3233 PvE. MW: range, stability
+dimwishlist:item=1289997971&perks=1467527085,106909392,4071163871,1774574192  #3333 PvE. MW: range, stability
+dimwishlist:item=1289997971&perks=1482024992,3142289711,4071163871,1774574192  #4133 PvE. MW: range, stability
+dimwishlist:item=1289997971&perks=1482024992,1087426260,4071163871,1774574192  #4233 PvE. MW: range, stability
+dimwishlist:item=1289997971&perks=1482024992,106909392,4071163871,1774574192  #4333 PvE. MW: range, stability
+dimwishlist:item=1289997971&perks=4090651448,3142289711,4071163871,1774574192  #5133 PvE. MW: range, stability
+dimwishlist:item=1289997971&perks=4090651448,1087426260,4071163871,1774574192  #5233 PvE. MW: range, stability
+dimwishlist:item=1289997971&perks=4090651448,106909392,4071163871,1774574192  #5333 PvE. MW: range, stability
+// Outlaw, Vorpal Weapon
+dimwishlist:item=1289997971&perks=202670084,3142289711,1168162263,1546637391  #1111 PvE. MW: range, stability
+dimwishlist:item=1289997971&perks=202670084,1087426260,1168162263,1546637391  #1211 PvE. MW: range, stability
+dimwishlist:item=1289997971&perks=202670084,106909392,1168162263,1546637391  #1311 PvE. MW: range, stability
+dimwishlist:item=1289997971&perks=3250034553,3142289711,1168162263,1546637391  #2111 PvE. MW: range, stability
+dimwishlist:item=1289997971&perks=3250034553,1087426260,1168162263,1546637391  #2211 PvE. MW: range, stability
+dimwishlist:item=1289997971&perks=3250034553,106909392,1168162263,1546637391  #2311 PvE. MW: range, stability
+dimwishlist:item=1289997971&perks=1467527085,3142289711,1168162263,1546637391  #3111 PvE. MW: range, stability
+dimwishlist:item=1289997971&perks=1467527085,1087426260,1168162263,1546637391  #3211 PvE. MW: range, stability
+dimwishlist:item=1289997971&perks=1467527085,106909392,1168162263,1546637391  #3311 PvE. MW: range, stability
+dimwishlist:item=1289997971&perks=1482024992,3142289711,1168162263,1546637391  #4111 PvE. MW: range, stability
+dimwishlist:item=1289997971&perks=1482024992,1087426260,1168162263,1546637391  #4211 PvE. MW: range, stability
+dimwishlist:item=1289997971&perks=1482024992,106909392,1168162263,1546637391  #4311 PvE. MW: range, stability
+dimwishlist:item=1289997971&perks=4090651448,3142289711,1168162263,1546637391  #5111 PvE. MW: range, stability
+dimwishlist:item=1289997971&perks=4090651448,1087426260,1168162263,1546637391  #5211 PvE. MW: range, stability
+dimwishlist:item=1289997971&perks=4090651448,106909392,1168162263,1546637391  #5311 PvE. MW: range, stability
+// Demolitionist, Vorpal Weapon
+dimwishlist:item=1289997971&perks=202670084,3142289711,3523296417,1546637391  #1121 PvE. MW: range, stability
+dimwishlist:item=1289997971&perks=202670084,1087426260,3523296417,1546637391  #1221 PvE. MW: range, stability
+dimwishlist:item=1289997971&perks=202670084,106909392,3523296417,1546637391  #1321 PvE. MW: range, stability
+dimwishlist:item=1289997971&perks=3250034553,3142289711,3523296417,1546637391  #2121 PvE. MW: range, stability
+dimwishlist:item=1289997971&perks=3250034553,1087426260,3523296417,1546637391  #2221 PvE. MW: range, stability
+dimwishlist:item=1289997971&perks=3250034553,106909392,3523296417,1546637391  #2321 PvE. MW: range, stability
+dimwishlist:item=1289997971&perks=1467527085,3142289711,3523296417,1546637391  #3121 PvE. MW: range, stability
+dimwishlist:item=1289997971&perks=1467527085,1087426260,3523296417,1546637391  #3221 PvE. MW: range, stability
+dimwishlist:item=1289997971&perks=1467527085,106909392,3523296417,1546637391  #3321 PvE. MW: range, stability
+dimwishlist:item=1289997971&perks=1482024992,3142289711,3523296417,1546637391  #4121 PvE. MW: range, stability
+dimwishlist:item=1289997971&perks=1482024992,1087426260,3523296417,1546637391  #4221 PvE. MW: range, stability
+dimwishlist:item=1289997971&perks=1482024992,106909392,3523296417,1546637391  #4321 PvE. MW: range, stability
+dimwishlist:item=1289997971&perks=4090651448,3142289711,3523296417,1546637391  #5121 PvE. MW: range, stability
+dimwishlist:item=1289997971&perks=4090651448,1087426260,3523296417,1546637391  #5221 PvE. MW: range, stability
+dimwishlist:item=1289997971&perks=4090651448,106909392,3523296417,1546637391  #5321 PvE. MW: range, stability
+// Threat Detector, Vorpal Weapon
+dimwishlist:item=1289997971&perks=202670084,3142289711,4071163871,1546637391  #1131 PvE. MW: range, stability
+dimwishlist:item=1289997971&perks=202670084,1087426260,4071163871,1546637391  #1231 PvE. MW: range, stability
+dimwishlist:item=1289997971&perks=202670084,106909392,4071163871,1546637391  #1331 PvE. MW: range, stability
+dimwishlist:item=1289997971&perks=3250034553,3142289711,4071163871,1546637391  #2131 PvE. MW: range, stability
+dimwishlist:item=1289997971&perks=3250034553,1087426260,4071163871,1546637391  #2231 PvE. MW: range, stability
+dimwishlist:item=1289997971&perks=3250034553,106909392,4071163871,1546637391  #2331 PvE. MW: range, stability
+dimwishlist:item=1289997971&perks=1467527085,3142289711,4071163871,1546637391  #3131 PvE. MW: range, stability
+dimwishlist:item=1289997971&perks=1467527085,1087426260,4071163871,1546637391  #3231 PvE. MW: range, stability
+dimwishlist:item=1289997971&perks=1467527085,106909392,4071163871,1546637391  #3331 PvE. MW: range, stability
+dimwishlist:item=1289997971&perks=1482024992,3142289711,4071163871,1546637391  #4131 PvE. MW: range, stability
+dimwishlist:item=1289997971&perks=1482024992,1087426260,4071163871,1546637391  #4231 PvE. MW: range, stability
+dimwishlist:item=1289997971&perks=1482024992,106909392,4071163871,1546637391  #4331 PvE. MW: range, stability
+dimwishlist:item=1289997971&perks=4090651448,3142289711,4071163871,1546637391  #5131 PvE. MW: range, stability
+dimwishlist:item=1289997971&perks=4090651448,1087426260,4071163871,1546637391  #5231 PvE. MW: range, stability
+dimwishlist:item=1289997971&perks=4090651448,106909392,4071163871,1546637391  #5331 PvE. MW: range, stability
 
 
 // Enigmas Draw
