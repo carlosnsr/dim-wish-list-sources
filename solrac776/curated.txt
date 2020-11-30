@@ -8348,260 +8348,260 @@ dimwishlist:item=3369545945&perks=4090651448,3230963543,3096702027,3708227201  #
 
 // Cold Denial
 // Killing Wind, Unrelenting
-dimwishlist:item=1216130969&perks=202670084,1561002382,2450788523,3108830275  #1111 PvP. MW: range, stability, handling
-dimwishlist:item=1216130969&perks=202670084,1885400500,2450788523,3108830275  #1211 PvP. MW: range, stability, handling
-dimwishlist:item=1216130969&perks=202670084,1968497646,2450788523,3108830275  #1311 PvP. MW: range, stability, handling
-dimwishlist:item=1216130969&perks=202670084,679225683,2450788523,3108830275  #1411 PvP. MW: range, stability, handling
-dimwishlist:item=1216130969&perks=3250034553,1561002382,2450788523,3108830275  #2111 PvP. MW: range, stability, handling
-dimwishlist:item=1216130969&perks=3250034553,1885400500,2450788523,3108830275  #2211 PvP. MW: range, stability, handling
-dimwishlist:item=1216130969&perks=3250034553,1968497646,2450788523,3108830275  #2311 PvP. MW: range, stability, handling
-dimwishlist:item=1216130969&perks=3250034553,679225683,2450788523,3108830275  #2411 PvP. MW: range, stability, handling
-dimwishlist:item=1216130969&perks=1467527085,1561002382,2450788523,3108830275  #3111 PvP. MW: range, stability, handling
-dimwishlist:item=1216130969&perks=1467527085,1885400500,2450788523,3108830275  #3211 PvP. MW: range, stability, handling
-dimwishlist:item=1216130969&perks=1467527085,1968497646,2450788523,3108830275  #3311 PvP. MW: range, stability, handling
-dimwishlist:item=1216130969&perks=1467527085,679225683,2450788523,3108830275  #3411 PvP. MW: range, stability, handling
-dimwishlist:item=1216130969&perks=1482024992,1561002382,2450788523,3108830275  #4111 PvP. MW: range, stability, handling
-dimwishlist:item=1216130969&perks=1482024992,1885400500,2450788523,3108830275  #4211 PvP. MW: range, stability, handling
-dimwishlist:item=1216130969&perks=1482024992,1968497646,2450788523,3108830275  #4311 PvP. MW: range, stability, handling
-dimwishlist:item=1216130969&perks=1482024992,679225683,2450788523,3108830275  #4411 PvP. MW: range, stability, handling
-dimwishlist:item=1216130969&perks=4090651448,1561002382,2450788523,3108830275  #5111 PvP. MW: range, stability, handling
-dimwishlist:item=1216130969&perks=4090651448,1885400500,2450788523,3108830275  #5211 PvP. MW: range, stability, handling
-dimwishlist:item=1216130969&perks=4090651448,1968497646,2450788523,3108830275  #5311 PvP. MW: range, stability, handling
-dimwishlist:item=1216130969&perks=4090651448,679225683,2450788523,3108830275  #5411 PvP. MW: range, stability, handling
+dimwishlist:item=1216130969&perks=202670084,1561002382,2450788523,3108830275  #1111 PvP. PvE. MW: range, stability, handling
+dimwishlist:item=1216130969&perks=202670084,1885400500,2450788523,3108830275  #1211 PvP. PvE. MW: range, stability, handling
+dimwishlist:item=1216130969&perks=202670084,1968497646,2450788523,3108830275  #1311 PvP. PvE. MW: range, stability, handling
+dimwishlist:item=1216130969&perks=202670084,679225683,2450788523,3108830275  #1411 PvP. PvE. MW: range, stability, handling
+dimwishlist:item=1216130969&perks=3250034553,1561002382,2450788523,3108830275  #2111 PvP. PvE. MW: range, stability, handling
+dimwishlist:item=1216130969&perks=3250034553,1885400500,2450788523,3108830275  #2211 PvP. PvE. MW: range, stability, handling
+dimwishlist:item=1216130969&perks=3250034553,1968497646,2450788523,3108830275  #2311 PvP. PvE. MW: range, stability, handling
+dimwishlist:item=1216130969&perks=3250034553,679225683,2450788523,3108830275  #2411 PvP. PvE. MW: range, stability, handling
+dimwishlist:item=1216130969&perks=1467527085,1561002382,2450788523,3108830275  #3111 PvP. PvE. MW: range, stability, handling
+dimwishlist:item=1216130969&perks=1467527085,1885400500,2450788523,3108830275  #3211 PvP. PvE. MW: range, stability, handling
+dimwishlist:item=1216130969&perks=1467527085,1968497646,2450788523,3108830275  #3311 PvP. PvE. MW: range, stability, handling
+dimwishlist:item=1216130969&perks=1467527085,679225683,2450788523,3108830275  #3411 PvP. PvE. MW: range, stability, handling
+dimwishlist:item=1216130969&perks=1482024992,1561002382,2450788523,3108830275  #4111 PvP. PvE. MW: range, stability, handling
+dimwishlist:item=1216130969&perks=1482024992,1885400500,2450788523,3108830275  #4211 PvP. PvE. MW: range, stability, handling
+dimwishlist:item=1216130969&perks=1482024992,1968497646,2450788523,3108830275  #4311 PvP. PvE. MW: range, stability, handling
+dimwishlist:item=1216130969&perks=1482024992,679225683,2450788523,3108830275  #4411 PvP. PvE. MW: range, stability, handling
+dimwishlist:item=1216130969&perks=4090651448,1561002382,2450788523,3108830275  #5111 PvP. PvE. MW: range, stability, handling
+dimwishlist:item=1216130969&perks=4090651448,1885400500,2450788523,3108830275  #5211 PvP. PvE. MW: range, stability, handling
+dimwishlist:item=1216130969&perks=4090651448,1968497646,2450788523,3108830275  #5311 PvP. PvE. MW: range, stability, handling
+dimwishlist:item=1216130969&perks=4090651448,679225683,2450788523,3108830275  #5411 PvP. PvE. MW: range, stability, handling
 // Killing Wind, Headseeker
-dimwishlist:item=1216130969&perks=202670084,1561002382,2450788523,460017080  #1112 PvP. MW: range, stability, handling
-dimwishlist:item=1216130969&perks=202670084,1885400500,2450788523,460017080  #1212 PvP. MW: range, stability, handling
-dimwishlist:item=1216130969&perks=202670084,1968497646,2450788523,460017080  #1312 PvP. MW: range, stability, handling
-dimwishlist:item=1216130969&perks=202670084,679225683,2450788523,460017080  #1412 PvP. MW: range, stability, handling
-dimwishlist:item=1216130969&perks=3250034553,1561002382,2450788523,460017080  #2112 PvP. MW: range, stability, handling
-dimwishlist:item=1216130969&perks=3250034553,1885400500,2450788523,460017080  #2212 PvP. MW: range, stability, handling
-dimwishlist:item=1216130969&perks=3250034553,1968497646,2450788523,460017080  #2312 PvP. MW: range, stability, handling
-dimwishlist:item=1216130969&perks=3250034553,679225683,2450788523,460017080  #2412 PvP. MW: range, stability, handling
-dimwishlist:item=1216130969&perks=1467527085,1561002382,2450788523,460017080  #3112 PvP. MW: range, stability, handling
-dimwishlist:item=1216130969&perks=1467527085,1885400500,2450788523,460017080  #3212 PvP. MW: range, stability, handling
-dimwishlist:item=1216130969&perks=1467527085,1968497646,2450788523,460017080  #3312 PvP. MW: range, stability, handling
-dimwishlist:item=1216130969&perks=1467527085,679225683,2450788523,460017080  #3412 PvP. MW: range, stability, handling
-dimwishlist:item=1216130969&perks=1482024992,1561002382,2450788523,460017080  #4112 PvP. MW: range, stability, handling
-dimwishlist:item=1216130969&perks=1482024992,1885400500,2450788523,460017080  #4212 PvP. MW: range, stability, handling
-dimwishlist:item=1216130969&perks=1482024992,1968497646,2450788523,460017080  #4312 PvP. MW: range, stability, handling
-dimwishlist:item=1216130969&perks=1482024992,679225683,2450788523,460017080  #4412 PvP. MW: range, stability, handling
-dimwishlist:item=1216130969&perks=4090651448,1561002382,2450788523,460017080  #5112 PvP. MW: range, stability, handling
-dimwishlist:item=1216130969&perks=4090651448,1885400500,2450788523,460017080  #5212 PvP. MW: range, stability, handling
-dimwishlist:item=1216130969&perks=4090651448,1968497646,2450788523,460017080  #5312 PvP. MW: range, stability, handling
-dimwishlist:item=1216130969&perks=4090651448,679225683,2450788523,460017080  #5412 PvP. MW: range, stability, handling
+dimwishlist:item=1216130969&perks=202670084,1561002382,2450788523,460017080  #1112 PvP. PvE. MW: range, stability, handling
+dimwishlist:item=1216130969&perks=202670084,1885400500,2450788523,460017080  #1212 PvP. PvE. MW: range, stability, handling
+dimwishlist:item=1216130969&perks=202670084,1968497646,2450788523,460017080  #1312 PvP. PvE. MW: range, stability, handling
+dimwishlist:item=1216130969&perks=202670084,679225683,2450788523,460017080  #1412 PvP. PvE. MW: range, stability, handling
+dimwishlist:item=1216130969&perks=3250034553,1561002382,2450788523,460017080  #2112 PvP. PvE. MW: range, stability, handling
+dimwishlist:item=1216130969&perks=3250034553,1885400500,2450788523,460017080  #2212 PvP. PvE. MW: range, stability, handling
+dimwishlist:item=1216130969&perks=3250034553,1968497646,2450788523,460017080  #2312 PvP. PvE. MW: range, stability, handling
+dimwishlist:item=1216130969&perks=3250034553,679225683,2450788523,460017080  #2412 PvP. PvE. MW: range, stability, handling
+dimwishlist:item=1216130969&perks=1467527085,1561002382,2450788523,460017080  #3112 PvP. PvE. MW: range, stability, handling
+dimwishlist:item=1216130969&perks=1467527085,1885400500,2450788523,460017080  #3212 PvP. PvE. MW: range, stability, handling
+dimwishlist:item=1216130969&perks=1467527085,1968497646,2450788523,460017080  #3312 PvP. PvE. MW: range, stability, handling
+dimwishlist:item=1216130969&perks=1467527085,679225683,2450788523,460017080  #3412 PvP. PvE. MW: range, stability, handling
+dimwishlist:item=1216130969&perks=1482024992,1561002382,2450788523,460017080  #4112 PvP. PvE. MW: range, stability, handling
+dimwishlist:item=1216130969&perks=1482024992,1885400500,2450788523,460017080  #4212 PvP. PvE. MW: range, stability, handling
+dimwishlist:item=1216130969&perks=1482024992,1968497646,2450788523,460017080  #4312 PvP. PvE. MW: range, stability, handling
+dimwishlist:item=1216130969&perks=1482024992,679225683,2450788523,460017080  #4412 PvP. PvE. MW: range, stability, handling
+dimwishlist:item=1216130969&perks=4090651448,1561002382,2450788523,460017080  #5112 PvP. PvE. MW: range, stability, handling
+dimwishlist:item=1216130969&perks=4090651448,1885400500,2450788523,460017080  #5212 PvP. PvE. MW: range, stability, handling
+dimwishlist:item=1216130969&perks=4090651448,1968497646,2450788523,460017080  #5312 PvP. PvE. MW: range, stability, handling
+dimwishlist:item=1216130969&perks=4090651448,679225683,2450788523,460017080  #5412 PvP. PvE. MW: range, stability, handling
 // Killing Wind, Multikill Clip
-dimwishlist:item=1216130969&perks=202670084,1561002382,2450788523,2458213969  #1113 PvP. MW: range, stability, handling
-dimwishlist:item=1216130969&perks=202670084,1885400500,2450788523,2458213969  #1213 PvP. MW: range, stability, handling
-dimwishlist:item=1216130969&perks=202670084,1968497646,2450788523,2458213969  #1313 PvP. MW: range, stability, handling
-dimwishlist:item=1216130969&perks=202670084,679225683,2450788523,2458213969  #1413 PvP. MW: range, stability, handling
-dimwishlist:item=1216130969&perks=3250034553,1561002382,2450788523,2458213969  #2113 PvP. MW: range, stability, handling
-dimwishlist:item=1216130969&perks=3250034553,1885400500,2450788523,2458213969  #2213 PvP. MW: range, stability, handling
-dimwishlist:item=1216130969&perks=3250034553,1968497646,2450788523,2458213969  #2313 PvP. MW: range, stability, handling
-dimwishlist:item=1216130969&perks=3250034553,679225683,2450788523,2458213969  #2413 PvP. MW: range, stability, handling
-dimwishlist:item=1216130969&perks=1467527085,1561002382,2450788523,2458213969  #3113 PvP. MW: range, stability, handling
-dimwishlist:item=1216130969&perks=1467527085,1885400500,2450788523,2458213969  #3213 PvP. MW: range, stability, handling
-dimwishlist:item=1216130969&perks=1467527085,1968497646,2450788523,2458213969  #3313 PvP. MW: range, stability, handling
-dimwishlist:item=1216130969&perks=1467527085,679225683,2450788523,2458213969  #3413 PvP. MW: range, stability, handling
-dimwishlist:item=1216130969&perks=1482024992,1561002382,2450788523,2458213969  #4113 PvP. MW: range, stability, handling
-dimwishlist:item=1216130969&perks=1482024992,1885400500,2450788523,2458213969  #4213 PvP. MW: range, stability, handling
-dimwishlist:item=1216130969&perks=1482024992,1968497646,2450788523,2458213969  #4313 PvP. MW: range, stability, handling
-dimwishlist:item=1216130969&perks=1482024992,679225683,2450788523,2458213969  #4413 PvP. MW: range, stability, handling
-dimwishlist:item=1216130969&perks=4090651448,1561002382,2450788523,2458213969  #5113 PvP. MW: range, stability, handling
-dimwishlist:item=1216130969&perks=4090651448,1885400500,2450788523,2458213969  #5213 PvP. MW: range, stability, handling
-dimwishlist:item=1216130969&perks=4090651448,1968497646,2450788523,2458213969  #5313 PvP. MW: range, stability, handling
-dimwishlist:item=1216130969&perks=4090651448,679225683,2450788523,2458213969  #5413 PvP. MW: range, stability, handling
+dimwishlist:item=1216130969&perks=202670084,1561002382,2450788523,2458213969  #1113 PvP. PvE. MW: range, stability, handling
+dimwishlist:item=1216130969&perks=202670084,1885400500,2450788523,2458213969  #1213 PvP. PvE. MW: range, stability, handling
+dimwishlist:item=1216130969&perks=202670084,1968497646,2450788523,2458213969  #1313 PvP. PvE. MW: range, stability, handling
+dimwishlist:item=1216130969&perks=202670084,679225683,2450788523,2458213969  #1413 PvP. PvE. MW: range, stability, handling
+dimwishlist:item=1216130969&perks=3250034553,1561002382,2450788523,2458213969  #2113 PvP. PvE. MW: range, stability, handling
+dimwishlist:item=1216130969&perks=3250034553,1885400500,2450788523,2458213969  #2213 PvP. PvE. MW: range, stability, handling
+dimwishlist:item=1216130969&perks=3250034553,1968497646,2450788523,2458213969  #2313 PvP. PvE. MW: range, stability, handling
+dimwishlist:item=1216130969&perks=3250034553,679225683,2450788523,2458213969  #2413 PvP. PvE. MW: range, stability, handling
+dimwishlist:item=1216130969&perks=1467527085,1561002382,2450788523,2458213969  #3113 PvP. PvE. MW: range, stability, handling
+dimwishlist:item=1216130969&perks=1467527085,1885400500,2450788523,2458213969  #3213 PvP. PvE. MW: range, stability, handling
+dimwishlist:item=1216130969&perks=1467527085,1968497646,2450788523,2458213969  #3313 PvP. PvE. MW: range, stability, handling
+dimwishlist:item=1216130969&perks=1467527085,679225683,2450788523,2458213969  #3413 PvP. PvE. MW: range, stability, handling
+dimwishlist:item=1216130969&perks=1482024992,1561002382,2450788523,2458213969  #4113 PvP. PvE. MW: range, stability, handling
+dimwishlist:item=1216130969&perks=1482024992,1885400500,2450788523,2458213969  #4213 PvP. PvE. MW: range, stability, handling
+dimwishlist:item=1216130969&perks=1482024992,1968497646,2450788523,2458213969  #4313 PvP. PvE. MW: range, stability, handling
+dimwishlist:item=1216130969&perks=1482024992,679225683,2450788523,2458213969  #4413 PvP. PvE. MW: range, stability, handling
+dimwishlist:item=1216130969&perks=4090651448,1561002382,2450788523,2458213969  #5113 PvP. PvE. MW: range, stability, handling
+dimwishlist:item=1216130969&perks=4090651448,1885400500,2450788523,2458213969  #5213 PvP. PvE. MW: range, stability, handling
+dimwishlist:item=1216130969&perks=4090651448,1968497646,2450788523,2458213969  #5313 PvP. PvE. MW: range, stability, handling
+dimwishlist:item=1216130969&perks=4090651448,679225683,2450788523,2458213969  #5413 PvP. PvE. MW: range, stability, handling
 // Killing Wind, Swashbuckler
-dimwishlist:item=1216130969&perks=202670084,1561002382,2450788523,4082225868  #1114 PvP. MW: range, stability, handling
-dimwishlist:item=1216130969&perks=202670084,1885400500,2450788523,4082225868  #1214 PvP. MW: range, stability, handling
-dimwishlist:item=1216130969&perks=202670084,1968497646,2450788523,4082225868  #1314 PvP. MW: range, stability, handling
-dimwishlist:item=1216130969&perks=202670084,679225683,2450788523,4082225868  #1414 PvP. MW: range, stability, handling
-dimwishlist:item=1216130969&perks=3250034553,1561002382,2450788523,4082225868  #2114 PvP. MW: range, stability, handling
-dimwishlist:item=1216130969&perks=3250034553,1885400500,2450788523,4082225868  #2214 PvP. MW: range, stability, handling
-dimwishlist:item=1216130969&perks=3250034553,1968497646,2450788523,4082225868  #2314 PvP. MW: range, stability, handling
-dimwishlist:item=1216130969&perks=3250034553,679225683,2450788523,4082225868  #2414 PvP. MW: range, stability, handling
-dimwishlist:item=1216130969&perks=1467527085,1561002382,2450788523,4082225868  #3114 PvP. MW: range, stability, handling
-dimwishlist:item=1216130969&perks=1467527085,1885400500,2450788523,4082225868  #3214 PvP. MW: range, stability, handling
-dimwishlist:item=1216130969&perks=1467527085,1968497646,2450788523,4082225868  #3314 PvP. MW: range, stability, handling
-dimwishlist:item=1216130969&perks=1467527085,679225683,2450788523,4082225868  #3414 PvP. MW: range, stability, handling
-dimwishlist:item=1216130969&perks=1482024992,1561002382,2450788523,4082225868  #4114 PvP. MW: range, stability, handling
-dimwishlist:item=1216130969&perks=1482024992,1885400500,2450788523,4082225868  #4214 PvP. MW: range, stability, handling
-dimwishlist:item=1216130969&perks=1482024992,1968497646,2450788523,4082225868  #4314 PvP. MW: range, stability, handling
-dimwishlist:item=1216130969&perks=1482024992,679225683,2450788523,4082225868  #4414 PvP. MW: range, stability, handling
-dimwishlist:item=1216130969&perks=4090651448,1561002382,2450788523,4082225868  #5114 PvP. MW: range, stability, handling
-dimwishlist:item=1216130969&perks=4090651448,1885400500,2450788523,4082225868  #5214 PvP. MW: range, stability, handling
-dimwishlist:item=1216130969&perks=4090651448,1968497646,2450788523,4082225868  #5314 PvP. MW: range, stability, handling
-dimwishlist:item=1216130969&perks=4090651448,679225683,2450788523,4082225868  #5414 PvP. MW: range, stability, handling
-// Killing Wind, Headseeker
-dimwishlist:item=1216130969&perks=202670084,1561002382,2450788523,460017080  #1111 PvP. MW: range, stability, handling
-dimwishlist:item=1216130969&perks=202670084,1885400500,2450788523,460017080  #1211 PvP. MW: range, stability, handling
-dimwishlist:item=1216130969&perks=202670084,1968497646,2450788523,460017080  #1311 PvP. MW: range, stability, handling
-dimwishlist:item=1216130969&perks=202670084,679225683,2450788523,460017080  #1411 PvP. MW: range, stability, handling
-dimwishlist:item=1216130969&perks=3250034553,1561002382,2450788523,460017080  #2111 PvP. MW: range, stability, handling
-dimwishlist:item=1216130969&perks=3250034553,1885400500,2450788523,460017080  #2211 PvP. MW: range, stability, handling
-dimwishlist:item=1216130969&perks=3250034553,1968497646,2450788523,460017080  #2311 PvP. MW: range, stability, handling
-dimwishlist:item=1216130969&perks=3250034553,679225683,2450788523,460017080  #2411 PvP. MW: range, stability, handling
-dimwishlist:item=1216130969&perks=1467527085,1561002382,2450788523,460017080  #3111 PvP. MW: range, stability, handling
-dimwishlist:item=1216130969&perks=1467527085,1885400500,2450788523,460017080  #3211 PvP. MW: range, stability, handling
-dimwishlist:item=1216130969&perks=1467527085,1968497646,2450788523,460017080  #3311 PvP. MW: range, stability, handling
-dimwishlist:item=1216130969&perks=1467527085,679225683,2450788523,460017080  #3411 PvP. MW: range, stability, handling
-dimwishlist:item=1216130969&perks=1482024992,1561002382,2450788523,460017080  #4111 PvP. MW: range, stability, handling
-dimwishlist:item=1216130969&perks=1482024992,1885400500,2450788523,460017080  #4211 PvP. MW: range, stability, handling
-dimwishlist:item=1216130969&perks=1482024992,1968497646,2450788523,460017080  #4311 PvP. MW: range, stability, handling
-dimwishlist:item=1216130969&perks=1482024992,679225683,2450788523,460017080  #4411 PvP. MW: range, stability, handling
-dimwishlist:item=1216130969&perks=4090651448,1561002382,2450788523,460017080  #5111 PvP. MW: range, stability, handling
-dimwishlist:item=1216130969&perks=4090651448,1885400500,2450788523,460017080  #5211 PvP. MW: range, stability, handling
-dimwishlist:item=1216130969&perks=4090651448,1968497646,2450788523,460017080  #5311 PvP. MW: range, stability, handling
-dimwishlist:item=1216130969&perks=4090651448,679225683,2450788523,460017080  #5411 PvP. MW: range, stability, handling
-// Killing Wind, Unrelenting
-dimwishlist:item=1216130969&perks=202670084,1561002382,2450788523,3108830275  #1112 PvP. MW: range, stability, handling
-dimwishlist:item=1216130969&perks=202670084,1885400500,2450788523,3108830275  #1212 PvP. MW: range, stability, handling
-dimwishlist:item=1216130969&perks=202670084,1968497646,2450788523,3108830275  #1312 PvP. MW: range, stability, handling
-dimwishlist:item=1216130969&perks=202670084,679225683,2450788523,3108830275  #1412 PvP. MW: range, stability, handling
-dimwishlist:item=1216130969&perks=3250034553,1561002382,2450788523,3108830275  #2112 PvP. MW: range, stability, handling
-dimwishlist:item=1216130969&perks=3250034553,1885400500,2450788523,3108830275  #2212 PvP. MW: range, stability, handling
-dimwishlist:item=1216130969&perks=3250034553,1968497646,2450788523,3108830275  #2312 PvP. MW: range, stability, handling
-dimwishlist:item=1216130969&perks=3250034553,679225683,2450788523,3108830275  #2412 PvP. MW: range, stability, handling
-dimwishlist:item=1216130969&perks=1467527085,1561002382,2450788523,3108830275  #3112 PvP. MW: range, stability, handling
-dimwishlist:item=1216130969&perks=1467527085,1885400500,2450788523,3108830275  #3212 PvP. MW: range, stability, handling
-dimwishlist:item=1216130969&perks=1467527085,1968497646,2450788523,3108830275  #3312 PvP. MW: range, stability, handling
-dimwishlist:item=1216130969&perks=1467527085,679225683,2450788523,3108830275  #3412 PvP. MW: range, stability, handling
-dimwishlist:item=1216130969&perks=1482024992,1561002382,2450788523,3108830275  #4112 PvP. MW: range, stability, handling
-dimwishlist:item=1216130969&perks=1482024992,1885400500,2450788523,3108830275  #4212 PvP. MW: range, stability, handling
-dimwishlist:item=1216130969&perks=1482024992,1968497646,2450788523,3108830275  #4312 PvP. MW: range, stability, handling
-dimwishlist:item=1216130969&perks=1482024992,679225683,2450788523,3108830275  #4412 PvP. MW: range, stability, handling
-dimwishlist:item=1216130969&perks=4090651448,1561002382,2450788523,3108830275  #5112 PvP. MW: range, stability, handling
-dimwishlist:item=1216130969&perks=4090651448,1885400500,2450788523,3108830275  #5212 PvP. MW: range, stability, handling
-dimwishlist:item=1216130969&perks=4090651448,1968497646,2450788523,3108830275  #5312 PvP. MW: range, stability, handling
-dimwishlist:item=1216130969&perks=4090651448,679225683,2450788523,3108830275  #5412 PvP. MW: range, stability, handling
-// Killing Wind, Multikill Clip
-dimwishlist:item=1216130969&perks=202670084,1561002382,2450788523,2458213969  #1113 PvP. MW: range, stability, handling
-dimwishlist:item=1216130969&perks=202670084,1885400500,2450788523,2458213969  #1213 PvP. MW: range, stability, handling
-dimwishlist:item=1216130969&perks=202670084,1968497646,2450788523,2458213969  #1313 PvP. MW: range, stability, handling
-dimwishlist:item=1216130969&perks=202670084,679225683,2450788523,2458213969  #1413 PvP. MW: range, stability, handling
-dimwishlist:item=1216130969&perks=3250034553,1561002382,2450788523,2458213969  #2113 PvP. MW: range, stability, handling
-dimwishlist:item=1216130969&perks=3250034553,1885400500,2450788523,2458213969  #2213 PvP. MW: range, stability, handling
-dimwishlist:item=1216130969&perks=3250034553,1968497646,2450788523,2458213969  #2313 PvP. MW: range, stability, handling
-dimwishlist:item=1216130969&perks=3250034553,679225683,2450788523,2458213969  #2413 PvP. MW: range, stability, handling
-dimwishlist:item=1216130969&perks=1467527085,1561002382,2450788523,2458213969  #3113 PvP. MW: range, stability, handling
-dimwishlist:item=1216130969&perks=1467527085,1885400500,2450788523,2458213969  #3213 PvP. MW: range, stability, handling
-dimwishlist:item=1216130969&perks=1467527085,1968497646,2450788523,2458213969  #3313 PvP. MW: range, stability, handling
-dimwishlist:item=1216130969&perks=1467527085,679225683,2450788523,2458213969  #3413 PvP. MW: range, stability, handling
-dimwishlist:item=1216130969&perks=1482024992,1561002382,2450788523,2458213969  #4113 PvP. MW: range, stability, handling
-dimwishlist:item=1216130969&perks=1482024992,1885400500,2450788523,2458213969  #4213 PvP. MW: range, stability, handling
-dimwishlist:item=1216130969&perks=1482024992,1968497646,2450788523,2458213969  #4313 PvP. MW: range, stability, handling
-dimwishlist:item=1216130969&perks=1482024992,679225683,2450788523,2458213969  #4413 PvP. MW: range, stability, handling
-dimwishlist:item=1216130969&perks=4090651448,1561002382,2450788523,2458213969  #5113 PvP. MW: range, stability, handling
-dimwishlist:item=1216130969&perks=4090651448,1885400500,2450788523,2458213969  #5213 PvP. MW: range, stability, handling
-dimwishlist:item=1216130969&perks=4090651448,1968497646,2450788523,2458213969  #5313 PvP. MW: range, stability, handling
-dimwishlist:item=1216130969&perks=4090651448,679225683,2450788523,2458213969  #5413 PvP. MW: range, stability, handling
-// Killing Wind, Swashbuckler
-dimwishlist:item=1216130969&perks=202670084,1561002382,2450788523,4082225868  #1114 PvP. MW: range, stability, handling
-dimwishlist:item=1216130969&perks=202670084,1885400500,2450788523,4082225868  #1214 PvP. MW: range, stability, handling
-dimwishlist:item=1216130969&perks=202670084,1968497646,2450788523,4082225868  #1314 PvP. MW: range, stability, handling
-dimwishlist:item=1216130969&perks=202670084,679225683,2450788523,4082225868  #1414 PvP. MW: range, stability, handling
-dimwishlist:item=1216130969&perks=3250034553,1561002382,2450788523,4082225868  #2114 PvP. MW: range, stability, handling
-dimwishlist:item=1216130969&perks=3250034553,1885400500,2450788523,4082225868  #2214 PvP. MW: range, stability, handling
-dimwishlist:item=1216130969&perks=3250034553,1968497646,2450788523,4082225868  #2314 PvP. MW: range, stability, handling
-dimwishlist:item=1216130969&perks=3250034553,679225683,2450788523,4082225868  #2414 PvP. MW: range, stability, handling
-dimwishlist:item=1216130969&perks=1467527085,1561002382,2450788523,4082225868  #3114 PvP. MW: range, stability, handling
-dimwishlist:item=1216130969&perks=1467527085,1885400500,2450788523,4082225868  #3214 PvP. MW: range, stability, handling
-dimwishlist:item=1216130969&perks=1467527085,1968497646,2450788523,4082225868  #3314 PvP. MW: range, stability, handling
-dimwishlist:item=1216130969&perks=1467527085,679225683,2450788523,4082225868  #3414 PvP. MW: range, stability, handling
-dimwishlist:item=1216130969&perks=1482024992,1561002382,2450788523,4082225868  #4114 PvP. MW: range, stability, handling
-dimwishlist:item=1216130969&perks=1482024992,1885400500,2450788523,4082225868  #4214 PvP. MW: range, stability, handling
-dimwishlist:item=1216130969&perks=1482024992,1968497646,2450788523,4082225868  #4314 PvP. MW: range, stability, handling
-dimwishlist:item=1216130969&perks=1482024992,679225683,2450788523,4082225868  #4414 PvP. MW: range, stability, handling
-dimwishlist:item=1216130969&perks=4090651448,1561002382,2450788523,4082225868  #5114 PvP. MW: range, stability, handling
-dimwishlist:item=1216130969&perks=4090651448,1885400500,2450788523,4082225868  #5214 PvP. MW: range, stability, handling
-dimwishlist:item=1216130969&perks=4090651448,1968497646,2450788523,4082225868  #5314 PvP. MW: range, stability, handling
-dimwishlist:item=1216130969&perks=4090651448,679225683,2450788523,4082225868  #5414 PvP. MW: range, stability, handling
+dimwishlist:item=1216130969&perks=202670084,1561002382,2450788523,4082225868  #1114 PvP. PvE. MW: range, stability, handling
+dimwishlist:item=1216130969&perks=202670084,1885400500,2450788523,4082225868  #1214 PvP. PvE. MW: range, stability, handling
+dimwishlist:item=1216130969&perks=202670084,1968497646,2450788523,4082225868  #1314 PvP. PvE. MW: range, stability, handling
+dimwishlist:item=1216130969&perks=202670084,679225683,2450788523,4082225868  #1414 PvP. PvE. MW: range, stability, handling
+dimwishlist:item=1216130969&perks=3250034553,1561002382,2450788523,4082225868  #2114 PvP. PvE. MW: range, stability, handling
+dimwishlist:item=1216130969&perks=3250034553,1885400500,2450788523,4082225868  #2214 PvP. PvE. MW: range, stability, handling
+dimwishlist:item=1216130969&perks=3250034553,1968497646,2450788523,4082225868  #2314 PvP. PvE. MW: range, stability, handling
+dimwishlist:item=1216130969&perks=3250034553,679225683,2450788523,4082225868  #2414 PvP. PvE. MW: range, stability, handling
+dimwishlist:item=1216130969&perks=1467527085,1561002382,2450788523,4082225868  #3114 PvP. PvE. MW: range, stability, handling
+dimwishlist:item=1216130969&perks=1467527085,1885400500,2450788523,4082225868  #3214 PvP. PvE. MW: range, stability, handling
+dimwishlist:item=1216130969&perks=1467527085,1968497646,2450788523,4082225868  #3314 PvP. PvE. MW: range, stability, handling
+dimwishlist:item=1216130969&perks=1467527085,679225683,2450788523,4082225868  #3414 PvP. PvE. MW: range, stability, handling
+dimwishlist:item=1216130969&perks=1482024992,1561002382,2450788523,4082225868  #4114 PvP. PvE. MW: range, stability, handling
+dimwishlist:item=1216130969&perks=1482024992,1885400500,2450788523,4082225868  #4214 PvP. PvE. MW: range, stability, handling
+dimwishlist:item=1216130969&perks=1482024992,1968497646,2450788523,4082225868  #4314 PvP. PvE. MW: range, stability, handling
+dimwishlist:item=1216130969&perks=1482024992,679225683,2450788523,4082225868  #4414 PvP. PvE. MW: range, stability, handling
+dimwishlist:item=1216130969&perks=4090651448,1561002382,2450788523,4082225868  #5114 PvP. PvE. MW: range, stability, handling
+dimwishlist:item=1216130969&perks=4090651448,1885400500,2450788523,4082225868  #5214 PvP. PvE. MW: range, stability, handling
+dimwishlist:item=1216130969&perks=4090651448,1968497646,2450788523,4082225868  #5314 PvP. PvE. MW: range, stability, handling
+dimwishlist:item=1216130969&perks=4090651448,679225683,2450788523,4082225868  #5414 PvP. PvE. MW: range, stability, handling
 // Feeding Frenzy, Multikill Clip
-dimwishlist:item=1216130969&perks=202670084,1561002382,2779035018,2458213969  #1111 PvP. MW: range, stability, handling
-dimwishlist:item=1216130969&perks=202670084,1885400500,2779035018,2458213969  #1211 PvP. MW: range, stability, handling
-dimwishlist:item=1216130969&perks=202670084,1968497646,2779035018,2458213969  #1311 PvP. MW: range, stability, handling
-dimwishlist:item=1216130969&perks=202670084,679225683,2779035018,2458213969  #1411 PvP. MW: range, stability, handling
-dimwishlist:item=1216130969&perks=3250034553,1561002382,2779035018,2458213969  #2111 PvP. MW: range, stability, handling
-dimwishlist:item=1216130969&perks=3250034553,1885400500,2779035018,2458213969  #2211 PvP. MW: range, stability, handling
-dimwishlist:item=1216130969&perks=3250034553,1968497646,2779035018,2458213969  #2311 PvP. MW: range, stability, handling
-dimwishlist:item=1216130969&perks=3250034553,679225683,2779035018,2458213969  #2411 PvP. MW: range, stability, handling
-dimwishlist:item=1216130969&perks=1467527085,1561002382,2779035018,2458213969  #3111 PvP. MW: range, stability, handling
-dimwishlist:item=1216130969&perks=1467527085,1885400500,2779035018,2458213969  #3211 PvP. MW: range, stability, handling
-dimwishlist:item=1216130969&perks=1467527085,1968497646,2779035018,2458213969  #3311 PvP. MW: range, stability, handling
-dimwishlist:item=1216130969&perks=1467527085,679225683,2779035018,2458213969  #3411 PvP. MW: range, stability, handling
-dimwishlist:item=1216130969&perks=1482024992,1561002382,2779035018,2458213969  #4111 PvP. MW: range, stability, handling
-dimwishlist:item=1216130969&perks=1482024992,1885400500,2779035018,2458213969  #4211 PvP. MW: range, stability, handling
-dimwishlist:item=1216130969&perks=1482024992,1968497646,2779035018,2458213969  #4311 PvP. MW: range, stability, handling
-dimwishlist:item=1216130969&perks=1482024992,679225683,2779035018,2458213969  #4411 PvP. MW: range, stability, handling
-dimwishlist:item=1216130969&perks=4090651448,1561002382,2779035018,2458213969  #5111 PvP. MW: range, stability, handling
-dimwishlist:item=1216130969&perks=4090651448,1885400500,2779035018,2458213969  #5211 PvP. MW: range, stability, handling
-dimwishlist:item=1216130969&perks=4090651448,1968497646,2779035018,2458213969  #5311 PvP. MW: range, stability, handling
-dimwishlist:item=1216130969&perks=4090651448,679225683,2779035018,2458213969  #5411 PvP. MW: range, stability, handling
-// Pulse Monitor, Unrelenting
-dimwishlist:item=1216130969&perks=202670084,1561002382,972757866,3108830275  #1111 PvP. Playing around with being critically wounded. MW: range, stability, handling
-dimwishlist:item=1216130969&perks=202670084,1885400500,972757866,3108830275  #1211 PvP. Playing around with being critically wounded. MW: range, stability, handling
-dimwishlist:item=1216130969&perks=202670084,1968497646,972757866,3108830275  #1311 PvP. Playing around with being critically wounded. MW: range, stability, handling
-dimwishlist:item=1216130969&perks=202670084,679225683,972757866,3108830275  #1411 PvP. Playing around with being critically wounded. MW: range, stability, handling
-dimwishlist:item=1216130969&perks=3250034553,1561002382,972757866,3108830275  #2111 PvP. Playing around with being critically wounded. MW: range, stability, handling
-dimwishlist:item=1216130969&perks=3250034553,1885400500,972757866,3108830275  #2211 PvP. Playing around with being critically wounded. MW: range, stability, handling
-dimwishlist:item=1216130969&perks=3250034553,1968497646,972757866,3108830275  #2311 PvP. Playing around with being critically wounded. MW: range, stability, handling
-dimwishlist:item=1216130969&perks=3250034553,679225683,972757866,3108830275  #2411 PvP. Playing around with being critically wounded. MW: range, stability, handling
-dimwishlist:item=1216130969&perks=1467527085,1561002382,972757866,3108830275  #3111 PvP. Playing around with being critically wounded. MW: range, stability, handling
-dimwishlist:item=1216130969&perks=1467527085,1885400500,972757866,3108830275  #3211 PvP. Playing around with being critically wounded. MW: range, stability, handling
-dimwishlist:item=1216130969&perks=1467527085,1968497646,972757866,3108830275  #3311 PvP. Playing around with being critically wounded. MW: range, stability, handling
-dimwishlist:item=1216130969&perks=1467527085,679225683,972757866,3108830275  #3411 PvP. Playing around with being critically wounded. MW: range, stability, handling
-dimwishlist:item=1216130969&perks=1482024992,1561002382,972757866,3108830275  #4111 PvP. Playing around with being critically wounded. MW: range, stability, handling
-dimwishlist:item=1216130969&perks=1482024992,1885400500,972757866,3108830275  #4211 PvP. Playing around with being critically wounded. MW: range, stability, handling
-dimwishlist:item=1216130969&perks=1482024992,1968497646,972757866,3108830275  #4311 PvP. Playing around with being critically wounded. MW: range, stability, handling
-dimwishlist:item=1216130969&perks=1482024992,679225683,972757866,3108830275  #4411 PvP. Playing around with being critically wounded. MW: range, stability, handling
-dimwishlist:item=1216130969&perks=4090651448,1561002382,972757866,3108830275  #5111 PvP. Playing around with being critically wounded. MW: range, stability, handling
-dimwishlist:item=1216130969&perks=4090651448,1885400500,972757866,3108830275  #5211 PvP. Playing around with being critically wounded. MW: range, stability, handling
-dimwishlist:item=1216130969&perks=4090651448,1968497646,972757866,3108830275  #5311 PvP. Playing around with being critically wounded. MW: range, stability, handling
-dimwishlist:item=1216130969&perks=4090651448,679225683,972757866,3108830275  #5411 PvP. Playing around with being critically wounded. MW: range, stability, handling
+dimwishlist:item=1216130969&perks=202670084,1561002382,2779035018,2458213969  #1111 PvP. PvE. MW: range, stability, handling
+dimwishlist:item=1216130969&perks=202670084,1885400500,2779035018,2458213969  #1211 PvP. PvE. MW: range, stability, handling
+dimwishlist:item=1216130969&perks=202670084,1968497646,2779035018,2458213969  #1311 PvP. PvE. MW: range, stability, handling
+dimwishlist:item=1216130969&perks=202670084,679225683,2779035018,2458213969  #1411 PvP. PvE. MW: range, stability, handling
+dimwishlist:item=1216130969&perks=3250034553,1561002382,2779035018,2458213969  #2111 PvP. PvE. MW: range, stability, handling
+dimwishlist:item=1216130969&perks=3250034553,1885400500,2779035018,2458213969  #2211 PvP. PvE. MW: range, stability, handling
+dimwishlist:item=1216130969&perks=3250034553,1968497646,2779035018,2458213969  #2311 PvP. PvE. MW: range, stability, handling
+dimwishlist:item=1216130969&perks=3250034553,679225683,2779035018,2458213969  #2411 PvP. PvE. MW: range, stability, handling
+dimwishlist:item=1216130969&perks=1467527085,1561002382,2779035018,2458213969  #3111 PvP. PvE. MW: range, stability, handling
+dimwishlist:item=1216130969&perks=1467527085,1885400500,2779035018,2458213969  #3211 PvP. PvE. MW: range, stability, handling
+dimwishlist:item=1216130969&perks=1467527085,1968497646,2779035018,2458213969  #3311 PvP. PvE. MW: range, stability, handling
+dimwishlist:item=1216130969&perks=1467527085,679225683,2779035018,2458213969  #3411 PvP. PvE. MW: range, stability, handling
+dimwishlist:item=1216130969&perks=1482024992,1561002382,2779035018,2458213969  #4111 PvP. PvE. MW: range, stability, handling
+dimwishlist:item=1216130969&perks=1482024992,1885400500,2779035018,2458213969  #4211 PvP. PvE. MW: range, stability, handling
+dimwishlist:item=1216130969&perks=1482024992,1968497646,2779035018,2458213969  #4311 PvP. PvE. MW: range, stability, handling
+dimwishlist:item=1216130969&perks=1482024992,679225683,2779035018,2458213969  #4411 PvP. PvE. MW: range, stability, handling
+dimwishlist:item=1216130969&perks=4090651448,1561002382,2779035018,2458213969  #5111 PvP. PvE. MW: range, stability, handling
+dimwishlist:item=1216130969&perks=4090651448,1885400500,2779035018,2458213969  #5211 PvP. PvE. MW: range, stability, handling
+dimwishlist:item=1216130969&perks=4090651448,1968497646,2779035018,2458213969  #5311 PvP. PvE. MW: range, stability, handling
+dimwishlist:item=1216130969&perks=4090651448,679225683,2779035018,2458213969  #5411 PvP. PvE. MW: range, stability, handling
+// Feeding Frenzy, Swashbuckler
+dimwishlist:item=1216130969&perks=202670084,1561002382,2779035018,4082225868  #1112 PvP. PvE. MW: range, stability, handling
+dimwishlist:item=1216130969&perks=202670084,1885400500,2779035018,4082225868  #1212 PvP. PvE. MW: range, stability, handling
+dimwishlist:item=1216130969&perks=202670084,1968497646,2779035018,4082225868  #1312 PvP. PvE. MW: range, stability, handling
+dimwishlist:item=1216130969&perks=202670084,679225683,2779035018,4082225868  #1412 PvP. PvE. MW: range, stability, handling
+dimwishlist:item=1216130969&perks=3250034553,1561002382,2779035018,4082225868  #2112 PvP. PvE. MW: range, stability, handling
+dimwishlist:item=1216130969&perks=3250034553,1885400500,2779035018,4082225868  #2212 PvP. PvE. MW: range, stability, handling
+dimwishlist:item=1216130969&perks=3250034553,1968497646,2779035018,4082225868  #2312 PvP. PvE. MW: range, stability, handling
+dimwishlist:item=1216130969&perks=3250034553,679225683,2779035018,4082225868  #2412 PvP. PvE. MW: range, stability, handling
+dimwishlist:item=1216130969&perks=1467527085,1561002382,2779035018,4082225868  #3112 PvP. PvE. MW: range, stability, handling
+dimwishlist:item=1216130969&perks=1467527085,1885400500,2779035018,4082225868  #3212 PvP. PvE. MW: range, stability, handling
+dimwishlist:item=1216130969&perks=1467527085,1968497646,2779035018,4082225868  #3312 PvP. PvE. MW: range, stability, handling
+dimwishlist:item=1216130969&perks=1467527085,679225683,2779035018,4082225868  #3412 PvP. PvE. MW: range, stability, handling
+dimwishlist:item=1216130969&perks=1482024992,1561002382,2779035018,4082225868  #4112 PvP. PvE. MW: range, stability, handling
+dimwishlist:item=1216130969&perks=1482024992,1885400500,2779035018,4082225868  #4212 PvP. PvE. MW: range, stability, handling
+dimwishlist:item=1216130969&perks=1482024992,1968497646,2779035018,4082225868  #4312 PvP. PvE. MW: range, stability, handling
+dimwishlist:item=1216130969&perks=1482024992,679225683,2779035018,4082225868  #4412 PvP. PvE. MW: range, stability, handling
+dimwishlist:item=1216130969&perks=4090651448,1561002382,2779035018,4082225868  #5112 PvP. PvE. MW: range, stability, handling
+dimwishlist:item=1216130969&perks=4090651448,1885400500,2779035018,4082225868  #5212 PvP. PvE. MW: range, stability, handling
+dimwishlist:item=1216130969&perks=4090651448,1968497646,2779035018,4082225868  #5312 PvP. PvE. MW: range, stability, handling
+dimwishlist:item=1216130969&perks=4090651448,679225683,2779035018,4082225868  #5412 PvP. PvE. MW: range, stability, handling
+// Feeding Frenzy, Unrelenting
+dimwishlist:item=1216130969&perks=202670084,1561002382,2779035018,3108830275  #1113 PvP. PvE. MW: range, stability, handling
+dimwishlist:item=1216130969&perks=202670084,1885400500,2779035018,3108830275  #1213 PvP. PvE. MW: range, stability, handling
+dimwishlist:item=1216130969&perks=202670084,1968497646,2779035018,3108830275  #1313 PvP. PvE. MW: range, stability, handling
+dimwishlist:item=1216130969&perks=202670084,679225683,2779035018,3108830275  #1413 PvP. PvE. MW: range, stability, handling
+dimwishlist:item=1216130969&perks=3250034553,1561002382,2779035018,3108830275  #2113 PvP. PvE. MW: range, stability, handling
+dimwishlist:item=1216130969&perks=3250034553,1885400500,2779035018,3108830275  #2213 PvP. PvE. MW: range, stability, handling
+dimwishlist:item=1216130969&perks=3250034553,1968497646,2779035018,3108830275  #2313 PvP. PvE. MW: range, stability, handling
+dimwishlist:item=1216130969&perks=3250034553,679225683,2779035018,3108830275  #2413 PvP. PvE. MW: range, stability, handling
+dimwishlist:item=1216130969&perks=1467527085,1561002382,2779035018,3108830275  #3113 PvP. PvE. MW: range, stability, handling
+dimwishlist:item=1216130969&perks=1467527085,1885400500,2779035018,3108830275  #3213 PvP. PvE. MW: range, stability, handling
+dimwishlist:item=1216130969&perks=1467527085,1968497646,2779035018,3108830275  #3313 PvP. PvE. MW: range, stability, handling
+dimwishlist:item=1216130969&perks=1467527085,679225683,2779035018,3108830275  #3413 PvP. PvE. MW: range, stability, handling
+dimwishlist:item=1216130969&perks=1482024992,1561002382,2779035018,3108830275  #4113 PvP. PvE. MW: range, stability, handling
+dimwishlist:item=1216130969&perks=1482024992,1885400500,2779035018,3108830275  #4213 PvP. PvE. MW: range, stability, handling
+dimwishlist:item=1216130969&perks=1482024992,1968497646,2779035018,3108830275  #4313 PvP. PvE. MW: range, stability, handling
+dimwishlist:item=1216130969&perks=1482024992,679225683,2779035018,3108830275  #4413 PvP. PvE. MW: range, stability, handling
+dimwishlist:item=1216130969&perks=4090651448,1561002382,2779035018,3108830275  #5113 PvP. PvE. MW: range, stability, handling
+dimwishlist:item=1216130969&perks=4090651448,1885400500,2779035018,3108830275  #5213 PvP. PvE. MW: range, stability, handling
+dimwishlist:item=1216130969&perks=4090651448,1968497646,2779035018,3108830275  #5313 PvP. PvE. MW: range, stability, handling
+dimwishlist:item=1216130969&perks=4090651448,679225683,2779035018,3108830275  #5413 PvP. PvE. MW: range, stability, handling
 // Pulse Monitor, Eye Of The Storm
-dimwishlist:item=1216130969&perks=202670084,1561002382,972757866,699525795  #1112 PvP. Playing around with being critically wounded. MW: range, stability, handling
-dimwishlist:item=1216130969&perks=202670084,1885400500,972757866,699525795  #1212 PvP. Playing around with being critically wounded. MW: range, stability, handling
-dimwishlist:item=1216130969&perks=202670084,1968497646,972757866,699525795  #1312 PvP. Playing around with being critically wounded. MW: range, stability, handling
-dimwishlist:item=1216130969&perks=202670084,679225683,972757866,699525795  #1412 PvP. Playing around with being critically wounded. MW: range, stability, handling
-dimwishlist:item=1216130969&perks=3250034553,1561002382,972757866,699525795  #2112 PvP. Playing around with being critically wounded. MW: range, stability, handling
-dimwishlist:item=1216130969&perks=3250034553,1885400500,972757866,699525795  #2212 PvP. Playing around with being critically wounded. MW: range, stability, handling
-dimwishlist:item=1216130969&perks=3250034553,1968497646,972757866,699525795  #2312 PvP. Playing around with being critically wounded. MW: range, stability, handling
-dimwishlist:item=1216130969&perks=3250034553,679225683,972757866,699525795  #2412 PvP. Playing around with being critically wounded. MW: range, stability, handling
-dimwishlist:item=1216130969&perks=1467527085,1561002382,972757866,699525795  #3112 PvP. Playing around with being critically wounded. MW: range, stability, handling
-dimwishlist:item=1216130969&perks=1467527085,1885400500,972757866,699525795  #3212 PvP. Playing around with being critically wounded. MW: range, stability, handling
-dimwishlist:item=1216130969&perks=1467527085,1968497646,972757866,699525795  #3312 PvP. Playing around with being critically wounded. MW: range, stability, handling
-dimwishlist:item=1216130969&perks=1467527085,679225683,972757866,699525795  #3412 PvP. Playing around with being critically wounded. MW: range, stability, handling
-dimwishlist:item=1216130969&perks=1482024992,1561002382,972757866,699525795  #4112 PvP. Playing around with being critically wounded. MW: range, stability, handling
-dimwishlist:item=1216130969&perks=1482024992,1885400500,972757866,699525795  #4212 PvP. Playing around with being critically wounded. MW: range, stability, handling
-dimwishlist:item=1216130969&perks=1482024992,1968497646,972757866,699525795  #4312 PvP. Playing around with being critically wounded. MW: range, stability, handling
-dimwishlist:item=1216130969&perks=1482024992,679225683,972757866,699525795  #4412 PvP. Playing around with being critically wounded. MW: range, stability, handling
-dimwishlist:item=1216130969&perks=4090651448,1561002382,972757866,699525795  #5112 PvP. Playing around with being critically wounded. MW: range, stability, handling
-dimwishlist:item=1216130969&perks=4090651448,1885400500,972757866,699525795  #5212 PvP. Playing around with being critically wounded. MW: range, stability, handling
-dimwishlist:item=1216130969&perks=4090651448,1968497646,972757866,699525795  #5312 PvP. Playing around with being critically wounded. MW: range, stability, handling
-dimwishlist:item=1216130969&perks=4090651448,679225683,972757866,699525795  #5412 PvP. Playing around with being critically wounded. MW: range, stability, handling
+dimwishlist:item=1216130969&perks=202670084,1561002382,972757866,699525795  #1111 PvP. Playing around with being critically wounded. MW: range, stability, handling
+dimwishlist:item=1216130969&perks=202670084,1885400500,972757866,699525795  #1211 PvP. Playing around with being critically wounded. MW: range, stability, handling
+dimwishlist:item=1216130969&perks=202670084,1968497646,972757866,699525795  #1311 PvP. Playing around with being critically wounded. MW: range, stability, handling
+dimwishlist:item=1216130969&perks=202670084,679225683,972757866,699525795  #1411 PvP. Playing around with being critically wounded. MW: range, stability, handling
+dimwishlist:item=1216130969&perks=3250034553,1561002382,972757866,699525795  #2111 PvP. Playing around with being critically wounded. MW: range, stability, handling
+dimwishlist:item=1216130969&perks=3250034553,1885400500,972757866,699525795  #2211 PvP. Playing around with being critically wounded. MW: range, stability, handling
+dimwishlist:item=1216130969&perks=3250034553,1968497646,972757866,699525795  #2311 PvP. Playing around with being critically wounded. MW: range, stability, handling
+dimwishlist:item=1216130969&perks=3250034553,679225683,972757866,699525795  #2411 PvP. Playing around with being critically wounded. MW: range, stability, handling
+dimwishlist:item=1216130969&perks=1467527085,1561002382,972757866,699525795  #3111 PvP. Playing around with being critically wounded. MW: range, stability, handling
+dimwishlist:item=1216130969&perks=1467527085,1885400500,972757866,699525795  #3211 PvP. Playing around with being critically wounded. MW: range, stability, handling
+dimwishlist:item=1216130969&perks=1467527085,1968497646,972757866,699525795  #3311 PvP. Playing around with being critically wounded. MW: range, stability, handling
+dimwishlist:item=1216130969&perks=1467527085,679225683,972757866,699525795  #3411 PvP. Playing around with being critically wounded. MW: range, stability, handling
+dimwishlist:item=1216130969&perks=1482024992,1561002382,972757866,699525795  #4111 PvP. Playing around with being critically wounded. MW: range, stability, handling
+dimwishlist:item=1216130969&perks=1482024992,1885400500,972757866,699525795  #4211 PvP. Playing around with being critically wounded. MW: range, stability, handling
+dimwishlist:item=1216130969&perks=1482024992,1968497646,972757866,699525795  #4311 PvP. Playing around with being critically wounded. MW: range, stability, handling
+dimwishlist:item=1216130969&perks=1482024992,679225683,972757866,699525795  #4411 PvP. Playing around with being critically wounded. MW: range, stability, handling
+dimwishlist:item=1216130969&perks=4090651448,1561002382,972757866,699525795  #5111 PvP. Playing around with being critically wounded. MW: range, stability, handling
+dimwishlist:item=1216130969&perks=4090651448,1885400500,972757866,699525795  #5211 PvP. Playing around with being critically wounded. MW: range, stability, handling
+dimwishlist:item=1216130969&perks=4090651448,1968497646,972757866,699525795  #5311 PvP. Playing around with being critically wounded. MW: range, stability, handling
+dimwishlist:item=1216130969&perks=4090651448,679225683,972757866,699525795  #5411 PvP. Playing around with being critically wounded. MW: range, stability, handling
+// Pulse Monitor, Unrelenting
+dimwishlist:item=1216130969&perks=202670084,1561002382,972757866,3108830275  #1112 PvP. Playing around with being critically wounded. MW: range, stability, handling
+dimwishlist:item=1216130969&perks=202670084,1885400500,972757866,3108830275  #1212 PvP. Playing around with being critically wounded. MW: range, stability, handling
+dimwishlist:item=1216130969&perks=202670084,1968497646,972757866,3108830275  #1312 PvP. Playing around with being critically wounded. MW: range, stability, handling
+dimwishlist:item=1216130969&perks=202670084,679225683,972757866,3108830275  #1412 PvP. Playing around with being critically wounded. MW: range, stability, handling
+dimwishlist:item=1216130969&perks=3250034553,1561002382,972757866,3108830275  #2112 PvP. Playing around with being critically wounded. MW: range, stability, handling
+dimwishlist:item=1216130969&perks=3250034553,1885400500,972757866,3108830275  #2212 PvP. Playing around with being critically wounded. MW: range, stability, handling
+dimwishlist:item=1216130969&perks=3250034553,1968497646,972757866,3108830275  #2312 PvP. Playing around with being critically wounded. MW: range, stability, handling
+dimwishlist:item=1216130969&perks=3250034553,679225683,972757866,3108830275  #2412 PvP. Playing around with being critically wounded. MW: range, stability, handling
+dimwishlist:item=1216130969&perks=1467527085,1561002382,972757866,3108830275  #3112 PvP. Playing around with being critically wounded. MW: range, stability, handling
+dimwishlist:item=1216130969&perks=1467527085,1885400500,972757866,3108830275  #3212 PvP. Playing around with being critically wounded. MW: range, stability, handling
+dimwishlist:item=1216130969&perks=1467527085,1968497646,972757866,3108830275  #3312 PvP. Playing around with being critically wounded. MW: range, stability, handling
+dimwishlist:item=1216130969&perks=1467527085,679225683,972757866,3108830275  #3412 PvP. Playing around with being critically wounded. MW: range, stability, handling
+dimwishlist:item=1216130969&perks=1482024992,1561002382,972757866,3108830275  #4112 PvP. Playing around with being critically wounded. MW: range, stability, handling
+dimwishlist:item=1216130969&perks=1482024992,1885400500,972757866,3108830275  #4212 PvP. Playing around with being critically wounded. MW: range, stability, handling
+dimwishlist:item=1216130969&perks=1482024992,1968497646,972757866,3108830275  #4312 PvP. Playing around with being critically wounded. MW: range, stability, handling
+dimwishlist:item=1216130969&perks=1482024992,679225683,972757866,3108830275  #4412 PvP. Playing around with being critically wounded. MW: range, stability, handling
+dimwishlist:item=1216130969&perks=4090651448,1561002382,972757866,3108830275  #5112 PvP. Playing around with being critically wounded. MW: range, stability, handling
+dimwishlist:item=1216130969&perks=4090651448,1885400500,972757866,3108830275  #5212 PvP. Playing around with being critically wounded. MW: range, stability, handling
+dimwishlist:item=1216130969&perks=4090651448,1968497646,972757866,3108830275  #5312 PvP. Playing around with being critically wounded. MW: range, stability, handling
+dimwishlist:item=1216130969&perks=4090651448,679225683,972757866,3108830275  #5412 PvP. Playing around with being critically wounded. MW: range, stability, handling
 // Grave Robber, Swashbuckler
-dimwishlist:item=1216130969&perks=202670084,1561002382,1631667848,4082225868  #1111 PvP. PvE. Melee. For strong melee builds. MW: range, stability, handling
-dimwishlist:item=1216130969&perks=202670084,1885400500,1631667848,4082225868  #1211 PvP. PvE. Melee. For strong melee builds. MW: range, stability, handling
-dimwishlist:item=1216130969&perks=202670084,1968497646,1631667848,4082225868  #1311 PvP. PvE. Melee. For strong melee builds. MW: range, stability, handling
-dimwishlist:item=1216130969&perks=202670084,679225683,1631667848,4082225868  #1411 PvP. PvE. Melee. For strong melee builds. MW: range, stability, handling
-dimwishlist:item=1216130969&perks=3250034553,1561002382,1631667848,4082225868  #2111 PvP. PvE. Melee. For strong melee builds. MW: range, stability, handling
-dimwishlist:item=1216130969&perks=3250034553,1885400500,1631667848,4082225868  #2211 PvP. PvE. Melee. For strong melee builds. MW: range, stability, handling
-dimwishlist:item=1216130969&perks=3250034553,1968497646,1631667848,4082225868  #2311 PvP. PvE. Melee. For strong melee builds. MW: range, stability, handling
-dimwishlist:item=1216130969&perks=3250034553,679225683,1631667848,4082225868  #2411 PvP. PvE. Melee. For strong melee builds. MW: range, stability, handling
-dimwishlist:item=1216130969&perks=1467527085,1561002382,1631667848,4082225868  #3111 PvP. PvE. Melee. For strong melee builds. MW: range, stability, handling
-dimwishlist:item=1216130969&perks=1467527085,1885400500,1631667848,4082225868  #3211 PvP. PvE. Melee. For strong melee builds. MW: range, stability, handling
-dimwishlist:item=1216130969&perks=1467527085,1968497646,1631667848,4082225868  #3311 PvP. PvE. Melee. For strong melee builds. MW: range, stability, handling
-dimwishlist:item=1216130969&perks=1467527085,679225683,1631667848,4082225868  #3411 PvP. PvE. Melee. For strong melee builds. MW: range, stability, handling
-dimwishlist:item=1216130969&perks=1482024992,1561002382,1631667848,4082225868  #4111 PvP. PvE. Melee. For strong melee builds. MW: range, stability, handling
-dimwishlist:item=1216130969&perks=1482024992,1885400500,1631667848,4082225868  #4211 PvP. PvE. Melee. For strong melee builds. MW: range, stability, handling
-dimwishlist:item=1216130969&perks=1482024992,1968497646,1631667848,4082225868  #4311 PvP. PvE. Melee. For strong melee builds. MW: range, stability, handling
-dimwishlist:item=1216130969&perks=1482024992,679225683,1631667848,4082225868  #4411 PvP. PvE. Melee. For strong melee builds. MW: range, stability, handling
-dimwishlist:item=1216130969&perks=4090651448,1561002382,1631667848,4082225868  #5111 PvP. PvE. Melee. For strong melee builds. MW: range, stability, handling
-dimwishlist:item=1216130969&perks=4090651448,1885400500,1631667848,4082225868  #5211 PvP. PvE. Melee. For strong melee builds. MW: range, stability, handling
-dimwishlist:item=1216130969&perks=4090651448,1968497646,1631667848,4082225868  #5311 PvP. PvE. Melee. For strong melee builds. MW: range, stability, handling
-dimwishlist:item=1216130969&perks=4090651448,679225683,1631667848,4082225868  #5411 PvP. PvE. Melee. For strong melee builds. MW: range, stability, handling
+dimwishlist:item=1216130969&perks=202670084,1561002382,1631667848,4082225868  #1111 PvE. Melee. MW: range, stability, handling
+dimwishlist:item=1216130969&perks=202670084,1885400500,1631667848,4082225868  #1211 PvE. Melee. MW: range, stability, handling
+dimwishlist:item=1216130969&perks=202670084,1968497646,1631667848,4082225868  #1311 PvE. Melee. MW: range, stability, handling
+dimwishlist:item=1216130969&perks=202670084,679225683,1631667848,4082225868  #1411 PvE. Melee. MW: range, stability, handling
+dimwishlist:item=1216130969&perks=3250034553,1561002382,1631667848,4082225868  #2111 PvE. Melee. MW: range, stability, handling
+dimwishlist:item=1216130969&perks=3250034553,1885400500,1631667848,4082225868  #2211 PvE. Melee. MW: range, stability, handling
+dimwishlist:item=1216130969&perks=3250034553,1968497646,1631667848,4082225868  #2311 PvE. Melee. MW: range, stability, handling
+dimwishlist:item=1216130969&perks=3250034553,679225683,1631667848,4082225868  #2411 PvE. Melee. MW: range, stability, handling
+dimwishlist:item=1216130969&perks=1467527085,1561002382,1631667848,4082225868  #3111 PvE. Melee. MW: range, stability, handling
+dimwishlist:item=1216130969&perks=1467527085,1885400500,1631667848,4082225868  #3211 PvE. Melee. MW: range, stability, handling
+dimwishlist:item=1216130969&perks=1467527085,1968497646,1631667848,4082225868  #3311 PvE. Melee. MW: range, stability, handling
+dimwishlist:item=1216130969&perks=1467527085,679225683,1631667848,4082225868  #3411 PvE. Melee. MW: range, stability, handling
+dimwishlist:item=1216130969&perks=1482024992,1561002382,1631667848,4082225868  #4111 PvE. Melee. MW: range, stability, handling
+dimwishlist:item=1216130969&perks=1482024992,1885400500,1631667848,4082225868  #4211 PvE. Melee. MW: range, stability, handling
+dimwishlist:item=1216130969&perks=1482024992,1968497646,1631667848,4082225868  #4311 PvE. Melee. MW: range, stability, handling
+dimwishlist:item=1216130969&perks=1482024992,679225683,1631667848,4082225868  #4411 PvE. Melee. MW: range, stability, handling
+dimwishlist:item=1216130969&perks=4090651448,1561002382,1631667848,4082225868  #5111 PvE. Melee. MW: range, stability, handling
+dimwishlist:item=1216130969&perks=4090651448,1885400500,1631667848,4082225868  #5211 PvE. Melee. MW: range, stability, handling
+dimwishlist:item=1216130969&perks=4090651448,1968497646,1631667848,4082225868  #5311 PvE. Melee. MW: range, stability, handling
+dimwishlist:item=1216130969&perks=4090651448,679225683,1631667848,4082225868  #5411 PvE. Melee. MW: range, stability, handling
+// Feeding Frenzy, Sympathetic Arsenal
+dimwishlist:item=1216130969&perks=202670084,1561002382,2779035018,3350417888  #1111 PvE. MW: range, stability, handling
+dimwishlist:item=1216130969&perks=202670084,1885400500,2779035018,3350417888  #1211 PvE. MW: range, stability, handling
+dimwishlist:item=1216130969&perks=202670084,1968497646,2779035018,3350417888  #1311 PvE. MW: range, stability, handling
+dimwishlist:item=1216130969&perks=202670084,679225683,2779035018,3350417888  #1411 PvE. MW: range, stability, handling
+dimwishlist:item=1216130969&perks=3250034553,1561002382,2779035018,3350417888  #2111 PvE. MW: range, stability, handling
+dimwishlist:item=1216130969&perks=3250034553,1885400500,2779035018,3350417888  #2211 PvE. MW: range, stability, handling
+dimwishlist:item=1216130969&perks=3250034553,1968497646,2779035018,3350417888  #2311 PvE. MW: range, stability, handling
+dimwishlist:item=1216130969&perks=3250034553,679225683,2779035018,3350417888  #2411 PvE. MW: range, stability, handling
+dimwishlist:item=1216130969&perks=1467527085,1561002382,2779035018,3350417888  #3111 PvE. MW: range, stability, handling
+dimwishlist:item=1216130969&perks=1467527085,1885400500,2779035018,3350417888  #3211 PvE. MW: range, stability, handling
+dimwishlist:item=1216130969&perks=1467527085,1968497646,2779035018,3350417888  #3311 PvE. MW: range, stability, handling
+dimwishlist:item=1216130969&perks=1467527085,679225683,2779035018,3350417888  #3411 PvE. MW: range, stability, handling
+dimwishlist:item=1216130969&perks=1482024992,1561002382,2779035018,3350417888  #4111 PvE. MW: range, stability, handling
+dimwishlist:item=1216130969&perks=1482024992,1885400500,2779035018,3350417888  #4211 PvE. MW: range, stability, handling
+dimwishlist:item=1216130969&perks=1482024992,1968497646,2779035018,3350417888  #4311 PvE. MW: range, stability, handling
+dimwishlist:item=1216130969&perks=1482024992,679225683,2779035018,3350417888  #4411 PvE. MW: range, stability, handling
+dimwishlist:item=1216130969&perks=4090651448,1561002382,2779035018,3350417888  #5111 PvE. MW: range, stability, handling
+dimwishlist:item=1216130969&perks=4090651448,1885400500,2779035018,3350417888  #5211 PvE. MW: range, stability, handling
+dimwishlist:item=1216130969&perks=4090651448,1968497646,2779035018,3350417888  #5311 PvE. MW: range, stability, handling
+dimwishlist:item=1216130969&perks=4090651448,679225683,2779035018,3350417888  #5411 PvE. MW: range, stability, handling
+// Killing Wind, Sympathetic Arsenal
+dimwishlist:item=1216130969&perks=202670084,1561002382,2450788523,3350417888  #1121 PvE. MW: range, stability, handling
+dimwishlist:item=1216130969&perks=202670084,1885400500,2450788523,3350417888  #1221 PvE. MW: range, stability, handling
+dimwishlist:item=1216130969&perks=202670084,1968497646,2450788523,3350417888  #1321 PvE. MW: range, stability, handling
+dimwishlist:item=1216130969&perks=202670084,679225683,2450788523,3350417888  #1421 PvE. MW: range, stability, handling
+dimwishlist:item=1216130969&perks=3250034553,1561002382,2450788523,3350417888  #2121 PvE. MW: range, stability, handling
+dimwishlist:item=1216130969&perks=3250034553,1885400500,2450788523,3350417888  #2221 PvE. MW: range, stability, handling
+dimwishlist:item=1216130969&perks=3250034553,1968497646,2450788523,3350417888  #2321 PvE. MW: range, stability, handling
+dimwishlist:item=1216130969&perks=3250034553,679225683,2450788523,3350417888  #2421 PvE. MW: range, stability, handling
+dimwishlist:item=1216130969&perks=1467527085,1561002382,2450788523,3350417888  #3121 PvE. MW: range, stability, handling
+dimwishlist:item=1216130969&perks=1467527085,1885400500,2450788523,3350417888  #3221 PvE. MW: range, stability, handling
+dimwishlist:item=1216130969&perks=1467527085,1968497646,2450788523,3350417888  #3321 PvE. MW: range, stability, handling
+dimwishlist:item=1216130969&perks=1467527085,679225683,2450788523,3350417888  #3421 PvE. MW: range, stability, handling
+dimwishlist:item=1216130969&perks=1482024992,1561002382,2450788523,3350417888  #4121 PvE. MW: range, stability, handling
+dimwishlist:item=1216130969&perks=1482024992,1885400500,2450788523,3350417888  #4221 PvE. MW: range, stability, handling
+dimwishlist:item=1216130969&perks=1482024992,1968497646,2450788523,3350417888  #4321 PvE. MW: range, stability, handling
+dimwishlist:item=1216130969&perks=1482024992,679225683,2450788523,3350417888  #4421 PvE. MW: range, stability, handling
+dimwishlist:item=1216130969&perks=4090651448,1561002382,2450788523,3350417888  #5121 PvE. MW: range, stability, handling
+dimwishlist:item=1216130969&perks=4090651448,1885400500,2450788523,3350417888  #5221 PvE. MW: range, stability, handling
+dimwishlist:item=1216130969&perks=4090651448,1968497646,2450788523,3350417888  #5321 PvE. MW: range, stability, handling
+dimwishlist:item=1216130969&perks=4090651448,679225683,2450788523,3350417888  #5421 PvE. MW: range, stability, handling
 // Cold Denial
 // Zen Moment, Headseeker
-dimwishlist:item=1216130969&perks=1482024992,3230963543,2387244414,460017080  #1111 PvP. Curated roll from the Season rewards. MW: range, stability, handling
+dimwishlist:item=1216130969&perks=1482024992,3230963543,2387244414,460017080  #1111 PvP. Curated roll from the Season 11 rewards. MW: range, stability, handling
 
 
 // Jian 7 Rifle
