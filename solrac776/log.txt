@@ -1,0 +1,14 @@
+c9f3137 (HEAD -> v2-rewrites) Added Blast Battue
+2b41c88 Reworked Seventh Seraph CQC-12
+c5a59cf Reworked Night Watch
+c930ed1 Was accidentally adding :steady_rounds to everything
+7d9ffea Renaming. Refactoring
+04d2f84 Removed seraph_rounds from common sniper configurations
+5cf8f3f Rewrote Bad Omens.  Impact on some other Rocket Launchers
+cb90676 More clean-up
+0c1724f Code clean-up
+f6d2dc0 Re-wrote Holow Words to use V2
+fa3e8be Re-wrote Ikelos_SR_v1.0.2 to use V2
+d6282a4 V2 expects an 'all' magazine_group which is used as a default
+ccf40b4 Re-wrote Crowd Pleaser to use V2
+1074df2 Re-wrote Berenger's Memory to use V2
